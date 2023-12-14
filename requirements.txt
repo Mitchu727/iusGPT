@@ -1,0 +1,6 @@
+pypdf
+llama-index
+sentence-transformers
+chromadb
+bitsandbytes
+accelerate

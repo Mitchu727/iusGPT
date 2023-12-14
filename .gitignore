@@ -1,0 +1,5 @@
+/src/secrets.py
+/src/storage
+/src/chroma_db
+.idea
+/src/__pycache__/
