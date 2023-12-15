@@ -17,6 +17,16 @@ All code from these attempts is saved in [different_approaches directory](differ
 
 In this week I've set up repo, cleaned code a little bit and started investigating how to load civil code from pdf and cleans it so llm can correctly answer questions on the base of it.
 
+At first, I've run the model on automatically extracted tex from pdf. Text was extracted using `PyPDF2` library. The system answered all the questions wrong.
+
+Then I've automatically extracted only four relevant pages from PDF to check if yhe problem is in to large context or text formatting. It got a little better but still the responses are from ideal.
+
+Another step was cleaning the articles from "Kancelaria Sejmu" footnote which could worsen embeddings quality. The system also answered wrong.
+
+The logs show that the document is embedded line by line, so maybe it would be beneficial to fit one article into one line. It also did not work well. However, after manually reducing number of articles in a file the responses became correct. This indicates that the problem may be in numbers.
+
+I've run into issues with limited rpm for chat gpt.
+
 # Goal
 
 The goal of the project is to create a cognitive assistant which is able to solve different law problems on the base of Polish law and to measure the capabilities of LLMs usage in this field. 

@@ -44,19 +44,21 @@ if __name__ == "__main__":
 
     query_engine = new_index.as_query_engine()
 
-    response = query_engine.query("Jaka jest definicja nieruchomości? Podaj odpowiedni przepis")
-    print(f"Odpowiedź systemu: {response}")
-    print("Wzorcowa odpowiedź: Art. 46. § 1. Nieruchomościami są części powierzchni ziemskiej stanowiące odrębny przedmiot własności (grunty), jak również budynki trwale z gruntem związane lub części takich budynków, jeżeli na mocy przepisów szczególnych stanowią odrębny od gruntu przedmiot własności.")
+
 
     # COMMENTED TO REDUCE THE NUMBER OF REQUESTS
-    response = query_engine.query("Jaka jest definicja gospodarstwa rolnego?")
-    print(f"Odpowiedź systemu: {response}")
-    print("Wzorcowa odpowiedź: Art. 55 3. Za gospodarstwo rolne uważa się grunty rolne wraz z gruntami leśnymi, budynkami lub ich częściami, urządzeniami i inwentarzem, jeżeli stanowią lub mogą stanowić zorganizowaną całość gospodarczą, oraz prawami związanymi z prowadzeniem gospodarstwa rolnego.")
+    # response = query_engine.query("Jaka jest definicja nieruchomości? Podaj odpowiedni przepis i jego brzmienie. Odpowiedz po polsku")
+    # print(f"Odpowiedź systemu: {response}")
+    # print("Wzorcowa odpowiedź: Art. 46. § 1. Nieruchomościami są części powierzchni ziemskiej stanowiące odrębny przedmiot własności (grunty), jak również budynki trwale z gruntem związane lub części takich budynków, jeżeli na mocy przepisów szczególnych stanowią odrębny od gruntu przedmiot własności.")
+    #
+    # response = query_engine.query("Jaka jest definicja gospodarstwa rolnego?")
+    # print(f"Odpowiedź systemu: {response}")
+    # print("Wzorcowa odpowiedź: Art. 55 3. Za gospodarstwo rolne uważa się grunty rolne wraz z gruntami leśnymi, budynkami lub ich częściami, urządzeniami i inwentarzem, jeżeli stanowią lub mogą stanowić zorganizowaną całość gospodarczą, oraz prawami związanymi z prowadzeniem gospodarstwa rolnego.")
+    #
+    # response = query_engine.query("Komu przysługuje własność stanowiąca mienie państwowe?")
+    # print(f"Odpowiedź systemu: {response}")
+    # print("Wzorcowa odpowiedź: Art. 44 z indeksem 1. § 1. Własność i inne prawa majątkowe, stanowiące mienie państwowe, przysługują Skarbowi Państwa albo innym państwowym osobom prawnym.")
 
-    response = query_engine.query("Komu przysługuje własność stanowiąca mienie państwowe?")
-    print(f"Odpowiedź systemu: {response}")
-    print("Wzorcowa odpowiedź: Art. 44 z indeksem 1. § 1. Własność i inne prawa majątkowe, stanowiące mienie państwowe, przysługują Skarbowi Państwa albo innym państwowym osobom prawnym.")
-
-    response = query_engine.query("Czy gospodarstwo rolne może składać się z samych budynków? Odpowiedz dlaczego i przytocz właściwy przepis")
-    print(f"Odpowiedź systemu: {response}")
-    print("Wzorcowa odpowiedź: Nie, przytoczenie artykułu art. 55. § 3")
+    # response = query_engine.query("Czy gospodarstwo rolne może składać się z samych budynków? Odpowiedz dlaczego i przytocz właściwy przepis")
+    # print(f"Odpowiedź systemu: {response}")
+    # print("Wzorcowa odpowiedź: Nie, przytoczenie artykułu art. 55. § 3")
