@@ -10,7 +10,7 @@ from src.secrets import OPEN_API_KEY
 # logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 # logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
 
-CREATE_NEW_STORAGE = True
+CREATE_NEW_STORAGE = False
 
 if __name__ == "__main__":
     os.environ["OPENAI_API_KEY"] = OPEN_API_KEY
@@ -47,10 +47,10 @@ if __name__ == "__main__":
 
 
     # COMMENTED TO REDUCE THE NUMBER OF REQUESTS
-    # response = query_engine.query("Jaka jest definicja nieruchomości? Podaj odpowiedni przepis i jego brzmienie. Odpowiedz po polsku")
-    # print(f"Odpowiedź systemu: {response}")
-    # print("Wzorcowa odpowiedź: Art. 46. § 1. Nieruchomościami są części powierzchni ziemskiej stanowiące odrębny przedmiot własności (grunty), jak również budynki trwale z gruntem związane lub części takich budynków, jeżeli na mocy przepisów szczególnych stanowią odrębny od gruntu przedmiot własności.")
-    #
+    response = query_engine.query("Jaka jest definicja nieruchomości? Podaj odpowiedni przepis i jego brzmienie. Odpowiedz po polsku")
+    print(f"Odpowiedź systemu: {response}")
+    print("Wzorcowa odpowiedź: Art. 46. § 1. Nieruchomościami są części powierzchni ziemskiej stanowiące odrębny przedmiot własności (grunty), jak również budynki trwale z gruntem związane lub części takich budynków, jeżeli na mocy przepisów szczególnych stanowią odrębny od gruntu przedmiot własności.")
+
     # response = query_engine.query("Jaka jest definicja gospodarstwa rolnego?")
     # print(f"Odpowiedź systemu: {response}")
     # print("Wzorcowa odpowiedź: Art. 55 3. Za gospodarstwo rolne uważa się grunty rolne wraz z gruntami leśnymi, budynkami lub ich częściami, urządzeniami i inwentarzem, jeżeli stanowią lub mogą stanowić zorganizowaną całość gospodarczą, oraz prawami związanymi z prowadzeniem gospodarstwa rolnego.")

@@ -27,6 +27,11 @@ The logs show that the document is embedded line by line, so maybe it would be b
 
 I've run into issues with limited rpm for chat gpt.
 
+## 18th January
+
+I've decided to start experimenting with multi-agent architecture using [autogen](https://github.com/microsoft/autogen/blob/main/notebook/agentchat_groupchat_RAG.ipynb).
+I've added two cases from _Prawo cywilne - zobowiązania. Kazusy, orzecznictwo, materiały_ (ISBN 978-83-8206-342-4) and a loader that loads the case, questions for the case and the regulations the answer should be based on.
+
 # Goal
 
 The goal of the project is to create a cognitive assistant which is able to solve different law problems on the base of Polish law and to measure the capabilities of LLMs usage in this field. 

@@ -5,3 +5,6 @@ chromadb
 bitsandbytes
 accelerate
 PyPDF2
+autogen
+pyautogen
+yfinance
