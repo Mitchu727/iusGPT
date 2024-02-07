@@ -1,7 +1,6 @@
 from autogen import AssistantAgent, UserProxyAgent, GroupChat, GroupChatManager
 from src.secrets import OPEN_API_KEY
 import os
-from cases_loader import CasesLoader
 
 config_list = [
     {
@@ -12,32 +11,32 @@ config_list = [
 ]
 
 
-def format_case_and_question(case, question):
-    return f"{case}\n\n{question}"
-
-
 if __name__ == "__main__":
     os.environ["OPENAI_API_KEY"] = OPEN_API_KEY
     user_proxy = UserProxyAgent(name="client", llm_config={"config_list": config_list})
     pro_agent = AssistantAgent(
-        name="pro_agent",
-        system_message="Zostanie Ci przedstawiona sprawa prawna i pytanie do niej. Odpowiedz na to pytanie.",
+        name="Analyzer",
+        system_message="You have to analyze and answer given question in simple language and try to convince critic that you have right",
         llm_config={"config_list": config_list})
     contra_agent = AssistantAgent(
-        name="contra_agent",
-        system_message="Przedstaw przeciwne zdanie",
+        name="Critic",
+        system_message="Critic. You have to be critic to others ideas and find mistakes in their answers. You should especially check if other messages refer to law regulations",
         llm_config={"config_list": config_list})
+    summarizer = AssistantAgent(
+        name="Summarizer",
+        system_message= "Try to summarize what others say"
+    )
 
-    cases_loader = CasesLoader()
-    # assistant = AssistantAgent(name="opponent", llm_config={"config_list": config_list})
+    prompt = """
+        Dana jest następująca sprawa:
+        Błażej ma 30 lat i nie jest ubezwłasnowolniony
+        Odpowiedz czy posiada pełną zdolność do czynności prawnych.
+    """
 
-    case = cases_loader.load_case(1)
-    question = cases_loader.load_questions(1)[0]
-    message = format_case_and_question(case, question)
 
     groupchat = GroupChat(agents=[user_proxy, pro_agent, contra_agent], messages=[], max_round=20)
     manager = GroupChatManager(groupchat=groupchat, llm_config=config_list[0])
     user_proxy.initiate_chat(
         manager,
-        message=message
+        message=prompt
     )
