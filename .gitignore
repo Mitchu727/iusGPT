@@ -3,3 +3,5 @@
 /src/chroma_db
 .idea
 /src/__pycache__/
+/arch
+*/.cache
