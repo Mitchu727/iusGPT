@@ -29,7 +29,7 @@ ragproxyagent = RetrieveUserProxyAgent(
     name="ragproxyagent",
     retrieve_config={
         "task": "qa",
-        "docs_path": "C:\Praca magisterska\iusGPT\documents\dummy",
+        "docs_path": "C:\Praca magisterska\iusGPT\documents\simple",
         "embedding_function": huggingface_ef,
     },
 )
@@ -37,10 +37,10 @@ ragproxyagent = RetrieveUserProxyAgent(
 if __name__ == "__main__":
     assistant.reset()
 
-    cases_loader = CasesLoader()
-    case = cases_loader.load_case(3)
-
-    question = cases_loader.load_questions(3)[0]
+    # cases_loader = CasesLoader()
+    # case = cases_loader.load_case(3)
+    #
+    # question = cases_loader.load_questions(3)[0]
 
     prompt = f"""
     Dana jest następująca sprawa:
