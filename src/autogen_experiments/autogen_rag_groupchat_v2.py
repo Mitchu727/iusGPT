@@ -1,7 +1,7 @@
 # BASED ON https://github.com/microsoft/autogen/blob/main/notebook/agentchat_groupchat_RAG.ipynb
 
 import autogen
-from config import config_list
+from utils import config_list
 from autogen.agentchat.contrib.retrieve_assistant_agent import RetrieveAssistantAgent
 from autogen.agentchat.contrib.retrieve_user_proxy_agent import RetrieveUserProxyAgent
 import chromadb
@@ -39,11 +39,11 @@ boss_aid = RetrieveUserProxyAgent(
     max_consecutive_auto_reply=3,
     retrieve_config={
         "task": "code",
-        "docs_path": "https://raw.githubusercontent.com/microsoft/FLAML/main/website/docs/Examples/Integrate%20-%20Spark.md",
+        "docs_path": "C:\Praca magisterska\iusGPT\documents\simple",
         "chunk_token_size": 1000,
         "model": config_list[0]["model"],
         "client": chromadb.PersistentClient(path="/tmp/chromadb"),
-        "collection_name": "groupchat",
+        "collection_name": "law",
         "get_or_create": True,
     },
     code_execution_config=False,  # we don't want to execute code in this case.
@@ -187,5 +187,5 @@ def call_rag_chat():
     )
 
 if __name__ == "__main__":
-    rag_chat()
+    # rag_chat()
     call_rag_chat()

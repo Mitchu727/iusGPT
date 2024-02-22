@@ -4,7 +4,7 @@ import os
 import autogen
 from autogen.agentchat.contrib.retrieve_assistant_agent import RetrieveAssistantAgent
 from autogen.agentchat.contrib.retrieve_user_proxy_agent import RetrieveUserProxyAgent
-from config import config_list
+from utils import config_list, termination_msg
 docs_path = "C:\Praca magisterska\iusGPT\documents\simple"
 
 law_assistant_prompt = """
@@ -13,11 +13,11 @@ law_assistant_prompt = """
     """
 
 law_assistant = RetrieveUserProxyAgent(
-    name="Law Assistant",
+    name="Law_Assistant",
     system_message=law_assistant_prompt,
     human_input_mode="NEVER",
     retrieve_config={
-        "task": "code",
+        "task": "qa",
         "docs_path": docs_path,
         "collection_name": "law_simple",
         "get_or_create": True,
@@ -58,6 +58,16 @@ llm_config = {
 if __name__ == "__main__":
     os.environ["OPENAI_API_KEY"] = OPEN_API_KEY
     user_proxy = UserProxyAgent(name="client", llm_config={"config_list": config_list})
+
+    client = autogen.UserProxyAgent(
+        name="Client",
+        is_termination_msg=termination_msg,
+        human_input_mode="NEVER",
+        system_message="The client who ask questions and needs answers.",
+        code_execution_config=False,  # we don't want to execute code in this case.
+        default_auto_reply="Reply `TERMINATE` if the task is done.",
+    )
+
     lawyer_agent = AssistantAgent(
         name="Lawyer",
         system_message="You are a lawyer. You have to analyze and answer given question in simple language. You can ask for regulations",
@@ -71,6 +81,10 @@ if __name__ == "__main__":
     )
 
     for agent in [lawyer_agent, simple_agent]:
+        # update llm_config for assistant agents.
+        agent.llm_config.update(llm_config)
+
+    for agent in [lawyer_agent, simple_agent, client]:
         agent.register_function(
             function_map={
                 "retrieve_content": retrieve_content,
@@ -85,7 +99,7 @@ if __name__ == "__main__":
     """
 
     groupchat = autogen.GroupChat(
-        agents=[lawyer_agent, simple_agent],
+        agents=[client, lawyer_agent, simple_agent],
         messages=[],
         max_round=12,
         allow_repeat_speaker=False,
@@ -96,7 +110,7 @@ if __name__ == "__main__":
     manager = autogen.GroupChatManager(groupchat=groupchat, llm_config=manager_llm_config)
 
     # Start chatting with the boss as this is the user proxy agent.
-    lawyer_agent.initiate_chat(
+    client.initiate_chat(
         manager,
         message=PROBLEM,
     )

@@ -26,7 +26,8 @@ if __name__ == "__main__":
         #     text = page.extract_text()
         #     cleanedText = removeKancelariaSejmuFootNote(text)
         #     f.write(cleanedText)
-        text = ''.join([page.extract_text() for page in pdfReader.pages[9:13]])
+        # text = ''.join([page.extract_text() for page in pdfReader.pages[0:40]])
+        text = ''.join([page.extract_text() for page in pdfReader.pages])
         cleanedText = fitArticlesIntoLines(removeKancelariaSejmuFootNote(text))
         f.write(cleanedText)
 

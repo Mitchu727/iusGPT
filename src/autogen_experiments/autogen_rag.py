@@ -1,6 +1,7 @@
 import autogen
 
 from src.cases_loader import CasesLoader
+from utils import config_list, PROBLEM
 from src.secrets import OPEN_API_KEY, HUGGING_FACE_API_KEY
 from autogen.agentchat.contrib.retrieve_assistant_agent import RetrieveAssistantAgent
 from autogen.agentchat.contrib.retrieve_user_proxy_agent import RetrieveUserProxyAgent
@@ -11,17 +12,12 @@ huggingface_ef = embedding_functions.HuggingFaceEmbeddingFunction(
     model_name="sentence-transformers/all-MiniLM-L6-v2"
 )
 
-config_list = [
-    {
-        "model": "gpt-3.5-turbo-16k",
-        "api_key": OPEN_API_KEY,
-        "base_url": "https://api.openai.com/v1",
-    }
-]
-
 assistant = RetrieveAssistantAgent(
     name="assistant",
-    system_message="You are a helpful assistant.",
+    system_message="""
+    Assistant who has extra content retrieval power for regulations. 
+    You should respond only with the full text of the regulation that is helpful to answer the question.
+    """,
     llm_config=config_list[0],
 )
 
@@ -42,14 +38,6 @@ if __name__ == "__main__":
     #
     # question = cases_loader.load_questions(3)[0]
 
-    prompt = f"""
-    Dana jest następująca sprawa:
-    Błażej ma 30 lat i nie jest ubezwłasnowolniony
-
-    Podaj artykuł, który może dotyczyć tej sprawy:
-    """
-    # prompt = "Jaka jest definicja nieruchomości rolnej? Podaj odpowiedni przepis"
 
 
-
-    ragproxyagent.initiate_chat(assistant, problem=prompt)
+    ragproxyagent.initiate_chat(assistant, problem=PROBLEM)
