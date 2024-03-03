@@ -1,8 +1,10 @@
 import json
 from openpyxl import Workbook
 
-if __name__ == "__main__":
-    with open("experiments.json") as f:
+
+def from_json_to_xlsx(json_file, xlsx_file):
+
+    with open(json_file) as f:
         experiments = json.load(f)
 
     workbook = Workbook()
@@ -16,8 +18,7 @@ if __name__ == "__main__":
         sheet["B"+str(index)] = experiment['answer']
         index += 1
 
-
-    workbook.save("experiments.xlsx")
+    workbook.save(xlsx_file)
 
     #     markdown_string += f"|{experiment['query']}|{experiment['answer']}|\n"
     # print(markdown_string)

@@ -1,64 +1,113 @@
+from langchain_community.document_loaders import TextLoader
+from langchain_community.embeddings.sentence_transformer import (
+    SentenceTransformerEmbeddings,
+)
+from langchain_community.vectorstores import Chroma
+from langchain_text_splitters import CharacterTextSplitter
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_openai import ChatOpenAI
+from langchain_core.runnables import RunnablePassthrough
 import os
-from langchain.embeddings.huggingface import HuggingFaceEmbeddings
-import logging
-import sys
-from llama_index import SimpleDirectoryReader, VectorStoreIndex, ServiceContext, StorageContext, load_index_from_storage
-from llama_index.embeddings import LangchainEmbedding
-
 from src.secrets import OPEN_API_KEY
+import json
+from utils.formatter import from_json_to_xlsx
 
-# logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
-# logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
+os.environ["OPENAI_API_KEY"] = OPEN_API_KEY
 
-CREATE_NEW_STORAGE = False
+model_name = "sdadas/mmlw-roberta-base"
+embedding_function = SentenceTransformerEmbeddings(model_name=model_name)
+# model_name = "all-MiniLM-L6-v2"
+persist_directory = "../build"
+create_new_collection = True
 
-if __name__ == "__main__":
-    os.environ["OPENAI_API_KEY"] = OPEN_API_KEY
+if create_new_collection:
+    civil_code_path = "../documents/civilCodeTxtGenerated/kodeks.txt"
+    loader = TextLoader(civil_code_path)
+    documents = loader.load()
+    # FIXME ROOM FOR IMPROVEMENT - custom splitter
+    text_splitter = CharacterTextSplitter(
+        separator="\n",
+        chunk_size=1000,
+        chunk_overlap=200,
+        length_function=len,
+        is_separator_regex=False,
+    )
 
-    # Load in a specific embedding model
-    embed_model = LangchainEmbedding(HuggingFaceEmbeddings(model_name='sentence-transformers/all-MiniLM-L6-v2'))
+    docs = text_splitter.split_documents(documents)
+    db = Chroma.from_documents(docs, embedding_function, persist_directory=persist_directory)
 
-    # Create a service context with the custom embedding model
-    service_context = ServiceContext.from_defaults(embed_model=embed_model)
+else:
+    db = Chroma(persist_directory=persist_directory, embedding_function=embedding_function)
 
-    if not os.path.exists("./storage") or CREATE_NEW_STORAGE:
-        print("Tworzenie nowej bazy kontekstu")
-        documents = SimpleDirectoryReader("../documents/civilCodeTxtGenerated").load_data()
-        # Load in a specific embedding model
-        embed_model = LangchainEmbedding(HuggingFaceEmbeddings(model_name='sentence-transformers/all-MiniLM-L6-v2'))
+print("There are", db._collection.count(), "documents in the collection")
 
-        # Create a service context with the custom embedding model
-        service_context = ServiceContext.from_defaults(embed_model=embed_model)
+query = "Czym jest gospodarstwo rolne?"
+docs = db.similarity_search(query, k=10)
+for doc in docs:
+    print(doc.page_content)
 
-        # Create an index using the service context
-        new_index = VectorStoreIndex.from_documents(
-            documents,
-            service_context=service_context,
-        )
+# retriever
+retriever = db.as_retriever()
 
-        new_index.storage_context.persist()
-    else:
-        print("Używanie istniejącej bazy kontekstu")
-        storage_context = StorageContext.from_defaults(persist_dir="./storage")
-        new_index = load_index_from_storage(storage_context, service_context=service_context)
+# template = """Answer the question based only on the following context:
+# {context}
+#
+#
+# Decide which articles from context are relevant to the following question:
+# {context}
+#
+# Question: {question}
+#
+# In the answer you should only type the given question and articles related to it.
+#
+# """
 
-    query_engine = new_index.as_query_engine()
+template = """Use the following pieces of context to answer the question at the end. In an answer you should mention 
+article from context. 
+If you don't know the answer, just say that you don't know, don't try to make up an answer.
+Use three sentences maximum and keep the answer as concise as possible.
 
+{context}
 
+Question: {question}
+"""
 
-    # COMMENTED TO REDUCE THE NUMBER OF REQUESTS
-    response = query_engine.query("Jaka jest definicja nieruchomości? Podaj odpowiedni przepis i jego brzmienie. Odpowiedz po polsku")
-    print(f"Odpowiedź systemu: {response}")
-    print("Wzorcowa odpowiedź: Art. 46. § 1. Nieruchomościami są części powierzchni ziemskiej stanowiące odrębny przedmiot własności (grunty), jak również budynki trwale z gruntem związane lub części takich budynków, jeżeli na mocy przepisów szczególnych stanowią odrębny od gruntu przedmiot własności.")
+queries = [
+    "Czym jest gospodarstwo rolne?",
+    "Jaka jest definicja nieruchomości?",
+    "Komu przysługuje własność stanowiąca mienie państwowe?",
+    "Kim jest osoba ubezwłasnowolniona?",
+    "Co wchodzi w skład przedsiębiorstwa?",
+    "Jakie skutki wywołuje czynność prawna",
+    "Jak może być wyrażone oświadczenie woli?",
+    "Kiedy czynność prawna jest nieważna",
+    "Czym jest prokura?",
+    "Kiedy kończy się termin oznaczony w dniach?"
+]
 
-    # response = query_engine.query("Jaka jest definicja gospodarstwa rolnego?")
-    # print(f"Odpowiedź systemu: {response}")
-    # print("Wzorcowa odpowiedź: Art. 55 3. Za gospodarstwo rolne uważa się grunty rolne wraz z gruntami leśnymi, budynkami lub ich częściami, urządzeniami i inwentarzem, jeżeli stanowią lub mogą stanowić zorganizowaną całość gospodarczą, oraz prawami związanymi z prowadzeniem gospodarstwa rolnego.")
-    #
-    # response = query_engine.query("Komu przysługuje własność stanowiąca mienie państwowe?")
-    # print(f"Odpowiedź systemu: {response}")
-    # print("Wzorcowa odpowiedź: Art. 44 z indeksem 1. § 1. Własność i inne prawa majątkowe, stanowiące mienie państwowe, przysługują Skarbowi Państwa albo innym państwowym osobom prawnym.")
+prompt = ChatPromptTemplate.from_template(template)
+model = ChatOpenAI()
 
-    # response = query_engine.query("Czy gospodarstwo rolne może składać się z samych budynków? Odpowiedz dlaczego i przytocz właściwy przepis")
-    # print(f"Odpowiedź systemu: {response}")
-    # print("Wzorcowa odpowiedź: Nie, przytoczenie artykułu art. 55. § 3")
+chain = (
+    {"context": retriever, "question": RunnablePassthrough()}
+    | prompt
+    | model
+    | StrOutputParser()
+)
+experiments = []
+for query in queries:
+    response = chain.invoke(query)
+    case = {}
+    case["query"] = query
+    case["answer"] = response
+    print("<-PYTANIE->")
+    print(query)
+    print("<-ODPOWIEDŹ->")
+    print(response)
+    experiments.append(case.copy())
+
+with open('experiments.json', 'w') as f:
+    json.dump(experiments, f)
+
+from_json_to_xlsx('experiments.json', 'experiments.xlsx')
