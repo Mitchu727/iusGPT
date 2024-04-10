@@ -28,4 +28,4 @@ class ChatGPT35ArticleTagger(ArticleTagger):
             self.system_message
         ]
         response = self.chat.invoke(messages)
-        return response.content.split(",")
+        return response.content.split(", ")
