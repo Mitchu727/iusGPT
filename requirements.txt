@@ -1,13 +1,7 @@
 pypdf
-llama-index
 sentence-transformers
 chromadb
-bitsandbytes
-accelerate
 PyPDF2
-autogen
-pyautogen
-yfinance
 langchain
 langchain_community
 langchain_text_splitters
