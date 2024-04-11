@@ -12,47 +12,17 @@ from langchain.retrievers.document_compressors import LLMChainExtractor, LLMChai
 from langchain_openai import OpenAI, ChatOpenAI
 from src.secrets import OPEN_API_KEY
 import os
-
+from src.tag_based_retriever import TagBasedRetriever
 
 os.environ["OPENAI_API_KEY"] = OPEN_API_KEY
 
-
-def flat_and_unique(list_of_lists):
-    return list(set(itertools.chain(*list_of_lists)))
 
 # input_path = "../documents/civilCodeSplitted/codex_tagged.json"
 input_path = "../documents/civilCodeSplitted/articles_tagged.json"
 tag_path = "../documents/tags.json"
 
-def pretty_print_docs(docs):
-    print(
-        f"\n{'-' * 100}\n".join(
-            [f"Document {i+1}:\n\n" + d.page_content for i, d in enumerate(docs)]
-        )
-    )
 
-with open(input_path, "r") as f:
-    codex = json.load(f)
-
-with open(tag_path, "r") as f:
-    tags = json.load(f)
-
-
-tag_determiner = TagDeterminer()
-question = "Jak może być wyrażone oświadczenie woli?"
-determined_tags = tag_determiner.determine_tags(question, tags)
-print(determined_tags)
-
-retrieved_articles = []
-for article in codex:
-    article_tags = article["tags"]
-    if set(article_tags) & set(determined_tags):
-        retrieved_articles.append(article["article"])
-
-print(len(retrieved_articles))
-#
-#
-retriever = HardcodedRetriever(retrieved_articles)
+retriever = TagBasedRetriever()
 # llm = OpenAI(temperature=0)
 # compressor = LLMChainFilter.from_llm(llm)
 # compression_retriever = ContextualCompressionRetriever(
@@ -63,7 +33,7 @@ retriever = HardcodedRetriever(retrieved_articles)
 #     question
 # )
 # pretty_print_docs(docs)
-
+question = "Jak może być wyrażone oświadczenie woli?"
 retriever_prompt_template = """Given the following question:
 {question}
 And related articles:
