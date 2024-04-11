@@ -3,7 +3,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
 
 from src.secrets import OPEN_API_KEY
-
+from src.tagger import parse_response_into_tags
 
 class TagDeterminer:
         def __init__(self):
@@ -11,6 +11,7 @@ class TagDeterminer:
             self.system_message = SystemMessage(
                 content="You're an expert in polish civil law. Your will get a question and a list of tags."
                         "Your job is to decide which tags are related to the question."
+                        "You should only return 2 tags"
                         "In the response write only the tags separated with commas")
             self.prompt_template = PromptTemplate.from_template(
                 "Question: {question}"
@@ -27,5 +28,5 @@ class TagDeterminer:
                 human_message
             ]
             response = self.chat.invoke(messages)
-            return response.content.split(", ")
+            return parse_response_into_tags(response)
 

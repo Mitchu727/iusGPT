@@ -18,18 +18,22 @@ with open(input_path, "r") as f:
 tagger = ChatGPT35Tagger()
 
 results = []
-for chapter in codex[:2]:
+for chapter in codex:
     for article in chapter["articles"]:
         result = {
-            article: tagger.tag_text(article)
+            "article": article,
+            "tags": tagger.tag_text(article)
         }
         results.append(result)
+        with open(cache_path, "a") as f:
+            json.dump(result, f)
 
 print(len(tagger.get_tags()))
 print(tagger.get_tags())
 
 with open(output_path, "w") as f:
     json.dump(results, f)
+tagger.save_tags()
 
 # # print(chapter_one)
 # for chapter in codex:
