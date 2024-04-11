@@ -7,7 +7,7 @@ from src.secrets import OPEN_API_KEY
 
 class TagDeterminer:
         def __init__(self):
-            self.chat = ChatOpenAI(model="gpt-3.5-turbo-0125", openai_api_key=OPEN_API_KEY)
+            self.chat = ChatOpenAI(model="gpt-3.5-turbo-0125", openai_api_key=OPEN_API_KEY, temperature=0)
             self.system_message = SystemMessage(
                 content="You're an expert in polish civil law. Your will get a question and a list of tags."
                         "Your job is to decide which tags are related to the question."
