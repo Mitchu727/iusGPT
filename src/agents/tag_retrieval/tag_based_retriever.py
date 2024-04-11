@@ -6,7 +6,7 @@ from langchain_core.documents import Document
 from langchain_core.retrievers import BaseRetriever
 from pydantic import PrivateAttr
 
-from src.tag_determiner import TagDeterminer
+from src.agents.tag_retrieval.tag_determiner import TagDeterminer
 
 
 class TagBasedRetriever(BaseRetriever):

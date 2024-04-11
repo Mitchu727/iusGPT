@@ -62,6 +62,6 @@ class ChatGPT35Tagger(Tagger):
         return ",".join(self.tags)
 
     def save_tags(self):
-        output_path = "../documents/tags.json"
+        output_path = "../../../documents/tags.json"
         with open(output_path, "w") as f:
             json.dump(self.tags, f)

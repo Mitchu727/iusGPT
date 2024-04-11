@@ -3,7 +3,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
 
 from src.secrets import OPEN_API_KEY
-from src.tagger import parse_response_into_tags
+from src.agents.tag_retrieval.tagger import parse_response_into_tags
 
 class TagDeterminer:
         def __init__(self):

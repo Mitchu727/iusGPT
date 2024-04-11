@@ -1,5 +1,5 @@
-civil_code_path = "../documents/civilCodeTxtGenerated/kodeks.txt"
-output_path = "../documents/civilCodeSplitted/kodeks.json"
+civil_code_path = "../../documents/civilCodeTxtGenerated/kodeks.txt"
+output_path = "../../documents/civilCodeSplitted/kodeks.json"
 import json
 
 with open(civil_code_path, "r") as f:

@@ -1,8 +1,8 @@
 import json
-input_path = "../documents/civilCodeSplitted/kodeks.json"
-cache_path = "../documents/civilCodeSplitted/cache.json"
-output_path = "../documents/civilCodeSplitted/articles_tagged.json"
-from src.tagger import DummyTagger, ChatGPT35Tagger
+input_path = "../../documents/civilCodeSplitted/kodeks.json"
+cache_path = "../../documents/civilCodeSplitted/cache.json"
+output_path = "../../documents/civilCodeSplitted/articles_tagged.json"
+from src.agents.tag_retrieval.tagger import ChatGPT35Tagger
 import itertools
 
 

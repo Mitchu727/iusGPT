@@ -5,3 +5,4 @@
 */.cache
 /build/*
 /src/experiments*
+/documents/questions/abc_questions.csv

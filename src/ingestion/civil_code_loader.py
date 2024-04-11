@@ -1,8 +1,8 @@
 import PyPDF2
 import re
 
-input_file = "../documents/civilCodePdf/kodeks-cywilny.pdf"
-output_file = "../documents/civilCodeTxtGenerated/kodeks.txt"
+input_file = "../../documents/civilCodePdf/kodeks-cywilny.pdf"
+output_file = "../../documents/civilCodeTxtGenerated/kodeks.txt"
 
 
 def remove_kancelaria_sejmu_footnote(text):

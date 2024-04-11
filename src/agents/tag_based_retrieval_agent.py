@@ -4,7 +4,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 
 from src.agents.retrieval_agent import RetrievalAgent
-from src.tag_based_retriever import TagBasedRetriever
+from src.agents.tag_retrieval.tag_based_retriever import TagBasedRetriever
 import os
 from src.secrets import OPEN_API_KEY
 
@@ -40,4 +40,7 @@ class TagBasedRetrievalAgent(RetrievalAgent):
         )
 
     def answer(self, question):
-        return self.retriever_chain.invoke(question)
+        try:
+            return self.retriever_chain.invoke(question)
+        except Exception:
+            return "Exception"
