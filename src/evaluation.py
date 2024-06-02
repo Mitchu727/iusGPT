@@ -21,26 +21,30 @@ prompt_template = PromptTemplate.from_template(
 {question}
 And three possible answers:
 {answers}
+Here is some context that may be helpful:
+{context}
+
 Thought 1: Answer the questions and decide which of these three possible answers is correct
 Thought 2: Choose the letter of corresponding answer from the
 Thought 3: Respond in json format: with fields: answer, letter
 """)
 
 # agent = ChatGPT4AnsweringAgent()
-# agent = ChatGPT35AnsweringAgent()
+agent = ChatGPT35AnsweringAgent()
 # agent = TagBasedRetrievalAgent()
 # agent = VectorDatabaseRetrievalAgent()
-agent = ComplexRetrievalAgent()
+# agent = ComplexRetrievalAgent()
 numerator = 0
 results = []
 for question_dict in questions:
     question = question_dict["question"]
     question_num = question_dict["numer pytania"]
     answers = question_dict["answers"]
+    context = question_dict["kontekst"]
     correct_answer = question_dict["correct_answer"]
     result = question_dict.copy()
 
-    prompt = prompt_template.format(question=question, answers=answers)
+    prompt = prompt_template.format(question=question, answers=answers, context=context)
     returned_answer = agent.answer(prompt)
 
     try:
@@ -56,6 +60,7 @@ for question_dict in questions:
     print(f"Pytanie {question_num}: {question}")
     print(f"Udzielona odpowiedź: {returned_answer}")
     print(f"Prawidłowa odpowiedź: {correct_answer}")
+    print("==============================================================")
 
     result["raw_answer"] = returned_answer
 

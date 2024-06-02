@@ -3,7 +3,7 @@ from src.agents.chat_gpt_4_answering_agent import ChatGPT4AnsweringAgent
 from src.agents.tag_based_retrieval_agent import TagBasedRetrievalAgent
 import pandas as pd
 
-questions_path = "../documents/questions/open_questions.csv"
+questions_path = "../documents/evaluation/open_questions.csv"
 vector_agent = VectorDatabaseRetrievalAgent()
 question = "Jaka jest definicja nieruchmości?"
 #
