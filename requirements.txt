@@ -1,8 +1,10 @@
-pypdf
+pypdf~=4.1.0
 sentence-transformers
 chromadb
-PyPDF2
-langchain
+langchain~=0.1.14
 langchain_community
 langchain_text_splitters
 langchain_openai
+pathlib~=1.0.1
+pandas~=2.2.2
+pydantic~=2.6.4
