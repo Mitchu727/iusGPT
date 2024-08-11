@@ -13,8 +13,10 @@ with open(questions_path, "r") as f:
 with open(answers_path, "r") as f:
     answers = json.load(f)
 
-evaluated_flow = SimpleFlow("gpt-4o-mini", 0)
-# evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)
+# evaluated_flow = SimpleFlow("gpt-4o", 0)  # 45, 46
+# evaluated_flow = SimpleFlow("gpt-4", 0)  # 48, 17
+# evaluated_flow = SimpleFlow("gpt-4o-mini", 0)  # 39, 20
+evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)  # 25, 7
 judge = Judge("gpt-3.5-turbo-0125", 0)
 
 correct_answer_counter = 0
