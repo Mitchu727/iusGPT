@@ -5,7 +5,7 @@ import re
 answers_input_file = "answers.txt"
 answers_output_file = "answers.json"
 
-with open(answers_input_file, "r") as f:
+with open(answers_input_file, "r", encoding="utf-8") as f:
     answers_raw = f.read()
 
 answers_raw = answers_raw.replace("""1
@@ -38,7 +38,7 @@ for i, answers_row in enumerate(answers_rows):
     answers.append(answer)
 
 
-with open(answers_output_file, "w") as f:
+with open(answers_output_file, "w", encoding="utf-8") as f:
     json.dump(answers, f)
 
 
