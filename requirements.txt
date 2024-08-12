@@ -8,3 +8,4 @@ langchain_openai
 pathlib~=1.0.1
 pandas~=2.2.2
 pydantic~=2.6.4
+faiss-cpu
