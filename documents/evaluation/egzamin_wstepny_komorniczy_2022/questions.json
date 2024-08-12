@@ -1,0 +1,1052 @@
+[
+  {
+    "index": 1,
+    "question": "Zgodnie z Konstytucj\u0105 Rzeczypospolitej Polskiej, zakazane s\u0105 zrzeszenia, kt\u00f3rych cel lub dzia\u0142alno\u015b\u0107 s\u0105 sprzeczne z:",
+    "a": "Konstytucj\u0105, ustaw\u0105 i rozporz\u0105dzeniem",
+    "b": "Konstytucj\u0105 lub ustaw\u0105",
+    "c": "Konstytucj\u0105, ustaw\u0105 i aktem prawa miejscowego."
+  },
+  {
+    "index": 2,
+    "question": "Zgodnie z Konstytucj\u0105 Rzeczypospolitej Polskiej, o zamiarze przed\u0142o\u017cenia Prezydentowi Rzeczypospolitej Polskiej do ratyfikacji um\u00f3w mi\u0119dzynarodowych, kt\u00f3rych ratyfikacja nie wymaga zgody wyra\u017conej w ustawie, Prezes Rady Ministr\u00f3w zawiadamia:",
+    "a": "Sejm",
+    "b": "Rad\u0119 Ministr\u00f3w",
+    "c": "Najwy\u017csz\u0105 Izb\u0119 Kontroli."
+  },
+  {
+    "index": 3,
+    "question": "Zgodnie z Konstytucj\u0105 Rzeczypospolitej Polskiej, w\u0142adz\u0119 ustawodawcz\u0105 w Rzeczypospolitej Polskiej sprawuj\u0105:",
+    "a": "Sejm i Senat",
+    "b": "Sejm i Prezydent Rzeczypospolitej Polskiej",
+    "c": "Sejm i Rada Ministr\u00f3w."
+  },
+  {
+    "index": 4,
+    "question": "Zgodnie z Konstytucj\u0105 Rzeczypospolitej Polskiej, zwierzchnikiem korpusu s\u0142u\u017cby cywilnej jest:",
+    "a": "Prezydent Rzeczypospolitej Polskiej",
+    "b": "Prezes Rady Ministr\u00f3w",
+    "c": "Szef Kancelarii Prezesa Rady Ministr\u00f3w."
+  },
+  {
+    "index": 5,
+    "question": "Zgodnie z Konstytucj\u0105 Rzeczypospolitej Polskiej, kadencja wybranych cz\u0142onk\u00f3w Krajowej Rady S\u0105downictwa trwa:",
+    "a": "cztery lata",
+    "b": "pi\u0119\u0107 lat",
+    "c": "sze\u015b\u0107 lat."
+  },
+  {
+    "index": 6,
+    "question": "Zgodnie z Konstytucj\u0105 Rzeczypospolitej Polskiej, inicjatywa ustawodawcza w  zakresie ustawy bud\u017cetowej, ustawy o prowizorium bud\u017cetowym, zmiany ustawy bud\u017cetowej, ustawy o zaci\u0105ganiu d\u0142ugu publicznego oraz ustawy o  udzielaniu gwarancji finansowych przez pa\u0144stwo przys\u0142uguje:",
+    "a": "wy\u0142\u0105cznie Sejmowi",
+    "b": "wy\u0142\u0105cznie Prezydentowi Rzeczypospolitej Polskiej,",
+    "c": "wy\u0142\u0105cznie Radzie Ministr\u00f3w."
+  },
+  {
+    "index": 7,
+    "question": "Zgodnie z Konstytucj\u0105 Rzeczypospolitej Polskiej, Prezes Narodowego Banku Polskiego jest powo\u0142ywany przez:",
+    "a": "Sejm na wniosek Prezydenta Rzeczypospolitej Polskiej,",
+    "b": "Sejm na wniosek Prezesa Rady Ministr\u00f3w",
+    "c": "Sejm za zgod\u0105 Senatu."
+  },
+  {
+    "index": 8,
+    "question": "Zgodnie z Konstytucj\u0105 Rzeczypospolitej Polskiej, w czasie stanu nadzwyczajnego nie mo\u017ce by\u0107 zmieniona:",
+    "a": "ustawa o wyborze Prezydenta Rzeczypospolitej Polskiej,",
+    "b": "ustawa o referendum og\u00f3lnokrajowym",
+    "c": "ustawa o finansach publicznych."
+  },
+  {
+    "index": 9,
+    "question": "Zgodnie z ustaw\u0105 o Rzeczniku Praw Obywatelskich, szczeg\u00f3\u0142owy tryb zg\u0142aszania kandydat\u00f3w na Rzecznika Praw Obywatelskich okre\u015bla:",
+    "a": "uchwa\u0142a Rady Ministr\u00f3w",
+    "b": "uchwa\u0142a Sejmu",
+    "c": "uchwa\u0142a Senatu."
+  },
+  {
+    "index": 10,
+    "question": "Zgodnie z Kodeksem cywilnym, uprawnionemu do pobierania po\u017cytk\u00f3w:",
+    "a": "przypadaj\u0105 po\u017cytki naturalne, kt\u00f3re zosta\u0142y od\u0142\u0105czone od rzeczy w czasie trwania jego uprawnienia, a po\u017cytki cywilne \u2013 w stosunku do czasu trwania tego uprawnienia",
+    "b": "przypadaj\u0105 po\u017cytki cywilne, kt\u00f3re zosta\u0142y od\u0142\u0105czone od rzeczy w czasie trwania jego uprawnienia, a po\u017cytki naturalne \u2013 w stosunku do czasu trwania tego uprawnienia",
+    "c": "przypadaj\u0105 po\u017cytki naturalne \u2013 w stosunku do czasu trwania tego uprawnienia, a nie przypadaj\u0105 po\u017cytki cywilne."
+  },
+  {
+    "index": 11,
+    "question": "Zgodnie z Kodeksem cywilnym, czynno\u015b\u0107 prawna wywo\u0142uje nie tylko skutki w niej wyra\u017cone, lecz r\u00f3wnie\u017c te, kt\u00f3re:",
+    "a": "wynikaj\u0105 z ustawy, z orzecznictwa s\u0105d\u00f3w i z ustalonych zwyczaj\u00f3w",
+    "b": "wynikaj\u0105 z ustawy, z zasad wsp\u00f3\u0142\u017cycia spo\u0142ecznego i z ustalonych zwyczaj\u00f3w",
+    "c": "wynikaj\u0105 z zasad wsp\u00f3\u0142\u017cycia spo\u0142ecznego, z orzecznictwa s\u0105d\u00f3w i z ustalonych zwyczaj\u00f3w."
+  },
+  {
+    "index": 12,
+    "question": "Zgodnie z Kodeksem cywilnym, je\u017celi przedsi\u0119biorca otrzyma\u0142 od osoby, z kt\u00f3r\u0105 pozostaje w sta\u0142ych stosunkach gospodarczych, ofert\u0119 zawarcia umowy w ramach swej dzia\u0142alno\u015bci, brak niezw\u0142ocznej odpowiedzi poczytuje si\u0119 za:",
+    "a": "przyj\u0119cie oferty",
+    "b": "odmow\u0119 przyj\u0119cia oferty",
+    "c": "zaproszenie do negocjacji."
+  },
+  {
+    "index": 13,
+    "question": "Zgodnie z Kodeksem cywilnym, pe\u0142nomocnictwo og\u00f3lne obejmuje umocowanie:",
+    "a": "do czynno\u015bci zwyk\u0142ego zarz\u0105du",
+    "b": "do czynno\u015bci przekraczaj\u0105cych zakres zwyk\u0142ego zarz\u0105du",
+    "c": "do czynno\u015bci zwyk\u0142ego zarz\u0105du oraz do czynno\u015bci przekraczaj\u0105cych zakres zwyk\u0142ego zarz\u0105du."
+  },
+  {
+    "index": 14,
+    "question": "Zgodnie z Kodeksem cywilnym, termin p\u00f3\u0142miesi\u0119czny jest r\u00f3wny:",
+    "a": "czternastu dniom",
+    "b": "pi\u0119tnastu dniom",
+    "c": "dw\u00f3m tygodniom."
+  },
+  {
+    "index": 15,
+    "question": "Zgodnie z Kodeksem cywilnym, je\u017celi w\u0142a\u015bciciel nieruchomo\u015bci, przeciwko kt\u00f3remu biegnie zasiedzenie, jest ma\u0142oletni, zasiedzenie nie mo\u017ce sko\u0144czy\u0107 si\u0119 wcze\u015bniej ni\u017c z up\u0142ywem:",
+    "a": "dw\u00f3ch lat od uzyskania pe\u0142noletno\u015bci przez w\u0142a\u015bciciela",
+    "b": "trzech lat od uzyskania pe\u0142noletno\u015bci przez w\u0142a\u015bciciela",
+    "c": "pi\u0119ciu lat od uzyskania pe\u0142noletno\u015bci przez w\u0142a\u015bciciela."
+  },
+  {
+    "index": 16,
+    "question": "Zgodnie z Kodeksem cywilnym, ka\u017cdy ze wsp\u00f3\u0142w\u0142a\u015bcicieli niesprawuj\u0105cych zarz\u0105du rzecz\u0105 wsp\u00f3ln\u0105:",
+    "a": "zawsze jest obowi\u0105zany \u017c\u0105da\u0107 w odpowiednich terminach rachunku z zarz\u0105du",
+    "b": "mo\u017ce \u017c\u0105da\u0107 w odpowiednich terminach rachunku z zarz\u0105du",
+    "c": "nigdy nie jest uprawniony do \u017c\u0105dania rachunku z zarz\u0105du."
+  },
+  {
+    "index": 17,
+    "question": "Zgodnie z Kodeksem cywilnym, wierzyciel:",
+    "a": "mo\u017ce \u017c\u0105da\u0107 osobistego \u015bwiadczenia d\u0142u\u017cnika tylko wtedy, gdy to wynika z zasad wsp\u00f3\u0142\u017cycia spo\u0142ecznego i ustalonych zwyczaj\u00f3w",
+    "b": "mo\u017ce \u017c\u0105da\u0107 osobistego \u015bwiadczenia d\u0142u\u017cnika tylko wtedy, gdy to wynika z tre\u015bci czynno\u015bci prawnej, z ustawy albo z w\u0142a\u015bciwo\u015bci \u015bwiadczenia",
+    "c": "nigdy nie mo\u017ce \u017c\u0105da\u0107 osobistego \u015bwiadczenia d\u0142u\u017cnika."
+  },
+  {
+    "index": 18,
+    "question": "Zgodnie z Kodeksem cywilnym, zobowi\u0105zanie jest solidarne, je\u017celi to wynika:",
+    "a": "z ustalonych zwyczaj\u00f3w",
+    "b": "z ustawy lub z czynno\u015bci prawnej",
+    "c": "z zasad wsp\u00f3\u0142\u017cycia spo\u0142ecznego."
+  },
+  {
+    "index": 19,
+    "question": "Zgodnie z Kodeksem cywilnym, zw\u0142oka d\u0142u\u017cnika, jak r\u00f3wnie\u017c przerwanie lub zawieszenie biegu przedawnienia wzgl\u0119dem jednego z wierzycieli solidarnych:",
+    "a": "ma skutek tak\u017ce wzgl\u0119dem wsp\u00f3\u0142wierzycieli",
+    "b": "nie ma skutku wzgl\u0119dem wsp\u00f3\u0142wierzycieli",
+    "c": "ma skutek tylko wzgl\u0119dem tego jednego wierzyciela."
+  },
+  {
+    "index": 20,
+    "question": "Zgodnie z Kodeksem cywilnym, je\u017celi jest kilku wierzycieli uprawnionych do \u015bwiadczenia niepodzielnego:",
+    "a": "ka\u017cdy z nich mo\u017ce \u017c\u0105da\u0107 spe\u0142nienia odpowiedniej cz\u0119\u015bci \u015bwiadczenia",
+    "b": "ka\u017cdy z nich mo\u017ce \u017c\u0105da\u0107 spe\u0142nienia ca\u0142ego \u015bwiadczenia",
+    "c": "\u017caden z nich nie mo\u017ce \u017c\u0105da\u0107 spe\u0142nienia ca\u0142ego \u015bwiadczenia."
+  },
+  {
+    "index": 21,
+    "question": "Zgodnie z Kodeksem cywilnym, w razie sprzeczno\u015bci tre\u015bci umowy z wzorcem umowy:",
+    "a": "umowa staje si\u0119 niewa\u017cna",
+    "b": "strony s\u0105 zwi\u0105zane umow\u0105",
+    "c": "strony s\u0105 zwi\u0105zane wzorcem umowy"
+  },
+  {
+    "index": 22,
+    "question": "Zgodnie z Kodeksem cywilnym, gdy dwie osoby s\u0105 jednocze\u015bnie wzgl\u0119dem siebie d\u0142u\u017cnikami i wierzycielami, ka\u017cda z nich mo\u017ce potr\u0105ci\u0107 swoj\u0105 wierzytelno\u015b\u0107 z wierzytelno\u015bci drugiej strony, je\u017celi przedmiotem obu wierzytelno\u015bci s\u0105 pieni\u0105dze lub rzeczy tej samej jako\u015bci oznaczone tylko co do gatunku, a obie wierzytelno\u015bci s\u0105 wymagalne i mog\u0105 by\u0107 dochodzone przed s\u0105dem lub przed innym organem pa\u0144stwowym; wskutek potr\u0105cenia obie wierzytelno\u015bci:",
+    "a": "umarzaj\u0105 si\u0119 nawzajem do wysoko\u015bci wierzytelno\u015bci ni\u017cszej",
+    "b": "umarzaj\u0105 si\u0119 nawzajem do wysoko\u015bci wierzytelno\u015bci wy\u017cszej",
+    "c": "umarzaj\u0105 si\u0119 najwy\u017cej do po\u0142owy warto\u015bci ka\u017cdej z tych wierzytelno\u015bci."
+  },
+  {
+    "index": 23,
+    "question": "Zgodnie z Kodeksem cywilnym, na skutek odnowienia zobowi\u0105zanie dotychczasowe:",
+    "a": "wygasa",
+    "b": "staje si\u0119 niewa\u017cne",
+    "c": "nie wygasa, ale staje si\u0119 zobowi\u0105zaniem naturalnym."
+  },
+  {
+    "index": 24,
+    "question": "Zgodnie z Kodeksem cywilnym, je\u017celi termin zwrotu po\u017cyczki nie jest oznaczony, d\u0142u\u017cnik obowi\u0105zany jest zwr\u00f3ci\u0107 po\u017cyczk\u0119:",
+    "a": "w ci\u0105gu sze\u015bciu tygodni po wydaniu przedmiotu po\u017cyczki",
+    "b": "w ci\u0105gu sze\u015bciu tygodni po wypowiedzeniu przez daj\u0105cego po\u017cyczk\u0119",
+    "c": "w ci\u0105gu trzech miesi\u0119cy po wypowiedzeniu przez daj\u0105cego po\u017cyczk\u0119."
+  },
+  {
+    "index": 25,
+    "question": "Zgodnie z Kodeksem cywilnym, je\u017celi wykonanie zlecenia wymaga wydatk\u00f3w, daj\u0105cy zlecenie:",
+    "a": "zawsze przekazuje przyjmuj\u0105cemu zlecenie odpowiedni\u0105 zaliczk\u0119",
+    "b": "powinien na \u017c\u0105danie przyjmuj\u0105cego zlecenie udzieli\u0107 mu odpowiedniej zaliczki",
+    "c": "zawsze obowi\u0105zany jest udzieli\u0107 przyjmuj\u0105cemu zlecenie zaliczki nie ni\u017cszej ni\u017c 20% warto\u015bci zlecenia."
+  },
+  {
+    "index": 26,
+    "question": "Zgodnie z Kodeksem cywilnym, z wa\u017cnych powod\u00f3w ka\u017cdy wsp\u00f3lnik sp\u00f3\u0142ki cywilnej mo\u017ce \u017c\u0105da\u0107:",
+    "a": "rozwi\u0105zania sp\u00f3\u0142ki przez s\u0105d",
+    "b": "og\u0142oszenia przez s\u0105d upad\u0142o\u015bci sp\u00f3\u0142ki",
+    "c": "wszcz\u0119cia wobec sp\u00f3\u0142ki post\u0119powania sanacyjnego"
+  },
+  {
+    "index": 27,
+    "question": "Zgodnie z Kodeksem cywilnym, przez umow\u0119 por\u0119czenia por\u0119czyciel zobowi\u0105zuje si\u0119 wzgl\u0119dem wierzyciela wykona\u0107 zobowi\u0105zanie na wypadek, gdyby d\u0142u\u017cnik zobowi\u0105zania nie wykona\u0142; o\u015bwiadczenie por\u0119czyciela powinno by\u0107 z\u0142o\u017cone:",
+    "a": "na pi\u015bmie pod rygorem niewa\u017cno\u015bci",
+    "b": "w formie aktu notarialnego pod rygorem niewa\u017cno\u015bci",
+    "c": "na pi\u015bmie wy\u0142\u0105cznie dla cel\u00f3w dowodowych."
+  },
+  {
+    "index": 28,
+    "question": "Zgodnie z Kodeksem cywilnym, mo\u017cna por\u0119czy\u0107:",
+    "a": "za d\u0142ug przysz\u0142y w wysoko\u015bci nieoznaczonej",
+    "b": "za d\u0142ug przysz\u0142y do wysoko\u015bci z g\u00f3ry oznaczonej",
+    "c": "wy\u0142\u0105cznie za d\u0142ug istniej\u0105cy w chwili zawarcia umowy por\u0119czenia."
+  },
+  {
+    "index": 29,
+    "question": "Zgodnie z Kodeksem cywilnym, uznania spadkobiercy za niegodnego:",
+    "a": "mo\u017ce \u017c\u0105da\u0107 ka\u017cdy, kto ma w tym interes",
+    "b": "mog\u0105 \u017c\u0105da\u0107 wy\u0142\u0105cznie pozostali spadkobiercy",
+    "c": "mog\u0105 \u017c\u0105da\u0107 wy\u0142\u0105cznie wierzyciele spadkodawcy."
+  },
+  {
+    "index": 30,
+    "question": "Zgodnie z Kodeksem cywilnym, testament mo\u017ce zawiera\u0107 rozrz\u0105dzenia:",
+    "a": "kilku os\u00f3b, o ile zmar\u0142y jednocze\u015bnie",
+    "b": "obojga ma\u0142\u017conk\u00f3w",
+    "c": "tylko jednego spadkodawcy."
+  },
+  {
+    "index": 31,
+    "question": "Zgodnie z Kodeksem cywilnym, przedmiotem zapisu windykacyjnego mo\u017ce by\u0107:",
+    "a": "rzecz oznaczona tylko co do gatunku",
+    "b": "og\u00f3\u0142 praw i obowi\u0105zk\u00f3w wsp\u00f3lnika sp\u00f3\u0142ki kapita\u0142owej",
+    "c": "rzecz oznaczona co do to\u017csamo\u015bci."
+  },
+  {
+    "index": 32,
+    "question": "Zgodnie z Kodeksem cywilnym, je\u017celi osoba powo\u0142ana jako wykonawca testamentu nie chce tego obowi\u0105zku przyj\u0105\u0107, sk\u0142ada odpowiednie o\u015bwiadczenie:",
+    "a": "przed s\u0105dem albo notariuszem",
+    "b": "przed kierownikiem urz\u0119du stanu cywilnego",
+    "c": "wobec w\u00f3jta (burmistrza, prezydenta miasta), starosty, marsza\u0142ka wojew\u00f3dztwa, sekretarza powiatu albo gminy."
+  },
+  {
+    "index": 33,
+    "question": "Zgodnie z Kodeksem cywilnym, do chwili przyj\u0119cia spadku spadkobierca:",
+    "a": "ponosi odpowiedzialno\u015b\u0107 za d\u0142ugi spadkowe tylko ze spadku",
+    "b": "nie ponosi odpowiedzialno\u015bci za d\u0142ugi spadkowe",
+    "c": "ponosi odpowiedzialno\u015b\u0107 za d\u0142ugi spadkowe z ca\u0142ego swego maj\u0105tku."
+  },
+  {
+    "index": 34,
+    "question": "Zgodnie z Kodeksem cywilnym, do chwili dzia\u0142u spadku spadkobiercy:",
+    "a": "nie ponosz\u0105 odpowiedzialno\u015bci za d\u0142ugi spadkowe",
+    "b": "ponosz\u0105 odpowiedzialno\u015b\u0107 za d\u0142ugi spadkowe w stosunku do wielko\u015bci udzia\u0142\u00f3w",
+    "c": "ponosz\u0105 solidarn\u0105 odpowiedzialno\u015b\u0107 za d\u0142ugi spadkowe."
+  },
+  {
+    "index": 35,
+    "question": "Zgodnie z Kodeksem cywilnym, umowny dzia\u0142 spadku:",
+    "a": "mo\u017ce obj\u0105\u0107 ca\u0142y spadek lub by\u0107 ograniczony do cz\u0119\u015bci spadku",
+    "b": "obejmuje wy\u0142\u0105cznie ca\u0142y spadek",
+    "c": "nie jest nigdy dopuszczalny."
+  },
+  {
+    "index": 36,
+    "question": "Zgodnie z ustaw\u0105 \u2013 Prawo wekslowe, weksel trasowany, p\u0142atny w pewien czas po okazaniu, powinien by\u0107 przedstawiony do przyj\u0119cia w ci\u0105gu roku od dnia wystawienia; wystawca mo\u017ce oznaczy\u0107 kr\u00f3tszy lub d\u0142u\u017cszy termin; indosanci:",
+    "a": "mog\u0105 terminy te skr\u00f3ci\u0107",
+    "b": "mog\u0105 terminy te wyd\u0142u\u017cy\u0107",
+    "c": "nie mog\u0105 tych termin\u00f3w ani skr\u00f3ci\u0107 ani wyd\u0142u\u017cy\u0107."
+  },
+  {
+    "index": 37,
+    "question": "Zgodnie z ustaw\u0105 o ksi\u0119gach wieczystych i hipotece, ksi\u0119ga wieczysta dla sp\u00f3\u0142dzielczego w\u0142asno\u015bciowego prawa do lokalu zawiera:",
+    "a": "trzy dzia\u0142y",
+    "b": "cztery dzia\u0142y",
+    "c": "pi\u0119\u0107 dzia\u0142\u00f3w."
+  },
+  {
+    "index": 38,
+    "question": "Zgodnie z ustaw\u0105 o ksi\u0119gach wieczystych i hipotece, w razie wykre\u015blenia hipoteki z ksi\u0119gi wieczystej bez wa\u017cnej podstawy prawnej hipoteka wygasa po up\u0142ywie lat:",
+    "a": "trzech",
+    "b": "pi\u0119ciu",
+    "c": "dziesi\u0119ciu."
+  },
+  {
+    "index": 39,
+    "question": "Zgodnie z ustaw\u0105 o w\u0142asno\u015bci lokali, okresem rozliczeniowym wsp\u00f3lnoty mieszkaniowej jest:",
+    "a": "miesi\u0105c",
+    "b": "kwarta\u0142",
+    "c": "rok kalendarzowy."
+  },
+  {
+    "index": 40,
+    "question": "Zgodnie z ustaw\u0105 o w\u0142asno\u015bci lokali, o zebraniu og\u00f3\u0142u w\u0142a\u015bcicieli lokali zarz\u0105d zawiadamia ka\u017cdego w\u0142a\u015bciciela lokalu na pi\u015bmie przynajmniej na:",
+    "a": "trzy dni przed terminem zebrania",
+    "b": "pi\u0119\u0107 dni przed terminem zebrania",
+    "c": "tydzie\u0144 przed terminem zebrania."
+  },
+  {
+    "index": 41,
+    "question": "Zgodnie z ustaw\u0105 o zastawie rejestrowym i rejestrze zastaw\u00f3w, je\u017celi rzecz ruchoma obci\u0105\u017cona zastawem rejestrowym sta\u0142a si\u0119 cz\u0119\u015bci\u0105 sk\u0142adow\u0105 nieruchomo\u015bci, zastaw rejestrowy:",
+    "a": "wygasa",
+    "b": "z mocy prawa przekszta\u0142ca si\u0119 w hipotek\u0119",
+    "c": "mo\u017ce by\u0107 przekszta\u0142cony w hipotek\u0119 na wniosek zastawcy."
+  },
+  {
+    "index": 42,
+    "question": "Zgodnie z ustaw\u0105 o sp\u00f3\u0142dzielniach mieszkaniowych, walne zgromadzenie sp\u00f3\u0142dzielni mieszkaniowej jest wa\u017cne:",
+    "a": "tylko w\u00f3wczas, je\u017celi b\u0119dzie obecna na nim co najmniej po\u0142owa cz\u0142onk\u00f3w sp\u00f3\u0142dzielni mieszkaniowej",
+    "b": "tylko w\u00f3wczas, je\u017celi b\u0119dzie obecna na nim co najmniej jedna pi\u0105ta cz\u0142onk\u00f3w sp\u00f3\u0142dzielni mieszkaniowej",
+    "c": "niezale\u017cnie od liczby obecnych na nim cz\u0142onk\u00f3w sp\u00f3\u0142dzielni mieszkaniowej."
+  },
+  {
+    "index": 43,
+    "question": "Zgodnie z ustaw\u0105 o ochronie praw lokator\u00f3w, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, stawka czynszu w przypadku najmu socjalnego lokalu nie mo\u017ce przekracza\u0107:",
+    "a": "1/4 stawki najni\u017cszego czynszu obowi\u0105zuj\u0105cego w mieszkaniowym zasobie gminy",
+    "b": "1/3 stawki najni\u017cszego czynszu obowi\u0105zuj\u0105cego w mieszkaniowym zasobie gminy",
+    "c": "po\u0142owy stawki najni\u017cszego czynszu obowi\u0105zuj\u0105cego w mieszkaniowym zasobie gminy"
+  },
+  {
+    "index": 44,
+    "question": "Zgodnie z ustaw\u0105 o Krajowym Rejestrze Zad\u0142u\u017conych, organem prowadz\u0105cym w systemie teleinformatycznym Krajowy Rejestr Zad\u0142u\u017conych jest:",
+    "a": "minister w\u0142a\u015bciwy do spraw finans\u00f3w publicznych",
+    "b": "Minister Sprawiedliwo\u015bci",
+    "c": "Prezes Rady Ministr\u00f3w."
+  },
+  {
+    "index": 45,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, pow\u00f3dztwo z tytu\u0142u dziedziczenia, zachowku, jak r\u00f3wnie\u017c z tytu\u0142u zapisu, polecenia oraz innych rozrz\u0105dze\u0144 testamentowych (gdy maj\u0105tek spadkowy nie znajduje si\u0119 w ca\u0142o\u015bci poza granicami Rzeczypospolitej Polskiej) wytacza si\u0119 wy\u0142\u0105cznie przed s\u0105d ostatniego miejsca zwyk\u0142ego pobytu spadkodawcy, a je\u017celi miejsca jego zwyk\u0142ego pobytu w Polsce nie da si\u0119 ustali\u0107, przed s\u0105d:",
+    "a": "miejsca, w kt\u00f3rym znajduje si\u0119 maj\u0105tek spadkowy lub jego cz\u0119\u015b\u0107",
+    "b": "miejsca zamieszkania lub siedziby powoda",
+    "c": "miejsca zamieszkania lub siedziby pozwanego."
+  },
+  {
+    "index": 46,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, s\u0119dzia jest wy\u0142\u0105czony z mocy samej ustawy w sprawach:",
+    "a": "swego ma\u0142\u017conka, krewnych lub powinowatych w linii prostej, krewnych bocznych do czwartego stopnia i powinowatych bocznych do drugiego stopnia",
+    "b": "w kt\u00f3rych istnieje okoliczno\u015b\u0107 tego rodzaju, \u017ce mog\u0142aby wywo\u0142a\u0107 uzasadnion\u0105 w\u0105tpliwo\u015b\u0107 co do bezstronno\u015bci s\u0119dziego w danej sprawie",
+    "c": "o odszkodowanie z tytu\u0142u szkody wyrz\u0105dzonej przez wydanie prawomocnego orzeczenia niezgodnego z prawem, je\u017celi nie bra\u0142 udzia\u0142u w wydaniu tego orzeczenia."
+  },
+  {
+    "index": 47,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, inspektorzy pracy mog\u0105 wytacza\u0107 pow\u00f3dztwa na rzecz obywateli, a tak\u017ce wst\u0119powa\u0107, za zgod\u0105 powoda, do post\u0119powania w ka\u017cdym jego stadium w sprawach:",
+    "a": "z zakresu ubezpiecze\u0144 spo\u0142ecznych",
+    "b": "o ustalenie istnienia stosunku pracy",
+    "c": "o odszkodowanie lub zado\u015b\u0107uczynienie w wyniku stosowania mobbingu."
+  },
+  {
+    "index": 48,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, dla strony b\u0119d\u0105cej osob\u0105 prawn\u0105, gdy w jej organie zachodz\u0105 braki uniemo\u017cliwiaj\u0105ce jej reprezentacj\u0119, s\u0105d orzekaj\u0105cy, na wniosek strony przeciwnej, ustanawia:",
+    "a": "doradc\u0119 tymczasowego",
+    "b": "kuratora",
+    "c": "opiekuna."
+  },
+  {
+    "index": 49,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, interwenient uboczny mo\u017ce wej\u015b\u0107 do procesu na miejsce strony, do kt\u00f3rej przyst\u0105pi\u0142:",
+    "a": "tylko za zgod\u0105 strony, do kt\u00f3rej przyst\u0105pi\u0142",
+    "b": "za zgod\u0105 stron",
+    "c": "nawet mimo sprzeciwu przeciwnika strony, do kt\u00f3rej przyst\u0105pi\u0142."
+  },
+  {
+    "index": 50,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, w sprawach w\u0142asno\u015bci intelektualnej pe\u0142nomocnikiem procesowym strony mo\u017ce by\u0107 tak\u017ce:",
+    "a": "rzecznik patentowy",
+    "b": "osoba posiadaj\u0105ca licencj\u0119 doradcy restrukturyzacyjnego",
+    "c": "powiatowy (miejski) rzecznik konsument\u00f3w."
+  },
+  {
+    "index": 51,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, w razie \u015bmierci strony albo utraty przez ni\u0105 zdolno\u015bci s\u0105dowej udzielone przez ni\u0105 pe\u0142nomocnictwo procesowe:",
+    "a": "wygasa, jednak\u017ce pe\u0142nomocnik procesowy dzia\u0142a a\u017c do czasu zawieszenia post\u0119powania",
+    "b": "nie wygasa, a pe\u0142nomocnik procesowy reprezentuje nast\u0119pc\u00f3w prawnych strony",
+    "c": "wygasa tylko wtedy, je\u017celi s\u0105d zwolni\u0142 pe\u0142nomocnika z obowi\u0105zku zast\u0119powania strony."
+  },
+  {
+    "index": 52,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, je\u017celi strony nie postanowi\u0142y w ugodzie s\u0105dowej inaczej, koszty procesu, w kt\u00f3rym zawarto ugod\u0119:",
+    "a": "znosi si\u0119 wzajemnie",
+    "b": "ponosi zawsze pow\u00f3d,",
+    "c": "ponosi zawsze pozwany."
+  },
+  {
+    "index": 53,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, o kosztach procesu nale\u017cnych stronie dzia\u0142aj\u0105cej bez adwokata, radcy prawnego lub rzecznika patentowego s\u0105d orzeka:",
+    "a": "z urz\u0119du",
+    "b": "tylko na wniosek tej strony",
+    "c": "z urz\u0119du tylko na rzecz strony korzystaj\u0105cej z ustawowego zwolnienia od koszt\u00f3w s\u0105dowych."
+  },
+  {
+    "index": 54,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, zarz\u0105dzenie przewodnicz\u0105cego o zwrocie pozwu dor\u0119cza si\u0119:",
+    "a": "powodowi i pozwanemu",
+    "b": "tylko powodowi",
+    "c": "tylko pozwanemu."
+  },
+  {
+    "index": 55,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, je\u017celi strona lub jej przedstawiciel ustawowy znajduje si\u0119 w miejscowo\u015bci pozbawionej wskutek nadzwyczajnych wydarze\u0144 komunikacji z siedzib\u0105 s\u0105du, s\u0105d:",
+    "a": "umarza post\u0119powanie",
+    "b": "zawiesza post\u0119powanie z urz\u0119du",
+    "c": "odrzuca pozew."
+  },
+  {
+    "index": 56,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, pozwany, przeciwko kt\u00f3remu zapad\u0142 wyrok zaoczny, mo\u017ce z\u0142o\u017cy\u0107 w ci\u0105gu dw\u00f3ch tygodni od dor\u0119czenia mu wyroku:",
+    "a": "sprzeciw",
+    "b": "zarzuty",
+    "c": "apelacj\u0119."
+  },
+  {
+    "index": 57,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, apelacj\u0119 od wyroku s\u0105du rejonowego rozpoznaje:",
+    "a": "s\u0105d rejonowy, kt\u00f3ry wyda\u0142 zaskar\u017cony wyrok w sk\u0142adzie trzech s\u0119dzi\u00f3w",
+    "b": "s\u0105d okr\u0119gowy",
+    "c": "s\u0105d apelacyjny."
+  },
+  {
+    "index": 58,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, w post\u0119powaniu rozpoznawczym za\u017calenie do s\u0105du drugiej instancji przys\u0142uguje na postanowienie s\u0105du pierwszej instancji o:",
+    "a": "zawieszeniu post\u0119powania",
+    "b": "odmowie zwolnienia od koszt\u00f3w s\u0105dowych",
+    "c": "stwierdzeniu prawomocno\u015bci orzeczenia."
+  },
+  {
+    "index": 59,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, skarga kasacyjna jest niedopuszczalna mi\u0119dzy innymi w sprawach o:",
+    "a": "rozw\u00f3d, o separacj\u0119, o alimenty, o czynsz najmu lub dzier\u017cawy oraz o naruszenie posiadania",
+    "b": "przyznanie i o wstrzymanie emerytury lub renty oraz o obj\u0119cie obowi\u0105zkiem ubezpieczenia spo\u0142ecznego",
+    "c": "odszkodowanie z tytu\u0142u wyrz\u0105dzenia szkody przez wydanie prawomocnego orzeczenia niezgodnego z prawem."
+  },
+  {
+    "index": 60,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, sprawami gospodarczymi nie s\u0105 sprawy:",
+    "a": "z zakresu prawa upad\u0142o\u015bciowego i restrukturyzacyjnego",
+    "b": "z um\u00f3w o roboty budowlane oraz ze zwi\u0105zanych z procesem budowlanym um\u00f3w s\u0142u\u017c\u0105cych wykonaniu rob\u00f3t budowlanych",
+    "c": "o podzia\u0142 maj\u0105tku wsp\u00f3lnego wsp\u00f3lnik\u00f3w sp\u00f3\u0142ki cywilnej po jej ustaniu."
+  },
+  {
+    "index": 61,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, w post\u0119powaniu nieprocesowym, od postanowie\u0144 s\u0105du pierwszej instancji orzekaj\u0105cych co do istoty sprawy przys\u0142uguje:",
+    "a": "za\u017calenie",
+    "b": "odwo\u0142anie",
+    "c": "apelacja."
+  },
+  {
+    "index": 62,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, na czynno\u015bci komornika przys\u0142uguje skarga do s\u0105du rejonowego, je\u017celi ustawa nie stanowi inaczej; skarga nie przys\u0142uguje na:",
+    "a": "zawiadomienie o terminie czynno\u015bci",
+    "b": "postanowienie komornika w przedmiocie koszt\u00f3w egzekucji",
+    "c": "zaj\u0119cie wierzytelno\u015bci z rachunku bankowego."
+  },
+  {
+    "index": 63,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, tytu\u0142owi egzekucyjnemu wydanemu przeciwko osobie pozostaj\u0105cej w zwi\u0105zku ma\u0142\u017ce\u0144skim s\u0105d nada klauzul\u0119 wykonalno\u015bci tak\u017ce przeciwko jej ma\u0142\u017conkowi z ograniczeniem jego odpowiedzialno\u015bci do maj\u0105tku obj\u0119tego wsp\u00f3lno\u015bci\u0105 maj\u0105tkow\u0105, je\u017celi stwierdzona tytu\u0142em egzekucyjnym wierzytelno\u015b\u0107 powsta\u0142a z czynno\u015bci prawnej dokonanej za zgod\u0105 ma\u0142\u017conka d\u0142u\u017cnika, a wierzyciel wyka\u017ce ten fakt:",
+    "a": "wy\u0142\u0105cznie dokumentem urz\u0119dowym",
+    "b": "wy\u0142\u0105cznie dokumentem prywatnym z podpisem urz\u0119dowo po\u015bwiadczonym",
+    "c": "dokumentem urz\u0119dowym lub prywatnym."
+  },
+  {
+    "index": 64,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, komornik obowi\u0105zany jest uzyska\u0107 z centralnej informacji o zastawach rejestrowych dane o tym, czy d\u0142u\u017cnik jest zastawc\u0105 zastawu rejestrowego oraz kto jest zastawnikiem, w ka\u017cdej sprawie, je\u017celi prowadzi egzekucj\u0119 o \u015bwiadczenie przekraczaj\u0105ce:",
+    "a": "dziesi\u0119\u0107 tysi\u0119cy z\u0142otych",
+    "b": "pi\u0119tna\u015bcie tysi\u0119cy z\u0142otych",
+    "c": "dwadzie\u015bcia tysi\u0119cy z\u0142otych."
+  },
+  {
+    "index": 65,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, je\u017celi s\u0105d zawiesi\u0142 natychmiastow\u0105 wykonalno\u015b\u0107 tytu\u0142u wykonawczego lub wstrzyma\u0142 jego wykonanie albo d\u0142u\u017cnik z\u0142o\u017cy\u0142 zabezpieczenie konieczne wed\u0142ug orzeczenia s\u0105dowego do zwolnienia go od egzekucji:",
+    "a": "na wniosek d\u0142u\u017cnika post\u0119powanie ulega zawieszeniu",
+    "b": "na wniosek d\u0142u\u017cnika post\u0119powanie ulega umorzeniu",
+    "c": "post\u0119powanie ulega umorzeniu z urz\u0119du."
+  },
+  {
+    "index": 66,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, post\u0119powanie egzekucyjne umarza si\u0119 w ca\u0142o\u015bci lub cz\u0119\u015bci z urz\u0119du, je\u017celi:",
+    "a": "oka\u017ce si\u0119, \u017ce egzekucja nie nale\u017cy do organ\u00f3w s\u0105dowych",
+    "b": "oka\u017ce si\u0119, \u017ce wierzyciel lub d\u0142u\u017cnik nie ma zdolno\u015bci procesowej ani przedstawiciela ustawowego",
+    "c": "z\u0142o\u017cono skarg\u0119 na czynno\u015bci komornika."
+  },
+  {
+    "index": 67,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, w przypadku sprzeda\u017cy zaj\u0119tych ruchomo\u015bci w drodze licytacji publicznej, sprzeda\u017c ruchomo\u015bci na rzecz nabywcy dochodzi do skutku z chwil\u0105:",
+    "a": "przybicia udzielonego przez komornika",
+    "b": "podzia\u0142u sumy uzyskanej z tej egzekucji",
+    "c": "przys\u0105dzenia w\u0142asno\u015bci na rzecz nabywcy."
+  },
+  {
+    "index": 68,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, zaj\u0119cie wierzytelno\u015bci z rachunku bankowego d\u0142u\u017cnika jest dokonane z chwil\u0105:",
+    "a": "dor\u0119czenia bankowi zawiadomienia o zakazie wyp\u0142at z tego rachunku",
+    "b": "dor\u0119czenia d\u0142u\u017cnikowi (egzekwowanemu) zawiadomienia o zaj\u0119ciu wierzytelno\u015bci z rachunku bankowego",
+    "c": "dor\u0119czenia wierzycielowi odpisu zawiadomienia banku o zakazie wyp\u0142at z rachunku."
+  },
+  {
+    "index": 69,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, tytu\u0142 wykonawczy wystawiony przeciwko osobie pozostaj\u0105cej w zwi\u0105zku ma\u0142\u017ce\u0144skim stanowi podstaw\u0119 do zaj\u0119cia nieruchomo\u015bci wchodz\u0105cej w sk\u0142ad maj\u0105tku wsp\u00f3lnego; dalsze czynno\u015bci egzekucyjne dopuszczalne s\u0105:",
+    "a": "je\u017celi ma\u0142\u017conek d\u0142u\u017cnika nie sprzeciwi si\u0119 prowadzeniu egzekucji z tej nieruchomo\u015bci",
+    "b": "je\u017celi wierzyciel z\u0142o\u017cy zabezpieczenie na \u017c\u0105danie ma\u0142\u017conka d\u0142u\u017cnika",
+    "c": "na podstawie tytu\u0142u wykonawczego wystawionego przeciwko obojgu ma\u0142\u017conkom."
+  },
+  {
+    "index": 70,
+    "question": "Zgodnie z Kodeksem post\u0119powania cywilnego, tytu\u0142owi egzekucyjnemu zas\u0105dzaj\u0105cemu alimenty, s\u0105d nadaje klauzul\u0119 wykonalno\u015bci:",
+    "a": "z urz\u0119du",
+    "b": "wy\u0142\u0105cznie na wniosek wierzyciela",
+    "c": "na wniosek komornika s\u0105dowego."
+  },
+  {
+    "index": 71,
+    "question": "Zgodnie z ustaw\u0105 o kosztach s\u0105dowych w sprawach cywilnych, w sprawach o roszczenia wynikaj\u0105ce z czynno\u015bci bankowych od strony b\u0119d\u0105cej konsumentem lub osob\u0105 fizyczn\u0105 prowadz\u0105c\u0105 gospodarstwo rodzinne przy warto\u015bci przedmiotu sporu lub warto\u015bci przedmiotu zaskar\u017cenia wynosz\u0105cej ponad 20 000 z\u0142otych pobiera si\u0119 op\u0142at\u0119 sta\u0142\u0105 w kwocie:",
+    "a": "3000 z\u0142otych",
+    "b": "2000 z\u0142otych",
+    "c": "1000 z\u0142otych."
+  },
+  {
+    "index": 72,
+    "question": "Zgodnie z ustaw\u0105 o skardze na naruszenie prawa strony do rozpoznania sprawy w post\u0119powaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i post\u0119powaniu s\u0105dowym bez nieuzasadnionej zw\u0142oki, je\u017celi skarga dotyczy przewlek\u0142o\u015bci post\u0119powania przed wojew\u00f3dzkim s\u0105dem administracyjnym lub Naczelnym S\u0105dem Administracyjnym \u2013 w\u0142a\u015bciwy do jej rozpoznania jest:",
+    "a": "wojew\u00f3dzki s\u0105d administracyjny",
+    "b": "S\u0105d Najwy\u017cszy",
+    "c": "Naczelny S\u0105d Administracyjny."
+  },
+  {
+    "index": 73,
+    "question": "Zgodnie z Kodeksem karnym, wyst\u0119pek mo\u017cna pope\u0142ni\u0107:",
+    "a": "umy\u015blnie, a tak\u017ce nieumy\u015blnie, je\u017celi ustawa tak stanowi",
+    "b": "umy\u015blnie, a nigdy nie mo\u017cna pope\u0142ni\u0107 nieumy\u015blnie",
+    "c": "nieumy\u015blnie, a nigdy nie mo\u017cna pope\u0142ni\u0107 umy\u015blnie."
+  },
+  {
+    "index": 74,
+    "question": "Zgodnie z Kodeksem karnym, kto w zamiarze pope\u0142nienia czynu zabronionego swoim zachowaniem bezpo\u015brednio zmierza do jego dokonania, kt\u00f3re jednak nie nast\u0119puje, odpowiada za:",
+    "a": "usi\u0142owanie",
+    "b": "przygotowanie",
+    "c": "pod\u017ceganie"
+  },
+  {
+    "index": 75,
+    "question": "Zgodnie z Kodeksem karnym, w czasie odbywania kary ograniczenia wolno\u015bci skazany:",
+    "a": "mo\u017ce bez zgody s\u0105du zmienia\u0107 miejsce sta\u0142ego pobytu",
+    "b": "nigdy nie mo\u017ce zmienia\u0107 miejsca sta\u0142ego pobytu",
+    "c": "nie mo\u017ce bez zgody s\u0105du zmienia\u0107 miejsca sta\u0142ego pobytu."
+  },
+  {
+    "index": 76,
+    "question": "Zgodnie z Kodeksem karnym, pozbawienie praw publicznych jest:",
+    "a": "\u015brodkiem zabezpieczaj\u0105cym",
+    "b": "\u015brodkiem karnym",
+    "c": "kar\u0105."
+  },
+  {
+    "index": 77,
+    "question": "Zgodnie z Kodeksem karnym, warunkowe umorzenie post\u0119powania karnego nast\u0119puje na okres pr\u00f3by, kt\u00f3ry wynosi od roku do 3 lat i biegnie od:",
+    "a": "wydania orzeczenia przez s\u0105d pierwszej instancji",
+    "b": "uprawomocnienia si\u0119 orzeczenia",
+    "c": "dor\u0119czenia orzeczenia sprawcy."
+  },
+  {
+    "index": 78,
+    "question": "Zgodnie z ustaw\u0105 o Krajowym Rejestrze S\u0105dowym, je\u017celi oka\u017ce si\u0119, \u017ce w Krajowym Rejestrze S\u0105dowym znajduje si\u0119 wpis zawieraj\u0105cy oczywiste b\u0142\u0119dy, s\u0105d:",
+    "a": "dokona wpisu ostrze\u017cenia",
+    "b": "z urz\u0119du sprostuje wpis",
+    "c": "nie podejmie \u017cadnej czynno\u015bci bez wniosku uprawnionego podmiotu."
+  },
+  {
+    "index": 79,
+    "question": "Zgodnie z ustaw\u0105 o Centralnej Ewidencji i Informacji o Dzia\u0142alno\u015bci Gospodarczej i Punkcie Informacji dla Przedsi\u0119biorcy, zadaniem Centralnej Ewidencji i  Informacji o Dzia\u0142alno\u015bci Gospodarczej (CEIDG) nie jest:",
+    "a": "prowadzenie rejestru os\u00f3b fizycznych, wobec kt\u00f3rych umorzono post\u0119powanie egzekucyjne ze wzgl\u0119du na fakt, \u017ce z egzekucji nie uzyska si\u0119 sumy wy\u017cszej od koszt\u00f3w egzekucyjnych",
+    "b": "ewidencjonowanie przedsi\u0119biorc\u00f3w b\u0119d\u0105cych osobami fizycznymi",
+    "c": "umo\u017cliwienie wgl\u0105du do danych bezp\u0142atnie udost\u0119pnianych przez Centraln\u0105 Informacj\u0119 Krajowego Rejestru S\u0105dowego."
+  },
+  {
+    "index": 80,
+    "question": "Zgodnie z ustaw\u0105 o Centralnej Ewidencji i Informacji o Dzia\u0142alno\u015bci Gospodarczej i Punkcie Informacji dla Przedsi\u0119biorcy, gdy wpis w Centralnej Ewidencji i Informacji o Dzia\u0142alno\u015bci Gospodarczej (CEIDG) zosta\u0142 dokonany z naruszeniem prawa:",
+    "a": "przedsi\u0119biorca podlega wykre\u015bleniu z CEIDG z urz\u0119du, w drodze decyzji administracyjnej ministra w\u0142a\u015bciwego do spraw gospodarki",
+    "b": "o wykre\u015bleniu wpisu z CEIDG orzeka w\u0142a\u015bciwy s\u0105d rejonowy",
+    "c": "przedsi\u0119biorca mo\u017ce podlega\u0107 wykre\u015bleniu z CEIDG na wniosek w\u0142a\u015bciwego organu gminy na podstawie postanowienia s\u0105du okr\u0119gowego."
+  },
+  {
+    "index": 81,
+    "question": "Zgodnie z ustaw\u0105 \u2013 Prawo upad\u0142o\u015bciowe, nie mo\u017cna og\u0142osi\u0107 upad\u0142o\u015bci:",
+    "a": "osoby fizycznej prowadz\u0105cej dzia\u0142alno\u015b\u0107 gospodarcz\u0105",
+    "b": "jednostek samorz\u0105du terytorialnego",
+    "c": "wsp\u00f3lnik\u00f3w sp\u00f3\u0142ki partnerskiej."
+  },
+  {
+    "index": 82,
+    "question": "Zgodnie z ustaw\u0105 \u2013 Prawo upad\u0142o\u015bciowe, s\u0105dem upad\u0142o\u015bciowym w\u0142a\u015bciwym do rozpoznania wniosku o og\u0142oszenie upad\u0142o\u015bci w pierwszej instancji jest:",
+    "a": "s\u0105d rejonowy \u2013 s\u0105d gospodarczy",
+    "b": "s\u0105d okr\u0119gowy \u2013 s\u0105d gospodarczy",
+    "c": "s\u0105d rejonowy \u2013 wydzia\u0142 cywilny."
+  },
+  {
+    "index": 83,
+    "question": "Zgodnie z ustaw\u0105 \u2013 Prawo upad\u0142o\u015bciowe, og\u0142oszenie upad\u0142o\u015bci:",
+    "a": "nie ma wp\u0142ywu na zdolno\u015b\u0107 prawn\u0105 oraz zdolno\u015b\u0107 do czynno\u015bci prawnych upad\u0142ego",
+    "b": "pozbawia upad\u0142ego wy\u0142\u0105cznie zdolno\u015bci prawnej",
+    "c": "pozbawia upad\u0142ego wy\u0142\u0105cznie zdolno\u015bci do czynno\u015bci prawnych."
+  },
+  {
+    "index": 84,
+    "question": "Zgodnie z ustaw\u0105 \u2013 Prawo upad\u0142o\u015bciowe, w post\u0119powaniu upad\u0142o\u015bciowym orzeczenia zapadaj\u0105 w formie:",
+    "a": "postanowie\u0144",
+    "b": "wyrok\u00f3w",
+    "c": "uchwa\u0142."
+  },
+  {
+    "index": 85,
+    "question": "Zgodnie z ustaw\u0105 \u2013 Prawo restrukturyzacyjne, uk\u0142ad przyj\u0119ty przez zgromadzenie wierzycieli zatwierdza:",
+    "a": "s\u0105d restrukturyzacyjny",
+    "b": "syndyk",
+    "c": "nadzorca."
+  },
+  {
+    "index": 86,
+    "question": "Zgodnie z ustaw\u0105 \u2013 Prawo restrukturyzacyjne, z dniem otwarcia post\u0119powania sanacyjnego mienie s\u0142u\u017c\u0105ce prowadzeniu przedsi\u0119biorstwa oraz mienie nale\u017c\u0105ce do d\u0142u\u017cnika staj\u0105 si\u0119:",
+    "a": "mas\u0105 upad\u0142o\u015bci",
+    "b": "mas\u0105 sanacyjn\u0105",
+    "c": "mas\u0105 uk\u0142adow\u0105."
+  },
+  {
+    "index": 87,
+    "question": "Zgodnie z Kodeksem sp\u00f3\u0142ek handlowych, je\u017celi umowa sp\u00f3\u0142ki jawnej nie stanowi inaczej, czynno\u015b\u0107 nag\u0142\u0105, kt\u00f3rej zaniechanie mog\u0142oby wyrz\u0105dzi\u0107 sp\u00f3\u0142ce jawnej powa\u017cn\u0105 szkod\u0119, mo\u017ce bez uchwa\u0142y wsp\u00f3lnik\u00f3w wykona\u0107:",
+    "a": "wsp\u00f3lnik maj\u0105cy prawo prowadzenia spraw sp\u00f3\u0142ki",
+    "b": "wsp\u00f3lnik wy\u0142\u0105czony od prowadzenia spraw sp\u00f3\u0142ki",
+    "c": "ka\u017cdy wsp\u00f3lnik."
+  },
+  {
+    "index": 88,
+    "question": "Zgodnie z Kodeksem sp\u00f3\u0142ek handlowych, partnerami w sp\u00f3\u0142ce partnerskiej mog\u0105 by\u0107 osoby uprawnione do wykonywania \u2013 mi\u0119dzy innymi \u2013 zawodu:",
+    "a": "referendarza s\u0105dowego",
+    "b": "komornika s\u0105dowego",
+    "c": "doradcy podatkowego."
+  },
+  {
+    "index": 89,
+    "question": "Zgodnie z Kodeksem sp\u00f3\u0142ek handlowych, sp\u00f3\u0142ka osobowa maj\u0105ca na celu prowadzenie przedsi\u0119biorstwa pod w\u0142asn\u0105 firm\u0105, w kt\u00f3rej wobec wierzycieli za zobowi\u0105zania sp\u00f3\u0142ki co najmniej jeden wsp\u00f3lnik odpowiada bez ograniczenia (komplementariusz), a odpowiedzialno\u015b\u0107 co najmniej jednego wsp\u00f3lnika (komandytariusza) jest ograniczona to:",
+    "a": "sp\u00f3\u0142ka komandytowa",
+    "b": "sp\u00f3\u0142ka komandytowo-akcyjna",
+    "c": "sp\u00f3\u0142ka partnerska"
+  },
+  {
+    "index": 90,
+    "question": "Zgodnie z Kodeksem sp\u00f3\u0142ek handlowych, nazwisko albo firma (nazwa) akcjonariusza nie mo\u017ce by\u0107 zamieszczane w firmie sp\u00f3\u0142ki komandytowo-akcyjnej; w przypadku zamieszczenia nazwiska albo firmy (nazwy) akcjonariusza w firmie tej sp\u00f3\u0142ki akcjonariusz ten:",
+    "a": "odpowiada wobec os\u00f3b trzecich tak jak komandytariusz",
+    "b": "odpowiada wobec os\u00f3b trzecich tak jak komplementariusz",
+    "c": "nie odpowiada wobec os\u00f3b trzecich."
+  },
+  {
+    "index": 91,
+    "question": "Zgodnie z Kodeksem sp\u00f3\u0142ek handlowych, rada nadzorcza lub komisja rewizyjna powinna by\u0107 ustanowiona w sp\u00f3\u0142kach z ograniczon\u0105 odpowiedzialno\u015bci\u0105, w kt\u00f3rych:",
+    "a": "kapita\u0142 zak\u0142adowy przewy\u017csza kwot\u0119 500 000 z\u0142otych, a wsp\u00f3lnik\u00f3w jest wi\u0119cej ni\u017c dwudziestu pi\u0119ciu,",
+    "b": "kapita\u0142 zak\u0142adowy przewy\u017csza kwot\u0119 250 000 z\u0142otych, a wsp\u00f3lnik\u00f3w jest wi\u0119cej ni\u017c dziesi\u0119ciu",
+    "c": "kapita\u0142 zak\u0142adowy przewy\u017csza kwot\u0119 50 000 z\u0142otych, a wsp\u00f3lnik\u00f3w jest wi\u0119cej ni\u017c pi\u0119ciu."
+  },
+  {
+    "index": 92,
+    "question": "Zgodnie z Kodeksem pracy, normy pracy, stanowi\u0105ce miernik nak\u0142adu pracy, jej wydajno\u015bci i jako\u015bci, mog\u0105 by\u0107 stosowane, je\u017celi jest to uzasadnione rodzajem pracy; o zmianie normy pracy pracownicy powinni by\u0107 zawiadomieni co najmniej na:",
+    "a": "3 dni przed wprowadzeniem nowej normy",
+    "b": "tydzie\u0144 przed wprowadzeniem nowej normy",
+    "c": "2 tygodnie przed wprowadzeniem nowej normy."
+  },
+  {
+    "index": 93,
+    "question": "Zgodnie z Kodeksem pracy, je\u017celi ustalony dzie\u0144 wyp\u0142aty wynagrodzenia za prac\u0119 jest dniem wolnym od pracy, wynagrodzenie wyp\u0142aca si\u0119:",
+    "a": "w dniu nast\u0119pnym",
+    "b": "w dniu poprzedzaj\u0105cym",
+    "c": "w nast\u0119pnym dniu roboczym."
+  },
+  {
+    "index": 94,
+    "question": "Zgodnie z Kodeksem pracy, je\u017celi dobowy wymiar czasu pracy pracownika wynosi co najmniej 6 godzin, pracownik ma prawo do przerwy w pracy trwaj\u0105cej:",
+    "a": "co najmniej 15 minut, wliczanej do czasu pracy",
+    "b": "co najmniej 15 minut, niewliczanej do czasu pracy",
+    "c": "co najmniej 30 minut, niewliczanej do czasu pracy."
+  },
+  {
+    "index": 95,
+    "question": "Zgodnie z Kodeksem pracy, do okresu pracy, od kt\u00f3rego zale\u017cy wymiar urlopu wypoczynkowego, wlicza si\u0119 z tytu\u0142u uko\u0144czenia szko\u0142y policealnej:",
+    "a": "4 lata",
+    "b": "5 lat",
+    "c": "6 lat."
+  },
+  {
+    "index": 96,
+    "question": "Zgodnie z ustaw\u0105 o systemie ubezpiecze\u0144 spo\u0142ecznych, sk\u0142adki na ubezpieczenia emerytalne i rentowe bezrobotnych finansuj\u0105:",
+    "a": "w r\u00f3wnych cz\u0119\u015bciach organ ubezpiecze\u0144 spo\u0142ecznych i ubezpieczeni z w\u0142asnych \u015brodk\u00f3w",
+    "b": "w ca\u0142o\u015bci ubezpieczeni z w\u0142asnych \u015brodk\u00f3w",
+    "c": "w ca\u0142o\u015bci powiatowe urz\u0119dy pracy z Funduszu Pracy."
+  },
+  {
+    "index": 97,
+    "question": "Zgodnie z Kodeksem rodzinnym i opieku\u0144czym, powinowaci w linii prostej:",
+    "a": "mog\u0105 bez ogranicze\u0144 zawiera\u0107 ze sob\u0105 ma\u0142\u017ce\u0144stwo",
+    "b": "nigdy nie mog\u0105 zawrze\u0107 ze sob\u0105 ma\u0142\u017ce\u0144stwa",
+    "c": "nie mog\u0105 zawrze\u0107 ze sob\u0105 ma\u0142\u017ce\u0144stwa, jednak\u017ce z wa\u017cnych powod\u00f3w s\u0105d mo\u017ce zezwoli\u0107 na zawarcie ma\u0142\u017ce\u0144stwa mi\u0119dzy nimi."
+  },
+  {
+    "index": 98,
+    "question": "Zgodnie z Kodeksem rodzinnym i opieku\u0144czym, w przypadku ma\u0142\u017conk\u00f3w pozostaj\u0105cych w ustawowej wsp\u00f3lno\u015bci maj\u0105tkowej, do maj\u0105tku osobistego ka\u017cdego z ma\u0142\u017conk\u00f3w nale\u017c\u0105 mi\u0119dzy innymi:",
+    "a": "pobrane wynagrodzenie za prac\u0119",
+    "b": "prawa autorskie i prawa pokrewne",
+    "c": "\u015brodki zgromadzone na rachunku otwartego lub pracowniczego funduszu emerytalnego ka\u017cdego z ma\u0142\u017conk\u00f3w."
+  },
+  {
+    "index": 99,
+    "question": "Zgodnie z Kodeksem rodzinnym i opieku\u0144czym, nazwisko dziecka utworzone przez po\u0142\u0105czenie nazwiska matki z nazwiskiem ojca dziecka albo przez po\u0142\u0105czenie nazwiska jednego z rodzic\u00f3w z nazwiskiem jego ma\u0142\u017conka, od kt\u00f3rego dziecko nie pochodzi:",
+    "a": "nie mo\u017ce sk\u0142ada\u0107 si\u0119 z wi\u0119cej ni\u017c dw\u00f3ch cz\u0142on\u00f3w",
+    "b": "nie mo\u017ce sk\u0142ada\u0107 si\u0119 z wi\u0119cej ni\u017c trzech cz\u0142on\u00f3w",
+    "c": "jest nieograniczone liczb\u0105 cz\u0142on\u00f3w."
+  },
+  {
+    "index": 100,
+    "question": "Zgodnie z Kodeksem rodzinnym i opieku\u0144czym, opiekun mo\u017ce \u017c\u0105da\u0107 od pozostaj\u0105cego pod opiek\u0105 zwrotu nak\u0142ad\u00f3w i wydatk\u00f3w zwi\u0105zanych ze sprawowaniem opieki; do roszcze\u0144 z tego tytu\u0142u stosuje si\u0119 odpowiednio przepisy o:",
+    "a": "umowie o dzie\u0142o",
+    "b": "zleceniu",
+    "c": "prowadzeniu cudzych spraw bez zlecenia."
+  },
+  {
+    "index": 101,
+    "question": "Zgodnie z Kodeksem rodzinnym i opieku\u0144czym, w razie zwolnienia opiekuna, opiekun obowi\u0105zany jest z\u0142o\u017cy\u0107 rachunek ko\u0144cowy z zarz\u0105du maj\u0105tkiem, o ile s\u0105d opieku\u0144czy nie zwolni\u0142 go od tego obowi\u0105zku, w ci\u0105gu:",
+    "a": "trzech miesi\u0119cy",
+    "b": "sze\u015bciu miesi\u0119cy",
+    "c": "dziewi\u0119ciu miesi\u0119cy."
+  },
+  {
+    "index": 102,
+    "question": "Zgodnie z ustaw\u0105 o fundacjach, o\u015bwiadczenie woli o ustanowieniu fundacji, innej ni\u017c ustanowiona w testamencie, powinno by\u0107 z\u0142o\u017cone w formie:",
+    "a": "pisemnej z podpisami notarialnie po\u015bwiadczonymi",
+    "b": "aktu notarialnego",
+    "c": "pisemnej z dat\u0105 pewn\u0105."
+  },
+  {
+    "index": 103,
+    "question": "Zgodnie z ustaw\u0105 o samorz\u0105dzie gminnym, rada gminy obraduje na sesjach zwo\u0142ywanych przez przewodnicz\u0105cego w miar\u0119 potrzeby, nie rzadziej jednak ni\u017c:",
+    "a": "raz na kwarta\u0142",
+    "b": "raz na dwa kwarta\u0142y",
+    "c": "raz na trzy kwarta\u0142y."
+  },
+  {
+    "index": 104,
+    "question": "Zgodnie z ustaw\u0105 o samorz\u0105dzie powiatowym, rada powiatu wybiera starost\u0119:",
+    "a": "zwyk\u0142\u0105 wi\u0119kszo\u015bci\u0105 g\u0142os\u00f3w ustawowego sk\u0142adu rady, w g\u0142osowaniu jawnym",
+    "b": "bezwzgl\u0119dn\u0105 wi\u0119kszo\u015bci\u0105 g\u0142os\u00f3w ustawowego sk\u0142adu rady, w g\u0142osowaniu tajnym",
+    "c": "zwyk\u0142\u0105 wi\u0119kszo\u015bci\u0105 g\u0142os\u00f3w ustawowego sk\u0142adu rady, w g\u0142osowaniu tajnym."
+  },
+  {
+    "index": 105,
+    "question": "Zgodnie z ustaw\u0105 o samorz\u0105dzie wojew\u00f3dztwa, grupa mieszka\u0144c\u00f3w wojew\u00f3dztwa, posiadaj\u0105cych czynne prawa wyborcze do organu stanowi\u0105cego, mo\u017ce wyst\u0105pi\u0107 z obywatelsk\u0105 inicjatyw\u0105 uchwa\u0142odawcz\u0105; grupa ta musi liczy\u0107 co najmniej:",
+    "a": "100 os\u00f3b",
+    "b": "500 os\u00f3b",
+    "c": "1000 os\u00f3b."
+  },
+  {
+    "index": 106,
+    "question": "Zgodnie z ustaw\u0105 o wojewodzie i administracji rz\u0105dowej w wojew\u00f3dztwie, wicewojewod\u0119 powo\u0142uje i odwo\u0142uje:",
+    "a": "Marsza\u0142ek Sejmu na wniosek Prezesa Rady Ministr\u00f3w",
+    "b": "Prezes Rady Ministr\u00f3w na wniosek wojewody",
+    "c": "Sejm na wniosek Prezesa Rady Ministr\u00f3w."
+  },
+  {
+    "index": 107,
+    "question": "Zgodnie z ustaw\u0105 o ewidencji ludno\u015bci, obywatel polski przebywaj\u0105cy na terytorium Rzeczypospolitej Polskiej jest obowi\u0105zany zameldowa\u0107 si\u0119 w miejscu pobytu sta\u0142ego lub czasowego najp\u00f3\u017aniej w 30 dniu, licz\u0105c od dnia przybycia do tego miejsca; r\u00f3wnocze\u015bnie mo\u017cna mie\u0107 jedno miejsce pobytu sta\u0142ego i:",
+    "a": "trzy miejsca pobytu czasowego",
+    "b": "dwa miejsca pobytu czasowego",
+    "c": "jedno miejsce pobytu czasowego."
+  },
+  {
+    "index": 108,
+    "question": "Zgodnie z ustaw\u0105 o pomocy osobom uprawnionym do aliment\u00f3w, osoba, kt\u00f3ra pobra\u0142a nienale\u017cnie \u015bwiadczenia z funduszu alimentacyjnego, jest obowi\u0105zana do ich zwrotu; od kwot nienale\u017cnie pobranego \u015bwiadczenia, w  przypadku \u015bwiadomego wprowadzenia w b\u0142\u0105d przez osob\u0119 pobieraj\u0105c\u0105 to \u015bwiadczenie:",
+    "a": "nie nalicza si\u0119 odsetek",
+    "b": "naliczane s\u0105 odsetki umowne",
+    "c": "naliczane s\u0105 odsetki ustawowe za op\u00f3\u017anienie."
+  },
+  {
+    "index": 109,
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, organami naczelnymi w rozumieniu tego kodeksu w stosunku do organ\u00f3w organizacji spo\u0142ecznych s\u0105:",
+    "a": "wojewodowie",
+    "b": "samorz\u0105dowe kolegia odwo\u0142awcze",
+    "c": "naczelne organy tych organizacji, a w razie braku takiego organu \u2013 Prezes Rady Ministr\u00f3w lub w\u0142a\u015bciwi ministrowie sprawuj\u0105cy zwierzchni nadz\u00f3r nad ich dzia\u0142alno\u015bci\u0105."
+  },
+  {
+    "index": 110,
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, je\u017celi strona ustanowi\u0142a kilku pe\u0142nomocnik\u00f3w, dor\u0119cza si\u0119 pisma:",
+    "a": "wszystkim ustanowionym pe\u0142nomocnikom",
+    "b": "tylko jednemu pe\u0142nomocnikowi",
+    "c": "tylko dw\u00f3m pe\u0142nomocnikom."
+  },
+  {
+    "index": 111,
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, \u015bwiadkami nie mog\u0105 by\u0107:",
+    "a": "osoby skazane prawomocnym wyrokiem za sk\u0142adanie fa\u0142szywych zezna\u0144",
+    "b": "osoby maj\u0105ce ograniczon\u0105 zdolno\u015b\u0107 do czynno\u015bci prawnych",
+    "c": "duchowni co do fakt\u00f3w obj\u0119tych tajemnic\u0105 spowiedzi."
+  },
+  {
+    "index": 112,
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, organ administracji publicznej zawiesza post\u0119powanie:",
+    "a": "w razie \u015bmierci pe\u0142nomocnika strony",
+    "b": "w przypadku, gdy wobec strony toczy si\u0119 post\u0119powanie karne",
+    "c": "gdy rozpatrzenie sprawy i wydanie decyzji zale\u017cy od uprzedniego rozstrzygni\u0119cia zagadnienia wst\u0119pnego przez inny organ lub s\u0105d."
+  },
+  {
+    "index": 113,
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, w sprawie, w kt\u00f3rej toczy si\u0119 post\u0119powanie administracyjne, strony mog\u0105 zawrze\u0107 ugod\u0119, je\u017celi charakter sprawy na to pozwala i nie sprzeciwiaj\u0105 si\u0119 temu przepisy szczeg\u00f3lne; ugoda mo\u017ce by\u0107 zawarta:",
+    "a": "wy\u0142\u0105cznie przed organem administracji publicznej, przed kt\u00f3rym toczy si\u0119 post\u0119powanie w pierwszej instancji,",
+    "b": "przed organem administracji publicznej, przed kt\u00f3rym toczy si\u0119 post\u0119powanie w pierwszej instancji lub post\u0119powanie odwo\u0142awcze, do czasu wydania przez organ decyzji w sprawie",
+    "c": "przed organem administracji publicznej, przed kt\u00f3rym toczy si\u0119 post\u0119powanie w pierwszej instancji lub post\u0119powanie odwo\u0142awcze, nawet ju\u017c po wydaniu przez ten organ decyzji ko\u0144cz\u0105cej spraw\u0119."
+  },
+  {
+    "index": 114,
+    "question": "Zgodnie z Kodeksem post\u0119powania administracyjnego, nadz\u00f3r i kontrol\u0119 nad przyjmowaniem i za\u0142atwianiem skarg i wniosk\u00f3w, gdy chodzi o skargi za\u0142atwiane przez organy jednostek samorz\u0105du terytorialnego oraz samorz\u0105dowe jednostki organizacyjne, sprawuj\u0105:",
+    "a": "Prezes Rady Ministr\u00f3w i wojewodowie",
+    "b": "samorz\u0105dowe kolegia odwo\u0142awcze",
+    "c": "regionalne izby obrachunkowe."
+  },
+  {
+    "index": 115,
+    "question": "Zgodnie z ustaw\u0105 o post\u0119powaniu egzekucyjnym w administracji, w sprawie zagro\u017cenia ujawnieniem w Rejestrze Nale\u017cno\u015bci Publicznoprawnych, gdy zobowi\u0105zany kwestionuje istnienie lub wysoko\u015b\u0107 nale\u017cno\u015bci pieni\u0119\u017cnej lub odsetek z tytu\u0142u niezap\u0142acenia jej w terminie, zobowi\u0105zanemu przys\u0142uguje prawo wniesienia:",
+    "a": "odwo\u0142ania",
+    "b": "sprzeciwu",
+    "c": "apelacji."
+  },
+  {
+    "index": 116,
+    "question": "Zgodnie z ustaw\u0105 o post\u0119powaniu egzekucyjnym w administracji, zobowi\u0105zanemu przys\u0142uguje prawo wniesienia do wierzyciela, za po\u015brednictwem organu egzekucyjnego, zarzutu w sprawie egzekucji administracyjnej; je\u017celi zarzut jest albo by\u0142 przedmiotem rozpatrzenia w odr\u0119bnym post\u0119powaniu podatkowym, administracyjnym lub s\u0105dowym wierzyciel wydaje postanowienie, w kt\u00f3rym:",
+    "a": "oddala zarzut w sprawie egzekucji administracyjnej",
+    "b": "pozostawia bez rozpoznania zarzut w sprawie egzekucji administracyjnej",
+    "c": "stwierdza niedopuszczalno\u015b\u0107 zarzutu w sprawie egzekucji administracyjnej."
+  },
+  {
+    "index": 117,
+    "question": "Zgodnie z ustaw\u0105 o post\u0119powaniu egzekucyjnym w administracji, post\u0119powanie egzekucyjne umarza si\u0119 w ca\u0142o\u015bci albo w cz\u0119\u015bci w przypadku, gdy post\u0119powanie egzekucyjne zawieszone na \u017c\u0105danie wierzyciela nie zosta\u0142o podj\u0119te przed up\u0142ywem:",
+    "a": "3 miesi\u0119cy od dnia zg\u0142oszenia tego \u017c\u0105dania",
+    "b": "6 miesi\u0119cy od dnia zg\u0142oszenia tego \u017c\u0105dania",
+    "c": "12 miesi\u0119cy od dnia zg\u0142oszenia tego \u017c\u0105dania."
+  },
+  {
+    "index": 118,
+    "question": "Zgodnie z ustaw\u0105 o post\u0119powaniu egzekucyjnym w administracji, organ egzekucyjny pobiera op\u0142at\u0119 manipulacyjn\u0105 za wszcz\u0119cie post\u0119powania egzekucyjnego dotycz\u0105cego nale\u017cno\u015bci pieni\u0119\u017cnej; w przypadku ponownego wszcz\u0119cia post\u0119powania egzekucyjnego:",
+    "a": "obowi\u0105zek zap\u0142aty op\u0142aty manipulacyjnej nie powstaje",
+    "b": "op\u0142ata manipulacyjna wynosi 200 z\u0142otych",
+    "c": "op\u0142ata manipulacyjna wynosi 1 000 z\u0142otych."
+  },
+  {
+    "index": 119,
+    "question": "Zgodnie z ustaw\u0105 o finansach publicznych, wykonywaniem bud\u017cetu pa\u0144stwa kieruje:",
+    "a": "Rada Ministr\u00f3w",
+    "b": "Prezydent Rzeczypospolitej Polskiej",
+    "c": "Sejm."
+  },
+  {
+    "index": 120,
+    "question": "Zgodnie z ustaw\u0105 \u2013 Ordynacja podatkowa, je\u017celi decyzja zosta\u0142a wydana z zastrze\u017ceniem dope\u0142nienia przez stron\u0119 okre\u015blonego warunku, a strona nie dope\u0142ni\u0142a tego warunku, organ podatkowy, kt\u00f3ry wyda\u0142 decyzj\u0119:",
+    "a": "stwierdza jej bezskuteczno\u015b\u0107",
+    "b": "uchyla j\u0105",
+    "c": "stwierdza jej wyga\u015bni\u0119cie."
+  },
+  {
+    "index": 121,
+    "question": "Zgodnie z Traktatem o funkcjonowaniu Unii Europejskiej, Unia Europejska ma wy\u0142\u0105czne kompetencje \u2013 mi\u0119dzy innymi \u2013 w nast\u0119puj\u0105cych dziedzinach:",
+    "a": "unia celna i wsp\u00f3lna polityka handlowa",
+    "b": "rynek wewn\u0119trzny i transport",
+    "c": "energia i sieci transeuropejskie."
+  },
+  {
+    "index": 122,
+    "question": "Zgodnie z Traktatem o Unii Europejskiej, cz\u0142onkowie Parlamentu Europejskiego s\u0105 wybierani:",
+    "a": "na czteroletni\u0105 kadencj\u0119",
+    "b": "na pi\u0119cioletni\u0105 kadencj\u0119",
+    "c": "na sze\u015bcioletni\u0105 kadencj\u0119."
+  },
+  {
+    "index": 123,
+    "question": "Zgodnie z ustaw\u0105 \u2013 Prawo prywatne mi\u0119dzynarodowe, do kurateli dla osoby prawnej stosuje si\u0119:",
+    "a": "prawo pa\u0144stwa, kt\u00f3remu osoba ta podlega",
+    "b": "zawsze prawo polskie",
+    "c": "prawo wybrane przez t\u0119 osob\u0119 prawn\u0105."
+  },
+  {
+    "index": 124,
+    "question": "Zgodnie z ustaw\u0105 o S\u0105dzie Najwy\u017cszym, minister w\u0142a\u015bciwy do spraw finans\u00f3w publicznych w\u0142\u0105cza do projektu bud\u017cetu pa\u0144stwa projekt dochod\u00f3w i wydatk\u00f3w S\u0105du Najwy\u017cszego, w brzmieniu uchwalonym przez:",
+    "a": "Kolegium S\u0105du Najwy\u017cszego",
+    "b": "Zgromadzenie Og\u00f3lne S\u0119dzi\u00f3w S\u0105du Najwy\u017cszego",
+    "c": "Pierwszego Prezesa S\u0105du Najwy\u017cszego."
+  },
+  {
+    "index": 125,
+    "question": "Zgodnie z ustaw\u0105 o S\u0105dzie Najwy\u017cszym, samorz\u0105d s\u0119dzi\u00f3w S\u0105du Najwy\u017cszego stanowi\u0105:",
+    "a": "wszyscy s\u0119dziowie S\u0105du Najwy\u017cszego w stanie czynnym; w sk\u0142ad samorz\u0105du nie wchodz\u0105 s\u0119dziowie delegowani do pe\u0142nienia czynno\u015bci s\u0119dziowskich w S\u0105dzie Najwy\u017cszym,",
+    "b": "s\u0119dziowie S\u0105du Najwy\u017cszego w stanie czynnym oraz s\u0119dziowie S\u0105du Najwy\u017cszego w stanie spoczynku",
+    "c": "s\u0119dziowie S\u0105du Najwy\u017cszego w stanie czynnym \u0142\u0105cznie z s\u0119dziami delegowanymi do pe\u0142nienia czynno\u015bci s\u0119dziowskich w S\u0105dzie Najwy\u017cszym."
+  },
+  {
+    "index": 126,
+    "question": "Zgodnie z ustaw\u0105 \u2013 Prawo o ustroju s\u0105d\u00f3w powszechnych, zwierzchnikiem s\u0142u\u017cbowym dyrektora s\u0105du w s\u0105dzie rejonowym jest:",
+    "a": "prezes prze\u0142o\u017conego s\u0105du okr\u0119gowego lub apelacyjnego",
+    "b": "dyrektor prze\u0142o\u017conego s\u0105du okr\u0119gowego lub apelacyjnego",
+    "c": "Minister Sprawiedliwo\u015bci."
+  },
+  {
+    "index": 127,
+    "question": "Zgodnie z ustaw\u0105 \u2013 Prawo o ustroju s\u0105d\u00f3w powszechnych, prezes s\u0105du apelacyjnego oraz prezes s\u0105du okr\u0119gowego s\u0105 powo\u0142ywani na okres:",
+    "a": "trzech lat",
+    "b": "sze\u015bciu lat",
+    "c": "dziewi\u0119ciu lat."
+  },
+  {
+    "index": 128,
+    "question": "Zgodnie z ustaw\u0105 \u2013 Prawo o ustroju s\u0105d\u00f3w administracyjnych, s\u0105dem dyscyplinarnym w sprawach dyscyplinarnych s\u0119dzi\u00f3w s\u0105d\u00f3w administracyjnych jest:",
+    "a": "S\u0105d Najwy\u017cszy",
+    "b": "Naczelny S\u0105d Administracyjny",
+    "c": "Krajowa Rada S\u0105downictwa."
+  },
+  {
+    "index": 129,
+    "question": "Zgodnie z ustaw\u0105 \u2013 Prawo o ustroju s\u0105d\u00f3w administracyjnych, regulamin okre\u015blaj\u0105cy szczeg\u00f3\u0142owo tryb wewn\u0119trznego urz\u0119dowania wojew\u00f3dzkich s\u0105d\u00f3w administracyjnych ustala w drodze rozporz\u0105dzenia:",
+    "a": "Prezydent Rzeczypospolitej Polskiej",
+    "b": "Minister Sprawiedliwo\u015bci",
+    "c": "Rada Ministr\u00f3w"
+  },
+  {
+    "index": 130,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, komornik s\u0105dowy sprawuje urz\u0119dowy nadz\u00f3r nad dobrowolnymi publicznymi licytacjami, z przybiciem najni\u017cszej lub najwy\u017cszej oferty:",
+    "a": "wy\u0142\u0105cznie na zlecenie prezesa s\u0105du rejonowego, przy kt\u00f3rym komornik dzia\u0142a",
+    "b": "na zlecenie licytanta",
+    "c": "na wniosek organizatora licytacji."
+  },
+  {
+    "index": 131,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, stosunek podleg\u0142o\u015bci s\u0142u\u017cbowej komornika s\u0105dowego wobec prezesa w\u0142a\u015bciwego s\u0105du rejonowego nawi\u0105zuje si\u0119 z dniem:",
+    "a": "z\u0142o\u017cenia \u015blubowania przez komornika s\u0105dowego",
+    "b": "zawiadomienia o tym, \u017ce decyzja o powo\u0142aniu na stanowisko komornika s\u0105dowego jest ostateczna",
+    "c": "utworzenia albo obj\u0119cia kancelarii."
+  },
+  {
+    "index": 132,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, je\u017celi komornik s\u0105dowy utraci\u0142 obywatelstwo polskie:",
+    "a": "powo\u0142anie na stanowisko komornika s\u0105dowego wygasa z mocy prawa",
+    "b": "Minister Sprawiedliwo\u015bci z urz\u0119du odwo\u0142uje, w drodze decyzji, komornika s\u0105dowego z zajmowanego stanowiska",
+    "c": "Minister Sprawiedliwo\u015bci mo\u017ce odwo\u0142a\u0107, w drodze decyzji, komornika s\u0105dowego z zajmowanego stanowiska."
+  },
+  {
+    "index": 133,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, komornik s\u0105dowy jest obowi\u0105zany do z\u0142o\u017cenia o\u015bwiadczenia o swoim stanie maj\u0105tkowym; o\u015bwiadczenie maj\u0105tkowe komornik s\u0105dowy sk\u0142ada w 2 egzemplarzach:",
+    "a": "Ministrowi Sprawiedliwo\u015bci",
+    "b": "prezesowi w\u0142a\u015bciwego s\u0105du apelacyjnego",
+    "c": "prezesowi w\u0142a\u015bciwego s\u0105du okr\u0119gowego i Krajowej Radzie Komorniczej."
+  },
+  {
+    "index": 134,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, asesor komorniczy nie mo\u017ce posiada\u0107 w sp\u00f3\u0142ce prawa handlowego:",
+    "a": "\u017cadnych akcji lub udzia\u0142\u00f3w",
+    "b": "wi\u0119cej ni\u017c 5% akcji lub udzia\u0142\u00f3w przedstawiaj\u0105cych wi\u0119cej ni\u017c 5% kapita\u0142u zak\u0142adowego",
+    "c": "wi\u0119cej ni\u017c 10% akcji lub udzia\u0142\u00f3w przedstawiaj\u0105cych wi\u0119cej ni\u017c 10% kapita\u0142u zak\u0142adowego."
+  },
+  {
+    "index": 135,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, komornicy s\u0105dowi op\u0142acaj\u0105, na potrzeby organ\u00f3w samorz\u0105du komorniczego, sk\u0142adki miesi\u0119czne, kt\u00f3rych procentow\u0105 wysoko\u015b\u0107 ustala corocznie walne zgromadzenie izby komorniczej; komornicy s\u0105dowi w pierwszym roku dzia\u0142alno\u015bci indywidualnej kancelarii komorniczej uiszczaj\u0105 sk\u0142adk\u0119 miesi\u0119czn\u0105 w wysoko\u015bci nie wi\u0119kszej ni\u017c:",
+    "a": "100 z\u0142otych",
+    "b": "200 z\u0142otych",
+    "c": "400 z\u0142otych."
+  },
+  {
+    "index": 136,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, w przypadku odwo\u0142ania komornika s\u0105dowego z zajmowanego stanowiska, zast\u0119pc\u0119 komornika s\u0105dowego wyznacza, w drodze zarz\u0105dzenia, prezes w\u0142a\u015bciwego s\u0105du apelacyjnego na wniosek rady w\u0142a\u015bciwej izby komorniczej; w takim przypadku zast\u0119pc\u0105 komornika s\u0105dowego mo\u017ce by\u0107:",
+    "a": "asesor komorniczy zatrudniony w kancelarii odwo\u0142anego komornika s\u0105dowego, kt\u00f3ry przepracowa\u0142 na stanowisku asesora co najmniej dwa lata",
+    "b": "asesor komorniczy zatrudniony w kancelarii odwo\u0142anego komornika s\u0105dowego, kt\u00f3ry przepracowa\u0142 w tej kancelarii na stanowisku asesora co najmniej dwa lata",
+    "c": "wy\u0142\u0105cznie inny komornik s\u0105dowy."
+  },
+  {
+    "index": 137,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, uchwa\u0142\u0119 w sprawie wpisu na list\u0119 aplikant\u00f3w komorniczych, w terminie 30 dni od dnia z\u0142o\u017cenia wniosku o wpis, podejmuje:",
+    "a": "kolegium w\u0142a\u015bciwego s\u0105du apelacyjnego",
+    "b": "rada w\u0142a\u015bciwej izby komorniczej",
+    "c": "walne zgromadzenie w\u0142a\u015bciwej izby komorniczej"
+  },
+  {
+    "index": 138,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, komornikowi s\u0105dowemu za pe\u0142nion\u0105 s\u0142u\u017cb\u0119 przys\u0142uguje:",
+    "a": "op\u0142ata egzekucyjna",
+    "b": "wynagrodzenie za prac\u0119 ustalane przez prezesa w\u0142a\u015bciwego s\u0105du rejonowego",
+    "c": "wynagrodzenie prowizyjne, proporcjonalne do wysoko\u015bci uzyskanych op\u0142at egzekucyjnych."
+  },
+  {
+    "index": 139,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, w ramach nadzoru judykacyjnego komornik s\u0105dowy przy wykonywaniu czynno\u015bci podlega orzeczeniom s\u0105du; w  przypadku stwierdzenia oczywistego naruszenia prawa przez komornika s\u0105dowego s\u0105d sygnalizuje ten fakt:",
+    "a": "Ministrowi Sprawiedliwo\u015bci i Krajowej Radzie Komorniczej",
+    "b": "prezesowi w\u0142a\u015bciwego s\u0105du okr\u0119gowego",
+    "c": "prezesowi w\u0142a\u015bciwego s\u0105du rejonowego."
+  },
+  {
+    "index": 140,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, osobowo\u015b\u0107 prawn\u0105 posiadaj\u0105:",
+    "a": "Krajowa Rada Komornicza i izby komornicze",
+    "b": "Krajowa Rada Komornicza i rady izb komorniczych",
+    "c": "rady izb komorniczych i izby komornicze."
+  },
+  {
+    "index": 141,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, wyznaczanie komornik\u00f3w wizytator\u00f3w dzia\u0142aj\u0105cych przy poszczeg\u00f3lnych izbach komorniczych nale\u017cy do zakresu dzia\u0142ania:",
+    "a": "Ministra Sprawiedliwo\u015bci",
+    "b": "Krajowej Rady Komorniczej",
+    "c": "rady w\u0142a\u015bciwej izby komorniczej."
+  },
+  {
+    "index": 142,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, dzia\u0142alno\u015b\u0107 finansow\u0105 Krajowej Rady Komorniczej kontroluje:",
+    "a": "Prezes Krajowej Rady Komorniczej",
+    "b": "komisja dyscyplinarna",
+    "c": "Krajowa Komisja Rewizyjna."
+  },
+  {
+    "index": 143,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, cz\u0142onkostwo asesora komorniczego we w\u0142a\u015bciwej izbie komorniczej powstaje z dniem:",
+    "a": "z\u0142o\u017cenia \u015blubowania przez asesora komorniczego",
+    "b": "uzyskania pozytywnego wyniku z egzaminu komorniczego",
+    "c": "podj\u0119cia uchwa\u0142y w przedmiocie cz\u0142onkostwa przez rad\u0119 w\u0142a\u015bciwej izby komorniczej."
+  },
+  {
+    "index": 144,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, kar\u0105 dyscyplinarn\u0105 jest \u2013 mi\u0119dzy innymi \u2013 kara zawieszenia komornika s\u0105dowego w czynno\u015bciach na okres:",
+    "a": "od 3 miesi\u0119cy do 4 lat",
+    "b": "od 6 miesi\u0119cy do 5 lat",
+    "c": "od 6 miesi\u0119cy do 3 lat."
+  },
+  {
+    "index": 145,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, sprawy dyscyplinarne w pierwszej instancji rozpoznaje:",
+    "a": "rzecznik dyscyplinarny",
+    "b": "komisja dyscyplinarna",
+    "c": "Krajowa Rada Komornicza."
+  },
+  {
+    "index": 146,
+    "question": "Zgodnie z ustaw\u0105 o komornikach s\u0105dowych, koszty post\u0119powania dyscyplinarnego ponosi obwiniony w przypadku ukarania, a w pozosta\u0142ych przypadkach:",
+    "a": "Minister Sprawiedliwo\u015bci",
+    "b": "Krajowa Rada Komornicza",
+    "c": "Prezes Krajowej Rady Komorniczej."
+  },
+  {
+    "index": 147,
+    "question": "Zgodnie z ustaw\u0105 o kosztach komorniczych, komornikowi s\u0105dowemu przys\u0142uguje zwrot zrycza\u0142towanych koszt\u00f3w dojazdu w granicach miejscowo\u015bci b\u0119d\u0105cej siedzib\u0105 kancelarii komornika, je\u017celi odleg\u0142o\u015b\u0107 mi\u0119dzy siedzib\u0105 kancelarii komornika a miejscem czynno\u015bci przekracza 10 km, w wysoko\u015bci:",
+    "a": "20 z\u0142otych",
+    "b": "50 z\u0142otych",
+    "c": "60 z\u0142otych."
+  },
+  {
+    "index": 148,
+    "question": "Zgodnie z ustaw\u0105 o kosztach komorniczych, komornik s\u0105dowy wybrany przez wierzyciela, kt\u00f3ry przekaza\u0142 spraw\u0119 innemu komornikowi s\u0105dowemu, zwraca wierzycielowi niewykorzystan\u0105 zaliczk\u0119 albo jej cz\u0119\u015b\u0107 w terminie:",
+    "a": "4 dni od dnia wydania postanowienia o przekazaniu sprawy",
+    "b": "7 dni od dnia wydania postanowienia o przekazaniu sprawy",
+    "c": "7 dni od dnia uprawomocnienia si\u0119 postanowienia o przekazaniu sprawy."
+  },
+  {
+    "index": 149,
+    "question": "Zgodnie z ustaw\u0105 o kosztach komorniczych, podstaw\u0119 obliczenia op\u0142aty stosunkowej stanowi warto\u015b\u0107 \u015bwiadczenia; warto\u015b\u0107 \u015bwiadczenia:",
+    "a": "zaokr\u0105gla si\u0119 w g\u00f3r\u0119 do pe\u0142nych 10 z\u0142otych",
+    "b": "zaokr\u0105gla si\u0119 w g\u00f3r\u0119 do pe\u0142nego z\u0142otego",
+    "c": "nie podlega zaokr\u0105gleniu."
+  },
+  {
+    "index": 150,
+    "question": "Zgodnie z ustaw\u0105 o kosztach komorniczych, op\u0142ata sta\u0142a za udzia\u0142 w usuni\u0119ciu oporu d\u0142u\u017cnika oraz wykonanie polecenia s\u0105du w sprawie osadzenia d\u0142u\u017cnika w areszcie wynosi:",
+    "a": "400 z\u0142otych",
+    "b": "1000 z\u0142otych",
+    "c": "1500 z\u0142otych."
+  }
+]

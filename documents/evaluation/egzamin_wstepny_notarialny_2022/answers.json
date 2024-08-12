@@ -1,0 +1,752 @@
+[
+  {
+    "index": 1,
+    "answer": "A",
+    "context": "art. 33 k.c."
+  },
+  {
+    "index": 2,
+    "answer": "C",
+    "context": "art. 434 k.c."
+  },
+  {
+    "index": 3,
+    "answer": "A",
+    "context": "art. 58 \u00a7 2 k.c."
+  },
+  {
+    "index": 4,
+    "answer": "B",
+    "context": "art. 61 \u00a7 1 k.c."
+  },
+  {
+    "index": 5,
+    "answer": "A",
+    "context": "art. 64 k.c."
+  },
+  {
+    "index": 6,
+    "answer": "\t",
+    "context": "\tart. 68\u00b2 k.c. "
+  },
+  {
+    "index": 7,
+    "answer": "C",
+    "context": "art. 82 k.c. "
+  },
+  {
+    "index": 8,
+    "answer": "C",
+    "context": "art. 105 k.c. "
+  },
+  {
+    "index": 9,
+    "answer": "A",
+    "context": "art. 119 k.c."
+  },
+  {
+    "index": 10,
+    "answer": "A",
+    "context": "art. 220 k.c.  "
+  },
+  {
+    "index": 11,
+    "answer": "C",
+    "context": "art. 265 \u00a7 1 w zw. z art. 252 k.c. "
+  },
+  {
+    "index": 12,
+    "answer": "C",
+    "context": "art. 336 k.c."
+  },
+  {
+    "index": 13,
+    "answer": "C",
+    "context": "art. 411 pkt 3 k.c. "
+  },
+  {
+    "index": 14,
+    "answer": "B",
+    "context": "art. 445 \u00a7 3 k.c. "
+  },
+  {
+    "index": 15,
+    "answer": "B",
+    "context": "art. 483 \u00a7 1 k.c."
+  },
+  {
+    "index": 16,
+    "answer": "C",
+    "context": "art. 519 \u00a7 2 pkt 1 k.c."
+  },
+  {
+    "index": 17,
+    "answer": "B",
+    "context": "art. 593 \u00a7 2 k.c."
+  },
+  {
+    "index": 18,
+    "answer": "A",
+    "context": "art. 604 k.c."
+  },
+  {
+    "index": 19,
+    "answer": "C",
+    "context": "art. 678 \u00a7 2 k.c.  "
+  },
+  {
+    "index": 20,
+    "answer": "A",
+    "context": "art. 723 k.c.  "
+  },
+  {
+    "index": 21,
+    "answer": "B",
+    "context": "art. 867 \u00a7 1 k.c."
+  },
+  {
+    "index": 22,
+    "answer": "C",
+    "context": "art. 916 k.c.  "
+  },
+  {
+    "index": 23,
+    "answer": "A",
+    "context": "art. 927 \u00a7 3 k.c."
+  },
+  {
+    "index": 24,
+    "answer": "C",
+    "context": "art. 933 k.c."
+  },
+  {
+    "index": 25,
+    "answer": "C",
+    "context": "art. 944 \u00a7 2 k.c."
+  },
+  {
+    "index": 26,
+    "answer": "B",
+    "context": "art. 971 k.c."
+  },
+  {
+    "index": 27,
+    "answer": "B",
+    "context": "art. 981 w zw. z art. 970 k.c. "
+  },
+  {
+    "index": 28,
+    "answer": "C",
+    "context": "art. 1012 k.c. "
+  },
+  {
+    "index": 29,
+    "answer": "C",
+    "context": "art. 1045 k.c. "
+  },
+  {
+    "index": 30,
+    "answer": "C",
+    "context": "art. 1048 k.c."
+  },
+  {
+    "index": 31,
+    "answer": "A",
+    "context": "art. 1052 \u00a7 1 i 3 k.c. "
+  },
+  {
+    "index": 32,
+    "answer": "B",
+    "context": "art. 6 ust. 1 ustawy z dnia 6 lipca 1982 r. o ksi\u0119gach wieczystych i hipotece"
+  },
+  {
+    "index": 33,
+    "answer": "A",
+    "context": "art. 21 ustawy z dnia 6 lipca 1982 r. o ksi\u0119gach wieczystych i hipotece"
+  },
+  {
+    "index": 34,
+    "answer": "C",
+    "context": "art. 32 ust. 3 ustawy z dnia 6 lipca 1982 r. o ksi\u0119gach wieczystych i hipotece"
+  },
+  {
+    "index": 35,
+    "answer": "B",
+    "context": "art. 65 ust. 2 pkt 3 ustawy z dnia 6 lipca 1982 r. o ksi\u0119gach wieczystych i hipotece"
+  },
+  {
+    "index": 36,
+    "answer": "C",
+    "context": "art. 72 ustawy z dnia 6 lipca 1982 r. o ksi\u0119gach wieczystych i hipotece"
+  },
+  {
+    "index": 37,
+    "answer": "C",
+    "context": "art. 1 ust. 2 pkt 1 ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomo\u015bci przez cudzoziemc\u00f3w  "
+  },
+  {
+    "index": 38,
+    "answer": "A",
+    "context": "art. 3 ust. 2 ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomo\u015bci przez cudzoziemc\u00f3w "
+  },
+  {
+    "index": 39,
+    "answer": "A",
+    "context": "art. 8a ust. 1 pkt 1 ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomo\u015bci przez cudzoziemc\u00f3w "
+  },
+  {
+    "index": 40,
+    "answer": "A",
+    "context": "art. 2 pkt 1 ustawy z dnia 11 kwietnia 2003 r. o kszta\u0142towaniu ustroju rolnego"
+  },
+  {
+    "index": 41,
+    "answer": "C",
+    "context": "art. 19a ust. 1 ustawy z dnia 21 czerwca 2001 r o ochronie praw lokator\u00f3w, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego"
+  },
+  {
+    "index": 42,
+    "answer": "B",
+    "context": "art. 6 ustawy z dnia 24 czerwca 1994 r. o w\u0142asno\u015bci lokali "
+  },
+  {
+    "index": 43,
+    "answer": "A",
+    "context": "art. 7 ust. 2 ustawy z dnia 24 czerwca 1994 r. o w\u0142asno\u015bci lokali "
+  },
+  {
+    "index": 44,
+    "answer": "B",
+    "context": "art. 24 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomo\u015bciami "
+  },
+  {
+    "index": 45,
+    "answer": "C",
+    "context": "art. 46 ust. 4 pkt 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomo\u015bciami "
+  },
+  {
+    "index": 46,
+    "answer": "A",
+    "context": "art. 80 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomo\u015bciami"
+  },
+  {
+    "index": 47,
+    "answer": "B",
+    "context": "art. 109 ust. 3 pkt 5 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomo\u015bciami "
+  },
+  {
+    "index": 48,
+    "answer": "B",
+    "context": "art. 22  ustawy z dnia 16 wrze\u015bnia 1982 r. \u2013 Prawo sp\u00f3\u0142dzielcze"
+  },
+  {
+    "index": 49,
+    "answer": "B",
+    "context": "art. 45 \u00a7 1 ustawy z dnia 16 wrze\u015bnia 1982 r. \u2013 Prawo sp\u00f3\u0142dzielcze"
+  },
+  {
+    "index": 50,
+    "answer": "B",
+    "context": "art. 82 ust. 3 ustawy z dnia 15 grudnia 2000 r. o sp\u00f3\u0142dzielniach mieszkaniowych"
+  },
+  {
+    "index": 51,
+    "answer": "B",
+    "context": "art. 16 ust. 1 ustawy z dnia 15 grudnia 2000 r. o sp\u00f3\u0142dzielniach mieszkaniowych"
+  },
+  {
+    "index": 52,
+    "answer": "C",
+    "context": "art. 19 ust. 2 ustawy z dnia 5 lipca 2018 r. o zarz\u0105dzie sukcesyjnym przedsi\u0119biorstwem osoby fizycznej i innych u\u0142atwieniach zwi\u0105zanych z sukcesj\u0105 przedsi\u0119biorstw "
+  },
+  {
+    "index": 53,
+    "answer": "A",
+    "context": "art. 17 pkt 4 w zw. z art. 16 \u00a7 1 k.p.c."
+  },
+  {
+    "index": 54,
+    "answer": "B",
+    "context": "art. 94 \u00a7 1 k.p.c."
+  },
+  {
+    "index": 55,
+    "answer": "A",
+    "context": "art. 163 \u00a7 1 k.p.c."
+  },
+  {
+    "index": 56,
+    "answer": "C",
+    "context": "art. 171 k.p.c."
+  },
+  {
+    "index": 57,
+    "answer": "A",
+    "context": "art. 199 \u00a7 1 pkt 2 k.p.c."
+  },
+  {
+    "index": 58,
+    "answer": "B",
+    "context": "art. 245 k.p.c."
+  },
+  {
+    "index": 59,
+    "answer": "B",
+    "context": "art. 316 \u00a7 1 k.p.c."
+  },
+  {
+    "index": 60,
+    "answer": "C",
+    "context": "art. 344 \u00a7 1 k.p.c."
+  },
+  {
+    "index": 61,
+    "answer": "C",
+    "context": "art. 3982 \u00a7 1 i 2 pkt 1 k.p.c."
+  },
+  {
+    "index": 62,
+    "answer": "A",
+    "context": "art. 408 k.p.c."
+  },
+  {
+    "index": 63,
+    "answer": "B",
+    "context": "art. 6 \u00a7 1 k.r. i o."
+  },
+  {
+    "index": 64,
+    "answer": "B",
+    "context": "art. 10 \u00a7 1 k.r. i o."
+  },
+  {
+    "index": 65,
+    "answer": "A",
+    "context": "art. 33 pkt 2 k.r. i o."
+  },
+  {
+    "index": 66,
+    "answer": "C",
+    "context": "art. 94 \u00a7 3 k.r. i o."
+  },
+  {
+    "index": 67,
+    "answer": "B",
+    "context": "art. 102 w zw. z art. 101 \u00a7 2 k.r. i o."
+  },
+  {
+    "index": 68,
+    "answer": "C",
+    "context": "art. 103 k.r. i o."
+  },
+  {
+    "index": 69,
+    "answer": "B",
+    "context": "art. 18a ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastaw\u00f3w"
+  },
+  {
+    "index": 70,
+    "answer": "A",
+    "context": "art. 22 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze S\u0105dowym "
+  },
+  {
+    "index": 71,
+    "answer": "B",
+    "context": "art. 6 pkt 3 ustawy z dnia 28 lutego 2003 r. \u2013 Prawo upad\u0142o\u015bciowe "
+  },
+  {
+    "index": 72,
+    "answer": "B",
+    "context": "art. 74 ust. 2 ustawy z dnia 28 lutego 2003 r. \u2013 Prawo upad\u0142o\u015bciowe "
+  },
+  {
+    "index": 73,
+    "answer": "C",
+    "context": "art. 78 ustawy z dnia 28 lutego 2003 r. \u2013 Prawo upad\u0142o\u015bciowe"
+  },
+  {
+    "index": 74,
+    "answer": "B",
+    "context": "art. 105 ustawy z dnia 28 lutego 2003 r. \u2013 Prawo upad\u0142o\u015bciowe "
+  },
+  {
+    "index": 75,
+    "answer": "B",
+    "context": "art. 146 ust. 1 ustawy z dnia 28 lutego 2003 r. \u2013 Prawo upad\u0142o\u015bciowe "
+  },
+  {
+    "index": 76,
+    "answer": "B",
+    "context": "art. 70 ustawy z dnia 28 kwietnia 1936 r. \u2013 Prawo wekslowe"
+  },
+  {
+    "index": 77,
+    "answer": "B",
+    "context": "art. 96 ustawy z dnia 28 kwietnia 1936 r. \u2013 Prawo wekslowe"
+  },
+  {
+    "index": 78,
+    "answer": "C",
+    "context": "art. 7 ust. 1 pkt 3 ustawy z dnia 6 marca 2018 r. \u2013 Prawo przedsi\u0119biorc\u00f3w"
+  },
+  {
+    "index": 79,
+    "answer": "A",
+    "context": "art. 19 ustawy z dnia 6 marca 2018 r. \u2013 Prawo przedsi\u0119biorc\u00f3w"
+  },
+  {
+    "index": 80,
+    "answer": "A",
+    "context": "art. 29 ust. 1 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Dzia\u0142alno\u015bci Gospodarczej i Punkcie Informacji dla Przedsi\u0119biorcy"
+  },
+  {
+    "index": 81,
+    "answer": "\t",
+    "context": "\tart. 49 ust. 2 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Dzia\u0142alno\u015bci Gospodarczej i Punkcie Informacji dla Przedsi\u0119biorcy"
+  },
+  {
+    "index": 82,
+    "answer": "B",
+    "context": "art. 1 \u00a7 2 k.s.h. "
+  },
+  {
+    "index": 83,
+    "answer": "A",
+    "context": "art. 12 k.s.h. "
+  },
+  {
+    "index": 84,
+    "answer": "B",
+    "context": "art. 14 \u00a7 1 k.s.h. "
+  },
+  {
+    "index": 85,
+    "answer": "C",
+    "context": "art. 41 \u00a7 2 k.s.h."
+  },
+  {
+    "index": 86,
+    "answer": "C",
+    "context": "art. 97 \u00a7 3 k.s.h."
+  },
+  {
+    "index": 87,
+    "answer": "A",
+    "context": "art. 100 \u00a7 1 k.s.h."
+  },
+  {
+    "index": 88,
+    "answer": "C",
+    "context": "art. 145 \u00a7 2 k.s.h."
+  },
+  {
+    "index": 89,
+    "answer": "A",
+    "context": "art. 151 \u00a7 1 k.s.h."
+  },
+  {
+    "index": 90,
+    "answer": "B",
+    "context": "art. 175 \u00a7 1 k.s.h."
+  },
+  {
+    "index": 91,
+    "answer": "C",
+    "context": "art. 202 \u00a7 6 k.s.h."
+  },
+  {
+    "index": 92,
+    "answer": "C",
+    "context": "art. 3006 k.s.h."
+  },
+  {
+    "index": 93,
+    "answer": "B",
+    "context": "art. 3009 \u00a7 1 k.s.h."
+  },
+  {
+    "index": 94,
+    "answer": "A",
+    "context": "art. 300122 \u00a7 1 k.s.h."
+  },
+  {
+    "index": 95,
+    "answer": "A",
+    "context": "art. 303 \u00a7 2 k.s.h. "
+  },
+  {
+    "index": 96,
+    "answer": "B",
+    "context": "art. 385 \u00a7 1 k.s.h."
+  },
+  {
+    "index": 97,
+    "answer": "B",
+    "context": "art. 444 \u00a7 3 k.s.h."
+  },
+  {
+    "index": 98,
+    "answer": "\t",
+    "context": "\tart. 3 k.p."
+  },
+  {
+    "index": 99,
+    "answer": "B",
+    "context": "art. 184 \u00a7 1 k.p."
+  },
+  {
+    "index": 100,
+    "answer": "\t",
+    "context": "\tart. 83 ust. 1 pkt 2 i ust. 2 ustawy z dnia 13 pa\u017adziernika          1998 r. o systemie ubezpiecze\u0144 spo\u0142ecznych"
+  },
+  {
+    "index": 101,
+    "answer": "A",
+    "context": "art. 7 ust. 1 ustawy z dnia 6 sierpnia 2010 r. o dowodach osobistych"
+  },
+  {
+    "index": 102,
+    "answer": "C",
+    "context": "art. 4 w zw. z art. 3 pkt 11 ustawy z dnia 7 lipca 1994 r. \u2013 Prawo budowlane"
+  },
+  {
+    "index": 103,
+    "answer": "A",
+    "context": "art. 90 ust. 1 ustawy z dnia 8 marca 1990 r. o samorz\u0105dzie gminnym"
+  },
+  {
+    "index": 104,
+    "answer": "B",
+    "context": "art. 12 pkt 8 lit. f ustawy z dnia 5 czerwca 1998 r. o samorz\u0105dzie powiatowym"
+  },
+  {
+    "index": 105,
+    "answer": "C",
+    "context": "art. 17 ustawy z dnia 5 czerwca 1998 r. o samorz\u0105dzie wojew\u00f3dztwa"
+  },
+  {
+    "index": 106,
+    "answer": "B",
+    "context": "art. 29 ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym"
+  },
+  {
+    "index": 107,
+    "answer": "A",
+    "context": "art. 2 ust. 3 w zw. z art. 5 ust. 1 pkt 1 ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomo\u015bci "
+  },
+  {
+    "index": 108,
+    "answer": "A",
+    "context": "art. 90 ust. 1 ustawy z dnia 28 listopada 2014 r. \u2013 Prawo o aktach stanu cywilnego"
+  },
+  {
+    "index": 109,
+    "answer": "B",
+    "context": "art. 31 \u00a7 1 k.p.a."
+  },
+  {
+    "index": 110,
+    "answer": "A",
+    "context": "art. 111 \u00a7 1 k.p.a."
+  },
+  {
+    "index": 111,
+    "answer": "A",
+    "context": "art. 145 \u00a7 1 pkt 2 k.p.a."
+  },
+  {
+    "index": 112,
+    "answer": "A",
+    "context": "art. 145aa \u00a7 2 k.p.a."
+  },
+  {
+    "index": 113,
+    "answer": "B",
+    "context": "art. 163b \u00a7 1 k.p.a."
+  },
+  {
+    "index": 114,
+    "answer": "A",
+    "context": "art. 57a w zw. z art. 134 \u00a7 1 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi"
+  },
+  {
+    "index": 115,
+    "answer": "C",
+    "context": "art. 106 \u00a7 3 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi"
+  },
+  {
+    "index": 116,
+    "answer": "C",
+    "context": "art. 142 \u00a7 2 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi"
+  },
+  {
+    "index": 117,
+    "answer": "A",
+    "context": "art. 161 \u00a7 1 pkt 1 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi"
+  },
+  {
+    "index": 118,
+    "answer": "C",
+    "context": "art. 210 \u00a7 1 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi"
+  },
+  {
+    "index": 119,
+    "answer": "A",
+    "context": "art. 285f \u00a7 1 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi"
+  },
+  {
+    "index": 120,
+    "answer": "C",
+    "context": "art. 2 ust. 2 ustawy z dnia 4 lutego 2011 r. \u2013 Prawo prywatne mi\u0119dzynarodowe "
+  },
+  {
+    "index": 121,
+    "answer": "A",
+    "context": "art. 18 ust. 1 ustawy z dnia 4 lutego 2011 r. \u2013 Prawo prywatne mi\u0119dzynarodowe"
+  },
+  {
+    "index": 122,
+    "answer": "C",
+    "context": "art. 5 ust. 1 Traktatu z dnia 7 lutego 1992 r. o Unii Europejskiej \u2013 tekst skonsolidowany uwzgl\u0119dniaj\u0105cy zmiany wprowadzone Traktatem z Lizbony"
+  },
+  {
+    "index": 123,
+    "answer": "C",
+    "context": "art. 3 ust. 1 lit. a Traktatu z dnia 25 marca 1957 r. o funkcjonowaniu Unii Europejskiej \u2013 tekst skonsolidowany uwzgl\u0119dniaj\u0105cy zmiany wprowadzone Traktatem z Lizbony "
+  },
+  {
+    "index": 124,
+    "answer": "B",
+    "context": "art. 13 \u00a7 1 pkt 3 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa"
+  },
+  {
+    "index": 125,
+    "answer": "A",
+    "context": "art. 14f \u00a7 1 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa"
+  },
+  {
+    "index": 126,
+    "answer": "C",
+    "context": "art. 19 \u00a7 1 pkt 5 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa"
+  },
+  {
+    "index": 127,
+    "answer": "B",
+    "context": "art. 199a \u00a7 3 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa"
+  },
+  {
+    "index": 128,
+    "answer": "A",
+    "context": "art. 17a ust. 3 ustawy z dnia 28 lipca 1983 r. o podatku od spadk\u00f3w i darowizn"
+  },
+  {
+    "index": 129,
+    "answer": "B",
+    "context": "art. 11a ust. 3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od os\u00f3b fizycznych"
+  },
+  {
+    "index": 130,
+    "answer": "B",
+    "context": "art. 9 pkt 6 ustawy z dnia 9 wrze\u015bnia 2000 r. o podatku od czynno\u015bci cywilnoprawnych "
+  },
+  {
+    "index": 131,
+    "answer": "A",
+    "context": "art. 10 ust. 3a pkt 2 ustawy z dnia 9 wrze\u015bnia 2000 r. o podatku od czynno\u015bci cywilnoprawnych "
+  },
+  {
+    "index": 132,
+    "answer": "C",
+    "context": "art. 17 ust. 1 Konstytucji Rzeczypospolitej Polskiej"
+  },
+  {
+    "index": 133,
+    "answer": "A",
+    "context": "art. 98 ust. 3 Konstytucji Rzeczypospolitej Polskiej"
+  },
+  {
+    "index": 134,
+    "answer": "B",
+    "context": "art. 153 ust. 2 Konstytucji Rzeczypospolitej Polskiej"
+  },
+  {
+    "index": 135,
+    "answer": "C",
+    "context": "art. 200 Konstytucji Rzeczypospolitej Polskiej"
+  },
+  {
+    "index": 136,
+    "answer": "C",
+    "context": "art. 12 \u00a7 1 ustawy z dnia 8 grudnia 2017 r. o S\u0105dzie Najwy\u017cszym"
+  },
+  {
+    "index": 137,
+    "answer": "A",
+    "context": "art. 81 ustawy z dnia 8 grudnia 2017 r. o S\u0105dzie Najwy\u017cszym   "
+  },
+  {
+    "index": 138,
+    "answer": "C",
+    "context": "art. 87 \u00a7 1 ustawy z dnia 8 grudnia 2017 r. o S\u0105dzie Najwy\u017cszym"
+  },
+  {
+    "index": 139,
+    "answer": "B",
+    "context": "art. 2 \u00a7 1 i 1a ustawy z dnia 27 lipca 2001 r. \u2013 Prawo o ustroju s\u0105d\u00f3w powszechnych"
+  },
+  {
+    "index": 140,
+    "answer": "C",
+    "context": "art. 21 \u00a7 1 pkt 2 ustawy z dnia 27 lipca 2001 r. \u2013 Prawo o ustroju s\u0105d\u00f3w powszechnych"
+  },
+  {
+    "index": 141,
+    "answer": "\t",
+    "context": "\tart. 84 \u00a7 1 ustawy z dnia 27 lipca 2001 r. \u2013 Prawo o ustroju s\u0105d\u00f3w powszechnych"
+  },
+  {
+    "index": 142,
+    "answer": "B",
+    "context": "art. 13 \u00a7 2 ustawy z dnia 28 stycznia 2016 r. \u2013 Prawo o prokuraturze"
+  },
+  {
+    "index": 143,
+    "answer": "C",
+    "context": "art. 27 pkt 1 ustawy z dnia 14 lutego 1991 r. \u2013 Prawo o notariacie"
+  },
+  {
+    "index": 144,
+    "answer": "C",
+    "context": "art. 40 \u00a7 1 pkt 8 ustawy z dnia 14 lutego 1991 r. \u2013 Prawo o notariacie"
+  },
+  {
+    "index": 145,
+    "answer": "B",
+    "context": "art. 44 \u00a7 3 ustawy z dnia 14 lutego 1991 r. \u2013 Prawo o notariacie"
+  },
+  {
+    "index": 146,
+    "answer": "A",
+    "context": "art. 74a \u00a7 6 ustawy z dnia 14 lutego 1991 r. \u2013 Prawo o notariacie"
+  },
+  {
+    "index": 147,
+    "answer": "C",
+    "context": "art. 78a \u00a7 1 pkt 3 ustawy z dnia 14 lutego 1991 r. \u2013 Prawo o notariacie"
+  },
+  {
+    "index": 148,
+    "answer": "C",
+    "context": "art. 84 \u00a7 1 pkt 4 i \u00a7 2 ustawy z dnia 14 lutego 1991 r. \u2013 Prawo o notariacie"
+  },
+  {
+    "index": 149,
+    "answer": "B",
+    "context": "art. 95da \u00a7 1 ustawy z dnia 14 lutego 1991 r. \u2013  Prawo o notariacie"
+  },
+  {
+    "index": 150,
+    "answer": "C",
+    "context": "art. 16 ust. 2 pkt 1 ustawy z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich   "
+  }
+]
