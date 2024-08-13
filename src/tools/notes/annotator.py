@@ -1,8 +1,16 @@
 import json
-from src.utils.utils import get_project_root
+import re
+
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_openai import ChatOpenAI
+
+
+from src.utils.utils import get_project_root, extract_id_from_article_content
+import src.secrets
 
 civil_articles_path = get_project_root() / "documents" / "legal_acts" / "civil_code" / "source.json"
-
+output_file_path = "civil_code_annotated.txt"
 
 class Annotator:
     system_prompt = """
@@ -24,12 +32,43 @@ class Annotator:
         ważność czynności prawnej, osoba ograniczona w zdolności do czynności prawnych, przedstawiciel ustawowy
         """
 
-    def __init__(self):
-        pass
+
+    def __init__(self, model="gpt-3.5-turbo-0125", temperature=0):
+        self.model = model
+        self.temperature = temperature
+
+        llm = ChatOpenAI(model=model, temperature=temperature)
+        prompt = ChatPromptTemplate.from_messages([
+            ("system", self.system_prompt),
+            ("user", "{article}")
+        ])
+        output_parser = StrOutputParser()
+        self.chain = prompt | llm | output_parser
+
+    def annotate_article(self, article_content):
+        return self.chain.invoke({"article": article_content})
+
 
 if __name__ == '__main__':
     with open(civil_articles_path, "r") as f:
         articles = json.load(f)
 
+    annotator = Annotator()
+    annotations = []
     for article in articles:
+        annotation = annotator.annotate_article(article['content'])
+        print("=======ARTICLE=======")
         print(article['content'])
+        article_id = extract_id_from_article_content(article['content'])
+        article_with_annotation = f"{article_id} {annotation}"
+
+        print("=======ANNOTATION=======")
+        print(article_with_annotation)
+        print()
+
+        annotations.append(article_with_annotation)
+
+    text = "\n".join(annotations)
+
+    with open(output_file_path, "w") as f:
+        f.write(text)

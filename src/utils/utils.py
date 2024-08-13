@@ -1,3 +1,4 @@
+import re
 from pathlib import Path
 
 def get_project_root() -> Path:
@@ -6,6 +7,9 @@ def get_project_root() -> Path:
 def get_runs_directory() -> Path:
     return get_project_root() / "runs"
 
+def extract_id_from_article_content(article_content):
+    result = re.search("Art. [0-9]*.", article_content)
+    return result.group()
 
 def get_example_question() -> dict:
     return {
