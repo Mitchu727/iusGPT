@@ -9,20 +9,38 @@ os.environ["OPENAI_API_KEY"] = OPEN_API_KEY
 
 
 class Judge:
+    system_prompt = """You are an assistant designed to evaluate answers from a Polish Civil Code exam. The exam consists of questions or incomplete sentences, each followed by three possible answers labeled 'a', 'b', and 'c'.
+            
+            Students are required to:
+            
+                Choose the correct answer.
+                Refer to the appropriate Civil Code article(s) that support their chosen answer.
+            
+            For each student submission, you will be provided with:
+            
+                The question or incomplete sentence.
+                The student's chosen answer.
+                The correct answer.
+                The correct Civil Code article reference(s).
+            
+            Your task is to evaluate the student's response and provide a JSON output with two key-value pairs:
+            
+                answer_is_correct: A boolean (true or false) indicating whether the student's chosen answer is correct.
+                article_is_correct: A boolean (true or false) indicating whether the student correctly referred to the appropriate Civil Code article(s).
+                    If the student references more articles than necessary but includes the correct one, return true.
+                    If the student fails to reference any article, return false.
+            
+            Important: Ensure that your evaluation is precise. For example, if the student's chosen answer is incorrect but matches the article they referenced, answer_is_correct should still be false, even if the article they referred to is relevant to their incorrect answer.
+            
+            Your response should be in strict JSON format, starting and ending with curly braces.
+            """
     def __init__(self, model="gpt-3.5-turbo-0125", temperature=0):
+        self.model = model
+        self.temperature = temperature
+
         llm = ChatOpenAI(model=model, temperature=temperature)
         prompt = ChatPromptTemplate.from_messages([
-            ("system", """You are an assistant designed to evaluate answers from a Polish Civil Code exam. The exam 
-            includes questions or incomplete sentences followed by three possible answers labeled 'a', 'b', and 'c'.
-
-            Students must choose the correct answer and refer to the appropriate Civil Code article. You will be 
-            provided with the question, the student's answer, the correct answer, and the correct article reference.
-
-            Your response should be in JSON format and include two parts:
-            - answer_is_correct: A boolean indicating whether the student chose the correct answer.
-            - article_is_correct: A boolean indicating whether the student referred to the correct article. 
-            If the student referred to more articles than needed but included the correct one, return true.
-            """),
+            ("system", self.system_prompt),
             ("user", "{formatted_question}")
         ])
         self.human_prompt_template = """

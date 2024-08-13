@@ -15,6 +15,12 @@ def get_civil_questions_and_answers_from_directory(directory, lower_index, upper
     with open(answers_path, 'r') as f:
         answers_from_file = json.load(f)
 
+    for question in questions_from_file:
+        question["dataset"] = directory
+
+    for answer in answers_from_file:
+        answer["dataset"] = directory
+
     return questions_from_file[lower_index:upper_index], answers_from_file[lower_index:upper_index]
 
 
