@@ -22,7 +22,7 @@ with open(answers_path, "r") as f:
 # evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)  # 25, 7
 # evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0, 75)  # 45, 47
 # evaluated_flow = SimpleRagFlow("gpt-4o", 0)  # 59, 63
-evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0, 25)  # 56, 52  # 116, 114
+evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0, 100)  # 56, 52  # 116, 114
 # evaluated_flow = ReactRagFlow("gpt-4o-mini", 0)  # 49, 55
 # evaluated_flow = ReactRagFlow("gpt-3.5-turbo-0125", 0)  # 44, 41
 # evaluated_flow = ConceptFlow(

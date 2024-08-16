@@ -44,10 +44,8 @@ class EvaluationLogger:
             if len(self.results) == 1:
                 header = result.keys()
                 csv_writer.writerow(header)
-            try:
-                csv_writer.writerow(result.values())
-            except:
-                print(result)
+            csv_writer.writerow(result.values())
+
 
 
     @staticmethod
