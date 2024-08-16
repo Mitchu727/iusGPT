@@ -3,7 +3,6 @@ from langchain_core.prompts import ChatPromptTemplate, SystemMessagePromptTempla
     HumanMessagePromptTemplate
 from langchain_core.tools import create_retriever_tool
 from langchain_openai import ChatOpenAI
-
 from src.flows.flow_interface import FlowInterface
 
 from src.tools.retriever.chroma import load_articles_as_documents, create_chroma_retriever
@@ -11,12 +10,13 @@ from src.tools.retriever.chroma import load_articles_as_documents, create_chroma
 
 class SimpleRagFlow(FlowInterface):
 
-    def __init__(self, model="gpt-3.5-turbo-0125", temperature=0):
+    def __init__(self, model="gpt-3.5-turbo-0125", temperature=0, k=10):
         self.model = model
         self.temperature = temperature
+        self.k = k
 
         docs = load_articles_as_documents()
-        retriever = create_chroma_retriever(docs, 10)
+        retriever = create_chroma_retriever(docs, k)
         retriever_tool = create_retriever_tool(
             retriever,
             "civil_code",
@@ -37,7 +37,7 @@ class SimpleRagFlow(FlowInterface):
             MessagesPlaceholder(variable_name='agent_scratchpad')
         ])
         agent = create_tool_calling_agent(llm, tools, prompt)
-        self.agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
+        self.agent_executor = AgentExecutor(agent=agent, tools=tools, stream_runnable=False, verbose=True)
 
 
     def answer_evaluation_question(self, question_dict):
@@ -52,6 +52,7 @@ class SimpleRagFlow(FlowInterface):
         return {
             'model': self.model,
             'temperature': self.temperature,
+            'k': self.k,
             'system_prompt': self.system_prompt,
             'evaluation_prompt_template': self.evaluation_prompt_template,
             'vectorstore': 'chroma'
