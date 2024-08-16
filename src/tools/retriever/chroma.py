@@ -23,7 +23,7 @@ def create_chroma_retriever(docs, k=5):
     # model_name = "BAAI/bge-multilingual-gemma2"
     embedding_function = SentenceTransformerEmbeddings(model_name=model_name)
     db = Chroma.from_documents(docs, embedding_function)
-    # print("There are", db._collection.count(), "documents in the collection")
+    print("There are", db._collection.count(), "documents in the collection")
     retriever = db.as_retriever(search_kwargs={"k": k})
     return retriever
 

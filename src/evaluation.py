@@ -22,14 +22,14 @@ with open(answers_path, "r") as f:
 # evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)  # 25, 7
 # evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0, 75)  # 45, 47
 # evaluated_flow = SimpleRagFlow("gpt-4o", 0)  # 59, 63
-# evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0, 100)  # 56, 52  # 116, 114
+evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0, 25)  # 56, 52  # 116, 114
 # evaluated_flow = ReactRagFlow("gpt-4o-mini", 0)  # 49, 55
 # evaluated_flow = ReactRagFlow("gpt-3.5-turbo-0125", 0)  # 44, 41
-evaluated_flow = ConceptFlow(
-    chapter_selector_model="gpt-4o-mini",
-    article_selector_model="gpt-4o-mini",
-    answering_agent_model="gpt-4o-mini",
-)
+# evaluated_flow = ConceptFlow(
+#     chapter_selector_model="gpt-4o-mini",
+#     article_selector_model="gpt-4o-mini",
+#     answering_agent_model="gpt-4o-mini",
+# )
 
 judge = Judge("gpt-4o-mini", 0)
 
@@ -40,11 +40,11 @@ judge = Judge("gpt-4o-mini", 0)
 
 
 logger = EvaluationLogger(evaluated_flow)
-
+context_used = 0
 correct_answer_count = 0
 correct_article_count = 0
-for i in range(5):
-# for i in range(len(questions)):
+# for i in range(1):
+for i in range(len(questions)):
 # for i in [92, 102, 113]:
     question_dict = questions[i]
     answer_dict = answers[i]
@@ -61,6 +61,7 @@ for i in range(5):
         print(f"Prompt Tokens: {cb.prompt_tokens}")
         print(f"Completion Tokens: {cb.completion_tokens}")
         print(f"Total Cost (USD): ${cb.total_cost}")
+        context_used += cb.total_tokens
     evaluation_result = judge.assess_evaluation_question(question_dict, answer_dict, evaluated_answer)
 
     print("==========ODPOWIEDŹ==========")
@@ -85,6 +86,8 @@ logger.save_end_results(correct_answer_count, correct_article_count, len(questio
 
 print(correct_answer_count)
 print(correct_article_count)
+print(context_used)
+print(context_used/len(questions))
 print(len(questions))
 
 # TODO

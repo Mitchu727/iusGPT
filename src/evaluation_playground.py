@@ -1,6 +1,7 @@
 import json
 
 from src.evaluation_logger import EvaluationLogger
+from src.flows.chunk_flow.article_generator import ArticleKnowledgeGenerator
 from src.flows.concept_flow.concept_flow import ConceptFlow
 from src.flows.simple_rag_flow import SimpleRagFlow
 from src.utils.utils import get_project_root, format_question, format_answer
@@ -23,10 +24,11 @@ with open(answers_path, "r") as f:
 #  - kartkowanie -> to jest oryginalne i tego chciałby promotor
 #  - strojenie promptów do react'a + dodanie narzędzi -> rozwinięcie react'a które dałoby się obronić
 
+article_knowledge_generator = ArticleKnowledgeGenerator()
 
 correct_answer_count = 0
 correct_article_count = 0
-for i in range(5):
+for i in range(25):
 # for i in range(len(questions)):
 # for i in [92, 102, 113]:
     question_dict = questions[i]
@@ -40,12 +42,14 @@ for i in range(5):
     print("==========KOSZTY==========")
     with get_openai_callback() as cb:
         # evaluated_answer = .answer_evaluation_question(question_dict)
+        response = article_knowledge_generator.generate_article_knowledge(question_dict)
         print(f"Total Tokens: {cb.total_tokens}")
         print(f"Prompt Tokens: {cb.prompt_tokens}")
         print(f"Completion Tokens: {cb.completion_tokens}")
         print(f"Total Cost (USD): ${cb.total_cost}")
 
     print("==========ODPOWIEDŹ==========")
+    print(response)
     # print(evaluated_answer)
 
 
