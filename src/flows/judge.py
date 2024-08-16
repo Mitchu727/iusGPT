@@ -31,12 +31,7 @@ class Judge:
                     If the student fails to reference any article, return false.
             
             Important: Ensure that your evaluation is precise. For example, if the student's chosen answer is incorrect but matches the article they referenced, answer_is_correct should still be false, even if the article they referred to is relevant to their incorrect answer.
-            When you are assessing if the answer is correct think step by step:
             
-                1. Extract the chosen answer from students response.
-                2. Compare it to the correct answer
-                3. Decide if they are the same.
-                
             Your response should be in strict JSON format, starting and ending with curly braces.
             """
     def __init__(self, model="gpt-3.5-turbo-0125", temperature=0):
