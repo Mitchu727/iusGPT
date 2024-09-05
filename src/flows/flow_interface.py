@@ -11,7 +11,7 @@ class FlowInterface(ABC):
             2. Provide a detailed explanation for your choice.
             3. Refer to the relevant article(s) in the Polish Civil Code.
 
-            Please ensure your responses are precise and informative. Respond in polish"""
+            Please ensure your responses are precise and informative. Respond in polish."""
 
     evaluation_prompt_template = """
                 Question: {question}

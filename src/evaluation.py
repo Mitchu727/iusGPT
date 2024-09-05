@@ -3,6 +3,7 @@ import json
 from src.evaluation_logger import EvaluationLogger
 from src.flows.concept_flow.concept_flow import ConceptFlow
 from src.flows.simple_rag_flow import SimpleRagFlow
+from src.flows.simple_rag_flow_with_compressor import SimpleRagWithCompressorFlow
 from src.utils.utils import get_project_root, format_question, format_answer
 from src.flows.judge import Judge
 
@@ -20,9 +21,10 @@ with open(answers_path, "r") as f:
 # evaluated_flow = SimpleFlow("gpt-4o-mini", 0)  # 46, 38
 # evaluated_flow = SimpleFlow("gpt-4o", 0)  # 83, 97
 # evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)  # 25, 7
-# evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0, 75)  # 45, 47
+evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0, 50)  # 45, 47
 # evaluated_flow = SimpleRagFlow("gpt-4o", 0)  # 59, 63
-evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0, 100)  # 56, 52  # 116, 114
+# evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0, 100)  # 56, 52  # 116, 114
+# evaluated_flow = SimpleRagWithCompressorFlow("gpt-4o-mini", 0, 100)  # 56, 52  # 116, 114
 # evaluated_flow = ReactRagFlow("gpt-4o-mini", 0)  # 49, 55
 # evaluated_flow = ReactRagFlow("gpt-3.5-turbo-0125", 0)  # 44, 41
 # evaluated_flow = ConceptFlow(
@@ -30,6 +32,7 @@ evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0, 100)  # 56, 52  # 116, 114
 #     article_selector_model="gpt-4o-mini",
 #     answering_agent_model="gpt-4o-mini",
 # )
+# evaluated_flow = SimpleRagWithCompressorFlow("gpt-3.5-turbo-0125", "gpt-3.5-turbo-0125", 0, 50)  # 56, 52  # 116, 114
 
 judge = Judge("gpt-4o-mini", 0)
 
@@ -43,13 +46,15 @@ logger = EvaluationLogger(evaluated_flow)
 context_used = 0
 correct_answer_count = 0
 correct_article_count = 0
-# for i in range(1):
-for i in range(len(questions)):
-# for i in [92, 102, 113]:
+questions_num = 0
+
+# for i in range(len(questions)):
+for i in range(10):
     question_dict = questions[i]
     answer_dict = answers[i]
 
-    print("==========PYTANIE==========")
+    questions_num += 1
+    print(f"==========PYTANIE {questions_num}==========")
     print(format_question(question_dict))
     print("==========PRAWIDŁOWA ODPOWIEDŹ==========")
     print(format_answer(answer_dict))
@@ -82,14 +87,19 @@ for i in range(len(questions)):
         correct_article_count += 1
     logger.log_evaluation_result(question_dict, answer_dict, evaluated_answer, result)
 
+
 logger.save_end_results(correct_answer_count, correct_article_count, len(questions))
 
 print(correct_answer_count)
 print(correct_article_count)
+print(questions_num)
 print(context_used)
-print(context_used/len(questions))
-print(len(questions))
+print(context_used/questions_num)
+# print(len(questions))
 
 # TODO
-# refactor
-# k-means na embeddingach
+# poprawić judge'a
+#  -> wziąć próbkę z błędną oceną
+#  -> zrobić prompt engineering
+# przenieść się na langraph'a
+#
