@@ -2,6 +2,7 @@ import json
 
 from src.evaluation_logger import EvaluationLogger
 from src.flows.concept_flow.concept_flow import ConceptFlow
+from src.flows.simple_flow import SimpleFlow
 from src.flows.simple_rag_flow import SimpleRagFlow
 from src.flows.simple_rag_flow_with_compressor import SimpleRagWithCompressorFlow
 from src.utils.utils import get_project_root, format_question, format_answer
@@ -20,8 +21,8 @@ with open(answers_path, "r") as f:
 
 # evaluated_flow = SimpleFlow("gpt-4o-mini", 0)  # 46, 38
 # evaluated_flow = SimpleFlow("gpt-4o", 0)  # 83, 97
-# evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)  # 25, 7
-evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0, 50)  # 45, 47
+evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)  # 25, 7
+# evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0, 50)  # 45, 47
 # evaluated_flow = SimpleRagFlow("gpt-4o", 0)  # 59, 63
 # evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0, 100)  # 56, 52  # 116, 114
 # evaluated_flow = SimpleRagWithCompressorFlow("gpt-4o-mini", 0, 100)  # 56, 52  # 116, 114
@@ -36,20 +37,14 @@ evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0, 50)  # 45, 47
 
 judge = Judge("gpt-4o-mini", 0)
 
-# TODO
-#  - Knowledge graph -> to ładnie wyląda
-#  - kartkowanie -> to jest oryginalne i tego chciałby promotor
-#  - strojenie promptów do react'a + dodanie narzędzi -> rozwinięcie react'a które dałoby się obronić
-
-
 logger = EvaluationLogger(evaluated_flow)
 context_used = 0
 correct_answer_count = 0
 correct_article_count = 0
 questions_num = 0
 
-# for i in range(len(questions)):
-for i in range(10):
+for i in range(len(questions)):
+# for i in range(10):
     question_dict = questions[i]
     answer_dict = answers[i]
 
@@ -98,8 +93,11 @@ print(context_used/questions_num)
 # print(len(questions))
 
 # TODO
-# poprawić judge'a
+# poprawić judge'a - niski priorytet
 #  -> wziąć próbkę z błędną oceną
 #  -> zrobić prompt engineering
-# przenieść się na langraph'a
-#
+# przenieść się na langraph'a - bardzo wysoki priorytet
+# dodać refleksję
+# dodać mechanizm
+# byż może: dodać wyniki per k
+# dodawać zapytanie do retriever'a
