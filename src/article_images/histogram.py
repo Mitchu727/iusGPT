@@ -29,23 +29,45 @@ if __name__ == "__main__":
         article_length = len(o200k_base_enc.encode(doc))
         o200k_base_lengths.append(article_length)
 
+    (sorted(o200k_base_lengths, reverse=True))
+
     cl100k_base_enc = tiktoken.get_encoding("cl100k_base")
     cl100k_base_lengths = []
     for doc in docs:
         article_length = len(cl100k_base_enc.encode(doc))
         cl100k_base_lengths.append(article_length)
 
-    # print(lengths)
-    # print(len(lengths))
-    # print(mean(lengths))
-    plt.figure(figsize=(6, 3))
-    plt.subplot(1, 2, 1)
-    plt.hist(cl100k_base_lengths, bins = 50)
-    plt.title("cl100k_base encoder")
-    plt.xticks([0, 200, 400, 600, 800, 1000])
-    plt.subplot(1, 2, 2)
-    plt.hist(o200k_base_lengths, bins = 50)
-    plt.title("o200k_base encoder")
-    plt.xticks([0, 200, 400, 600, 800, 1000])
-    # plt.show()
-    plt.savefig("histogram.pdf")
+    context_sum = 0
+    numerator = 0
+    for value in sorted(cl100k_base_lengths, reverse=True):
+        if context_sum < 15835:
+            context_sum += value
+            numerator += 1
+        else:
+            break
+    print(numerator)
+
+    context_sum = 0
+    numerator = 0
+    for value in sorted(cl100k_base_lengths, reverse=False):
+        if context_sum < 15835:
+            context_sum += value
+            numerator += 1
+        else:
+            break
+    print(numerator)
+
+    # # print(lengths)
+    # # print(len(lengths))
+    # # print(mean(lengths))
+    # plt.figure(figsize=(6, 3))
+    # plt.subplot(1, 2, 1)
+    # plt.hist(cl100k_base_lengths, bins = 50)
+    # plt.title("cl100k_base encoder")
+    # plt.xticks([0, 200, 400, 600, 800, 1000])
+    # plt.subplot(1, 2, 2)
+    # plt.hist(o200k_base_lengths, bins = 50)
+    # plt.title("o200k_base encoder")
+    # plt.xticks([0, 200, 400, 600, 800, 1000])
+    # # plt.show()
+    # plt.savefig("histogram.pdf")

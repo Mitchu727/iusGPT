@@ -7,9 +7,11 @@ def get_project_root() -> Path:
 def get_runs_directory() -> Path:
     return get_project_root() / "runs"
 
+
 def extract_id_from_article_content(article_content):
     result = re.search("Art. [0-9]*.", article_content)
     return result.group()
+
 
 def get_example_question() -> dict:
     return {
@@ -19,6 +21,7 @@ def get_example_question() -> dict:
         "b": "małoletni, którzy ukończyli lat dziesięć, oraz osoby ubezwłasnowolnione całkowicie",
         "c": "małoletni, którzy ukończyli lat trzynaście, jeżeli nie zostali ubezwłasnowolnieni całkowicie, oraz osoby ubezwłasnowolnione częściowo"
     }
+
 
 def format_question(question_dict):
     return """Question: {question}

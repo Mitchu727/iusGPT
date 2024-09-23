@@ -2,16 +2,18 @@ import json
 
 from src.evaluation_logger import EvaluationLogger
 from src.flows.concept_flow.concept_flow import ConceptFlow
+from src.flows.multi_agent_flow import MultiAgentFlow
 from src.flows.simple_flow import SimpleFlow
 from src.flows.simple_rag_flow import SimpleRagFlow
-from src.flows.simple_rag_flow_with_compressor import SimpleRagWithCompressorFlow
+from src.flows.simple_rag_search_flow import SimpleRagSearchFlow
 from src.utils.utils import get_project_root, format_question, format_answer
 from src.flows.judge import Judge
+from langchain_community.callbacks import get_openai_callback
+
 
 dataset_path = get_project_root() / "documents" / "evaluation" / "civil_law_exam"
 questions_path = dataset_path / "questions.json"
 answers_path = dataset_path / "answers.json"
-from langchain_community.callbacks import get_openai_callback
 
 with open(questions_path, "r") as f:
     questions = json.load(f)
@@ -21,18 +23,17 @@ with open(answers_path, "r") as f:
 
 # evaluated_flow = SimpleFlow("gpt-4o-mini", 0)  # 46, 38
 # evaluated_flow = SimpleFlow("gpt-4o", 0)  # 83, 97
-evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)  # 25, 7
-# evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0, 50)  # 45, 47
+# evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)  # 25, 7
+
+# evaluated_flow = SimpleRagSearchFlow("gpt-4o-mini", 0, 30)
+# evaluated_flow = SimpleRagSearchFlow("gpt-3.5-turbo-0125", 0, 30) # 11, 4
+evaluated_flow = MultiAgentFlow("gpt-3.5-turbo-0125", 0, 30)
+# evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0, 30)  # 30, 38
+
 # evaluated_flow = SimpleRagFlow("gpt-4o", 0)  # 59, 63
 # evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0, 100)  # 56, 52  # 116, 114
 # evaluated_flow = SimpleRagWithCompressorFlow("gpt-4o-mini", 0, 100)  # 56, 52  # 116, 114
 # evaluated_flow = ReactRagFlow("gpt-4o-mini", 0)  # 49, 55
-# evaluated_flow = ReactRagFlow("gpt-3.5-turbo-0125", 0)  # 44, 41
-# evaluated_flow = ConceptFlow(
-#     chapter_selector_model="gpt-4o-mini",
-#     article_selector_model="gpt-4o-mini",
-#     answering_agent_model="gpt-4o-mini",
-# )
 # evaluated_flow = SimpleRagWithCompressorFlow("gpt-3.5-turbo-0125", "gpt-3.5-turbo-0125", 0, 50)  # 56, 52  # 116, 114
 
 judge = Judge("gpt-4o-mini", 0)
@@ -43,20 +44,17 @@ correct_answer_count = 0
 correct_article_count = 0
 questions_num = 0
 
-for i in range(len(questions)):
-# for i in range(10):
+# for i in range(len(questions)):
+for i in range(50):
     question_dict = questions[i]
     answer_dict = answers[i]
 
     questions_num += 1
-    print(f"==========PYTANIE {questions_num}==========")
-    print(format_question(question_dict))
-    print("==========PRAWIDŁOWA ODPOWIEDŹ==========")
-    print(format_answer(answer_dict))
 
-    print("==========KOSZTY==========")
+
     with get_openai_callback() as cb:
         evaluated_answer = evaluated_flow.answer_evaluation_question(question_dict)
+        print("==========KOSZTY==========")
         print(f"Total Tokens: {cb.total_tokens}")
         print(f"Prompt Tokens: {cb.prompt_tokens}")
         print(f"Completion Tokens: {cb.completion_tokens}")
@@ -64,6 +62,10 @@ for i in range(len(questions)):
         context_used += cb.total_tokens
     evaluation_result = judge.assess_evaluation_question(question_dict, answer_dict, evaluated_answer)
 
+    print(f"==========PYTANIE {questions_num}==========")
+    print(format_question(question_dict))
+    print("==========PRAWIDŁOWA ODPOWIEDŹ==========")
+    print(format_answer(answer_dict))
     print("==========ODPOWIEDŹ==========")
     print(evaluated_answer)
     print("==========KLASYFIKACJA==========")
@@ -81,6 +83,8 @@ for i in range(len(questions)):
     if result["article_is_correct"] is True:
         correct_article_count += 1
     logger.log_evaluation_result(question_dict, answer_dict, evaluated_answer, result)
+
+    # evaluated_flow.save_graph_image(path = logger.get_run_directory(evaluated_flow) / "graph.png")
 
 
 logger.save_end_results(correct_answer_count, correct_article_count, len(questions))
@@ -100,4 +104,3 @@ print(context_used/questions_num)
 # dodać refleksję
 # dodać mechanizm
 # byż może: dodać wyniki per k
-# dodawać zapytanie do retriever'a

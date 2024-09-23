@@ -1,5 +1,6 @@
 from abc import ABC, abstractmethod
-import src.secrets
+import src.secret
+
 
 class FlowInterface(ABC):
     system_prompt = """You are a helpful assistant specializing in Polish civil law. You will receive questions from 

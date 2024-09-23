@@ -3,7 +3,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 
 from src.flows.flow_interface import FlowInterface
-from src.secrets import OPEN_API_KEY
+from src.secret import OPEN_API_KEY
 import os
 
 os.environ["OPENAI_API_KEY"] = OPEN_API_KEY

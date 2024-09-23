@@ -6,6 +6,7 @@ from langchain_openai import ChatOpenAI
 from src.flows.flow_interface import FlowInterface
 
 from src.tools.retriever.chroma import load_articles_as_documents, create_chroma_retriever
+from src.tools.retriever.prefixed_retriever import PrefixedRetriever
 
 
 class SimpleRagFlow(FlowInterface):
@@ -16,7 +17,8 @@ class SimpleRagFlow(FlowInterface):
         self.k = k
 
         docs = load_articles_as_documents()
-        retriever = create_chroma_retriever(docs, k)
+        base_retriever = create_chroma_retriever(docs, k)
+        retriever = PrefixedRetriever(retriever=base_retriever)
         retriever_tool = create_retriever_tool(
             retriever,
             "civil_code",

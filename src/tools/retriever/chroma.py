@@ -30,5 +30,5 @@ def create_chroma_retriever(docs, k=5):
 if __name__ == "__main__":
     docs = load_articles_as_documents()
     retriever = create_chroma_retriever(docs)
-    print(retriever.invoke("ubezwłasnowolnienie"))
-    "Zgodnie z art. 999 Kodeksu cywilnego, fundacja ustanowiona w testamencie przez spadkodawcę może być spadkobiercą, jeżeli zostanie wpisana do rejestru fundacji w ciągu dwóch lat od otwarcia spadku."
+    print(retriever.invoke("zapytanie: ubezwłasnowolnienie"))
+    # "Zgodnie z art. 999 Kodeksu cywilnego, fundacja ustanowiona w testamencie przez spadkodawcę może być spadkobiercą, jeżeli zostanie wpisana do rejestru fundacji w ciągu dwóch lat od otwarcia spadku."

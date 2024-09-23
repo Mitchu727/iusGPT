@@ -5,7 +5,7 @@ import pandas as pd
 
 questions_path = "../documents/evaluation/open_questions.csv"
 vector_agent = VectorDatabaseRetrievalAgent()
-question = "Jaka jest definicja nieruchmości?"
+question = "Jaka jest definicja nieruchomości?"
 #
 # vector_answer = vector_agent.answer(question)
 # print(vector_answer)

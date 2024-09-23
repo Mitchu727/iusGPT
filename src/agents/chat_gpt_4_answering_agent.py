@@ -2,7 +2,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 
 from src.agents.retrieval_agent import RetrievalAgent
-from src.secrets import OPEN_API_KEY
+import src.secret import OPEN_API_KEY
 from langchain_openai import ChatOpenAI
 import os
 

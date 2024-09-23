@@ -6,25 +6,18 @@ from langchain_openai import ChatOpenAI
 from src.flows.flow_interface import FlowInterface
 
 from src.tools.retriever.chroma import load_articles_as_documents, create_chroma_retriever
-from src.tools.retriever.chroma_with_compressor import create_chroma_with_compressor_retriever
+from src.tools.retriever.search_retriever import SearchRetriever
 
 
-class SimpleRagWithCompressorFlow(FlowInterface):
+class SimpleRagSearchFlow(FlowInterface):
 
-    def __init__(
-        self,
-        model="gpt-3.5-turbo-0125",
-        compressor_model="gpt-3.5-turbo-0125",
-        temperature=0,
-        k=10
-    ):
+    def __init__(self, model="gpt-3.5-turbo-0125", temperature=0, k=10):
         self.model = model
-        self.compressor_model = compressor_model
         self.temperature = temperature
         self.k = k
 
         docs = load_articles_as_documents()
-        retriever = create_chroma_with_compressor_retriever(docs, k, compressor_model)
+        retriever = SearchRetriever(k=k)
         retriever_tool = create_retriever_tool(
             retriever,
             "civil_code",
@@ -47,19 +40,16 @@ class SimpleRagWithCompressorFlow(FlowInterface):
         agent = create_tool_calling_agent(llm, tools, prompt)
         self.agent_executor = AgentExecutor(agent=agent, tools=tools, stream_runnable=False, verbose=True)
 
-
     def answer_evaluation_question(self, question_dict):
         formatted_question = self.format_question(question_dict)
         return self.agent_executor.invoke({"input": formatted_question})["output"]
 
-
     def get_flow_name(self):
-        return f"simple_rag_with_compressor_{self.model}_{self.temperature}"
+        return f"simple_rag_{self.model}_{self.temperature}"
 
     def get_flow_parameters(self):
         return {
             'model': self.model,
-            'compressor_model': self.model,
             'temperature': self.temperature,
             'k': self.k,
             'system_prompt': self.system_prompt,

@@ -11,7 +11,7 @@ from langchain_openai import ChatOpenAI
 
 from src.agents.retrieval_agent import RetrievalAgent
 from langchain_community.vectorstores import Chroma
-from src.secrets import OPEN_API_KEY
+import src.secret import OPEN_API_KEY
 from src.utils.utils import get_project_root
 import os
 
