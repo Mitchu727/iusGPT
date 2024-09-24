@@ -4,7 +4,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import HumanMessage, SystemMessage, BaseMessage
 import os
-import src.secret import OPEN_API_KEY
+import src.secretss import OPEN_API_KEY
 import json
 
 class Tagger(ABC):

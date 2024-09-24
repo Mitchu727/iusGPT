@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-import src.secret
+import src.secrets
 
 
 class FlowInterface(ABC):

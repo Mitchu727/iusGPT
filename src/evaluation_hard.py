@@ -44,6 +44,11 @@ correct_answer_count = 0
 correct_article_count = 0
 questions_num = 0
 
+hard_questions_list = [5, 9, 14, 35, 50, 84, 130]
+questions = [questions[i] for i in hard_questions_list]
+answers = [answers[i] for i in hard_questions_list]
+
+
 for i in range(len(questions)):
     question_dict = questions[i]
     answer_dict = answers[i]

@@ -3,10 +3,8 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 
 from src.flows.flow_interface import FlowInterface
-from src.secret import OPEN_API_KEY
+import src.secrets
 import os
-
-os.environ["OPENAI_API_KEY"] = OPEN_API_KEY
 
 
 class SimpleFlow(FlowInterface):

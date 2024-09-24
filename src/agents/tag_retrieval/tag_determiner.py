@@ -2,7 +2,7 @@ from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_core.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
 
-import src.secret import OPEN_API_KEY
+import src.secrets import OPEN_API_KEY
 from src.agents.tag_retrieval.tagger import parse_response_into_tags
 
 class TagDeterminer:

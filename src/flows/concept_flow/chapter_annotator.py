@@ -8,7 +8,7 @@ from langchain_openai import ChatOpenAI
 
 
 from src.utils.utils import get_project_root, extract_id_from_article_content
-import src.secret
+import src.secrets
 
 civil_articles_path = get_project_root() / "documents" / "legal_acts" / "civil_code" / "source.json"
 output_file_path = "chapters_annotated.txt"

@@ -2,10 +2,8 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import PromptTemplate, ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import SystemMessage, HumanMessage
-from src.secret import OPEN_API_KEY
+import src.secrets
 import os
-
-os.environ["OPENAI_API_KEY"] = OPEN_API_KEY
 
 
 class Judge:

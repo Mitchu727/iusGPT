@@ -22,6 +22,15 @@ def get_example_question() -> dict:
         "c": "małoletni, którzy ukończyli lat trzynaście, jeżeli nie zostali ubezwłasnowolnieni całkowicie, oraz osoby ubezwłasnowolnione częściowo"
     }
 
+def get_hard_example_question() -> dict:
+    return {
+        "index": 37,
+        "question": "Zgodnie z Kodeksem cywilnym, własność nieruchomości:",
+        "a": "nie może być przeniesiona pod warunkiem ani z zastrzeżeniem terminu",
+        "b": "nie może być przeniesiona pod warunkiem, ale może być przeniesiona z  zastrzeżeniem terminu",
+        "c": "może być przeniesiona pod warunkiem, ale nie może być przeniesiona z  zastrzeżeniem terminu"
+    }
+
 
 def format_question(question_dict):
     return """Question: {question}
