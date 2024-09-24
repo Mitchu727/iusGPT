@@ -28,9 +28,9 @@ with open(answers_path, "r") as f:
 # evaluated_flow = SimpleRagSearchFlow("gpt-4o-mini", 0, 30)
 # evaluated_flow = SimpleRagSearchFlow("gpt-3.5-turbo-0125", 0, 30) # 11, 4
 # evaluated_flow = MultiAgentFlow("gpt-3.5-turbo-0125", 0, 30)
-# evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0, 30)  # 30, 38
 
 # evaluated_flow = SimpleRagFlow("gpt-4o", 0)  # 59, 63
+# evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0, 30)  # 30, 38
 evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0, 30)  # 56, 52  # 116, 114
 # evaluated_flow = SimpleRagWithCompressorFlow("gpt-4o-mini", 0, 100)  # 56, 52  # 116, 114
 # evaluated_flow = ReactRagFlow("gpt-4o-mini", 0)  # 49, 55
@@ -44,7 +44,7 @@ correct_answer_count = 0
 correct_article_count = 0
 questions_num = 0
 
-hard_questions_list = [5, 9, 14, 35, 50, 84, 130]
+hard_questions_list = [5, 9, 15, 16, 29, 35, 48, 82, 102, 108, 125, 126, 128]
 questions = [questions[i] for i in hard_questions_list]
 answers = [answers[i] for i in hard_questions_list]
 
