@@ -1,1 +1,752 @@
-[{"index": 1, "answer": "B", "context": "art. 15 \u00a7 2 w zw. z art. 15 \u00a7 1 k.k. "}, {"index": 2, "answer": "C", "context": "art. 18 \u00a7 1 k.k."}, {"index": 3, "answer": "B", "context": "art. 18 \u00a7 3 k.k."}, {"index": 4, "answer": "A", "context": "art. 25 \u00a7 3 k.k."}, {"index": 5, "answer": "C", "context": "art. 29 k.k. "}, {"index": 6, "answer": "B", "context": "art. 37b k.k. "}, {"index": 7, "answer": "B", "context": "art. 70 \u00a7 2 w zw. z art. 70 \u00a7 1 k.k."}, {"index": 8, "answer": "B", "context": "art. 93a \u00a7 2 w zw. z art. 39 pkt 2c k.k.  "}, {"index": 9, "answer": "C", "context": "art. 99 w zw. z art. 39 pkt 3 w zw. z art. 31 \u00a7 1 k.k."}, {"index": 10, "answer": "B", "context": "art. 105 \u00a7 2 k.k."}, {"index": 11, "answer": "C", "context": "art. 160 \u00a7 5 w zw. z art. 160 \u00a7 3 i 1 k.k.  "}, {"index": 12, "answer": "B", "context": "art. 278a \u00a7 1 w zw. z art. 115 \u00a7 9a pkt 1 k.k."}, {"index": 13, "answer": "C", "context": "art. 78 \u00a7 2 k.p.k. "}, {"index": 14, "answer": "A", "context": "art. 87 \u00a7 1 i 2 k.p.k. "}, {"index": 15, "answer": "B", "context": "art. 93a \u00a7 1 i 2 k.p.k. "}, {"index": 16, "answer": "B", "context": "art. 99 \u00a7 2 k.p.k. "}, {"index": 17, "answer": "B", "context": "art. 183 \u00a7 2 k.p.k. "}, {"index": 18, "answer": "A", "context": "art. 212 k.p.k. "}, {"index": 19, "answer": "A", "context": "art. 255 k.p.k. "}, {"index": 20, "answer": "A", "context": "art. 408 w zw. z art. 406 \u00a7 1 k.p.k. "}, {"index": 21, "answer": "C", "context": "art. 429 \u00a7 1 k.p.k. "}, {"index": 22, "answer": "C", "context": "art. 539a \u00a7 1 k.p.k. "}, {"index": 23, "answer": "B", "context": "art. 23 \u00a7 2 k.w."}, {"index": 24, "answer": "A", "context": "art. 41 k.w."}, {"index": 25, "answer": "B", "context": "art. 93 \u00a7 1 k.w.  "}, {"index": 26, "answer": "C", "context": "art. 20 \u00a7 1 k.p.s.w. "}, {"index": 27, "answer": "B", "context": "art. 35 \u00a7 2 k.p.s.w."}, {"index": 28, "answer": "B", "context": "art. 18 \u00a7 2 k.k.s."}, {"index": 29, "answer": "C", "context": "art. 19 \u00a7 4 k.k.s. "}, {"index": 30, "answer": "C", "context": "art. 13 \u00a7 2 k.c."}, {"index": 31, "answer": "C", "context": "art. 42 \u00a7 1 k.c."}, {"index": 32, "answer": "B", "context": "art. 441 \u00a7 1 k.c."}, {"index": 33, "answer": "A", "context": "art. 50 k.c."}, {"index": 34, "answer": "B", "context": "art. 62 k.c."}, {"index": 35, "answer": "A", "context": "art. 651 k.c."}, {"index": 36, "answer": "B", "context": "art. 155 \u00a7 1 k.c."}, {"index": 37, "answer": "A", "context": "art. 157 \u00a7 1 k.c."}, {"index": 38, "answer": "C", "context": "art. 202 k.c."}, {"index": 39, "answer": "C", "context": "art. 222 \u00a7 2 k.c."}, {"index": 40, "answer": "A", "context": "art. 231 \u00a7 1 k.c."}, {"index": 41, "answer": "A", "context": "art. 263 k.c."}, {"index": 42, "answer": "B", "context": "art. 3571 k.c. "}, {"index": 43, "answer": "B", "context": "art. 380 \u00a7 2 k.c."}, {"index": 44, "answer": "A", "context": "art. 385 \u00a7 2 k.c."}, {"index": 45, "answer": "\t", "context": "\tart. 387 \u00a7 2 k.c."}, {"index": 46, "answer": "B", "context": "art. 407 w zw. z art. 409 k.c."}, {"index": 47, "answer": "C", "context": "art. 424 k.c."}, {"index": 48, "answer": "A", "context": "art. 4421 \u00a7 4 k.c."}, {"index": 49, "answer": "B", "context": "art. 462 \u00a7 1 i 3 k.c."}, {"index": 50, "answer": "A", "context": "art. 511 k.c."}, {"index": 51, "answer": "A", "context": "art. 720 \u00a7 2 k.c."}, {"index": 52, "answer": "B", "context": "art. 37 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych"}, {"index": 53, "answer": "B", "context": "art. 683 ustawy z dnia 6 lipca 1982 r. o ksi\u0119gach wieczystych i hipotece"}, {"index": 54, "answer": "B", "context": "art. 37 ust. 2 pkt 2 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowi\u0105zkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych"}, {"index": 55, "answer": "A", "context": "art. 23 ustawy z dnia 28 kwietnia 1936 r. \u2013 Prawo wekslowe"}, {"index": 56, "answer": "B", "context": "art. 10a ust. 3 ustawy z dnia 7 kwietnia 1989 r. \u2013 Prawo o stowarzyszeniach"}, {"index": 57, "answer": "A", "context": "art. 1 ust. 11 ustawy z dnia 15 grudnia 2000 r. o sp\u00f3\u0142dzielniach mieszkaniowych"}, {"index": 58, "answer": "A", "context": "art. 38 \u00a7 1 pkt 7 ustawy z dnia 16 wrze\u015bnia 1982 r. \u2013 Prawo sp\u00f3\u0142dzielcze"}, {"index": 59, "answer": "C", "context": "art. 19p ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokator\u00f3w, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego "}, {"index": 60, "answer": "A", "context": "art. 2 ust. 1c ustawy z dnia 24 czerwca 1994 r. o w\u0142asno\u015bci lokali "}, {"index": 61, "answer": "B", "context": "art. 7 ust. 1 ustawy z dnia 24 czerwca 1994 r. o w\u0142asno\u015bci lokali"}, {"index": 62, "answer": "B", "context": "art. 23 ust. 1e ustawy z dnia 21 sierpnia 1997 r.  o gospodarce nieruchomo\u015bciami"}, {"index": 63, "answer": "C", "context": "art. 25d  ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomo\u015bciami"}, {"index": 64, "answer": "B", "context": "art. 7 zdanie drugie k.p.c."}, {"index": 65, "answer": "C", "context": "art. 39 k.p.c."}, {"index": 66, "answer": "C", "context": "art. 52 \u00a7 1 k.p.c."}, {"index": 67, "answer": "A", "context": "art. 1262 \u00a7 2 k.p.c."}, {"index": 68, "answer": "A", "context": "art. 163 \u00a7 1 k.p.c."}, {"index": 69, "answer": "B", "context": "art. 173 k.p.c."}, {"index": 70, "answer": "C", "context": "art. 257 k.p.c."}, {"index": 71, "answer": "B", "context": "art. 2591 k.p.c."}, {"index": 72, "answer": "B", "context": "art. 324 \u00a7 2 k.p.c."}, {"index": 73, "answer": "C", "context": "art. 373 \u00a7 1 k.p.c."}, {"index": 74, "answer": "B", "context": "art. 21 ustawy z dnia 28 lipca 2005 r. o kosztach s\u0105dowych w sprawach cywilnych"}, {"index": 75, "answer": "B", "context": "art. 78 ustawy z dnia 28 lipca 2005 r. o kosztach s\u0105dowych w sprawach cywilnych"}, {"index": 76, "answer": "A", "context": "art. 89c ust. 2 w zw. z art. 89 ust. 1 ustawy z dnia 28 lipca 2005 r. o kosztach s\u0105dowych w sprawach cywilnych"}, {"index": 77, "answer": "C", "context": "art. 54 \u00a7 1 k.r. i o"}, {"index": 78, "answer": "A", "context": "art. 108 k.r. i o"}, {"index": 79, "answer": "B", "context": "art. 137 \u00a7 1 k.r. i o."}, {"index": 80, "answer": "B", "context": "art. 146 k.r. i o."}, {"index": 81, "answer": "A", "context": "art. 3 ust. 1 ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastaw\u00f3w "}, {"index": 82, "answer": "B", "context": "art. 17 ust. 2 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze S\u0105dowym"}, {"index": 83, "answer": "B", "context": "art. 3 ust. 4 pkt 2 ustawy z dnia 15 maja 2015 r. \u2013 Prawo restrukturyzacyjne"}, {"index": 84, "answer": "C", "context": "art. 13 ust. 1 ustawy z dnia 28 lutego 2003 r. \u2013 Prawo upad\u0142o\u015bciowe"}, {"index": 85, "answer": "B", "context": "art. 29 ust. 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsument\u00f3w "}, {"index": 86, "answer": "A", "context": "art. 15 ust. 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta"}, {"index": 87, "answer": "A", "context": "art. 17 ust. 1 i 3 ustawy z dnia 6 marca 2018 r. \u2013 Prawo przedsi\u0119biorc\u00f3w "}, {"index": 88, "answer": "C", "context": "art. 13 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Dzia\u0142alno\u015bci Gospodarczej i Punkcie Informacji dla Przedsi\u0119biorcy"}, {"index": 89, "answer": "A", "context": "art. 54 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Dzia\u0142alno\u015bci Gospodarczej i Punkcie Informacji dla Przedsi\u0119biorcy"}, {"index": 90, "answer": "A", "context": "art. 4 \u00a7 1 pkt 5 k.s.h."}, {"index": 91, "answer": "B", "context": "art. 127 \u00a7 5 k.s.h."}, {"index": 92, "answer": "A", "context": "art. 161 \u00a7 1 k.s.h."}, {"index": 93, "answer": "A", "context": "art. 243 \u00a7 2 k.s.h."}, {"index": 94, "answer": "C", "context": "art. 259 k.s.h."}, {"index": 95, "answer": "C", "context": "art. 373 \u00a7 2 k.s.h."}, {"index": 96, "answer": "B", "context": "art. 531 \u00a7 21 k.s.h."}, {"index": 97, "answer": "B", "context": "art. 569 \u00a7 1 w zw. z art. 551 \u00a7 1 k.s.h."}, {"index": 98, "answer": "A", "context": "art. 42 \u00a7 4 k.p."}, {"index": 99, "answer": "A", "context": "art. 49 k.p."}, {"index": 100, "answer": "B", "context": "art. 683 k.p."}, {"index": 101, "answer": "B", "context": "art. 153 \u00a7 1 k.p."}, {"index": 102, "answer": "C", "context": "art. 16 ust. 1 pkt 6 ustawy z dnia 13 pa\u017adziernika 1998 r. o systemie ubezpiecze\u0144 spo\u0142ecznych"}, {"index": 103, "answer": "B", "context": "art. 11a ust. 1 ustawy z dnia 8 marca 1990 r. o samorz\u0105dzie gminnym"}, {"index": 104, "answer": "A", "context": "art. 15 ust. 5 ustawy z dnia 5 czerwca 1998 r. o samorz\u0105dzie powiatowym"}, {"index": 105, "answer": "C", "context": "art. 44 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorz\u0105dzie wojew\u00f3dztwa"}, {"index": 106, "answer": "C", "context": "art. 27 ust. 1 ustawy z dnia 23 stycznia 2009 r. o wojewodzie i administracji rz\u0105dowej w wojew\u00f3dztwie "}, {"index": 107, "answer": "B", "context": "art. 27 \u00a7 3 k.p.a."}, {"index": 108, "answer": "A", "context": "art. 37 \u00a7 1 pkt 2 k.p.a. "}, {"index": 109, "answer": "C", "context": "art. 89 \u00a7 1 k.p.a."}, {"index": 110, "answer": "B", "context": "art. 96 k.p.a."}, {"index": 111, "answer": "A", "context": "art. 135 k.p.a.  "}, {"index": 112, "answer": "B", "context": "art. 147 k.p.a. w zw. z art. 145a k.p.a."}, {"index": 113, "answer": "B", "context": "art. 239 \u00a7 1 w zw. z art. 228 k.p.a.    "}, {"index": 114, "answer": "C", "context": "art. 257 k.p.a. "}, {"index": 115, "answer": "A", "context": "art. 5 pkt 1 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi "}, {"index": 116, "answer": "C", "context": "art. 22 \u00a7 3 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnym"}, {"index": 117, "answer": "C", "context": "art. 37a ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi "}, {"index": 118, "answer": "A", "context": "art. 42 \u00a7 2 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi "}, {"index": 119, "answer": "A", "context": "art. 123 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi "}, {"index": 120, "answer": "C", "context": "art. 155 \u00a7 1 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi "}, {"index": 121, "answer": "A", "context": "art. 227 \u00a7 2 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi "}, {"index": 122, "answer": "A", "context": "art. 14 ust. 1 Traktatu z dnia 7 lutego 1992 r. o Unii Europejskiej \u2013 tekst uwzgl\u0119dniaj\u0105cy zmiany wprowadzone Traktatem z Lizbony"}, {"index": 123, "answer": "B", "context": "art. 14 ust. 2 Traktatu z dnia 7 lutego 1992 r. o Unii Europejskiej \u2013 tekst uwzgl\u0119dniaj\u0105cy zmiany wprowadzone Traktatem z Lizbony"}, {"index": 124, "answer": "B", "context": "art. 228 ust. 2 Traktatu z dnia 25 marca 1957 r. o funkcjonowaniu Unii Europejskiej \u2013 tekst uwzgl\u0119dniaj\u0105cy zmiany wprowadzone Traktatem z Lizbony"}, {"index": 125, "answer": "B", "context": "art. 253 Traktatu z dnia 25 marca 1957 r. o funkcjonowaniu Unii Europejskiej \u2013 tekst uwzgl\u0119dniaj\u0105cy zmiany wprowadzone Traktatem z Lizbony"}, {"index": 126, "answer": "C", "context": "art. 43 Konstytucji Rzeczypospolitej Polskiej "}, {"index": 127, "answer": "A", "context": "art. 96 ust. 2 Konstytucji Rzeczypospolitej Polskiej  "}, {"index": 128, "answer": "B", "context": "art. 116 ust. 2 Konstytucji Rzeczypospolitej Polskiej  "}, {"index": 129, "answer": "B", "context": "art. 122 ust. 5 Konstytucji Rzeczypospolitej Polskiej  "}, {"index": 130, "answer": "A", "context": "art. 216 ust. 5 Konstytucji Rzeczypospolitej Polskiej  "}, {"index": 131, "answer": "B", "context": "art. 41 ust. 3 w zw. z art. 39 ust. 2 pkt 1 ustawy z dnia 30 listopada 2016 r. o organizacji i trybie post\u0119powania przed Trybuna\u0142em Konstytucyjnym"}, {"index": 132, "answer": "C", "context": "art. 14 ust. 1 pkt 6 ustawy z dnia 12 maja 2011 r. o Krajowej Radzie S\u0105downictwa "}, {"index": 133, "answer": "C", "context": "art. 14 ust. 1 i 2 ustawy z dnia 12 maja 2011 r. o Krajowej Radzie S\u0105downictwa"}, {"index": 134, "answer": "A", "context": "art. 26 \u00a7 3 ustawy z dnia 27 lipca 2001 r. \u2013 Prawo o ustroju s\u0105d\u00f3w powszechnych "}, {"index": 135, "answer": "B", "context": "art. 33 \u00a7 2 ustawy z dnia 27 lipca 2001 r. \u2013 Prawo o ustroju s\u0105d\u00f3w powszechnych "}, {"index": 136, "answer": "B", "context": "art. 37 \u00a7 1 zdanie drugie w zw. z art. 9a \u00a7 1 ustawy z dnia 27 lipca 2001 r. \u2013 Prawo o ustroju s\u0105d\u00f3w powszechnych "}, {"index": 137, "answer": "B", "context": "art. 24 \u00a7 1a ustawy z dnia 25 lipca 2002 r. \u2013 Prawo o ustroju s\u0105d\u00f3w administracyjnych"}, {"index": 138, "answer": "C", "context": "art. 44 \u00a7 1 ustawy z dnia 25 lipca 2002 r. \u2013 Prawo o ustroju s\u0105d\u00f3w administracyjnych"}, {"index": 139, "answer": "A", "context": "art. 74 ustawy z dnia 8 grudnia 2017 r. o S\u0105dzie Najwy\u017cszym "}, {"index": 140, "answer": "C", "context": "art. 64 \u00a7 2 ustawy z dnia 28 stycznia 2016 r. \u2013 Prawo o prokuraturze"}, {"index": 141, "answer": "B", "context": "art. 14 ust. 1 ustawy z dnia 26 maja 1982 r. \u2013 Prawo o adwokaturze"}, {"index": 142, "answer": "A", "context": "art. 72 ust. 1 pkt 5 ustawy z dnia 26 maja 1982 r. \u2013 Prawo o adwokaturze"}, {"index": 143, "answer": "A", "context": "art. 81 ust. 1 pkt 1 ustawy z dnia 26 maja 1982 r. \u2013 Prawo o adwokaturze"}, {"index": 144, "answer": "B", "context": "art. 81 ust. 4 ustawy z dnia 26 maja 1982 r. \u2013 Prawo o adwokaturze"}, {"index": 145, "answer": "A", "context": "art. 222 ustawy z dnia 6 lipca 1982 r. o radcach prawnych"}, {"index": 146, "answer": "C", "context": "art. 29 pkt 3 ustawy z dnia 6 lipca 1982 r. o radcach prawnych"}, {"index": 147, "answer": "C", "context": "art. 60 pkt 4 ustawy z dnia 6 lipca 1982 r. o radcach prawnych"}, {"index": 148, "answer": "C", "context": "art. 683 ust. 2 ustawy z dnia 6 lipca 1982 r. o radcach prawnych"}, {"index": 149, "answer": "A", "context": "art. 7 ust. 3 w zw. z art. 7 ust. 1 pkt 1 ustawy z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich "}, {"index": 150, "answer": "B", "context": "art. 22 ustawy z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich   "}]
+[
+  {
+    "index": 1,
+    "answer": "B",
+    "context": "art. 15 \u00a7 2 w zw. z art. 15 \u00a7 1 k.k. "
+  },
+  {
+    "index": 2,
+    "answer": "C",
+    "context": "art. 18 \u00a7 1 k.k."
+  },
+  {
+    "index": 3,
+    "answer": "B",
+    "context": "art. 18 \u00a7 3 k.k."
+  },
+  {
+    "index": 4,
+    "answer": "A",
+    "context": "art. 25 \u00a7 3 k.k."
+  },
+  {
+    "index": 5,
+    "answer": "C",
+    "context": "art. 29 k.k. "
+  },
+  {
+    "index": 6,
+    "answer": "B",
+    "context": "art. 37b k.k. "
+  },
+  {
+    "index": 7,
+    "answer": "B",
+    "context": "art. 70 \u00a7 2 w zw. z art. 70 \u00a7 1 k.k."
+  },
+  {
+    "index": 8,
+    "answer": "B",
+    "context": "art. 93a \u00a7 2 w zw. z art. 39 pkt 2c k.k.  "
+  },
+  {
+    "index": 9,
+    "answer": "C",
+    "context": "art. 99 w zw. z art. 39 pkt 3 w zw. z art. 31 \u00a7 1 k.k."
+  },
+  {
+    "index": 10,
+    "answer": "B",
+    "context": "art. 105 \u00a7 2 k.k."
+  },
+  {
+    "index": 11,
+    "answer": "C",
+    "context": "art. 160 \u00a7 5 w zw. z art. 160 \u00a7 3 i 1 k.k.  "
+  },
+  {
+    "index": 12,
+    "answer": "B",
+    "context": "art. 278a \u00a7 1 w zw. z art. 115 \u00a7 9a pkt 1 k.k."
+  },
+  {
+    "index": 13,
+    "answer": "C",
+    "context": "art. 78 \u00a7 2 k.p.k. "
+  },
+  {
+    "index": 14,
+    "answer": "A",
+    "context": "art. 87 \u00a7 1 i 2 k.p.k. "
+  },
+  {
+    "index": 15,
+    "answer": "B",
+    "context": "art. 93a \u00a7 1 i 2 k.p.k. "
+  },
+  {
+    "index": 16,
+    "answer": "B",
+    "context": "art. 99 \u00a7 2 k.p.k. "
+  },
+  {
+    "index": 17,
+    "answer": "B",
+    "context": "art. 183 \u00a7 2 k.p.k. "
+  },
+  {
+    "index": 18,
+    "answer": "A",
+    "context": "art. 212 k.p.k. "
+  },
+  {
+    "index": 19,
+    "answer": "A",
+    "context": "art. 255 k.p.k. "
+  },
+  {
+    "index": 20,
+    "answer": "A",
+    "context": "art. 408 w zw. z art. 406 \u00a7 1 k.p.k. "
+  },
+  {
+    "index": 21,
+    "answer": "C",
+    "context": "art. 429 \u00a7 1 k.p.k. "
+  },
+  {
+    "index": 22,
+    "answer": "C",
+    "context": "art. 539a \u00a7 1 k.p.k. "
+  },
+  {
+    "index": 23,
+    "answer": "B",
+    "context": "art. 23 \u00a7 2 k.w."
+  },
+  {
+    "index": 24,
+    "answer": "A",
+    "context": "art. 41 k.w."
+  },
+  {
+    "index": 25,
+    "answer": "B",
+    "context": "art. 93 \u00a7 1 k.w.  "
+  },
+  {
+    "index": 26,
+    "answer": "C",
+    "context": "art. 20 \u00a7 1 k.p.s.w. "
+  },
+  {
+    "index": 27,
+    "answer": "B",
+    "context": "art. 35 \u00a7 2 k.p.s.w."
+  },
+  {
+    "index": 28,
+    "answer": "B",
+    "context": "art. 18 \u00a7 2 k.k.s."
+  },
+  {
+    "index": 29,
+    "answer": "C",
+    "context": "art. 19 \u00a7 4 k.k.s. "
+  },
+  {
+    "index": 30,
+    "answer": "C",
+    "context": "art. 13 \u00a7 2 k.c."
+  },
+  {
+    "index": 31,
+    "answer": "C",
+    "context": "art. 42 \u00a7 1 k.c."
+  },
+  {
+    "index": 32,
+    "answer": "B",
+    "context": "art. 441 \u00a7 1 k.c."
+  },
+  {
+    "index": 33,
+    "answer": "A",
+    "context": "art. 50 k.c."
+  },
+  {
+    "index": 34,
+    "answer": "B",
+    "context": "art. 62 k.c."
+  },
+  {
+    "index": 35,
+    "answer": "A",
+    "context": "art. 651 k.c."
+  },
+  {
+    "index": 36,
+    "answer": "B",
+    "context": "art. 155 \u00a7 1 k.c."
+  },
+  {
+    "index": 37,
+    "answer": "A",
+    "context": "art. 157 \u00a7 1 k.c."
+  },
+  {
+    "index": 38,
+    "answer": "C",
+    "context": "art. 202 k.c."
+  },
+  {
+    "index": 39,
+    "answer": "C",
+    "context": "art. 222 \u00a7 2 k.c."
+  },
+  {
+    "index": 40,
+    "answer": "A",
+    "context": "art. 231 \u00a7 1 k.c."
+  },
+  {
+    "index": 41,
+    "answer": "A",
+    "context": "art. 263 k.c."
+  },
+  {
+    "index": 42,
+    "answer": "B",
+    "context": "art. 3571 k.c. "
+  },
+  {
+    "index": 43,
+    "answer": "B",
+    "context": "art. 380 \u00a7 2 k.c."
+  },
+  {
+    "index": 44,
+    "answer": "A",
+    "context": "art. 385 \u00a7 2 k.c."
+  },
+  {
+    "index": 45,
+    "answer": "A",
+    "context": "art. 387 \u00a7 2 k.c."
+  },
+  {
+    "index": 46,
+    "answer": "B",
+    "context": "art. 407 w zw. z art. 409 k.c."
+  },
+  {
+    "index": 47,
+    "answer": "C",
+    "context": "art. 424 k.c."
+  },
+  {
+    "index": 48,
+    "answer": "A",
+    "context": "art. 4421 \u00a7 4 k.c."
+  },
+  {
+    "index": 49,
+    "answer": "B",
+    "context": "art. 462 \u00a7 1 i 3 k.c."
+  },
+  {
+    "index": 50,
+    "answer": "A",
+    "context": "art. 511 k.c."
+  },
+  {
+    "index": 51,
+    "answer": "A",
+    "context": "art. 720 \u00a7 2 k.c."
+  },
+  {
+    "index": 52,
+    "answer": "B",
+    "context": "art. 37 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych"
+  },
+  {
+    "index": 53,
+    "answer": "B",
+    "context": "art. 683 ustawy z dnia 6 lipca 1982 r. o ksi\u0119gach wieczystych i hipotece"
+  },
+  {
+    "index": 54,
+    "answer": "B",
+    "context": "art. 37 ust. 2 pkt 2 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowi\u0105zkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych"
+  },
+  {
+    "index": 55,
+    "answer": "A",
+    "context": "art. 23 ustawy z dnia 28 kwietnia 1936 r. \u2013 Prawo wekslowe"
+  },
+  {
+    "index": 56,
+    "answer": "B",
+    "context": "art. 10a ust. 3 ustawy z dnia 7 kwietnia 1989 r. \u2013 Prawo o stowarzyszeniach"
+  },
+  {
+    "index": 57,
+    "answer": "A",
+    "context": "art. 1 ust. 11 ustawy z dnia 15 grudnia 2000 r. o sp\u00f3\u0142dzielniach mieszkaniowych"
+  },
+  {
+    "index": 58,
+    "answer": "A",
+    "context": "art. 38 \u00a7 1 pkt 7 ustawy z dnia 16 wrze\u015bnia 1982 r. \u2013 Prawo sp\u00f3\u0142dzielcze"
+  },
+  {
+    "index": 59,
+    "answer": "C",
+    "context": "art. 19p ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokator\u00f3w, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego "
+  },
+  {
+    "index": 60,
+    "answer": "A",
+    "context": "art. 2 ust. 1c ustawy z dnia 24 czerwca 1994 r. o w\u0142asno\u015bci lokali "
+  },
+  {
+    "index": 61,
+    "answer": "B",
+    "context": "art. 7 ust. 1 ustawy z dnia 24 czerwca 1994 r. o w\u0142asno\u015bci lokali"
+  },
+  {
+    "index": 62,
+    "answer": "B",
+    "context": "art. 23 ust. 1e ustawy z dnia 21 sierpnia 1997 r.  o gospodarce nieruchomo\u015bciami"
+  },
+  {
+    "index": 63,
+    "answer": "C",
+    "context": "art. 25d  ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomo\u015bciami"
+  },
+  {
+    "index": 64,
+    "answer": "B",
+    "context": "art. 7 zdanie drugie k.p.c."
+  },
+  {
+    "index": 65,
+    "answer": "C",
+    "context": "art. 39 k.p.c."
+  },
+  {
+    "index": 66,
+    "answer": "C",
+    "context": "art. 52 \u00a7 1 k.p.c."
+  },
+  {
+    "index": 67,
+    "answer": "A",
+    "context": "art. 1262 \u00a7 2 k.p.c."
+  },
+  {
+    "index": 68,
+    "answer": "A",
+    "context": "art. 163 \u00a7 1 k.p.c."
+  },
+  {
+    "index": 69,
+    "answer": "B",
+    "context": "art. 173 k.p.c."
+  },
+  {
+    "index": 70,
+    "answer": "C",
+    "context": "art. 257 k.p.c."
+  },
+  {
+    "index": 71,
+    "answer": "B",
+    "context": "art. 2591 k.p.c."
+  },
+  {
+    "index": 72,
+    "answer": "B",
+    "context": "art. 324 \u00a7 2 k.p.c."
+  },
+  {
+    "index": 73,
+    "answer": "C",
+    "context": "art. 373 \u00a7 1 k.p.c."
+  },
+  {
+    "index": 74,
+    "answer": "B",
+    "context": "art. 21 ustawy z dnia 28 lipca 2005 r. o kosztach s\u0105dowych w sprawach cywilnych"
+  },
+  {
+    "index": 75,
+    "answer": "B",
+    "context": "art. 78 ustawy z dnia 28 lipca 2005 r. o kosztach s\u0105dowych w sprawach cywilnych"
+  },
+  {
+    "index": 76,
+    "answer": "A",
+    "context": "art. 89c ust. 2 w zw. z art. 89 ust. 1 ustawy z dnia 28 lipca 2005 r. o kosztach s\u0105dowych w sprawach cywilnych"
+  },
+  {
+    "index": 77,
+    "answer": "C",
+    "context": "art. 54 \u00a7 1 k.r. i o"
+  },
+  {
+    "index": 78,
+    "answer": "A",
+    "context": "art. 108 k.r. i o"
+  },
+  {
+    "index": 79,
+    "answer": "B",
+    "context": "art. 137 \u00a7 1 k.r. i o."
+  },
+  {
+    "index": 80,
+    "answer": "B",
+    "context": "art. 146 k.r. i o."
+  },
+  {
+    "index": 81,
+    "answer": "A",
+    "context": "art. 3 ust. 1 ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastaw\u00f3w "
+  },
+  {
+    "index": 82,
+    "answer": "B",
+    "context": "art. 17 ust. 2 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze S\u0105dowym"
+  },
+  {
+    "index": 83,
+    "answer": "B",
+    "context": "art. 3 ust. 4 pkt 2 ustawy z dnia 15 maja 2015 r. \u2013 Prawo restrukturyzacyjne"
+  },
+  {
+    "index": 84,
+    "answer": "C",
+    "context": "art. 13 ust. 1 ustawy z dnia 28 lutego 2003 r. \u2013 Prawo upad\u0142o\u015bciowe"
+  },
+  {
+    "index": 85,
+    "answer": "B",
+    "context": "art. 29 ust. 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsument\u00f3w "
+  },
+  {
+    "index": 86,
+    "answer": "A",
+    "context": "art. 15 ust. 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta"
+  },
+  {
+    "index": 87,
+    "answer": "A",
+    "context": "art. 17 ust. 1 i 3 ustawy z dnia 6 marca 2018 r. \u2013 Prawo przedsi\u0119biorc\u00f3w "
+  },
+  {
+    "index": 88,
+    "answer": "C",
+    "context": "art. 13 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Dzia\u0142alno\u015bci Gospodarczej i Punkcie Informacji dla Przedsi\u0119biorcy"
+  },
+  {
+    "index": 89,
+    "answer": "A",
+    "context": "art. 54 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Dzia\u0142alno\u015bci Gospodarczej i Punkcie Informacji dla Przedsi\u0119biorcy"
+  },
+  {
+    "index": 90,
+    "answer": "A",
+    "context": "art. 4 \u00a7 1 pkt 5 k.s.h."
+  },
+  {
+    "index": 91,
+    "answer": "B",
+    "context": "art. 127 \u00a7 5 k.s.h."
+  },
+  {
+    "index": 92,
+    "answer": "A",
+    "context": "art. 161 \u00a7 1 k.s.h."
+  },
+  {
+    "index": 93,
+    "answer": "A",
+    "context": "art. 243 \u00a7 2 k.s.h."
+  },
+  {
+    "index": 94,
+    "answer": "C",
+    "context": "art. 259 k.s.h."
+  },
+  {
+    "index": 95,
+    "answer": "C",
+    "context": "art. 373 \u00a7 2 k.s.h."
+  },
+  {
+    "index": 96,
+    "answer": "B",
+    "context": "art. 531 \u00a7 21 k.s.h."
+  },
+  {
+    "index": 97,
+    "answer": "B",
+    "context": "art. 569 \u00a7 1 w zw. z art. 551 \u00a7 1 k.s.h."
+  },
+  {
+    "index": 98,
+    "answer": "A",
+    "context": "art. 42 \u00a7 4 k.p."
+  },
+  {
+    "index": 99,
+    "answer": "A",
+    "context": "art. 49 k.p."
+  },
+  {
+    "index": 100,
+    "answer": "B",
+    "context": "art. 683 k.p."
+  },
+  {
+    "index": 101,
+    "answer": "B",
+    "context": "art. 153 \u00a7 1 k.p."
+  },
+  {
+    "index": 102,
+    "answer": "C",
+    "context": "art. 16 ust. 1 pkt 6 ustawy z dnia 13 pa\u017adziernika 1998 r. o systemie ubezpiecze\u0144 spo\u0142ecznych"
+  },
+  {
+    "index": 103,
+    "answer": "B",
+    "context": "art. 11a ust. 1 ustawy z dnia 8 marca 1990 r. o samorz\u0105dzie gminnym"
+  },
+  {
+    "index": 104,
+    "answer": "A",
+    "context": "art. 15 ust. 5 ustawy z dnia 5 czerwca 1998 r. o samorz\u0105dzie powiatowym"
+  },
+  {
+    "index": 105,
+    "answer": "C",
+    "context": "art. 44 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorz\u0105dzie wojew\u00f3dztwa"
+  },
+  {
+    "index": 106,
+    "answer": "C",
+    "context": "art. 27 ust. 1 ustawy z dnia 23 stycznia 2009 r. o wojewodzie i administracji rz\u0105dowej w wojew\u00f3dztwie "
+  },
+  {
+    "index": 107,
+    "answer": "B",
+    "context": "art. 27 \u00a7 3 k.p.a."
+  },
+  {
+    "index": 108,
+    "answer": "A",
+    "context": "art. 37 \u00a7 1 pkt 2 k.p.a. "
+  },
+  {
+    "index": 109,
+    "answer": "C",
+    "context": "art. 89 \u00a7 1 k.p.a."
+  },
+  {
+    "index": 110,
+    "answer": "B",
+    "context": "art. 96 k.p.a."
+  },
+  {
+    "index": 111,
+    "answer": "A",
+    "context": "art. 135 k.p.a.  "
+  },
+  {
+    "index": 112,
+    "answer": "B",
+    "context": "art. 147 k.p.a. w zw. z art. 145a k.p.a."
+  },
+  {
+    "index": 113,
+    "answer": "B",
+    "context": "art. 239 \u00a7 1 w zw. z art. 228 k.p.a.    "
+  },
+  {
+    "index": 114,
+    "answer": "C",
+    "context": "art. 257 k.p.a. "
+  },
+  {
+    "index": 115,
+    "answer": "A",
+    "context": "art. 5 pkt 1 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi "
+  },
+  {
+    "index": 116,
+    "answer": "C",
+    "context": "art. 22 \u00a7 3 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnym"
+  },
+  {
+    "index": 117,
+    "answer": "C",
+    "context": "art. 37a ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi "
+  },
+  {
+    "index": 118,
+    "answer": "A",
+    "context": "art. 42 \u00a7 2 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi "
+  },
+  {
+    "index": 119,
+    "answer": "A",
+    "context": "art. 123 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi "
+  },
+  {
+    "index": 120,
+    "answer": "C",
+    "context": "art. 155 \u00a7 1 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi "
+  },
+  {
+    "index": 121,
+    "answer": "A",
+    "context": "art. 227 \u00a7 2 ustawy z dnia 30 sierpnia 2002 r. \u2013 Prawo o post\u0119powaniu przed s\u0105dami administracyjnymi "
+  },
+  {
+    "index": 122,
+    "answer": "A",
+    "context": "art. 14 ust. 1 Traktatu z dnia 7 lutego 1992 r. o Unii Europejskiej \u2013 tekst uwzgl\u0119dniaj\u0105cy zmiany wprowadzone Traktatem z Lizbony"
+  },
+  {
+    "index": 123,
+    "answer": "B",
+    "context": "art. 14 ust. 2 Traktatu z dnia 7 lutego 1992 r. o Unii Europejskiej \u2013 tekst uwzgl\u0119dniaj\u0105cy zmiany wprowadzone Traktatem z Lizbony"
+  },
+  {
+    "index": 124,
+    "answer": "B",
+    "context": "art. 228 ust. 2 Traktatu z dnia 25 marca 1957 r. o funkcjonowaniu Unii Europejskiej \u2013 tekst uwzgl\u0119dniaj\u0105cy zmiany wprowadzone Traktatem z Lizbony"
+  },
+  {
+    "index": 125,
+    "answer": "B",
+    "context": "art. 253 Traktatu z dnia 25 marca 1957 r. o funkcjonowaniu Unii Europejskiej \u2013 tekst uwzgl\u0119dniaj\u0105cy zmiany wprowadzone Traktatem z Lizbony"
+  },
+  {
+    "index": 126,
+    "answer": "C",
+    "context": "art. 43 Konstytucji Rzeczypospolitej Polskiej "
+  },
+  {
+    "index": 127,
+    "answer": "A",
+    "context": "art. 96 ust. 2 Konstytucji Rzeczypospolitej Polskiej  "
+  },
+  {
+    "index": 128,
+    "answer": "B",
+    "context": "art. 116 ust. 2 Konstytucji Rzeczypospolitej Polskiej  "
+  },
+  {
+    "index": 129,
+    "answer": "B",
+    "context": "art. 122 ust. 5 Konstytucji Rzeczypospolitej Polskiej  "
+  },
+  {
+    "index": 130,
+    "answer": "A",
+    "context": "art. 216 ust. 5 Konstytucji Rzeczypospolitej Polskiej  "
+  },
+  {
+    "index": 131,
+    "answer": "B",
+    "context": "art. 41 ust. 3 w zw. z art. 39 ust. 2 pkt 1 ustawy z dnia 30 listopada 2016 r. o organizacji i trybie post\u0119powania przed Trybuna\u0142em Konstytucyjnym"
+  },
+  {
+    "index": 132,
+    "answer": "C",
+    "context": "art. 14 ust. 1 pkt 6 ustawy z dnia 12 maja 2011 r. o Krajowej Radzie S\u0105downictwa "
+  },
+  {
+    "index": 133,
+    "answer": "C",
+    "context": "art. 14 ust. 1 i 2 ustawy z dnia 12 maja 2011 r. o Krajowej Radzie S\u0105downictwa"
+  },
+  {
+    "index": 134,
+    "answer": "A",
+    "context": "art. 26 \u00a7 3 ustawy z dnia 27 lipca 2001 r. \u2013 Prawo o ustroju s\u0105d\u00f3w powszechnych "
+  },
+  {
+    "index": 135,
+    "answer": "B",
+    "context": "art. 33 \u00a7 2 ustawy z dnia 27 lipca 2001 r. \u2013 Prawo o ustroju s\u0105d\u00f3w powszechnych "
+  },
+  {
+    "index": 136,
+    "answer": "B",
+    "context": "art. 37 \u00a7 1 zdanie drugie w zw. z art. 9a \u00a7 1 ustawy z dnia 27 lipca 2001 r. \u2013 Prawo o ustroju s\u0105d\u00f3w powszechnych "
+  },
+  {
+    "index": 137,
+    "answer": "B",
+    "context": "art. 24 \u00a7 1a ustawy z dnia 25 lipca 2002 r. \u2013 Prawo o ustroju s\u0105d\u00f3w administracyjnych"
+  },
+  {
+    "index": 138,
+    "answer": "C",
+    "context": "art. 44 \u00a7 1 ustawy z dnia 25 lipca 2002 r. \u2013 Prawo o ustroju s\u0105d\u00f3w administracyjnych"
+  },
+  {
+    "index": 139,
+    "answer": "A",
+    "context": "art. 74 ustawy z dnia 8 grudnia 2017 r. o S\u0105dzie Najwy\u017cszym "
+  },
+  {
+    "index": 140,
+    "answer": "C",
+    "context": "art. 64 \u00a7 2 ustawy z dnia 28 stycznia 2016 r. \u2013 Prawo o prokuraturze"
+  },
+  {
+    "index": 141,
+    "answer": "B",
+    "context": "art. 14 ust. 1 ustawy z dnia 26 maja 1982 r. \u2013 Prawo o adwokaturze"
+  },
+  {
+    "index": 142,
+    "answer": "A",
+    "context": "art. 72 ust. 1 pkt 5 ustawy z dnia 26 maja 1982 r. \u2013 Prawo o adwokaturze"
+  },
+  {
+    "index": 143,
+    "answer": "A",
+    "context": "art. 81 ust. 1 pkt 1 ustawy z dnia 26 maja 1982 r. \u2013 Prawo o adwokaturze"
+  },
+  {
+    "index": 144,
+    "answer": "B",
+    "context": "art. 81 ust. 4 ustawy z dnia 26 maja 1982 r. \u2013 Prawo o adwokaturze"
+  },
+  {
+    "index": 145,
+    "answer": "A",
+    "context": "art. 222 ustawy z dnia 6 lipca 1982 r. o radcach prawnych"
+  },
+  {
+    "index": 146,
+    "answer": "C",
+    "context": "art. 29 pkt 3 ustawy z dnia 6 lipca 1982 r. o radcach prawnych"
+  },
+  {
+    "index": 147,
+    "answer": "C",
+    "context": "art. 60 pkt 4 ustawy z dnia 6 lipca 1982 r. o radcach prawnych"
+  },
+  {
+    "index": 148,
+    "answer": "C",
+    "context": "art. 683 ust. 2 ustawy z dnia 6 lipca 1982 r. o radcach prawnych"
+  },
+  {
+    "index": 149,
+    "answer": "A",
+    "context": "art. 7 ust. 3 w zw. z art. 7 ust. 1 pkt 1 ustawy z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich "
+  },
+  {
+    "index": 150,
+    "answer": "B",
+    "context": "art. 22 ustawy z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich   "
+  }
+]
