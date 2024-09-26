@@ -18,12 +18,11 @@ class Judge:
             
                 The question or incomplete sentence.
                 The student's chosen answer.
-                The correct answer.
                 The correct Civil Code article reference(s).
             
-            Your task is to evaluate the student's response and provide a JSON output with two key-value pairs:
+            Your task is to extract the letter of student answer, evaluate the student's response and provide a JSON output with two key-value pairs:
             
-                answer_is_correct: A boolean (true or false) indicating whether the student's chosen answer is correct.
+                chosen_answer: A one letter response (a, b, c) that represents the students answer.
                 article_is_correct: A boolean (true or false) indicating whether the student correctly referred to the appropriate Civil Code article(s).
                     If the student references more articles than necessary but includes the correct one, return true.
                     If the student fails to reference any article, return false.
@@ -32,6 +31,7 @@ class Judge:
             
             Your response should be in strict JSON format, starting and ending with curly braces.
             """
+
     def __init__(self, model="gpt-3.5-turbo-0125", temperature=0):
         self.model = model
         self.temperature = temperature

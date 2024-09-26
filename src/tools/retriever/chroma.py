@@ -19,7 +19,7 @@ def load_articles_as_documents(path=default_articles_source):
     return documents
 
 def create_chroma_retriever(docs, k=5):
-    model_name = "sdadas/mmlw-roberta-base"
+    model_name = "sdadas/mmlw-roberta-large"
     # model_name = "BAAI/bge-multilingual-gemma2"
     embedding_function = SentenceTransformerEmbeddings(model_name=model_name)
     db = Chroma.from_documents(docs, embedding_function)

@@ -1,31 +1,21 @@
-from pdfminer.high_level import extract_text
 import fitz
-
-# pdf_file = '../civil_code/source.pdf'
-# doc = fitz.open(pdf_file)
-
-#
-# # Extracting text from all pages
-# all_text = []
-# for page_num in range(len(doc)):
-#     page = doc[page_num]
-#     text = page.get_text()
-#     all_text.append([page_num + 1, text])
-#     print(text)
-# # text = extract_text(pdf_file)
-# # print(text)
-
 import os
-
 from src.utils.utils import get_project_root
 
-for dir_name in os.listdir():
-    pdf_file_path = get_project_root() / "documents" / "legal_acts" /"batch" / dir_name / "source.pdf"
-    doc = fitz.open(pdf_file_path)
-    all_text = []
-    for page in doc:
-        # page = doc[page_num]
-        text = page.get_text()
-        # all_text.append([page_num + 1, text])
-        # print(text)
-    "/n".join(all_text)
+if __name__ == "__main__":
+    list_of_directories = [directory for directory in os.listdir() if directory[-3:] != ".py"]
+    print(list_of_directories)
+    # list_of_directories = ["penal_code", "labor_code"]
+    for dir_name in list_of_directories:
+        dir_path = get_project_root() / "documents" / "legal_acts" /"batch" / dir_name
+        pdf_file_path = dir_path / "source.pdf"
+        txt_file_path = dir_path / "source.txt"
+        doc = fitz.open(pdf_file_path)
+        text_pages = []
+        for page in doc:
+            text = page.get_text()
+            text_pages.append(text)
+
+        with open(txt_file_path,"w", encoding="UTF-8") as f:
+            f.write("\n".join(text_pages))
+

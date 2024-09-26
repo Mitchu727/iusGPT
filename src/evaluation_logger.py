@@ -20,7 +20,7 @@ class EvaluationLogger:
 
         self.results = []
 
-    def log_evaluation_result(self, question_dict, answer_dict, answer, evaluation_result ):
+    def log_evaluation_result(self, question_dict, answer_dict, answer, answer_is_correct, evaluation_result ):
         result = {
             "dataset": question_dict["dataset"],
             "index": question_dict["index"],
@@ -28,7 +28,7 @@ class EvaluationLogger:
             "correct_answer_letter": answer_dict["answer"],
             "correct_answer_context": answer_dict["context"],
             "returned_answer": answer,
-            "answer_judgment": evaluation_result["answer_is_correct"],
+            "answer_judgment": answer_is_correct,
             "context_judgment": evaluation_result["article_is_correct"],
             # "flow"
         }

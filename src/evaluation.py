@@ -21,20 +21,24 @@ with open(questions_path, "r") as f:
 with open(answers_path, "r") as f:
     answers = json.load(f)
 
-# evaluated_flow = SimpleFlow("gpt-4o-mini", 0)  # 46, 38
 # evaluated_flow = SimpleFlow("gpt-4o", 0)  # 83, 97
 # evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)  # 25, 7
 
-# evaluated_flow = SimpleRagSearchFlow("gpt-4o-mini", 0, 30)
+# evaluated_flow = SimpleFlow("gpt-4o-mini", 0)  # 46, 38
+# evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0, 100)
+# evaluated_flow = SimpleRagSearchFlow("gpt-4o-mini", 0, 50)
+
+# evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)  # 46, 38
+# evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0, 50)
+
+evaluated_flow = SimpleFlow("gpt-4", 0)  # 46, 38
+
 # evaluated_flow = SimpleRagSearchFlow("gpt-3.5-turbo-0125", 0, 30) # 11, 4
 # evaluated_flow = MultiAgentFlow("gpt-3.5-turbo-0125", 0, 30)
 # evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0, 30)  # 30, 38
 
 # evaluated_flow = SimpleRagFlow("gpt-4o", 0)  # 59, 63
-evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0, 30)  # 56, 52  # 116, 114
-# evaluated_flow = SimpleRagWithCompressorFlow("gpt-4o-mini", 0, 100)  # 56, 52  # 116, 114
-# evaluated_flow = ReactRagFlow("gpt-4o-mini", 0)  # 49, 55
-# evaluated_flow = SimpleRagWithCompressorFlow("gpt-3.5-turbo-0125", "gpt-3.5-turbo-0125", 0, 50)  # 56, 52  # 116, 114
+# evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0, 30)  # 56, 52  # 116, 114
 
 judge = Judge("gpt-4o-mini", 0)
 
@@ -43,6 +47,11 @@ context_used = 0
 correct_answer_count = 0
 correct_article_count = 0
 questions_num = 0
+
+# # list of hard questions
+# hard_questions_list = [5, 9, 15, 16, 29, 35, 48, 82, 102, 108, 125, 126, 128]
+# questions = [questions[i] for i in hard_questions_list]
+# answers = [answers[i] for i in hard_questions_list]
 
 for i in range(len(questions)):
     question_dict = questions[i]
@@ -60,9 +69,10 @@ for i in range(len(questions)):
             print(f"Total Cost (USD): ${cb.total_cost}")
             context_used += cb.total_tokens
         evaluation_result = judge.assess_evaluation_question(question_dict, answer_dict, evaluated_answer)
+        result = json.loads(evaluation_result)
     except:
-        evaluation_result = {
-            "answer_is_correct": False,
+        result = {
+            "chosen_answer": "",
             "article_is_correct": False
         }
 
@@ -73,20 +83,16 @@ for i in range(len(questions)):
     print("==========ODPOWIEDŹ==========")
     print(evaluated_answer)
     print("==========KLASYFIKACJA==========")
-    print(evaluation_result)
+    print(result)
 
-    try:
-        result = json.loads(evaluation_result)
-    except:
-        result = {
-            "answer_is_correct": False,
-            "article_is_correct": False
-        }
-    if result["answer_is_correct"] is True:
+    answer_is_correct = result["chosen_answer"] == answer_dict["answer"].lower()
+    print(answer_is_correct)
+
+    if answer_is_correct:
         correct_answer_count += 1
     if result["article_is_correct"] is True:
         correct_article_count += 1
-    logger.log_evaluation_result(question_dict, answer_dict, evaluated_answer, result)
+    logger.log_evaluation_result(question_dict, answer_dict, evaluated_answer, answer_is_correct, result)
 
     # evaluated_flow.save_graph_image(path = logger.get_run_directory(evaluated_flow) / "graph.png")
 
