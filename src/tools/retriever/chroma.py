@@ -4,7 +4,7 @@ from langchain_core.documents import Document
 
 import json
 
-from src.utils.utils import get_project_root
+from src.utils.utils import get_project_root, get_legal_act_json_path
 
 default_articles_source = get_project_root() / "documents" / "legal_acts" / "civil_code" / "source.json"
 
@@ -27,8 +27,9 @@ def create_chroma_retriever(docs, k=5):
     retriever = db.as_retriever(search_kwargs={"k": k})
     return retriever
 
+
 if __name__ == "__main__":
-    docs = load_articles_as_documents()
+    docs = load_articles_as_documents(get_legal_act_json_path("civil_code"))
     retriever = create_chroma_retriever(docs)
     print(retriever.invoke("zapytanie: ubezwłasnowolnienie"))
     # "Zgodnie z art. 999 Kodeksu cywilnego, fundacja ustanowiona w testamencie przez spadkodawcę może być spadkobiercą, jeżeli zostanie wpisana do rejestru fundacji w ciągu dwóch lat od otwarcia spadku."

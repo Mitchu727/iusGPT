@@ -7,6 +7,7 @@ from src.flows.flow_interface import FlowInterface
 
 from src.tools.retriever.chroma import load_articles_as_documents, create_chroma_retriever
 from src.tools.retriever.prefixed_retriever import PrefixedRetriever
+from src.utils.utils import get_legal_act_json_path
 
 
 class SimpleRagFlow(FlowInterface):
@@ -16,7 +17,7 @@ class SimpleRagFlow(FlowInterface):
         self.temperature = temperature
         self.k = k
 
-        docs = load_articles_as_documents()
+        docs = load_articles_as_documents(get_legal_act_json_path("civil_code"))
         base_retriever = create_chroma_retriever(docs, k)
         retriever = PrefixedRetriever(retriever=base_retriever)
         retriever_tool = create_retriever_tool(

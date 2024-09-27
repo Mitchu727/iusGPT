@@ -1,16 +1,29 @@
 import re
 from pathlib import Path
 
+
 def get_project_root() -> Path:
     return Path(__file__).parent.parent.parent
+
 
 def get_runs_directory() -> Path:
     return get_project_root() / "runs"
 
 
-def extract_id_from_article_content(article_content):
-    result = re.search("Art. [0-9]*.", article_content)
-    return result.group()
+def get_legal_acts_directory() -> Path:
+    return get_project_root() / "documents" / "legal_acts"
+
+
+def get_legal_act_json_path(legal_act) -> Path:
+    return get_project_root() / "documents" / "legal_acts" / legal_act / "source.json"
+
+
+def extract_id_from_article_content(article_text):
+    try:
+        return re.search(r"Art\. [0-9a-zł]+\.", article_text).group()
+    except Exception as e:
+        print(article_text)
+        raise Exception
 
 
 def get_example_question() -> dict:

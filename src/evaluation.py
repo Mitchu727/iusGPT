@@ -25,13 +25,13 @@ with open(answers_path, "r") as f:
 # evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)  # 25, 7
 
 # evaluated_flow = SimpleFlow("gpt-4o-mini", 0)  # 46, 38
-# evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0, 100)
+evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0, 50)
 # evaluated_flow = SimpleRagSearchFlow("gpt-4o-mini", 0, 50)
 
 # evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)  # 46, 38
 # evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0, 50)
 
-evaluated_flow = SimpleFlow("gpt-4", 0)  # 46, 38
+# evaluated_flow = SimpleFlow("gpt-4", 0)  # 46, 38
 
 # evaluated_flow = SimpleRagSearchFlow("gpt-3.5-turbo-0125", 0, 30) # 11, 4
 # evaluated_flow = MultiAgentFlow("gpt-3.5-turbo-0125", 0, 30)

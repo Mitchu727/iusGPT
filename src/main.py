@@ -1,6 +1,5 @@
 from src.agents.vector_database_retrieval_agent import VectorDatabaseRetrievalAgent
 from src.agents.chat_gpt_4_answering_agent import ChatGPT4AnsweringAgent
-from src.agents.tag_based_retrieval_agent import TagBasedRetrievalAgent
 import pandas as pd
 
 questions_path = "../documents/evaluation/open_questions.csv"
