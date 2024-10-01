@@ -17,7 +17,7 @@ class SimpleRagSearchFlow(FlowInterface):
         self.k = k
 
         docs = load_articles_as_documents()
-        retriever = SearchRetriever(k=k)
+        retriever = SearchRetriever(documents=docs, k=k)
         retriever_tool = create_retriever_tool(
             retriever,
             "civil_code",
@@ -45,7 +45,7 @@ class SimpleRagSearchFlow(FlowInterface):
         return self.agent_executor.invoke({"input": formatted_question})["output"]
 
     def get_flow_name(self):
-        return f"simple_rag_{self.model}_{self.temperature}"
+        return f"simple_rag_search_{self.model}_{self.temperature}"
 
     def get_flow_parameters(self):
         return {
@@ -54,5 +54,4 @@ class SimpleRagSearchFlow(FlowInterface):
             'k': self.k,
             'system_prompt': self.system_prompt,
             'evaluation_prompt_template': self.evaluation_prompt_template,
-            'vectorstore': 'chroma'
         }

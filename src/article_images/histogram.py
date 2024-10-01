@@ -6,7 +6,7 @@ from src.utils.utils import get_project_root
 from statistics import mean
 
 
-default_articles_source = get_project_root() / "documents" / "legal_acts" / "civil_code" / "source.json"
+default_articles_source = get_project_root() / "documents" / "legal_acts" / "batch" / "civil_code" / "source.json"
 
 
 def load_articles_as_documents(path=default_articles_source):
@@ -57,6 +57,8 @@ if __name__ == "__main__":
             break
     print(numerator)
 
+    print(sum(cl100k_base_lengths)/len(cl100k_base_lengths))
+    print(sum(o200k_base_lengths)/len(o200k_base_lengths))
     # # print(lengths)
     # # print(len(lengths))
     # # print(mean(lengths))

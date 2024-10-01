@@ -3,14 +3,14 @@ import src.secrets
 
 
 class FlowInterface(ABC):
-    system_prompt = """You are a helpful assistant specializing in Polish civil law. You will receive questions from 
+    system_prompt = """You are a helpful assistant specializing in Polish law. You will receive questions from 
             an exam, each consisting of a question or an incomplete sentence followed by three possible answers labeled 
             a, b, and c. 
 
             Your task is to:
             1. Choose the correct answer.
             2. Provide a detailed explanation for your choice.
-            3. Refer to the relevant article(s) in the Polish Civil Code.
+            3. Refer to the relevant article(s) in the one of polish regulations.
 
             Please ensure your responses are precise and informative. Respond in polish."""
 

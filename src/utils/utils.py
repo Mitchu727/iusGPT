@@ -15,7 +15,7 @@ def get_legal_acts_directory() -> Path:
 
 
 def get_legal_act_json_path(legal_act) -> Path:
-    return get_project_root() / "documents" / "legal_acts" / legal_act / "source.json"
+    return get_project_root() / "documents" / "legal_acts" / "batch" / legal_act / "source.json"
 
 
 def extract_id_from_article_content(article_text):

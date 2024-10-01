@@ -6,7 +6,7 @@ import json
 
 from src.utils.utils import get_project_root, get_legal_act_json_path
 
-default_articles_source = get_project_root() / "documents" / "legal_acts" / "civil_code" / "source.json"
+default_articles_source = get_project_root() / "documents" / "legal_acts" / "batch" / "civil_code" / "source.json"
 
 
 def load_articles_as_documents(path=default_articles_source):
@@ -18,18 +18,22 @@ def load_articles_as_documents(path=default_articles_source):
         documents.append(document)
     return documents
 
-def create_chroma_retriever(docs, k=5):
+
+def create_chroma_retriever(docs, name="civil_code", k=5):
     model_name = "sdadas/mmlw-roberta-large"
     # model_name = "BAAI/bge-multilingual-gemma2"
     embedding_function = SentenceTransformerEmbeddings(model_name=model_name)
-    db = Chroma.from_documents(docs, embedding_function)
+    db = Chroma.from_documents(docs, embedding_function, collection_name=name)
     print("There are", db._collection.count(), "documents in the collection")
     retriever = db.as_retriever(search_kwargs={"k": k})
     return retriever
 
 
 if __name__ == "__main__":
-    docs = load_articles_as_documents(get_legal_act_json_path("civil_code"))
-    retriever = create_chroma_retriever(docs)
+    docs = load_articles_as_documents(get_legal_act_json_path("civil_code"))[:1]
+    docs_v2 = load_articles_as_documents(get_legal_act_json_path("penal_code"))[:2]
+    retriever = create_chroma_retriever(docs, "civil_code")
+    retriever2 = create_chroma_retriever(docs_v2, "penal_code")
     print(retriever.invoke("zapytanie: ubezwłasnowolnienie"))
+    print(retriever2.invoke("zapytanie: kradzież"))
     # "Zgodnie z art. 999 Kodeksu cywilnego, fundacja ustanowiona w testamencie przez spadkodawcę może być spadkobiercą, jeżeli zostanie wpisana do rejestru fundacji w ciągu dwóch lat od otwarcia spadku."

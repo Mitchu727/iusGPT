@@ -21,17 +21,6 @@ def load_articles_as_documents(path=default_articles_source):
 
 
 class SearchRetriever(BaseRetriever):
-    """A toy retriever that contains the top k documents that contain the user query.
-
-    This retriever only implements the sync method _get_relevant_documents.
-
-    If the retriever were to involve file access or network access, it could benefit
-    from a native async implementation of `_aget_relevant_documents`.
-
-    As usual, with Runnables, there's a default async implementation that's provided
-    that delegates to the sync implementation running on another thread.
-    """
-
     documents: List[Document] = load_articles_as_documents()
     """List of documents to retrieve from."""
     k: int = 10
@@ -72,7 +61,6 @@ class SearchRetriever(BaseRetriever):
         article_scores = []
         for doc in self.documents:
             article_scores.append(self.score_by_phrase(doc.page_content, query))
-        print(article_scores)
         return self.sort_list_by_another(self.documents, article_scores)[:self.k]
 
 

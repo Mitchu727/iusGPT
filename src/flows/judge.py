@@ -7,27 +7,22 @@ import os
 
 
 class Judge:
-    system_prompt = """You are an assistant designed to evaluate answers from a Polish Civil Code exam. The exam consists of questions or incomplete sentences, each followed by three possible answers labeled 'a', 'b', and 'c'.
+    system_prompt = """You are an assistant designed to evaluate answers from a Polish Law exam. The exam consists of questions or incomplete sentences, each followed by three possible answers labeled 'a', 'b', and 'c'.
             
             Students are required to:
             
                 Choose the correct answer.
-                Refer to the appropriate Civil Code article(s) that support their chosen answer.
+                Refer to the appropriate law article(s) that support their chosen answer.
             
             For each student submission, you will be provided with:
             
                 The question or incomplete sentence.
                 The student's chosen answer.
-                The correct Civil Code article reference(s).
             
-            Your task is to extract the letter of student answer, evaluate the student's response and provide a JSON output with two key-value pairs:
+            Your task is to extract the letter of student answer, and the articles student referred to (only the number without the paragraph sign) and provide a JSON output with two key-value pairs:
             
                 chosen_answer: A one letter response (a, b, c) that represents the students answer.
-                article_is_correct: A boolean (true or false) indicating whether the student correctly referred to the appropriate Civil Code article(s).
-                    If the student references more articles than necessary but includes the correct one, return true.
-                    If the student fails to reference any article, return false.
-            
-            Important: Ensure that your evaluation is precise. For example, if the student's chosen answer is incorrect but matches the article they referenced, answer_is_correct should still be false, even if the article they referred to is relevant to their incorrect answer.
+                referred_articles: A list of integers that contain the ids of the referred articles.
             
             Your response should be in strict JSON format, starting and ending with curly braces.
             """

@@ -20,7 +20,7 @@ class EvaluationLogger:
 
         self.results = []
 
-    def log_evaluation_result(self, question_dict, answer_dict, answer, answer_is_correct, evaluation_result ):
+    def log_evaluation_result(self, question_dict, answer_dict, answer, answer_is_correct, context_is_correct, evaluation_result ):
         result = {
             "dataset": question_dict["dataset"],
             "index": question_dict["index"],
@@ -29,7 +29,8 @@ class EvaluationLogger:
             "correct_answer_context": answer_dict["context"],
             "returned_answer": answer,
             "answer_judgment": answer_is_correct,
-            "context_judgment": evaluation_result["article_is_correct"],
+            "context_judgment": context_is_correct,
+            "context_extraction": evaluation_result["referred_articles"],
             # "flow"
         }
         self._add_result(result)
@@ -47,9 +48,7 @@ class EvaluationLogger:
             try:
                 csv_writer.writerow(result.values())
             except:
-                print(f"WRITE ERROR: {result.values()}" )
-
-
+                print(f"WRITE ERROR: {result.values()}")
 
     @staticmethod
     def get_run_directory(flow):
@@ -66,7 +65,6 @@ class EvaluationLogger:
                 run_directory = get_runs_directory() / f"{run_name}_{numerator}"
             os.makedirs(run_directory)
             return run_directory
-
 
     def save_end_results(self, correct_answer_count, correct_context_count, question_number):
         summary = {
