@@ -18,7 +18,7 @@ class SimpleRagFlow(FlowInterface):
         self.k = k
 
         docs = load_articles_as_documents(get_legal_act_json_path("civil_code"))
-        base_retriever = create_chroma_retriever(docs, k)
+        base_retriever = create_chroma_retriever(docs, "civil_code", k)
         retriever = PrefixedRetriever(retriever=base_retriever)
         retriever_tool = create_retriever_tool(
             retriever,
