@@ -1,14 +1,38 @@
 import json
 import re
+import fitz
+from src.utils.utils import get_project_root, get_original_questions_list_directories
 
-from src.utils.utils import get_project_root
 
-if __name__ == "__main__":
-    list_of_directories = ["egzamin_wstepny_adwokacki_radcowski_2024", "egzamin_wstepny_komorniczy_2024", "egzamin_wstepny_notarialny_2024"]
-    # list_of_directories = ["egzamin_wstepny_adwokacki_radcowski_2024"]
-    print(list_of_directories)
+def extract_from_pdf_to_txt(list_of_directories):
     for dir_name in list_of_directories:
         dir_path = get_project_root() / "documents" / "evaluation" / "original" / dir_name
+        questions_pdf_file_path = dir_path / "questions.pdf"
+        questions_txt_file_path = dir_path / "questions.txt"
+        doc = fitz.open(questions_pdf_file_path)
+        text_pages = []
+        for page in doc:
+            text = page.get_text()
+            text_pages.append(text)
+
+        with open(questions_txt_file_path, "w", encoding="UTF-8") as f:
+            f.write("\n".join(text_pages))
+
+        answers_pdf_file_path = dir_path / "answers.pdf"
+        answers_txt_file_path = dir_path / "answers.txt"
+        doc = fitz.open(answers_pdf_file_path)
+        text_pages = []
+        for page in doc:
+            text = page.get_text()
+            text_pages.append(text)
+
+        with open(answers_txt_file_path, "w", encoding="UTF-8") as f:
+            f.write("\n".join(text_pages))
+
+
+def extract_questions(list_of_directories):
+    for dir_path in list_of_directories:
+        # dir_path = get_project_root() / "documents" / "evaluation" / "original" / dir_name
         questions_txt_file_path = dir_path / "questions.txt"
         questions_json_file_path = dir_path / "questions.json"
 
@@ -38,6 +62,10 @@ if __name__ == "__main__":
         with open(questions_json_file_path, "w") as f:
             json.dump(questions, f)
 
+
+def extract_answers(list_of_directories):
+    for dir_path in list_of_directories:
+        # dir_path = get_project_root() / "documents" / "evaluation" / "original" / dir_name
         answers_txt_file_path = dir_path / "answers.txt"
         answers_json_file_path = dir_path / "answers.json"
         with open(answers_txt_file_path, "r", encoding="utf-8") as f:
@@ -56,15 +84,22 @@ if __name__ == "__main__":
 
         answers = []
         for i, answers_row in enumerate(answers_rows):
-            question_index_offset = len(str(i+1))
+            question_index_offset = len(str(i + 1))
 
             answer = {
-                "index": i+1,
-                "answer": answers_row[question_index_offset+2],
-                "context": answers_row[question_index_offset+4:],
+                "index": i + 1,
+                "answer": answers_row[question_index_offset + 2],
+                "context": answers_row[question_index_offset + 4:],
             }
             answers.append(answer)
 
-
         with open(answers_json_file_path, "w") as f:
             json.dump(answers, f)
+
+
+if __name__ == "__main__":
+    list_of_directories = get_original_questions_list_directories()
+    extract_from_pdf_to_txt(list_of_directories)
+    extract_questions(list_of_directories)
+    extract_answers(list_of_directories)
+

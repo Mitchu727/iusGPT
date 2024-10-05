@@ -7,3 +7,4 @@
 /src/experiments*
 /documents/questions/abc_questions.csv
 /output/
+/infrastructure/chroma/

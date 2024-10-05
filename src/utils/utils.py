@@ -1,3 +1,4 @@
+import os
 import re
 from pathlib import Path
 
@@ -10,16 +11,28 @@ def get_runs_directory() -> Path:
     return get_project_root() / "runs"
 
 
-def get_legal_acts_directory() -> Path:
-    return get_project_root() / "documents" / "legal_acts"
-
-
 def get_legal_act_json_path(legal_act) -> Path:
     return get_project_root() / "documents" / "legal_acts" / "batch" / legal_act / "source.json"
 
 
 def get_chroma_path():
     return get_project_root() / "infrastructure" / "chroma"
+
+
+def get_legal_acts_path():
+    return get_project_root() / "documents" / "legal_acts" / "batch"
+
+
+def get_legal_acts_list_from_directories():
+    return [get_legal_acts_path() / directory for directory in os.listdir(get_legal_acts_path()) if not directory.endswith(".py")]
+
+
+def get_original_questions_path():
+    return get_project_root() / "documents" / "evaluation" / "original"
+
+
+def get_original_questions_list_directories():
+    return [get_original_questions_path() / directory for directory in os.listdir(get_original_questions_path()) if not directory.endswith(".py")]
 
 
 def extract_id_from_article_content(article_text):

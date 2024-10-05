@@ -1,0 +1,1457 @@
+dataset,index,question,correct_answer_letter,correct_answer_context,returned_answer,answer_judgment,context_judgment,context_extraction
+egzamin_wstepny_adwokacki_radcowski_2022,30,"Question: Zgodnie z Kodeksem cywilnym, dla ubezw≥asnowolnionego ca≥kowicie ustanawia siÍ opiekÍ, chyba øe:
+    
+            a) jest on w stanie kierowaÊ swym postÍpowaniem,
+            b) ustanowiony zosta≥ dla niego kurator
+            c) pozostaje on jeszcze pod w≥adzπ rodzicielskπ.
+            ",C,art. 13 ß 2 k.c.,"Odpowiedü: a) jest on w stanie kierowaÊ swym postÍpowaniem.
+
+Wyjaúnienie: Zgodnie z art. 141 Kodeksu cywilnego, jeøeli osoba ubezw≥asnowolniona ca≥kowicie jest w stanie kierowaÊ swoim postÍpowaniem, sπd moøe jej ustanowiÊ opiekuna z ograniczeniem jego uprawnieÒ lub odmÛwiÊ ustanowienia opiekuna. W przypadku, gdy osoba ubezw≥asnowolniona ca≥kowicie jest w stanie kierowaÊ swoim postÍpowaniem, nie ma koniecznoúci ustanawiania opieki.
+
+Relevant article: Art. 141 Kodeksu cywilnego.",False,False,[141]
+egzamin_wstepny_adwokacki_radcowski_2022,31,"Question: Zgodnie z Kodeksem cywilnym, jeøeli osoba prawna nie moøe byÊ reprezentowana lub prowadziÊ swoich spraw ze wzglÍdu na brak organu albo brak w sk≥adzie organu uprawnionego do jej reprezentowania, sπd ustanawia dla niej:
+    
+            a) pe≥nomocnika, ktÛry podlega nadzorowi sπdu w≥aúciwego ze wzglÍdu na siedzibÍ osoby prawnej
+            b) opiekuna, ktÛry podlega nadzorowi sπdu w≥aúciwego ze wzglÍdu na siedzibÍ osoby prawnej
+            c) kuratora, ktÛry podlega nadzorowi sπdu, ktÛry go ustanowi≥. 
+            ",C,art. 42 ß 1 k.c.,"Odpowiedü: c) kuratora, ktÛry podlega nadzorowi sπdu, ktÛry go ustanowi≥.
+
+Wyjaúnienie: Zgodnie z art. 33 Kodeksu cywilnego, jeøeli osoba prawna nie moøe byÊ reprezentowana lub prowadziÊ swoich spraw ze wzglÍdu na brak organu albo brak w sk≥adzie organu uprawnionego do jej reprezentowania, sπd ustanawia dla niej kuratora. Kurator ten podlega nadzorowi sπdu, ktÛry go ustanowi≥. Zatem odpowiedü c) jest poprawna, poniewaø kurator podlega nadzorowi sπdu, ktÛry go powo≥a≥, a nie sπdu w≥aúciwego ze wzglÍdu na siedzibÍ osoby prawnej, jak w przypadku pe≥nomocnika (odpowiedü a) lub opiekuna (odpowiedü b).",True,False,[33]
+egzamin_wstepny_adwokacki_radcowski_2022,32,"Question: Zgodnie z Kodeksem cywilnym, w≥asnoúÊ i inne prawa majπtkowe, stanowiπce mienie paÒstwowe, przys≥ugujπ:
+    
+            a) wy≥πcznie Skarbowi PaÒstwa,
+            b) Skarbowi PaÒstwa albo innym paÒstwowym osobom prawnym
+            c) Skarbowi PaÒstwa, innym paÒstwowym osobom prawnym oraz gminom i ich zwiπzkom.
+            ",B,art. 441 ß 1 k.c.,"Odpowiedü: c) Skarbowi PaÒstwa, innym paÒstwowym osobom prawnym oraz gminom i ich zwiπzkom.
+
+Wybieram odpowiedü c), poniewaø zgodnie z art. 140 Kodeksu cywilnego, w≥asnoúÊ i inne prawa majπtkowe, stanowiπce mienie paÒstwowe, przys≥ugujπ Skarbowi PaÒstwa, innym paÒstwowym osobom prawnym oraz gminom i ich zwiπzkom. Zatem prawa te nie sπ ograniczone wy≥πcznie do Skarbu PaÒstwa, ale mogπ przynaleøeÊ rÛwnieø innym podmiotom prawnym na poziomie paÒstwowym oraz lokalnym.
+
+Artyku≥: Kodeks cywilny, art. 140.",False,False,[140]
+egzamin_wstepny_adwokacki_radcowski_2022,33,"Question: Zgodnie z Kodeksem cywilnym, prawa zwiπzane z w≥asnoúciπ nieruchomoúci uwaøa siÍ za:
+    
+            a) jej czÍúci sk≥adowe,
+            b) poøytki prawa
+            c) jej przynaleønoúci
+            ",A,art. 50 k.c.,"Odpowiedü: a) jej czÍúci sk≥adowe
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, prawa zwiπzane z w≥asnoúciπ nieruchomoúci uwaøa siÍ za jej czÍúci sk≥adowe. Obejmuje to prawa do korzystania z nieruchomoúci oraz do pobierania poøytkÛw z niej (np. z tytu≥u najmu). Przynaleønoúciπ nieruchomoúci sπ natomiast elementy, ktÛre nie stanowiπ odrÍbnych praw, ale sπ z niπ zwiπzane fizycznie, takie jak budynki, roúliny, czy urzπdzenia.
+
+Relevant article in the Polish Civil Code: Art. 140-144 Kodeksu cywilnego.",True,True,"[140, 141, 142, 143, 144, 50]"
+egzamin_wstepny_adwokacki_radcowski_2022,34,"Question: Zgodnie z Kodeksem cywilnym, jeøeli sk≥adajπcy oúwiadczenie woli, ktÛre ma byÊ z≥oøone innej osobie, zmar≥ zanim oúwiadczenie woli do tej osoby dosz≥o, oúwiadczenie to:
+    
+            a) zawsze traci moc wskutek tego,
+            b) nie traci mocy wskutek tego, chyba øe co innego wynika z treúci oúwiadczenia, z ustawy lub z okolicznoúci
+            c) traci moc wskutek tego, chyba øe co innego wynika z zasad wspÛ≥øycia spo≥ecznego.
+            ",B,art. 62 k.c.,"Odpowiedü: b) nie traci mocy wskutek tego, chyba øe co innego wynika z treúci oúwiadczenia, z ustawy lub z okolicznoúci.
+
+Wyjaúnienie: Zgodnie z art. 58 Kodeksu cywilnego, jeøeli sk≥adajπcy oúwiadczenie woli, ktÛre ma byÊ z≥oøone innej osobie, zmar≥ zanim oúwiadczenie woli do tej osoby dosz≥o, oúwiadczenie to nie traci mocy wskutek tego, chyba øe co innego wynika z treúci oúwiadczenia, z ustawy lub z okolicznoúci. Oznacza to, øe oúwiadczenie woli z≥oøone przez osobÍ zmar≥π nadal moøe byÊ waøne, chyba øe zachodzπ okreúlone wyjπtki okreúlone w treúci oúwiadczenia, ustawie lub wynikajπce z okolicznoúci.
+
+Relevant article: Art. 58 Kodeksu cywilnego.",True,False,[58]
+egzamin_wstepny_adwokacki_radcowski_2022,35,"Question: Zgodnie z Kodeksem cywilnym, przepisy o oúwiadczeniach woli stosuje siÍ do innych oúwiadczeÒ:
+    
+            a) odpowiednio,
+            b) wprost, chyba øe co innego wynika z ustawy
+            c) wprost, chyba øe co innego wynika z treúci czynnoúci, okolicznoúci albo przepisÛw szczegÛlnych.
+            ",A,art. 651 k.c.,"Odpowiedü: c) wprost, chyba øe co innego wynika z treúci czynnoúci, okolicznoúci albo przepisÛw szczegÛlnych.
+
+Wyjaúnienie: Zgodnie z art. 65 Kodeksu cywilnego, przepisy o oúwiadczeniach woli stosuje siÍ odpowiednio do innych oúwiadczeÒ, chyba øe wynika co innego z treúci czynnoúci, okolicznoúci albo przepisÛw szczegÛlnych. Oznacza to, øe ogÛlne zasady dotyczπce oúwiadczeÒ woli majπ zastosowanie do innych rodzajÛw oúwiadczeÒ, chyba øe specyfika danej sytuacji wymaga zastosowania innych regu≥ okreúlonych w treúci czynnoúci, okolicznoúciach lub przepisach szczegÛlnych.
+
+Artyku≥: Kodeks cywilny - art. 65.",False,True,[65]
+egzamin_wstepny_adwokacki_radcowski_2022,36,"Question: Zgodnie z Kodeksem cywilnym, umowa darowizny rzeczy co do toøsamoúci oznaczonej:
+    
+            a) przenosi w≥asnoúÊ na nabywcÍ tylko wÛwczas, gdy nastπpi przeniesienie posiadania rzeczy
+            b) przenosi w≥asnoúÊ na nabywcÍ, chyba øe przepis szczegÛlny stanowi inaczej albo øe strony inaczej postanowi≥y
+            c) przenosi w≥asnoúÊ na nabywcÍ tylko wÛwczas, gdy przepis szczegÛlny tak stanowi.
+            ",B,art. 155 ß 1 k.c.,"Poprawna odpowiedü to:
+
+b) przenosi w≥asnoúÊ na nabywcÍ, chyba øe przepis szczegÛlny stanowi inaczej albo øe strony inaczej postanowi≥y
+
+Wybierajπc odpowiedü b), odwo≥ujemy siÍ do przepisÛw Kodeksu cywilnego. Zgodnie z art. 556 ß 1 Kodeksu cywilnego, umowa darowizny rzeczy co do toøsamoúci oznaczonej przenosi w≥asnoúÊ na nabywcÍ, chyba øe przepis szczegÛlny stanowi inaczej albo øe strony inaczej postanowi≥y. Oznacza to, øe zwykle umowa darowizny rzeczy oznaczonej przenosi w≥asnoúÊ na nabywcÍ, chyba øe istnieje inna regulacja prawna lub strony postanowi≥y inaczej. Jest to zasada ogÛlna dotyczπca umÛw darowizny okreúlonych rzeczy.",True,False,[556]
+egzamin_wstepny_adwokacki_radcowski_2022,37,"Question: Zgodnie z Kodeksem cywilnym, w≥asnoúÊ nieruchomoúci:
+    
+            a) nie moøe byÊ przeniesiona pod warunkiem ani z zastrzeøeniem terminu
+            b) nie moøe byÊ przeniesiona pod warunkiem, ale moøe byÊ przeniesiona z  zastrzeøeniem terminu
+            c) moøe byÊ przeniesiona pod warunkiem, ale nie moøe byÊ przeniesiona z  zastrzeøeniem terminu.   
+            ",A,art. 157 ß 1 k.c.,"Odpowiedü: b) nie moøe byÊ przeniesiona pod warunkiem, ale moøe byÊ przeniesiona z zastrzeøeniem terminu.
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, w≥asnoúÊ nieruchomoúci nie moøe byÊ przeniesiona pod warunkiem, natomiast moøe byÊ przeniesiona z zastrzeøeniem terminu. Oznacza to, øe przeniesienie w≥asnoúci nieruchomoúci moøe byÊ uzaleønione od up≥ywu okreúlonego terminu, ale nie moøe byÊ uzaleønione od spe≥nienia okreúlonego warunku.
+
+Relevant article: Artyku≥ 158 Kodeksu cywilnego.",False,False,[158]
+egzamin_wstepny_adwokacki_radcowski_2022,38,"Question: Zgodnie z Kodeksem cywilnym, jeøeli wiÍkszoúÊ wspÛ≥w≥aúcicieli postanawia dokonaÊ czynnoúci raøπco sprzecznej z zasadami prawid≥owego zarzπdu rzeczπ wspÛlnπ, rozstrzygniÍcia przez sπd:
+    
+            a) mogπ øπdaÊ wszyscy pozostali wspÛ≥w≥aúciciele ≥πcznie, pod warunkiem, øe jest ich przynajmniej dwÛch, a ich udzia≥y wynoszπ ≥πcznie przynajmniej jednπ czwartπ
+            b) mogπ øπdaÊ wszyscy pozostali wspÛ≥w≥aúciciele ≥πcznie, pod warunkiem, øe jest ich przynajmniej trzech, a ich udzia≥y wynoszπ ≥πcznie przynajmniej jednπ trzeciπ
+            c) moøe øπdaÊ kaødy z pozosta≥ych wspÛ≥w≥aúcicieli.
+            ",C,art. 202 k.c.,"Odpowiedü: a) mogπ øπdaÊ wszyscy pozostali wspÛ≥w≥aúciciele ≥πcznie, pod warunkiem, øe jest ich przynajmniej dwÛch, a ich udzia≥y wynoszπ ≥πcznie przynajmniej jednπ czwartπ.
+
+Wyjaúnienie: Zgodnie z art. 227 Kodeksu cywilnego, jeøeli wiÍkszoúÊ wspÛ≥w≥aúcicieli postanawia dokonaÊ czynnoúci raøπco sprzecznej z zasadami prawid≥owego zarzπdu rzeczπ wspÛlnπ, to pozostali wspÛ≥w≥aúciciele, ktÛrych udzia≥y wynoszπ ≥πcznie co najmniej jednπ czwartπ, mogπ øπdaÊ rozstrzygniÍcia przez sπd. Zatem odpowiedü a) jest poprawna, poniewaø okreúla wymagane warunki dotyczπce liczby wspÛ≥w≥aúcicieli i udzia≥Ûw potrzebnych do z≥oøenia takiego øπdania.",False,False,[227]
+egzamin_wstepny_adwokacki_radcowski_2022,39,"Question: Zgodnie z Kodeksem cywilnym, przeciwko osobie, ktÛra narusza w≥asnoúÊ w inny sposÛb aniøeli przez pozbawienie w≥aúciciela faktycznego w≥adztwa nad rzeczπ, przys≥uguje w≥aúcicielowi roszczenie:
+    
+            a) o wydanie rzeczy
+            b) o przywrÛcenie stanu zgodnego z prawem albo o zaniechanie naruszeÒ ñ wed≥ug wyboru w≥aúciciela; wybÛr jednego roszczenia skutkuje wygaúniÍciem drugiego
+            c) o przywrÛcenie stanu zgodnego z prawem i o zaniechanie naruszeÒ.
+            ",C,art. 222 ß 2 k.c.,"Odpowiedü: b) o przywrÛcenie stanu zgodnego z prawem albo o zaniechanie naruszeÒ ñ wed≥ug wyboru w≥aúciciela; wybÛr jednego roszczenia skutkuje wygaúniÍciem drugiego
+
+Wyjaúnienie: Zgodnie z art. 222 Kodeksu cywilnego, przeciwko osobie, ktÛra narusza w≥asnoúÊ w inny sposÛb aniøeli przez pozbawienie w≥aúciciela faktycznego w≥adztwa nad rzeczπ, przys≥uguje w≥aúcicielowi roszczenie o przywrÛcenie stanu zgodnego z prawem albo o zaniechanie naruszeÒ ñ wed≥ug wyboru w≥aúciciela; wybÛr jednego roszczenia skutkuje wygaúniÍciem drugiego. W≥aúciciel ma zatem moøliwoúÊ wyboru jednego z tych roszczeÒ, a dokonanie wyboru skutkuje wy≥πczeniem moøliwoúci dochodzenia drugiego roszczenia.
+
+èrÛd≥o: Kodeks cywilny, art. 222.",False,True,[222]
+egzamin_wstepny_adwokacki_radcowski_2022,40,"Question: Zgodnie z Kodeksem cywilnym, samoistny posiadacz gruntu, ktÛry wzniÛs≥ na powierzchni lub pod powierzchniπ gruntu budynek lub inne urzπdzenie o wartoúci przenoszπcej znacznie wartoúÊ zajÍtej na ten cel dzia≥ki:
+    
+            a) moøe øπdaÊ, aby w≥aúciciel przeniÛs≥ na niego w≥asnoúÊ zajÍtej dzia≥ki za odpowiednim wynagrodzeniem, jeøeli samoistny posiadacz by≥ w dobrej wierze
+            b) nigdy nie moøe øπdaÊ, aby w≥aúciciel przeniÛs≥ na niego w≥asnoúÊ zajÍtej dzia≥ki
+            c) moøe øπdaÊ, aby w≥aúciciel przeniÛs≥ na niego w≥asnoúÊ zajÍtej dzia≥ki nawet bez wynagrodzenia, rÛwnieø wÛwczas, gdy samoistny posiadacz by≥ w z≥ej wierze.
+            ",A,art. 231 ß 1 k.c.,"Odpowiedü: a) moøe øπdaÊ, aby w≥aúciciel przeniÛs≥ na niego w≥asnoúÊ zajÍtej dzia≥ki za odpowiednim wynagrodzeniem, jeøeli samoistny posiadacz by≥ w dobrej wierze.
+
+Wyjaúnienie: Zgodnie z art. 140 Kodeksu cywilnego, samoistny posiadacz gruntu, ktÛry wzniÛs≥ na powierzchni lub pod powierzchniπ gruntu budynek lub inne urzπdzenie o wartoúci przenoszπcej znacznie wartoúÊ zajÍtej na ten cel dzia≥ki, moøe øπdaÊ, aby w≥aúciciel przeniÛs≥ na niego w≥asnoúÊ zajÍtej dzia≥ki za odpowiednim wynagrodzeniem, jeøeli samoistny posiadacz by≥ w dobrej wierze. W przypadku dobrej wiary samoistnego posiadacza istnieje moøliwoúÊ øπdania przeniesienia w≥asnoúci dzia≥ki, ale z obowiπzkiem zap≥aty odpowiedniego wynagrodzenia w≥aúcicielowi.
+
+Relevant article: Kodeks cywilny, art. 140.",True,False,[140]
+egzamin_wstepny_adwokacki_radcowski_2022,41,"Question: Zgodnie z Kodeksem cywilnym, roszczenie w≥aúciciela przeciwko uøytkownikowi o  naprawienie szkody z powodu pogorszenia rzeczy albo o zwrot nak≥adÛw na rzecz przedawniajπ siÍ z up≥ywem:
+    
+            a) roku od dnia zwrotu rzeczy
+            b) dwÛch lat, bez wzglÍdu na to, czy rzecz zosta≥a zwrÛcona
+            c) trzech lat od dnia, w ktÛrym rzecz mia≥a zostaÊ zwrÛcona. 
+            ",A,art. 263 k.c.,"Odpowiedü: b) dwÛch lat, bez wzglÍdu na to, czy rzecz zosta≥a zwrÛcona.
+
+Wybieram odpowiedü b), poniewaø zgodnie z art. 445 Kodeksu cywilnego, roszczenie w≥aúciciela przeciwko uøytkownikowi o naprawienie szkody z powodu pogorszenia rzeczy albo o zwrot nak≥adÛw przedawnia siÍ z up≥ywem dwÛch lat, bez wzglÍdu na to, czy rzecz zosta≥a zwrÛcona. Jest to zasada ogÛlna dotyczπca przedawnienia roszczeÒ z tytu≥u odpowiedzialnoúci deliktowej.
+
+Artyku≥ 445 Kodeksu cywilnego brzmi: ""Roszczenie w≥aúciciela przeciwko uøytkownikowi o naprawienie szkody z powodu pogorszenia rzeczy albo o zwrot nak≥adÛw przedawnia siÍ z up≥ywem dwÛch lat, bez wzglÍdu na to, czy rzecz zosta≥a zwrÛcona.""",False,False,[445]
+egzamin_wstepny_adwokacki_radcowski_2022,42,"Question: Zgodnie z Kodeksem cywilnym, jeøeli z powodu nadzwyczajnej zmiany stosunkÛw spe≥nienie úwiadczenia by≥oby po≥πczone z nadmiernymi trudnoúciami albo grozi≥oby jednej ze stron raøπcπ stratπ, czego strony nie przewidywa≥y przy zawarciu umowy, sπd moøe po rozwaøeniu interesÛw stron, zgodnie z zasadami wspÛ≥øycia spo≥ecznego:
+    
+            a) oznaczyÊ sposÛb wykonania zobowiπzania, wysokoúÊ úwiadczenia, nie moøe jednak orzec o rozwiπzaniu umowy,
+            b) oznaczyÊ sposÛb wykonania zobowiπzania, wysokoúÊ úwiadczenia lub nawet orzec o rozwiπzaniu umowy
+            c) oznaczyÊ sposÛb wykonania zobowiπzania, wysokoúÊ úwiadczenia lub nawet orzec o rozwiπzaniu umowy, tylko wtedy, gdy z takim øπdaniem wystπpi konsument przeciwko przedsiÍbiorcy.
+            ",B,art. 3571 k.c. ,"Odpowiedü: b) oznaczyÊ sposÛb wykonania zobowiπzania, wysokoúÊ úwiadczenia lub nawet orzec o rozwiπzaniu umowy
+
+Wyjaúnienie: Zgodnie z art. 357^1 Kodeksu cywilnego, jeøeli z powodu nadzwyczajnej zmiany stosunkÛw spe≥nienie úwiadczenia by≥oby po≥πczone z nadmiernymi trudnoúciami albo grozi≥oby jednej ze stron raøπcπ stratπ, czego strony nie przewidywa≥y przy zawarciu umowy, sπd moøe po rozwaøeniu interesÛw stron, zgodnie z zasadami wspÛ≥øycia spo≥ecznego, oznaczyÊ sposÛb wykonania zobowiπzania, wysokoúÊ úwiadczenia lub nawet orzec o rozwiπzaniu umowy. Jest to zatem najbardziej adekwatna odpowiedü do sytuacji opisanej w pytaniu.",True,True,[3571]
+egzamin_wstepny_adwokacki_radcowski_2022,43,"Question: Zgodnie z Kodeksem cywilnym, w braku odmiennej umowy d≥uønicy zobowiπzani do úwiadczenia podzielnego sπ odpowiedzialni za jego spe≥nienie:
+    
+            a) w czÍúciach rÛwnych, nawet jeøeli wzajemne úwiadczenie wierzyciela jest niepodzielne
+            b) solidarnie, jeøeli wzajemne úwiadczenie wierzyciela jest niepodzielne
+            c) proporcjonalnie, zaleønie od wartoúci úwiadczenia kaødego z d≥uønikÛw, nawet jeøeli wzajemne úwiadczenie wierzyciela jest niepodzielne.
+            ",B,art. 380 ß 2 k.c.,"Odpowiedü: b) solidarnie, jeøeli wzajemne úwiadczenie wierzyciela jest niepodzielne.
+
+Wybieram odpowiedü b), poniewaø zgodnie z art. 483 Kodeksu cywilnego, jeúli wzajemne úwiadczenie wierzyciela jest niepodzielne, d≥uønicy zobowiπzani do úwiadczenia podzielnego sπ odpowiedzialni solidarnie za jego spe≥nienie. Oznacza to, øe wierzyciel moøe øπdaÊ spe≥nienia úwiadczenia od kaødego z d≥uønikÛw w ca≥oúci, a ci d≥uønicy odpowiadajπ solidarnie za jego wykonanie.
+
+Artyku≥: Kodeks cywilny, art. 483.",True,False,[483]
+egzamin_wstepny_adwokacki_radcowski_2022,44,"Question: Zgodnie z Kodeksem cywilnym, wzorzec umowy powinien byÊ sformu≥owany jednoznacznie i w sposÛb zrozumia≥y; postanowienia niejednoznaczne t≥umaczy siÍ na korzyúÊ:
+    
+            a) konsumenta; tej zasady nie stosuje siÍ w postÍpowaniu w sprawach o uznanie postanowieÒ wzorca umowy za niedozwolone
+            b) konsumenta; tÍ zasadÍ stosuje siÍ rÛwnieø w postÍpowaniu w sprawach o uznanie postanowieÒ wzorca umowy za niedozwolone
+            c) konsumenta lub przedsiÍbiorcy, zaleønie od tego, czy konsument mia≥ wp≥yw na treúÊ wzorca umowy; tÍ zasadÍ stosuje siÍ rÛwnieø w postÍpowaniu w sprawach o uznanie postanowieÒ wzorca umowy za niedozwolone.  
+            ",A,art. 385 ß 2 k.c.,"Odpowiedü: a) konsumenta; tej zasady nie stosuje siÍ w postÍpowaniu w sprawach o uznanie postanowieÒ wzorca umowy za niedozwolone.
+
+Wyjaúnienie: Zgodnie z art. 384^1 ß 1 Kodeksu cywilnego, wzorzec umowy powinien byÊ sformu≥owany jednoznacznie i w sposÛb zrozumia≥y. Postanowienia niejednoznaczne t≥umaczy siÍ na korzyúÊ konsumenta. Jednakøe, ta zasada nie stosuje siÍ w postÍpowaniu w sprawach o uznanie postanowieÒ wzorca umowy za niedozwolone, co wynika z art. 384^1 ß 2 Kodeksu cywilnego. W takich przypadkach, istotne jest ustalenie, czy dany postanowienie jest niedozwolone, niezaleønie od korzyúci dla konsumenta.",True,True,"[3841, 385]"
+egzamin_wstepny_adwokacki_radcowski_2022,45,"Question: Zgodnie z Kodeksem cywilnym, umowa o úwiadczenie niemoøliwe jest niewaøna; strona, ktÛra w chwili zawarcia umowy wiedzia≥a o niemoøliwoúci úwiadczenia, a drugiej strony z b≥Ídu nie wyprowadzi≥a:
+    
+            a) obowiπzana jest do naprawienia szkody, ktÛrπ druga strona ponios≥a przez to, øe zawar≥a umowÍ nie wiedzπc o niemoøliwoúci úwiadczenia
+            b) nie jest obowiπzana do naprawienia szkody, ktÛrπ druga strona ponios≥a przez to, øe zawar≥a umowÍ nie wiedzπc o niemoøliwoúci úwiadczenia
+            c) nie jest obowiπzana do naprawienia szkody, ktÛrπ druga strona ponios≥a przez to, øe zawar≥a umowÍ nie wiedzπc o niemoøliwoúci úwiadczenia; nie dotyczy to kosztÛw zawarcia umowy przedwstÍpnej w formie aktu notarialnego.
+            ",A,art. 387 ß 2 k.c.,"Odpowiedü: a) obowiπzana jest do naprawienia szkody, ktÛrπ druga strona ponios≥a przez to, øe zawar≥a umowÍ nie wiedzπc o niemoøliwoúci úwiadczenia.
+
+Wybieram odpowiedü a), poniewaø zgodnie z art. 72 Kodeksu cywilnego, umowa o úwiadczenie niemoøliwe jest niewaøna. Jednakøe, jeúli jedna ze stron wiedzia≥a o niemoøliwoúci úwiadczenia w chwili zawarcia umowy, a druga strona z b≥Ídu nie wyprowadzi≥a, to ta pierwsza strona jest obowiπzana do naprawienia szkody, ktÛrπ druga strona ponios≥a przez to, øe zawar≥a umowÍ nie wiedzπc o niemoøliwoúci úwiadczenia.
+
+Zasada ta wynika z dobra wiary i ochrony interesÛw drugiej strony umowy, ktÛra dzia≥a≥a w nieúwiadomoúci co do niemoøliwoúci wykonania umowy. W takiej sytuacji strona, ktÛra zna≥a niemoønoúÊ úwiadczenia, nie moøe uniknπÊ odpowiedzialnoúci za szkodÍ wyrzπdzonπ drugiej stronie.
+
+Relevant article: 
+- Art. 72 Kodeksu cywilnego",True,False,[72]
+egzamin_wstepny_adwokacki_radcowski_2022,46,"Question: Zgodnie z Kodeksem cywilnym, jeøeli ten, kto bez podstawy prawnej uzyska≥ korzyúÊ majπtkowπ kosztem innej osoby, rozporzπdzi≥ korzyúciπ na rzecz osoby trzeciej (a w chwili wyzbycia siÍ korzyúci nie powinien by≥ liczyÊ siÍ z obowiπzkiem zwrotu), obowiπzek wydania korzyúci:
+    
+            a) zawsze przechodzi na tÍ osobÍ trzeciπ,
+            b) przechodzi na tÍ osobÍ trzeciπ, jeøeli to rozporzπdzenie by≥o bezp≥atne
+            c) przechodzi na tÍ osobÍ trzeciπ, nawet jeøeli to rozporzπdzenie by≥o odp≥atne.
+            ",B,art. 407 w zw. z art. 409 k.c.,"Odpowiedü: b) przechodzi na tÍ osobÍ trzeciπ, jeøeli to rozporzπdzenie by≥o bezp≥atne.
+
+Wyjaúnienie: Zgodnie z art. 495 Kodeksu cywilnego, jeúli osoba bez podstawy prawnej uzyska≥a korzyúÊ majπtkowπ kosztem innej osoby i rozporzπdzi≥a tπ korzyúciπ na rzecz osoby trzeciej, obowiπzek zwrotu korzyúci przechodzi na tÍ osobÍ trzeciπ tylko wtedy, gdy rozporzπdzenie to by≥o bezp≥atne. W przypadku, gdy rozporzπdzenie by≥o odp≥atne, obowiπzek zwrotu korzyúci pozostaje po stronie osoby, ktÛra bez podstawy prawnej uzyska≥a korzyúÊ. 
+
+Zatem, zgodnie z przepisami Kodeksu cywilnego, odpowiedü b) jest poprawna.",True,True,"[407, 409]"
+egzamin_wstepny_adwokacki_radcowski_2022,47,"Question: Zgodnie z Kodeksem cywilnym, kto (nie bÍdπc osobπ, na ktÛrej ciπøy szczegÛlny obowiπzek chronienia dobra, nawet z naraøeniem na osobiste niebezpieczeÒstwo) zniszczy≥ lub uszkodzi≥ cudzπ rzecz albo zabi≥ lub zrani≥ cudze zwierzÍ w celu odwrÛcenia od siebie lub od innych niebezpieczeÒstwa groøπcego bezpoúrednio od tej rzeczy lub zwierzÍcia, ten nie jest odpowiedzialny za wynik≥π stπd szkodÍ:
+    
+            a) nawet wtedy, gdy niebezpieczeÒstwo sam wywo≥a≥, a niebezpieczeÒstwu nie moøna by≥o inaczej zapobiec i jeøeli ratowane dobro jest przynajmniej tak samo waøne, jak dobro naruszone
+            b) jeøeli niebezpieczeÒstwa sam nie wywo≥a≥, nawet jeøeli niebezpieczeÒstwu moøna by≥o inaczej zapobiec, o ile ratowane dobro jest przynajmniej tak samo waøne, jak dobro naruszone
+            c) jeøeli niebezpieczeÒstwa sam nie wywo≥a≥, a niebezpieczeÒstwu nie moøna by≥o inaczej zapobiec i jeøeli ratowane dobro jest oczywiúcie waøniejsze aniøeli dobro naruszone. 
+            ",C,art. 424 k.c.,"Odpowiedü: a) nawet wtedy, gdy niebezpieczeÒstwo sam wywo≥a≥, a niebezpieczeÒstwu nie moøna by≥o inaczej zapobiec i jeøeli ratowane dobro jest przynajmniej tak samo waøne, jak dobro naruszone.
+
+Wybieram odpowiedü a), poniewaø zgodnie z art. 417 ß 2 Kodeksu cywilnego, osoba, ktÛra zniszczy≥a lub uszkodzi≥a cudzπ rzecz albo zabi≥a lub zrani≥a cudze zwierzÍ w celu odwrÛcenia od siebie lub od innych niebezpieczeÒstwa groøπcego bezpoúrednio od tej rzeczy lub zwierzÍcia, nie ponosi odpowiedzialnoúci za wynik≥π stπd szkodÍ, nawet jeúli niebezpieczeÒstwo samodzielnie wywo≥a≥. Waøne jest, aby niebezpieczeÒstwu nie moøna by≥o inaczej zapobiec i aby ratowane dobro by≥o przynajmniej tak samo waøne, jak dobro naruszone. Dlatego odpowiedü a) jest poprawna w tym kontekúcie.",False,False,[417]
+egzamin_wstepny_adwokacki_radcowski_2022,48,"Question: Zgodnie z Kodeksem cywilnym, przedawnienie roszczeÒ osoby ma≥oletniej o naprawienie szkody na osobie wyrzπdzonej czynem niedozwolonym nie moøe skoÒczyÊ siÍ wczeúniej niø z up≥ywem:
+    
+            a) lat dwÛch od uzyskania przez niπ pe≥noletnoúci
+            b) lat trzech od dnia, w ktÛrym przedstawiciel ustawowy tej osoby dowiedzia≥ siÍ o szkodzie i o osobie obowiπzanej do jej naprawienia
+            c) lat dziesiÍciu od dnia, w ktÛrym przedstawiciel ustawowy tej osoby dowiedzia≥ siÍ albo przy zachowaniu naleøytej starannoúci mÛg≥ siÍ dowiedzieÊ o szkodzie i o osobie obowiπzanej do jej naprawienia.
+            ",A,art. 4421 ß 4 k.c.,"Odpowiedü: c) lat dziesiÍciu od dnia, w ktÛrym przedstawiciel ustawowy tej osoby dowiedzia≥ siÍ albo przy zachowaniu naleøytej starannoúci mÛg≥ siÍ dowiedzieÊ o szkodzie i o osobie obowiπzanej do jej naprawienia.
+
+Wybieram odpowiedü c), poniewaø zgodnie z art. 123 ß 1 Kodeksu cywilnego, przedawnienie roszczeÒ osoby ma≥oletniej o naprawienie szkody na osobie wyrzπdzonej czynem niedozwolonym nie moøe skoÒczyÊ siÍ wczeúniej niø z up≥ywem lat dziesiÍciu od dnia, w ktÛrym przedstawiciel ustawowy tej osoby dowiedzia≥ siÍ albo przy zachowaniu naleøytej starannoúci mÛg≥ siÍ dowiedzieÊ o szkodzie i o osobie obowiπzanej do jej naprawienia. Jest to waøne zabezpieczenie dla osÛb ma≥oletnich, aby mia≥y odpowiedni czas na dochodzenie swoich roszczeÒ w przypadku wyrzπdzenia im szkody.
+
+Zatem, zgodnie z polskim Kodeksem cywilnym, odpowiedü c) jest poprawna w kontekúcie przedawnienia roszczeÒ osoby ma≥oletniej o naprawienie szkody na osobie wyrzπdzonej czynem niedozwolonym.",False,False,[123]
+egzamin_wstepny_adwokacki_radcowski_2022,49,"Question: Zgodnie z Kodeksem cywilnym, d≥uønik, spe≥niajπc úwiadczenie, moøe øπdaÊ od wierzyciela pokwitowania; koszty pokwitowania:
+    
+            a) ponosi wierzyciel, chyba øe umÛwiono siÍ inaczej
+            b) ponosi d≥uønik, chyba øe umÛwiono siÍ inaczej
+            c) ponoszπ wierzyciel i d≥uønik zawsze po po≥owie.
+            ",B,art. 462 ß 1 i 3 k.c.,"Odpowiedü: a) ponosi wierzyciel, chyba øe umÛwiono siÍ inaczej.
+
+Wyjaúnienie: Zgodnie z art. 491 Kodeksu cywilnego, koszty pokwitowania ponosi wierzyciel, chyba øe strony umÛwi≥y siÍ inaczej. Oznacza to, øe z regu≥y to wierzyciel ponosi koszty pokwitowania, chyba øe w umowie lub w innych ustaleniach miÍdzy stronami okreúlono inaczej. Dlatego odpowiedü a) jest poprawna, a odpowiedzi b) i c) nie znajdujπ potwierdzenia w przepisach prawa.",False,False,[491]
+egzamin_wstepny_adwokacki_radcowski_2022,50,"Question: Zgodnie z Kodeksem cywilnym, jeøeli wierzytelnoúÊ jest stwierdzona pismem, przelew tej wierzytelnoúci:
+    
+            a) powinien byÊ rÛwnieø pismem stwierdzony
+            b) wymaga formy pisemnej z podpisami notarialnie poúwiadczonymi
+            c) wymaga formy pisemnej z datπ pewnπ.
+            ",A,art. 511 k.c.,"Odpowiedü: c) wymaga formy pisemnej z datπ pewnπ.
+
+Wybieram odpowiedü c), poniewaø zgodnie z art. 509 Kodeksu cywilnego, jeøeli wierzytelnoúÊ jest stwierdzona pismem, to przelew tej wierzytelnoúci wymaga formy pisemnej z datπ pewnπ. Jest to istotne ze wzglÍdu na koniecznoúÊ zachowania dowodÛw i klarownoúci transakcji w przypadku przeniesienia wierzytelnoúci.
+
+Artyku≥ 509 Kodeksu cywilnego brzmi: ""Jeøeli wierzytelnoúÊ jest stwierdzona pismem, to jej przeniesienie wymaga formy pisemnej z datπ pewnπ.""",False,False,[509]
+egzamin_wstepny_notarialny_2022,1,"Question: Zgodnie z Kodeksem cywilnym, Skarb PaÒstwa:
+    
+            a) jest osobπ prawnπ
+            b) nie jest osobπ prawnπ
+            c) jest jednostkπ organizacyjnπ niebÍdπcπ osobπ prawnπ, do ktÛrej stosuje siÍ odpowiednio przepisy o osobach prawnych. 
+            ",A,art. 33 k.c.,"Odpowiedü: c) jest jednostkπ organizacyjnπ niebÍdπcπ osobπ prawnπ, do ktÛrej stosuje siÍ odpowiednio przepisy o osobach prawnych.
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, Skarb PaÒstwa nie jest osobπ prawnπ, ale jest jednostkπ organizacyjnπ niebÍdπcπ osobπ prawnπ. Oznacza to, øe Skarb PaÒstwa podlega pewnym regulacjom i przepisom, ktÛre dotyczπ osÛb prawnych, co obejmuje m.in. zdolnoúÊ do czynnoúci prawnych i odpowiedzialnoúÊ cywilnπ.
+
+Relevant article: Artyku≥ 6 Kodeksu cywilnego.",False,False,[6]
+egzamin_wstepny_notarialny_2022,2,"Question: Zgodnie z Kodeksem cywilnym, firmπ osoby fizycznej bÍdπcej przedsiÍbiorcπ:
+    
+            a) zawsze jest wy≥πcznie jej imiÍ i nazwisko
+            b) nigdy nie jest jej imiÍ i nazwisko
+            c) jest jej imiÍ i nazwisko; nie wyklucza to w≥πczenia do firmy pseudonimu lub okreúleÒ wskazujπcych na przedmiot dzia≥alnoúci przedsiÍbiorcy, miejsce jej prowadzenia oraz innych okreúleÒ dowolnie obranych. 
+            ",C,art. 434 k.c.,"Odpowiedü: c) jest jej imiÍ i nazwisko; nie wyklucza to w≥πczenia do firmy pseudonimu lub okreúleÒ wskazujπcych na przedmiot dzia≥alnoúci przedsiÍbiorcy, miejsce jej prowadzenia oraz innych okreúleÒ dowolnie obranych.
+
+Wyjaúnienie: Zgodnie z art. 9 Kodeksu cywilnego, firma osoby fizycznej bÍdπcej przedsiÍbiorcπ sk≥ada siÍ z jej imienia i nazwiska. Jednakøe, zgodnie z art. 9<sup>1</sup> ß 1, nie wyklucza to moøliwoúci dodania do firmy pseudonimu lub okreúleÒ wskazujπcych na przedmiot dzia≥alnoúci przedsiÍbiorcy, miejsce jej prowadzenia oraz innych okreúleÒ dowolnie obranych. Jest to istotne dla identyfikacji przedsiÍbiorstwa i jego dzia≥alnoúci.
+
+Dlatego poprawna odpowiedü to c) jest jej imiÍ i nazwisko; nie wyklucza to w≥πczenia do firmy pseudonimu lub okreúleÒ wskazujπcych na przedmiot dzia≥alnoúci przedsiÍbiorcy, miejsce jej prowadzenia oraz innych okreúleÒ dowolnie obranych.",True,False,"[9, 9]"
+egzamin_wstepny_notarialny_2022,3,"Question: Zgodnie z Kodeksem cywilnym, czynnoúÊ prawna sprzeczna z zasadami wspÛ≥øycia spo≥ecznego, o ile przepis szczegÛlny nie stanowi inaczej:
+    
+            a) jest niewaøna
+            b) jest zawsze waøna
+            c) jest bezskuteczna. 
+            ",A,art. 58 ß 2 k.c.,"Odpowiedü: a) jest niewaøna
+
+Wyjaúnienie: Zgodnie z art. 58 Kodeksu cywilnego, czynnoúÊ prawna sprzeczna z zasadami wspÛ≥øycia spo≥ecznego jest niewaøna, chyba øe przepis szczegÛlny stanowi inaczej. Zasady wspÛ≥øycia spo≥ecznego to ogÛ≥ norm i wartoúci obowiπzujπcych w danej spo≥ecznoúci, ktÛre stanowiπ podstawÍ dla oceny dopuszczalnoúci zachowaÒ. W przypadku naruszenia tych zasad, czynnoúÊ prawna moøe zostaÊ uznana za niewaønπ. 
+
+Zatem, zgodnie z polskim Kodeksem cywilnym, czynnoúÊ prawna sprzeczna z zasadami wspÛ≥øycia spo≥ecznego jest niewaøna, chyba øe przepis szczegÛlny stanowi inaczej.
+
+Artyku≥: Kodeks cywilny, art. 58",True,True,[58]
+egzamin_wstepny_notarialny_2022,4,"Question: Zgodnie z Kodeksem cywilnym, oúwiadczenie woli wyraøone w postaci innej niø elektroniczna, ktÛre ma byÊ z≥oøone innej osobie, jest z≥oøone:
+    
+            a) zawsze z chwilπ zapoznania siÍ przez niπ z jego treúciπ
+            b) z chwilπ, gdy dosz≥o do niej w taki sposÛb, øe mog≥a zapoznaÊ siÍ z jego treúciπ
+            c) zawsze z chwilπ jego wyraøenia. 
+            ",B,art. 61 ß 1 k.c.,"Odpowiedü: b) z chwilπ, gdy dosz≥o do niej w taki sposÛb, øe mog≥a zapoznaÊ siÍ z jego treúciπ.
+
+Wyjaúnienie: Zgodnie z art. 60 Kodeksu cywilnego, oúwiadczenie woli wyraøone w postaci innej niø elektroniczna, ktÛre ma byÊ z≥oøone innej osobie, jest z≥oøone z chwilπ, gdy dosz≥o do niej w taki sposÛb, øe mog≥a zapoznaÊ siÍ z jego treúciπ. Oznacza to, øe konieczne jest, aby osoba, ktÛrej skierowane jest oúwiadczenie, mia≥a moøliwoúÊ zapoznania siÍ z jego treúciπ, co determinuje moment skutecznego z≥oøenia oúwiadczenia woli.
+
+Artyku≥: Kodeks cywilny, art. 60.",True,False,[60]
+egzamin_wstepny_notarialny_2022,5,"Question: Zgodnie z Kodeksem cywilnym, prawomocne orzeczenie sπdu stwierdzajπce obowiπzek danej osoby do z≥oøenia oznaczonego oúwiadczenia woli:
+    
+            a) zastÍpuje to oúwiadczenie
+            b) jest tytu≥em egzekucyjnym, podlegajπcym wykonaniu w drodze egzekucji sπdowej,
+            c) zastÍpuje to oúwiadczenie tylko wtedy, gdy sπd tak postanowi.    
+            ",A,art. 64 k.c.,"Odpowiedü: c) zastÍpuje to oúwiadczenie tylko wtedy, gdy sπd tak postanowi.
+
+Wyjaúnienie: Zgodnie z art. 777 ß 1 Kodeksu cywilnego, prawomocne orzeczenie sπdu stwierdzajπce obowiπzek danej osoby do z≥oøenia oznaczonego oúwiadczenia woli zastÍpuje to oúwiadczenie tylko wtedy, gdy sπd tak postanowi. Oznacza to, øe samo orzeczenie nie zastÍpuje automatycznie oúwiadczenia woli, lecz moøe to nastπpiÊ jedynie w przypadku, gdy sπd wyraünie tak postanowi. Jest to istotne ze wzglÍdu na koniecznoúÊ jasnego okreúlenia skutkÛw prawnych takiego orzeczenia.
+
+Dlatego odpowiedü c) jest poprawna.",False,False,[777]
+egzamin_wstepny_notarialny_2022,7,"Question: Zgodnie z Kodeksem cywilnym, oúwiadczenie woli z≥oøone przez osobÍ, ktÛra z jakichkolwiek powodÛw znajdowa≥a siÍ w stanie wy≥πczajπcym úwiadome albo swobodne powziÍcie decyzji i wyraøenie woli jest:
+    
+            a) niewaøne tylko wÛwczas, gdy zosta≥o z≥oøone innej osobie
+            b) waøne, lecz nie wywo≥uje skutkÛw prawnych
+            c) niewaøne. 
+            ",C,art. 82 k.c. ,"Odpowiedü: c) niewaøne.
+
+Wyjaúnienie: Zgodnie z art. 58 Kodeksu cywilnego, oúwiadczenie woli z≥oøone przez osobÍ, ktÛra z jakichkolwiek powodÛw znajdowa≥a siÍ w stanie wy≥πczajπcym úwiadome albo swobodne powziÍcie decyzji i wyraøenie woli, jest niewaøne. Stan ten moøe wynikaÊ z rÛønych przyczyn, takich jak choroba psychiczna, stan upojenia alkoholowego, czy teø wp≥yw innych czynnikÛw uniemoøliwiajπcych úwiadome dzia≥anie. W takiej sytuacji oúwiadczenie woli nie wywo≥uje øadnych skutkÛw prawnych.
+
+Zatem, zgodnie z polskim Kodeksem cywilnym, oúwiadczenie woli z≥oøone w stanie wy≥πczajπcym úwiadome albo swobodne powziÍcie decyzji i wyraøenie woli jest niewaøne.",True,False,[58]
+egzamin_wstepny_notarialny_2022,8,"Question: Zgodnie z Kodeksem cywilnym, jeøeli pe≥nomocnik po wygaúniÍciu umocowania dokona w imieniu mocodawcy z drugπ stronπ czynnoúci prawnej w granicach pierwotnego umocowania, czynnoúÊ prawna jest:
+    
+            a) zawsze niewaøna,
+            b) waøna tylko wtedy, gdy potwierdzi jπ mocodawca
+            c) waøna, chyba øe druga strona o wygaúniÍciu umocowania wiedzia≥a lub z ≥atwoúciπ mog≥a siÍ dowiedzieÊ.
+            ",C,art. 105 k.c. ,"Odpowiedü: c) waøna, chyba øe druga strona o wygaúniÍciu umocowania wiedzia≥a lub z ≥atwoúciπ mog≥a siÍ dowiedzieÊ.
+
+Wyjaúnienie: Zgodnie z art. 101 ß 2 Kodeksu cywilnego, jeúli pe≥nomocnik po wygaúniÍciu umocowania dokona czynnoúci prawnej w granicach pierwotnego umocowania, to czynnoúÊ ta obowiπzuje mocodawcÍ, chyba øe druga strona wiedzia≥a o wygaúniÍciu umocowania lub z ≥atwoúciπ mog≥a siÍ o tym dowiedzieÊ. W takim przypadku czynnoúÊ prawna jest waøna, ale podlega potwierdzeniu przez mocodawcÍ. Jednakøe, jeúli druga strona nie mia≥a wiedzy o wygaúniÍciu umocowania i nie mog≥a siÍ o tym dowiedzieÊ, to czynnoúÊ prawna jest waøna bez koniecznoúci potwierdzenia przez mocodawcÍ.",True,False,[101]
+egzamin_wstepny_notarialny_2022,9,"Question: Zgodnie z Kodeksem cywilnym, przez czynnoúÊ prawnπ terminy przedawnienia roszczeÒ:
+    
+            a) nie mogπ byÊ skracane ani przed≥uøane
+            b) mogπ byÊ skracane, ale nie mogπ byÊ przed≥uøane
+            c) mogπ byÊ przed≥uøane, ale nie mogπ byÊ skracane. 
+            ",A,art. 119 k.c.,"Odpowiedü: a) nie mogπ byÊ skracane ani przed≥uøane.
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, terminy przedawnienia roszczeÒ nie mogπ byÊ ani skracane, ani przed≥uøane. Oznacza to, øe po up≥ywie okreúlonego terminu, okreúlonego w ustawie, roszczenia wygasajπ bez wzglÍdu na to, czy strony chcπ kontynuowaÊ postÍpowanie. 
+
+Relevant article: Artyku≥ 123 Kodeksu cywilnego.",True,False,[123]
+egzamin_wstepny_notarialny_2022,10,"Question: Zgodnie z Kodeksem cywilnym, roszczenie o zniesienie wspÛ≥w≥asnoúci:
+    
+            a) nie ulega przedawnieniu, 
+            b) ulega przedawnieniu, a termin przedawnienia wynosi lat dziesiÍÊ
+            c) ulega przedawnieniu i termin przedawnienia wynosi lat dziesiÍÊ, ale bieg przedawnienia moøe byÊ skrÛcony przez czynnoúÊ prawnπ dokonanπ miÍdzy wspÛ≥w≥aúcicielami. 
+            ",A,art. 220 k.c.  ,"Odpowiedü: b) ulega przedawnieniu, a termin przedawnienia wynosi lat dziesiÍÊ.
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, roszczenie o zniesienie wspÛ≥w≥asnoúci ulega przedawnieniu. Termin przedawnienia tego roszczenia wynosi dziesiÍÊ lat, zgodnie z art. 125 Kodeksu cywilnego. Jest to okres, w ktÛrym naleøy dochodziÊ swoich praw do zniesienia wspÛ≥w≥asnoúci, po przekroczeniu ktÛrego roszczenie staje siÍ przedawnione.
+
+Artyku≥ Kodeksu cywilnego: Art. 125.",False,False,[125]
+egzamin_wstepny_notarialny_2022,11,"Question: Zgodnie z Kodeksem cywilnym, przedmiotem prawa uøytkowania mogπ byÊ:
+    
+            a) wy≥πcznie nieruchomoúci albo rzeczy ruchome,
+            b) wy≥πcznie nieruchomoúci
+            c) nieruchomoúci, rzeczy ruchome, a takøe prawa.
+            ",C,art. 265 ß 1 w zw. z art. 252 k.c. ,"Odpowiedü: c) nieruchomoúci, rzeczy ruchome, a takøe prawa.
+
+Wybieram odpowiedü c), poniewaø zgodnie z Kodeksem cywilnym, przedmiotem prawa uøytkowania mogπ byÊ nieruchomoúci, rzeczy ruchome, a takøe prawa. Prawo uøytkowania moøe dotyczyÊ rÛønych rodzajÛw dÛbr, nie tylko nieruchomoúci, ale takøe ruchomoúci oraz praw zwiπzanych z danym obiektem.
+
+Relevant article: 
+- Artyku≥ 296 Kodeksu cywilnego okreúla, øe uøytkowanie moøe dotyczyÊ nieruchomoúci, rzeczy ruchomej lub prawa.",True,False,[296]
+egzamin_wstepny_notarialny_2022,12,"Question: Zgodnie z Kodeksem cywilnym, posiadaczem rzeczy jest:
+    
+            a) tylko w≥aúciciel,
+            b) tylko posiadacz zaleøny,
+            c) zarÛwno ten, kto niπ faktycznie w≥ada jak w≥aúciciel, jak i posiadacz zaleøny. 
+            ",C,art. 336 k.c.,"Odpowiedü: c) zarÛwno ten, kto niπ faktycznie w≥ada jak w≥aúciciel, jak i posiadacz zaleøny.
+
+Wyjaúnienie: Zgodnie z art. 217 Kodeksu cywilnego, posiadaczem rzeczy jest ten, kto ma rzecz w posiadaniu lub uøywa z rzeczy jak w≥aúciciel, chyba øe przepisy szczegÛlne stanowiπ inaczej. Oznacza to, øe posiadaczem moøe byÊ zarÛwno w≥aúciciel, jak i posiadacz zaleøny, czyli osoba korzystajπca z rzeczy na podstawie umowy z w≥aúcicielem.
+
+Relevant article: Art. 217 Kodeksu cywilnego.",True,False,[217]
+egzamin_wstepny_notarialny_2022,13,"Question: Zgodnie z Kodeksem cywilnym, jeøeli úwiadczenie (z wy≥πczeniem úwiadczenia z gry lub zak≥adu) zosta≥o spe≥nione dobrowolnie w celu zadoúÊuczynienia przedawnionemu roszczeniu, ten kto je spe≥ni≥: 
+    
+            a) moøe øπdaÊ zwrotu úwiadczenia bez ograniczeÒ,
+            b) moøe øπdaÊ zwrotu úwiadczenia w okreúlonych przypadkach
+            c) nie moøe øπdaÊ zwrotu úwiadczenia.
+            ",C,art. 411 pkt 3 k.c. ,"Odpowiedü: b) moøe øπdaÊ zwrotu úwiadczenia w okreúlonych przypadkach.
+
+Wyjaúnienie: Zgodnie z art. 200 Kodeksu cywilnego, jeøeli úwiadczenie (z wy≥πczeniem úwiadczenia z gry lub zak≥adu) zosta≥o spe≥nione dobrowolnie w celu zadoúÊuczynienia przedawnionemu roszczeniu, to osoba, ktÛra je spe≥ni≥a, moøe øπdaÊ zwrotu úwiadczenia, jeøeli spe≥nienie to nastπpi≥o w okreúlonych przypadkach, takich jak np. gdy spe≥nienie to nastπpi≥o pod wp≥ywem groüby. W zwiπzku z tym, odpowiedü b) jest poprawna, poniewaø moøliwoúÊ øπdania zwrotu úwiadczenia w takiej sytuacji jest uzaleøniona od okolicznoúci spe≥nienia úwiadczenia.
+
+Relevant article: Art. 200 Kodeksu cywilnego.",False,False,[200]
+egzamin_wstepny_notarialny_2022,14,"Question: Zgodnie z Kodeksem cywilnym, roszczenie o zadoúÊuczynienie pieniÍøne za krzywdÍ doznanπ przez osobÍ fizycznπ: 
+    
+            a) przechodzi na spadkobiercÛw, gdy poszkodowany za øycia skierowa≥ do zobowiπzanego wezwanie do zap≥aty
+            b) przechodzi na spadkobiercÛw, gdy powÛdztwo o to roszczenie zosta≥o wytoczone za øycia poszkodowanego
+            c) nigdy nie przechodzi na spadkobiercÛw.
+            ",B,art. 445 ß 3 k.c. ,"Odpowiedü: b) przechodzi na spadkobiercÛw, gdy powÛdztwo o to roszczenie zosta≥o wytoczone za øycia poszkodowanego.
+
+Wyjaúnienie: Zgodnie z art. 115 Kodeksu cywilnego, roszczenie o zadoúÊuczynienie pieniÍøne za krzywdÍ doznanπ przez osobÍ fizycznπ przechodzi na spadkobiercÛw, gdy powÛdztwo o to roszczenie zosta≥o wytoczone za øycia poszkodowanego. Natomiast jeúli poszkodowany za øycia skierowa≥ do zobowiπzanego wezwanie do zap≥aty, roszczenie nie przechodzi na spadkobiercÛw.
+
+Relevant article: Art. 115 Kodeksu cywilnego.",True,False,[115]
+egzamin_wstepny_notarialny_2022,15,"Question: Zgodnie z Kodeksem cywilnym, zastrzeøona w umowie kara umowna ma na celu naprawienie szkody wynik≥ej z niewykonania lub nienaleøytego wykonania zobowiπzania:
+    
+            a) pieniÍønego,
+            b) niepieniÍønego,
+            c) zarÛwno pieniÍønego, jak i niepieniÍønego.   
+            ",B,art. 483 ß 1 k.c.,"Odpowiedü: a) pieniÍønego
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, zastrzeøona w umowie kara umowna ma na celu naprawienie szkody wynik≥ej z niewykonania lub nienaleøytego wykonania zobowiπzania pieniÍønego. Kara umowna jest okreúlona w art. 484-496 Kodeksu cywilnego. Jest to úwiadczenie pieniÍøne, ktÛre ma na celu zrekompensowanie szkody wynik≥ej z niewykonania lub nienaleøytego wykonania zobowiπzania. Kara umowna ma charakter kompensacyjny i ma za zadanie zabezpieczenie interesÛw stron umowy.
+
+Odniesienie do przepisÛw: Art. 484-496 Kodeksu cywilnego.",False,False,"[484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496]"
+egzamin_wstepny_notarialny_2022,16,"Question: Zgodnie z Kodeksem cywilnym, przejÍcie d≥ugu moøe nastπpiÊ: 
+    
+            a) przez umowÍ miÍdzy wierzycielem a d≥uønikiem bez zgody osoby trzeciej,
+            b) przez umowÍ miÍdzy d≥uønikiem a osobπ trzeciπ bez zgody wierzyciela,
+            c) przez umowÍ miÍdzy wierzycielem a osobπ trzeciπ za zgodπ d≥uønika. 
+            ",C,art. 519 ß 2 pkt 1 k.c.,"Odpowiedü: c) przez umowÍ miÍdzy wierzycielem a osobπ trzeciπ za zgodπ d≥uønika.
+
+Wyjaúnienie: Zgodnie z przepisami Kodeksu cywilnego, przejÍcie d≥ugu moøe nastπpiÊ poprzez umowÍ miÍdzy wierzycielem a osobπ trzeciπ za zgodπ d≥uønika. Jest to tzw. delegacja d≥ugu, ktÛra wymaga zgody d≥uønika na zmianÍ podmiotu odpowiedzialnego za sp≥atÍ d≥ugu. W takiej sytuacji nowy d≥uønik zastÍpuje dotychczasowego d≥uønika wobec wierzyciela.
+
+Relevant article: Artyku≥ 509 Kodeksu cywilnego.",True,True,"[509, 519]"
+egzamin_wstepny_notarialny_2022,17,"Question: Zgodnie z Kodeksem cywilnym, prawo odkupu wykonywa siÍ przez oúwiadczenie sprzedawcy z≥oøone kupujπcemu, przy czym:
+    
+            a) oúwiadczenie o wykonaniu prawa odkupu nigdy nie wymaga szczegÛlnej formy, 
+            b) jeøeli zawarcie umowy sprzedaøy wymaga≥o zachowania szczegÛlnej formy, oúwiadczenie o wykonaniu prawa odkupu powinno byÊ z≥oøone w tej samej formie,
+            c) oúwiadczenie o wykonaniu prawa odkupu zawsze musi byÊ z≥oøone w formie aktu notarialnego.  
+            ",B,art. 593 ß 2 k.c.,"Odpowiedü: b) jeøeli zawarcie umowy sprzedaøy wymaga≥o zachowania szczegÛlnej formy, oúwiadczenie o wykonaniu prawa odkupu powinno byÊ z≥oøone w tej samej formie.
+
+Wyjaúnienie: Zgodnie z art. 385 ß 1 Kodeksu cywilnego, jeøeli umowa sprzedaøy nieruchomoúci zosta≥a zawarta w formie aktu notarialnego, to prawo odkupu moøe byÊ wykonane tylko w tej samej formie. Oznacza to, øe oúwiadczenie o wykonaniu prawa odkupu musi byÊ z≥oøone w formie, ktÛra by≥a wymagana do zawarcia pierwotnej umowy sprzedaøy. Jest to istotne dla zachowania waønoúci i skutecznoúci prawa odkupu.
+
+Relevant article: Kodeks cywilny, art. 385 ß 1.",True,False,[385]
+egzamin_wstepny_notarialny_2022,18,"Question: Zgodnie z Kodeksem cywilnym, do umowy zamiany stosuje siÍ odpowiednio przepisy o: 
+    
+            a) sprzedaøy,
+            b) darowiünie
+            c) uøyczeniu. 
+            ",A,art. 604 k.c.,"Odpowiedü: a) sprzedaøy
+
+Wyjaúnienie: Zgodnie z Kodeksem cywilnym, do umowy zamiany stosuje siÍ odpowiednio przepisy o sprzedaøy. Umowa zamiany jest uregulowana w art. 846-859 Kodeksu cywilnego. Zgodnie z art. 846 ß 1 KC, umowa zamiany polega na tym, øe kaøda ze stron zobowiπzuje siÍ przenieúÊ na drugπ stronÍ w≥asnoúÊ rzeczy lub prawa do rzeczy, a druga strona zobowiπzuje siÍ do przyjÍcia tej rzeczy i przeniesienia na pierwszπ stronÍ w≥asnoúci rzeczy lub prawa do rzeczy. Zasady dotyczπce sprzedaøy majπ zastosowanie do umowy zamiany, co obejmuje m.in. odpowiedzialnoúÊ za wady rzeczy.
+
+Relevant Articles: Art. 846-859 Kodeksu cywilnego.",True,False,"[846, 847, 848, 849, 850, 851, 852, 853, 854, 855, 856, 857, 858, 859]"
+egzamin_wstepny_notarialny_2022,19,"Question: Zgodnie z Kodeksem cywilnym, w razie zbycia rzeczy najÍtej (niebÍdπcej lokalem mieszkalnym) w czasie trwania najmu, uprawnienie do wypowiedzenia najmu z zachowaniem ustawowych terminÛw wypowiedzenia nie przys≥uguje nabywcy rzeczy najÍtej, wstÍpujπcemu w stosunek najmu na miejsce zbywcy, jeøeli: 
+    
+            a) umowa najmu by≥a zawarta na czas nieoznaczony,
+            b) umowa najmu by≥a zawarta na czas nieoznaczony z zachowaniem formy pisemnej i z datπ pewnπ, a rzecz zosta≥a najemcy wydana
+            c) umowa najmu by≥a zawarta na czas oznaczony z zachowaniem formy pisemnej i z datπ pewnπ, a rzecz zosta≥a najemcy wydana. 
+            ",C,art. 678 ß 2 k.c.  ,"Odpowiedü: b) umowa najmu by≥a zawarta na czas nieoznaczony z zachowaniem formy pisemnej i z datπ pewnπ, a rzecz zosta≥a najemcy wydana.
+
+Wyjaúnienie: Zgodnie z art. 673 Kodeksu cywilnego, w przypadku zbycia rzeczy najÍtej (niebÍdπcej lokalem mieszkalnym) w czasie trwania najmu, uprawnienie do wypowiedzenia najmu z zachowaniem ustawowych terminÛw wypowiedzenia nie przys≥uguje nabywcy rzeczy najÍtej, wstÍpujπcemu w stosunek najmu na miejsce zbywcy, jeøeli umowa najmu by≥a zawarta na czas nieoznaczony z zachowaniem formy pisemnej i z datπ pewnπ, a rzecz zosta≥a najemcy wydana. W takiej sytuacji nowy najemca nie moøe wypowiedzieÊ umowy najmu zgodnie z terminami wypowiedzenia.
+
+Zatem, odpowiedü b) jest poprawna zgodnie z przepisem art. 673 Kodeksu cywilnego.",False,False,[673]
+egzamin_wstepny_notarialny_2022,20,"Question: Zgodnie z Kodeksem cywilnym, jeøeli termin zwrotu poøyczki nie jest oznaczony:
+    
+            a) d≥uønik obowiπzany jest zwrÛciÊ poøyczkÍ w ciπgu szeúciu tygodni po wypowiedzeniu przez dajπcego poøyczkÍ
+            b) d≥uønik obowiπzany jest zwrÛciÊ poøyczkÍ w ciπgu szeúciu miesiÍcy po wypowiedzeniu przez dajπcego poøyczkÍ
+            c) umowa poøyczki jest niewaøna
+            ",A,art. 723 k.c.  ,"Odpowiedü: b) d≥uønik obowiπzany jest zwrÛciÊ poøyczkÍ w ciπgu szeúciu miesiÍcy po wypowiedzeniu przez dajπcego poøyczkÍ.
+
+Wyjaúnienie: Zgodnie z art. 720 Kodeksu cywilnego, jeøeli termin zwrotu poøyczki nie jest oznaczony, d≥uønik obowiπzany jest zwrÛciÊ poøyczkÍ w ciπgu szeúciu miesiÍcy od dnia øπdania jej zwrotu przez wierzyciela. Jest to zasada okreúlona w ustawie, ktÛra ma na celu uregulowanie sytuacji, gdy strony nie ustali≥y konkretnego terminu zwrotu poøyczki.
+
+Relevant article: Art. 720 Kodeksu cywilnego.",False,False,[720]
+egzamin_wstepny_notarialny_2022,21,"Question: Zgodnie z Kodeksem cywilnym, w umowie spÛ≥ki moøna ustaliÊ stosunek udzia≥u wspÛlnika w zyskach i stratach, natomiast nie moøna: 
+    
+            a) zwolniÊ niektÛrych wspÛlnikÛw od udzia≥u w stratach, 
+            b) wy≥πczyÊ wspÛlnika od udzia≥u w zyskach,
+            c) ustaliÊ, øe kaødy wspÛlnik nie jest uprawniony do rÛwnego udzia≥u w zyskach. 
+            ",B,art. 867 ß 1 k.c.,"Odpowiedü: b) wy≥πczyÊ wspÛlnika od udzia≥u w zyskach.
+
+Wy≥πczenie wspÛlnika od udzia≥u w zyskach jest niedopuszczalne zgodnie z przepisami Kodeksu cywilnego. Zgodnie z art. 234 ß 1 Kodeksu cywilnego, w umowie spÛ≥ki moøna ustaliÊ stosunek udzia≥u wspÛlnika w zyskach i stratach, ale nie moøna wy≥πczyÊ go od udzia≥u w zyskach. Natomiast zwolnienie niektÛrych wspÛlnikÛw od udzia≥u w stratach rÛwnieø jest niedopuszczalne, co wynika z zasady rÛwnoúci wspÛlnikÛw w spÛ≥ce.
+
+Zatem, odpowiedü a) zwolniÊ niektÛrych wspÛlnikÛw od udzia≥u w stratach, oraz odpowiedü c) ustaliÊ, øe kaødy wspÛlnik nie jest uprawniony do rÛwnego udzia≥u w zyskach, sπ dopuszczalne zgodnie z Kodeksem cywilnym.",True,True,"[234, 867]"
+egzamin_wstepny_notarialny_2022,22,"Question: Zgodnie z Kodeksem cywilnym, osoba, wzglÍdem ktÛrej ciπøy na doøywotniku ustawowy obowiπzek alimentacyjny, moøe øπdaÊ uznania umowy o doøywocie za bezskutecznπ w stosunku do niej, jeøeli wskutek tej umowy doøywotnik sta≥ siÍ niewyp≥acalny; uznania umowy o doøywocie za bezskutecznπ nie moøna øπdaÊ po up≥ywie: 
+    
+            a) jednego roku od daty tej umowy, 
+            b) lat trzech od daty tej umowy,
+            c) lat piÍciu od daty tej umowy. 
+            ",C,art. 916 k.c.  ,"Odpowiedü: b) lat trzech od daty tej umowy.
+
+Wyjaúnienie: Zgodnie z art. 1014 Kodeksu cywilnego, osoba, wzglÍdem ktÛrej ciπøy na doøywotniku ustawowy obowiπzek alimentacyjny, moøe øπdaÊ uznania umowy o doøywocie za bezskutecznπ w stosunku do niej, jeøeli wskutek tej umowy doøywotnik sta≥ siÍ niewyp≥acalny. Jednakøe, zgodnie z tym samym artyku≥em, øπdanie uznania umowy o doøywocie za bezskutecznπ nie moøna sk≥adaÊ po up≥ywie lat trzech od daty tej umowy. Dlatego poprawna odpowiedü to b) lat trzech od daty tej umowy.
+
+èrÛd≥o: Kodeks cywilny, art. 1014.",False,False,[1014]
+egzamin_wstepny_notarialny_2022,23,"Question: Zgodnie z Kodeksem cywilnym, fundacja ustanowiona w testamencie przez spadkodawcÍ moøe byÊ spadkobiercπ, jeøeli zostanie wpisana do rejestru w ciπgu dwÛch lat od: 
+    
+            a) og≥oszenia testamentu
+            b) otwarcia spadku,
+            c) uprawomocnienia siÍ postanowienia o stwierdzeniu nabycia spadku.
+            ",A,art. 927 ß 3 k.c.,"Odpowiedü: c) uprawomocnienia siÍ postanowienia o stwierdzeniu nabycia spadku.
+
+Wyjaúnienie: Zgodnie z art. 1019 Kodeksu cywilnego, fundacja ustanowiona w testamencie przez spadkodawcÍ moøe byÊ spadkobiercπ, jeøeli zostanie wpisana do rejestru w ciπgu dwÛch lat od uprawomocnienia siÍ postanowienia o stwierdzeniu nabycia spadku. Jest to istotne ze wzglÍdu na uregulowanie formalnoúci zwiπzanych z nabyciem spadku przez fundacjÍ oraz koniecznoúÊ dokonania wpisu do rejestru fundacji. 
+
+Relevant article: Art. 1019 Kodeksu cywilnego.",False,False,[1019]
+egzamin_wstepny_notarialny_2022,24,"Question: Zgodnie z Kodeksem cywilnym, w przypadku dziedziczenia ustawowego, udzia≥ spadkowy ma≥øonka, ktÛry dziedziczy w zbiegu z rodzicami, rodzeÒstwem i zstÍpnymi rodzeÒstwa spadkodawcy, wynosi po≥owÍ spadku; w braku zstÍpnych spadkodawcy, jego rodzicÛw, rodzeÒstwa i ich zstÍpnych:
+    
+            a) ca≥y spadek przypada dziadkom spadkodawcy; dziedziczπ oni w czÍúciach rÛwnych
+            b) spadek przypada gminie ostatniego miejsca zamieszkania spadkodawcy, jako spadkobiercy ustawowemu
+            c) ca≥y spadek przypada ma≥øonkowi spadkodawcy.  
+            ",C,art. 933 k.c.,"Odpowiedü: a) ca≥y spadek przypada dziadkom spadkodawcy; dziedziczπ oni w czÍúciach rÛwnych.
+
+Wyjaúnienie: Zgodnie z art. 993 Kodeksu cywilnego, jeúli ma≥øonek dziedziczy w zbiegu z rodzicami, rodzeÒstwem i zstÍpnymi rodzeÒstwa spadkodawcy, a nie ma zstÍpnych spadkodawcy, jego rodzicÛw, rodzeÒstwa i ich zstÍpnych, udzia≥ ma≥øonka wynosi po≥owÍ spadku. Natomiast druga po≥owa spadku przypada dziadkom spadkodawcy, ktÛrzy dziedziczπ w czÍúciach rÛwnych.
+
+Zatem, w sytuacji braku zstÍpnych spadkodawcy, jego rodzicÛw, rodzeÒstwa i ich zstÍpnych, ca≥y spadek przypada dziadkom spadkodawcy, ktÛrzy dziedziczπ w czÍúciach rÛwnych.
+
+Artyku≥: Kodeks cywilny, art. 993.",False,False,[993]
+egzamin_wstepny_notarialny_2022,25,"Question: Zgodnie z Kodeksem cywilnym, testament:
+    
+            a) moøna sporzπdziÊ przez przedstawiciela
+            b) moøna odwo≥aÊ przez przedstawiciela
+            c) nie moøe zostaÊ sporzπdzony ani odwo≥any przez przedstawiciela.
+            ",C,art. 944 ß 2 k.c.,"Odpowiedü: c) testament nie moøe zostaÊ sporzπdzony ani odwo≥any przez przedstawiciela.
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, testament musi byÊ sporzπdzony osobiúcie przez osobÍ, ktÛra go sk≥ada (art. 952 Kodeksu cywilnego). Testament nie moøe byÊ sporzπdzony ani odwo≥any przez przedstawiciela, poniewaø wymaga to bezpoúredniego dzia≥ania osoby, ktÛrej testament dotyczy. Dlatego odpowiedü c) jest poprawna.
+
+Relevant article: Art. 952 Kodeksu cywilnego.",True,False,[952]
+egzamin_wstepny_notarialny_2022,26,"Question: Zgodnie z Kodeksem cywilnym, jeøeli spadek przypada kilku spadkobiercom, zapis zwyk≥y: 
+    
+            a) obciπøa ich w stosunku do wielkoúci ich udzia≥Ûw spadkowych, a spadkodawca nie moøe postanowiÊ inaczej
+            b) obciπøa ich w stosunku do wielkoúci ich udzia≥Ûw spadkowych, chyba øe spadkodawca postanowi≥ inaczej
+            c) obciπøa spadkobiercÍ, ktÛry ma najwiÍkszy udzia≥, a spadkodawca nie moøe postanowiÊ inaczej.
+            ",B,art. 971 k.c.,"Odpowiedü: b) obciπøa ich w stosunku do wielkoúci ich udzia≥Ûw spadkowych, chyba øe spadkodawca postanowi≥ inaczej
+
+Wybieram odpowiedü b), poniewaø zgodnie z Kodeksem cywilnym, jeøeli spadek przypada kilku spadkobiercom, zapis zwyk≥y obciπøa ich w stosunku do wielkoúci ich udzia≥Ûw spadkowych, chyba øe spadkodawca postanowi≥ inaczej. Oznacza to, øe spadkodawca ma moøliwoúÊ okreúlenia innych proporcji podzia≥u spadku w testamencie lub innym akcie prawnym.
+
+Relevant article in the Polish Civil Code: 
+- Article 1007 ß1 of the Polish Civil Code: ""Jeøeli spadek przypada kilku spadkobiercom, zapis zwyk≥y obciπøa ich w stosunku do wielkoúci ich udzia≥Ûw spadkowych, chyba øe spadkodawca postanowi≥ inaczej.""",True,False,[1007]
+egzamin_wstepny_notarialny_2022,27,"Question: Zgodnie z Kodeksem cywilnym, roszczenie z tytu≥u wykonania zapisu zwyk≥ego:
+    
+            a) nie przedawnia siÍ
+            b) przedawnia siÍ z up≥ywem lat piÍciu od dnia wymagalnoúci zapisu
+            c) przedawnia siÍ z up≥ywem lat trzech od dnia wymagalnoúci zapisu.
+            ",B,art. 981 w zw. z art. 970 k.c. ,"Odpowiedü: b) przedawnia siÍ z up≥ywem lat piÍciu od dnia wymagalnoúci zapisu.
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, roszczenie z tytu≥u wykonania zapisu zwyk≥ego przedawnia siÍ z up≥ywem lat piÍciu od dnia wymagalnoúci zapisu. Przepis ten znajduje siÍ w art. 125 Kodeksu cywilnego.
+
+Artyku≥ 125 Kodeksu cywilnego brzmi: ""Roszczenie z tytu≥u wykonania zapisu zwyk≥ego przedawnia siÍ z up≥ywem lat piÍciu od dnia wymagalnoúci zapisu."" Jest to jasno okreúlony termin przedawnienia dla tego rodzaju roszczenia, co daje stronie wierzyciela okreúlony czas na dochodzenie swoich praw.",True,False,[125]
+egzamin_wstepny_notarialny_2022,28,"Question: Zgodnie z Kodeksem cywilnym, spadkobierca testamentowy nie moøe:
+    
+            a) odrzuciÊ spadku w øadnym przypadku
+            b) przyjπÊ spadku bez ograniczenia odpowiedzialnoúci za d≥ugi spadkowe
+            c) przyjπÊ spadku z wy≥πczeniem odpowiedzialnoúci za d≥ugi spadkowe.
+            ",C,art. 1012 k.c. ,"Poprawna odpowiedü: b) przyjπÊ spadku bez ograniczenia odpowiedzialnoúci za d≥ugi spadkowe.
+
+Wyjaúnienie:
+Zgodnie z Kodeksem cywilnym, spadkobierca testamentowy ma moøliwoúÊ przyjÍcia spadku z dobrodziejstwem inwentarza, co oznacza, øe spadkobierca nie odpowiada za zobowiπzania spadkowe ponad wartoúÊ spadku, ktÛrπ otrzymuje. Oznacza to, øe spadkobierca nie ponosi ca≥kowitej odpowiedzialnoúci za d≥ugi spadkowe, a jedynie do wysokoúci wartoúci spadku. 
+
+Relevant article: 
+- Kodeks cywilny, Art. 1013-1015.",False,True,"[1012, 1013, 1014, 1015]"
+egzamin_wstepny_notarialny_2022,29,"Question: Zgodnie z Kodeksem cywilnym, uchylenie siÍ od skutkÛw prawnych umowy o dzia≥ spadku zawartej pod wp≥ywem b≥Ídu moøe nastπpiÊ tylko wtedy, gdy b≥πd dotyczy≥:
+    
+            a) wy≥πcznie stanu prawnego
+            b) kaødego stanu faktycznego
+            c) stanu faktycznego, ktÛry strony uwaøa≥y za niewπtpliwy. 
+            ",C,art. 1045 k.c. ,"Odpowiedü: a) wy≥πcznie stanu prawnego
+
+Wybieram odpowiedü a), poniewaø zgodnie z art. 84 Kodeksu cywilnego, uchylenie siÍ od skutkÛw prawnych umowy o dzia≥ spadku zawartej pod wp≥ywem b≥Ídu moøe nastπpiÊ tylko wtedy, gdy b≥πd dotyczy stanu prawnego, a nie stanu faktycznego. Oznacza to, øe b≥πd co do stanu prawnego, na przyk≥ad co do istnienia czy treúci okreúlonego prawa, moøe byÊ podstawπ do uniewaønienia umowy o dzia≥ spadku. Natomiast b≥πd co do stanu faktycznego nie bÍdzie wystarczajπcy do uchylenia siÍ od skutkÛw prawnych takiej umowy.
+
+Artyku≥ 84 Kodeksu cywilnego brzmi: ""Uchylenie siÍ od skutkÛw prawnych umowy o dzia≥ spadku zawartej pod wp≥ywem b≥Ídu jest dopuszczalne tylko wtedy, gdy b≥πd dotyczy stanu prawnego.""",False,False,[84]
+egzamin_wstepny_notarialny_2022,30,"Question: Zgodnie z Kodeksem cywilnym, spadkobierca ustawowy moøe przez umowÍ z przysz≥ym spadkodawcπ zrzec siÍ dziedziczenia po nim; umowa taka powinna byÊ zawarta w formie:
+    
+            a) pisemnej
+            b) pisemnej z podpisami notarialnie poúwiadczonymi
+            c) aktu notarialnego.
+            ",C,art. 1048 k.c.,"Odpowiedü: b) pisemnej z podpisami notarialnie poúwiadczonymi.
+
+Wybieram odpowiedü b), poniewaø zgodnie z art. 1019 Kodeksu cywilnego, umowa zrzeczenia siÍ dziedziczenia po przysz≥ym spadkodawcy musi byÊ zawarta w formie pisemnej z podpisami notarialnie poúwiadczonymi. Jest to wymÛg formalny majπcy na celu zapewnienie wiarygodnoúci i ochrony interesÛw stron w tego rodzaju transakcjach. DziÍki temu notarialnie poúwiadczonej umowie zrzeczenia, spadkobierca ustawowy moøe wyraziÊ swojπ wolÍ zrzeczenia siÍ dziedziczenia po spadkodawcy.
+
+Artyku≥ 1019 Kodeksu cywilnego brzmi: ""Zrzeczenie siÍ dziedziczenia po przysz≥ym spadkodawcy wymaga formy pisemnej z podpisami notarialnie poúwiadczonymi.""",False,False,[1019]
+egzamin_wstepny_komorniczy_2022,10,"Question: Zgodnie z Kodeksem cywilnym, uprawnionemu do pobierania poøytkÛw:
+    
+            a) przypadajπ poøytki naturalne, ktÛre zosta≥y od≥πczone od rzeczy w czasie trwania jego uprawnienia, a poøytki cywilne ñ w stosunku do czasu trwania tego uprawnienia
+            b) przypadajπ poøytki cywilne, ktÛre zosta≥y od≥πczone od rzeczy w czasie trwania jego uprawnienia, a poøytki naturalne ñ w stosunku do czasu trwania tego uprawnienia
+            c) przypadajπ poøytki naturalne ñ w stosunku do czasu trwania tego uprawnienia, a nie przypadajπ poøytki cywilne.
+            ",A,art. 55 ß 1 k.c.,"Odpowiedü: b) przypadajπ poøytki cywilne, ktÛre zosta≥y od≥πczone od rzeczy w czasie trwania jego uprawnienia, a poøytki naturalne ñ w stosunku do czasu trwania tego uprawnienia.
+
+Wyjaúnienie: Zgodnie z art. 299 Kodeksu cywilnego, uprawnionemu do pobierania poøytkÛw przypadajπ poøytki cywilne, ktÛre zosta≥y od≥πczone od rzeczy w czasie trwania jego uprawnienia, a poøytki naturalne ñ w stosunku do czasu trwania tego uprawnienia. Oznacza to, øe osoba uprawniona do poøytkÛw ma prawo do korzystania z poøytkÛw cywilnych, ktÛre zosta≥y oddzielone od rzeczy, oraz poøytkÛw naturalnych w okresie trwania jej uprawnienia.
+
+èrÛd≥o: Kodeks cywilny, art. 299.",False,False,[299]
+egzamin_wstepny_komorniczy_2022,11,"Question: Zgodnie z Kodeksem cywilnym, czynnoúÊ prawna wywo≥uje nie tylko skutki w niej wyraøone, lecz rÛwnieø te, ktÛre:
+    
+            a) wynikajπ z ustawy, z orzecznictwa sπdÛw i z ustalonych zwyczajÛw
+            b) wynikajπ z ustawy, z zasad wspÛ≥øycia spo≥ecznego i z ustalonych zwyczajÛw
+            c) wynikajπ z zasad wspÛ≥øycia spo≥ecznego, z orzecznictwa sπdÛw i z ustalonych zwyczajÛw.
+            ",B,art. 56 k.c.,"Odpowiedü: b) wynikajπ z ustawy, z zasad wspÛ≥øycia spo≥ecznego i z ustalonych zwyczajÛw.
+
+Wybieram odpowiedü b), poniewaø zgodnie z art. 58 Kodeksu cywilnego, czynnoúÊ prawna wywo≥uje nie tylko skutki w niej wyraøone, lecz rÛwnieø te, ktÛre wynikajπ z ustawy, z zasad wspÛ≥øycia spo≥ecznego i z ustalonych zwyczajÛw. Jest to istotne, poniewaø oprÛcz bezpoúrednich skutkÛw czynnoúci prawnej, istniejπ rÛwnieø inne konsekwencje wynikajπce z norm prawnych oraz obowiπzujπcych w spo≥eczeÒstwie norm obyczajowych.
+
+Artyku≥ 58 Kodeksu cywilnego brzmi: ""CzynnoúÊ prawna wywo≥uje nie tylko skutki w niej wyraøone, lecz rÛwnieø te, ktÛre wynikajπ z ustawy, z zasad wspÛ≥øycia spo≥ecznego i z ustalonych zwyczajÛw.""",True,False,[58]
+egzamin_wstepny_komorniczy_2022,12,"Question: Zgodnie z Kodeksem cywilnym, jeøeli przedsiÍbiorca otrzyma≥ od osoby, z ktÛrπ pozostaje w sta≥ych stosunkach gospodarczych, ofertÍ zawarcia umowy w ramach swej dzia≥alnoúci, brak niezw≥ocznej odpowiedzi poczytuje siÍ za:
+    
+            a) przyjÍcie oferty
+            b) odmowÍ przyjÍcia oferty
+            c) zaproszenie do negocjacji.
+            ",A,art. 682 k.c.,"Odpowiedü: a) przyjÍcie oferty
+
+Wyjaúnienie: Zgodnie z art. 66 Kodeksu cywilnego, jeúli przedsiÍbiorca otrzyma ofertÍ od osoby, z ktÛrπ pozostaje w sta≥ych stosunkach gospodarczych, to brak niezw≥ocznej odpowiedzi na ofertÍ jest rÛwnoznaczny z przyjÍciem oferty. Oznacza to, øe w sytuacji opisanej w pytaniu, jeøeli przedsiÍbiorca nie zareaguje natychmiast na ofertÍ, to uwaøa siÍ, øe jπ przyjπ≥.
+
+Relevant article: Art. 66 Kodeksu cywilnego.",True,False,[66]
+egzamin_wstepny_komorniczy_2022,13,"Question: Zgodnie z Kodeksem cywilnym, pe≥nomocnictwo ogÛlne obejmuje umocowanie:
+    
+            a) do czynnoúci zwyk≥ego zarzπdu
+            b) do czynnoúci przekraczajπcych zakres zwyk≥ego zarzπdu
+            c) do czynnoúci zwyk≥ego zarzπdu oraz do czynnoúci przekraczajπcych zakres zwyk≥ego zarzπdu.
+            ",A,art. 98 zd. 1 k.c.,"Odpowiedü: c) do czynnoúci zwyk≥ego zarzπdu oraz do czynnoúci przekraczajπcych zakres zwyk≥ego zarzπdu.
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, pe≥nomocnictwo ogÛlne obejmuje zarÛwno czynnoúci zwyk≥ego zarzπdu, jak i czynnoúci przekraczajπce zakres zwyk≥ego zarzπdu. Oznacza to, øe pe≥nomocnik moøe dokonywaÊ wszystkich czynnoúci prawnych, ktÛre s≥uøπ zwyk≥emu zarzπdowi majπtkiem pe≥nomocodawcy, a takøe czynnoúci przekraczajπce ten zakres, jeúli pe≥nomocodawca wyraünie nie ograniczy≥ zakresu pe≥nomocnictwa.
+
+Relevant article: Art. 1014 Kodeksu cywilnego.",False,False,[1014]
+egzamin_wstepny_komorniczy_2022,14,"Question: Zgodnie z Kodeksem cywilnym, termin pÛ≥miesiÍczny jest rÛwny:
+    
+            a) czternastu dniom
+            b) piÍtnastu dniom
+            c) dwÛm tygodniom.
+            ",B,art. 113 ß 2 k.c.,"Odpowiedü: a) czternastu dniom.
+
+Wyjaúnienie: Zgodnie z Kodeksem cywilnym, termin pÛ≥miesiÍczny trwa czternaúcie dni. Jest to okreúlone w art. 123 ß 1 Kodeksu cywilnego, ktÛry mÛwi, øe termin pÛ≥miesiÍczny up≥ywa po czternastu dniach, chyba øe ustawa stanowi inaczej.
+
+Odniesienie prawne: Art. 123 ß 1 Kodeksu cywilnego.",False,False,[123]
+egzamin_wstepny_komorniczy_2022,15,"Question: Zgodnie z Kodeksem cywilnym, jeøeli w≥aúciciel nieruchomoúci, przeciwko ktÛremu biegnie zasiedzenie, jest ma≥oletni, zasiedzenie nie moøe skoÒczyÊ siÍ wczeúniej niø z up≥ywem:
+    
+            a) dwÛch lat od uzyskania pe≥noletnoúci przez w≥aúciciela
+            b) trzech lat od uzyskania pe≥noletnoúci przez w≥aúciciela
+            c) piÍciu lat od uzyskania pe≥noletnoúci przez w≥aúciciela.
+            ",A,art. 173 k.c.,"Poprawna odpowiedü to:
+
+b) trzech lat od uzyskania pe≥noletnoúci przez w≥aúciciela.
+
+Zgodnie z art. 125 Kodeksu cywilnego, jeøeli w≥aúcicielem nieruchomoúci, przeciwko ktÛremu biegnie zasiedzenie, jest ma≥oletni, zasiedzenie nie moøe skoÒczyÊ siÍ wczeúniej niø z up≥ywem trzech lat od uzyskania pe≥noletnoúci przez w≥aúciciela. Jest to uregulowane w kontekúcie ochrony interesÛw ma≥oletnich w≥aúcicieli nieruchomoúci.
+
+Artyku≥ 125 Kodeksu cywilnego brzmi: ""Jeøeli w≥aúcicielem nieruchomoúci, przeciwko ktÛremu biegnie zasiedzenie, jest ma≥oletni, zasiedzenie nie moøe skoÒczyÊ siÍ wczeúniej niø z up≥ywem trzech lat od uzyskania pe≥noletnoúci przez w≥aúciciela.""",False,False,[125]
+egzamin_wstepny_komorniczy_2022,16,"Question: Zgodnie z Kodeksem cywilnym, kaødy ze wspÛ≥w≥aúcicieli niesprawujπcych zarzπdu rzeczπ wspÛlnπ:
+    
+            a) zawsze jest obowiπzany øπdaÊ w odpowiednich terminach rachunku z zarzπdu
+            b) moøe øπdaÊ w odpowiednich terminach rachunku z zarzπdu
+            c) nigdy nie jest uprawniony do øπdania rachunku z zarzπdu.
+            ",B,art. 208 k.c.,"Odpowiedü: b) moøe øπdaÊ w odpowiednich terminach rachunku z zarzπdu.
+
+Wyjaúnienie: Zgodnie z art. 229 Kodeksu cywilnego, kaødy ze wspÛ≥w≥aúcicieli niesprawujπcych zarzπdu moøe øπdaÊ w odpowiednich terminach rachunku z zarzπdu. Jest to waøne uprawnienie majπce na celu zapewnienie przejrzystoúci i kontroli nad zarzπdzaniem rzeczπ wspÛlnπ.
+
+Artyku≥: Kodeks cywilny, art. 229.",True,False,[229]
+egzamin_wstepny_komorniczy_2022,17,"Question: Zgodnie z Kodeksem cywilnym, wierzyciel:
+    
+            a) moøe øπdaÊ osobistego úwiadczenia d≥uønika tylko wtedy, gdy to wynika z zasad wspÛ≥øycia spo≥ecznego i ustalonych zwyczajÛw
+            b) moøe øπdaÊ osobistego úwiadczenia d≥uønika tylko wtedy, gdy to wynika z treúci czynnoúci prawnej, z ustawy albo z w≥aúciwoúci úwiadczenia
+            c) nigdy nie moøe øπdaÊ osobistego úwiadczenia d≥uønika.
+            ",B,art. 356 ß 1 k.c. ,"Odpowiedü: b) moøe øπdaÊ osobistego úwiadczenia d≥uønika tylko wtedy, gdy to wynika z treúci czynnoúci prawnej, z ustawy albo z w≥aúciwoúci úwiadczenia.
+
+Wyjaúnienie: Zgodnie z art. 353 Kodeksu cywilnego, wierzyciel moøe øπdaÊ osobistego úwiadczenia d≥uønika tylko wtedy, gdy to wynika z treúci czynnoúci prawnej, z ustawy albo z w≥aúciwoúci úwiadczenia. Oznacza to, øe moøliwoúÊ øπdania osobistego úwiadczenia d≥uønika jest uzaleøniona od okreúlonych przes≥anek, takich jak wskazane wyøej. Wierzyciel nie moøe wiÍc øπdaÊ osobistego úwiadczenia d≥uønika jedynie na podstawie zasad wspÛ≥øycia spo≥ecznego czy ustalonych zwyczajÛw, jak sugerowane w odpowiedzi a), ani teø nie jest ca≥kowicie pozbawiony tej moøliwoúci, jak w odpowiedzi c).
+
+Relevant article: 
+- Kodeks cywilny, art. 353.",True,False,[353]
+egzamin_wstepny_komorniczy_2022,18,"Question: Zgodnie z Kodeksem cywilnym, zobowiπzanie jest solidarne, jeøeli to wynika:
+    
+            a) z ustalonych zwyczajÛw
+            b) z ustawy lub z czynnoúci prawnej
+            c) z zasad wspÛ≥øycia spo≥ecznego.
+            ",B,art. 369 k.c.,"Odpowiedü: b) z ustawy lub z czynnoúci prawnej.
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, zobowiπzanie jest solidarne, jeøeli wynika z ustawy lub z czynnoúci prawnej. Zobowiπzanie solidarne oznacza, øe wierzyciel moøe øπdaÊ spe≥nienia úwiadczenia od kaødego ze wspÛ≥d≥uønikÛw w ca≥oúci lub od kilku z nich ≥πcznie. Jest to uregulowane w art. 484 Kodeksu cywilnego.
+
+Odniesienie do przepisÛw: Art. 484 Kodeksu cywilnego.",True,False,[484]
+egzamin_wstepny_komorniczy_2022,19,"Question: Zgodnie z Kodeksem cywilnym, zw≥oka d≥uønika, jak rÛwnieø przerwanie lub zawieszenie biegu przedawnienia wzglÍdem jednego z wierzycieli solidarnych:
+    
+            a) ma skutek takøe wzglÍdem wspÛ≥wierzycieli
+            b) nie ma skutku wzglÍdem wspÛ≥wierzycieli
+            c) ma skutek tylko wzglÍdem tego jednego wierzyciela.
+            ",A,art. 377 k.c.,"Odpowiedü: a) ma skutek takøe wzglÍdem wspÛ≥wierzycieli.
+
+Wyjaúnienie: Zgodnie z art. 488 Kodeksu cywilnego, zw≥oka d≥uønika, przerwanie lub zawieszenie biegu przedawnienia wzglÍdem jednego z wierzycieli solidarnych ma skutek takøe wzglÍdem pozosta≥ych wspÛ≥wierzycieli. Oznacza to, øe dzia≥ania podejmowane wobec jednego z wierzycieli solidarnych wp≥ywajπ na sytuacjÍ pozosta≥ych wierzycieli solidarnych.
+
+èrÛd≥o: Art. 488 Kodeksu cywilnego.",True,False,[488]
+egzamin_wstepny_komorniczy_2022,20,"Question: Zgodnie z Kodeksem cywilnym, jeøeli jest kilku wierzycieli uprawnionych do úwiadczenia niepodzielnego:
+    
+            a) kaødy z nich moøe øπdaÊ spe≥nienia odpowiedniej czÍúci úwiadczenia
+            b) kaødy z nich moøe øπdaÊ spe≥nienia ca≥ego úwiadczenia
+            c) øaden z nich nie moøe øπdaÊ spe≥nienia ca≥ego úwiadczenia.
+            ",B,art. 381 ß 1 k.c.,"Odpowiedü: a) kaødy z nich moøe øπdaÊ spe≥nienia odpowiedniej czÍúci úwiadczenia.
+
+Wyjaúnienie: Zgodnie z art. 366 ß 1 Kodeksu cywilnego, jeøeli jest kilku wierzycieli uprawnionych do úwiadczenia niepodzielnego, kaødy z nich moøe øπdaÊ spe≥nienia odpowiedniej czÍúci úwiadczenia. Oznacza to, øe wierzyciele mogπ domagaÊ siÍ proporcjonalnej czÍúci úwiadczenia zgodnie z ich udzia≥em w wierzytelnoúci.
+
+Relevant article: Kodeks cywilny, art. 366 ß 1.",False,False,[366]
+egzamin_wstepny_komorniczy_2022,21,"Question: Zgodnie z Kodeksem cywilnym, w razie sprzecznoúci treúci umowy z wzorcem umowy:
+    
+            a) umowa staje siÍ niewaøna
+            b) strony sπ zwiπzane umowπ
+            c) strony sπ zwiπzane wzorcem umowy
+            ",B,art. 385 ß 1 k.c.,"Odpowiedü: b) strony sπ zwiπzane umowπ
+
+Wyjaúnienie: Zgodnie z art. 384 Kodeksu cywilnego, jeúli treúÊ umowy zawartej miÍdzy stronami jest sprzeczna z treúciπ wzorca umowy, to umowa obowiπzuje, ale zgodnie z treúciπ wzorca. Oznacza to, øe strony sπ zwiπzane umowπ, ale zastosowanie majπ postanowienia wzorca umowy, a nie te sprzeczne z nim.
+
+Relevant article: Art. 384 Kodeksu cywilnego",True,False,[384]
+egzamin_wstepny_komorniczy_2022,22,"Question: Zgodnie z Kodeksem cywilnym, gdy dwie osoby sπ jednoczeúnie wzglÍdem siebie d≥uønikami i wierzycielami, kaøda z nich moøe potrπciÊ swojπ wierzytelnoúÊ z wierzytelnoúci drugiej strony, jeøeli przedmiotem obu wierzytelnoúci sπ pieniπdze lub rzeczy tej samej jakoúci oznaczone tylko co do gatunku, a obie wierzytelnoúci sπ wymagalne i mogπ byÊ dochodzone przed sπdem lub przed innym organem paÒstwowym; wskutek potrπcenia obie wierzytelnoúci:
+    
+            a) umarzajπ siÍ nawzajem do wysokoúci wierzytelnoúci niøszej
+            b) umarzajπ siÍ nawzajem do wysokoúci wierzytelnoúci wyøszej
+            c) umarzajπ siÍ najwyøej do po≥owy wartoúci kaødej z tych wierzytelnoúci.
+            ",A,art. 498 ß 2 k.c.,"Odpowiedü: a) umarzajπ siÍ nawzajem do wysokoúci wierzytelnoúci niøszej.
+
+Wyjaúnienie: Zgodnie z art. 509 Kodeksu cywilnego, gdy dwie osoby sπ jednoczeúnie wzglÍdem siebie d≥uønikami i wierzycielami, mogπ dokonaÊ potrπcenia swoich wzajemnych wierzytelnoúci. W takim przypadku wierzytelnoúci umarzajπ siÍ nawzajem do wysokoúci wierzytelnoúci niøszej. Jest to zasada potrπcenia, ktÛra ma na celu uproszczenie rozliczeÒ miÍdzy stronami poprzez zrÛwnanie ich wzajemnych zobowiπzaÒ do wysokoúci niøszej z nich.
+
+Relevant article: Art. 509 Kodeksu cywilnego.",True,False,[509]
+egzamin_wstepny_komorniczy_2022,23,"Question: Zgodnie z Kodeksem cywilnym, na skutek odnowienia zobowiπzanie dotychczasowe:
+    
+            a) wygasa
+            b) staje siÍ niewaøne
+            c) nie wygasa, ale staje siÍ zobowiπzaniem naturalnym.
+            ",A,art. 506 ß 1 k.c.,"Odpowiedü: c) nie wygasa, ale staje siÍ zobowiπzaniem naturalnym.
+
+Wyjaúnienie: Zgodnie z art. 366 Kodeksu cywilnego, odnowienie zobowiπzania nie powoduje wygaúniÍcia zobowiπzania dotychczasowego, ale staje siÍ zobowiπzaniem naturalnym. Oznacza to, øe zobowiπzanie, ktÛre zosta≥o odnowione, nie traci swojej mocy, ale staje siÍ zobowiπzaniem, ktÛrego wykonanie nie moøe byÊ juø przymusowo egzekwowane.
+
+Relevant article: Art. 366 Kodeksu cywilnego.",False,False,[366]
+egzamin_wstepny_komorniczy_2022,24,"Question: Zgodnie z Kodeksem cywilnym, jeøeli termin zwrotu poøyczki nie jest oznaczony, d≥uønik obowiπzany jest zwrÛciÊ poøyczkÍ:
+    
+            a) w ciπgu szeúciu tygodni po wydaniu przedmiotu poøyczki
+            b) w ciπgu szeúciu tygodni po wypowiedzeniu przez dajπcego poøyczkÍ
+            c) w ciπgu trzech miesiÍcy po wypowiedzeniu przez dajπcego poøyczkÍ.
+            ",B,art. 723 k.c.,"Odpowiedü: c) w ciπgu trzech miesiÍcy po wypowiedzeniu przez dajπcego poøyczkÍ.
+
+Wyjaúnienie: Zgodnie z art. 720 Kodeksu cywilnego, jeøeli termin zwrotu poøyczki nie jest oznaczony, d≥uønik obowiπzany jest zwrÛciÊ poøyczkÍ w ciπgu trzech miesiÍcy od dnia wypowiedzenia. Jest to zasada okreúlona w polskim prawie cywilnym, majπca na celu uregulowanie sytuacji, gdy strony nie ustali≥y konkretnego terminu zwrotu poøyczki.
+
+èrÛd≥o: Kodeks cywilny - art. 720.",False,False,[720]
+egzamin_wstepny_komorniczy_2022,25,"Question: Zgodnie z Kodeksem cywilnym, jeøeli wykonanie zlecenia wymaga wydatkÛw, dajπcy zlecenie:
+    
+            a) zawsze przekazuje przyjmujπcemu zlecenie odpowiedniπ zaliczkÍ
+            b) powinien na øπdanie przyjmujπcego zlecenie udzieliÊ mu odpowiedniej zaliczki
+            c) zawsze obowiπzany jest udzieliÊ przyjmujπcemu zlecenie zaliczki nie niøszej niø 20% wartoúci zlecenia.
+            ",B,art. 743 k.c.,"Odpowiedü: b) powinien na øπdanie przyjmujπcego zlecenie udzieliÊ mu odpowiedniej zaliczki
+
+Wybieram odpowiedü b), poniewaø zgodnie z art. 750 Kodeksu cywilnego, jeøeli wykonanie zlecenia wymaga wydatkÛw, zleceniodawca powinien na øπdanie zleceniobiorcy udzieliÊ mu odpowiedniej zaliczki na pokrycie tych wydatkÛw. Zleceniodawca nie jest zobowiπzany do automatycznego przekazywania zaliczki, ale ma obowiπzek udzieliÊ jej na øπdanie zleceniobiorcy.
+
+Artyku≥ 750 Kodeksu cywilnego brzmi: ""Jeøeli wykonanie zlecenia wymaga wydatkÛw, zleceniodawca powinien na øπdanie zleceniobiorcy udzieliÊ mu odpowiedniej zaliczki na pokrycie tych wydatkÛw.""",True,False,[750]
+egzamin_wstepny_komorniczy_2022,26,"Question: Zgodnie z Kodeksem cywilnym, z waønych powodÛw kaødy wspÛlnik spÛ≥ki cywilnej moøe øπdaÊ:
+    
+            a) rozwiπzania spÛ≥ki przez sπd
+            b) og≥oszenia przez sπd upad≥oúci spÛ≥ki
+            c) wszczÍcia wobec spÛ≥ki postÍpowania sanacyjnego
+            ",A,art. 874 ß 1 k.c.,"Odpowiedü: a) rozwiπzania spÛ≥ki przez sπd
+
+Wybieram odpowiedü a), poniewaø zgodnie z Kodeksem cywilnym, kaødy wspÛlnik spÛ≥ki cywilnej moøe øπdaÊ rozwiπzania spÛ≥ki przez sπd z waønych powodÛw. Zgodnie z art. 1034 Kodeksu cywilnego, ""kaødy wspÛlnik moøe øπdaÊ rozwiπzania spÛ≥ki z waønych powodÛw, w szczegÛlnoúci gdy drugi wspÛlnik nie dope≥nia swoich obowiπzkÛw lub gdy prowadzenie spÛ≥ki z nim jest niemoøliwe albo sprzeczne z zasadami wspÛ≥øycia spo≥ecznego"".
+
+Z kolei odpowiedzi b) og≥oszenia przez sπd upad≥oúci spÛ≥ki oraz c) wszczÍcia wobec spÛ≥ki postÍpowania sanacyjnego nie sπ w≥aúciwe w kontekúcie øπdania rozwiπzania spÛ≥ki cywilnej przez sπd z waønych powodÛw.
+
+Zatem, zgodnie z Kodeksem cywilnym, odpowiedziπ jest a) rozwiπzania spÛ≥ki przez sπd.",True,False,[1034]
+egzamin_wstepny_komorniczy_2022,27,"Question: Zgodnie z Kodeksem cywilnym, przez umowÍ porÍczenia porÍczyciel zobowiπzuje siÍ wzglÍdem wierzyciela wykonaÊ zobowiπzanie na wypadek, gdyby d≥uønik zobowiπzania nie wykona≥; oúwiadczenie porÍczyciela powinno byÊ z≥oøone:
+    
+            a) na piúmie pod rygorem niewaønoúci
+            b) w formie aktu notarialnego pod rygorem niewaønoúci
+            c) na piúmie wy≥πcznie dla celÛw dowodowych.
+            ",A,art. 876 k.c.,"Odpowiedü: a) na piúmie pod rygorem niewaønoúci
+
+Wyjaúnienie: Zgodnie z art. 864 Kodeksu cywilnego, umowa porÍczenia powinna byÊ zawarta na piúmie pod rygorem niewaønoúci. Jest to wymÛg formalny majπcy na celu zapewnienie wiarygodnoúci i jasnoúci warunkÛw porÍczenia. Brak zachowania formy pisemnej moøe skutkowaÊ niewaønoúciπ umowy porÍczenia. Dlatego oúwiadczenie porÍczyciela powinno byÊ z≥oøone na piúmie, aby umowa porÍczenia by≥a waøna.
+
+Artyku≥: Kodeks cywilny, art. 864",True,False,[864]
+egzamin_wstepny_komorniczy_2022,28,"Question: Zgodnie z Kodeksem cywilnym, moøna porÍczyÊ:
+    
+            a) za d≥ug przysz≥y w wysokoúci nieoznaczonej
+            b) za d≥ug przysz≥y do wysokoúci z gÛry oznaczonej
+            c) wy≥πcznie za d≥ug istniejπcy w chwili zawarcia umowy porÍczenia.
+            ",B,art. 878 ß 1 k.c.,"Odpowiedü: c) wy≥πcznie za d≥ug istniejπcy w chwili zawarcia umowy porÍczenia.
+
+Wybieram odpowiedü c), poniewaø zgodnie z Kodeksem cywilnym, porÍczenie moøe dotyczyÊ jedynie d≥ugu istniejπcego w chwili zawarcia umowy porÍczenia. PorÍczenie za d≥ug przysz≥y jest niedopuszczalne. 
+
+Relevant article: Art. 864 Kodeksu cywilnego.",False,False,[864]
+egzamin_wstepny_komorniczy_2022,29,"Question: Zgodnie z Kodeksem cywilnym, uznania spadkobiercy za niegodnego:
+    
+            a) moøe øπdaÊ kaødy, kto ma w tym interes
+            b) mogπ øπdaÊ wy≥πcznie pozostali spadkobiercy
+            c) mogπ øπdaÊ wy≥πcznie wierzyciele spadkodawcy.
+            ",A,art. 929 k.c.,"Odpowiedü: b) mogπ øπdaÊ wy≥πcznie pozostali spadkobiercy.
+
+Wyjaúnienie: Zgodnie z art. 1015 Kodeksu cywilnego, uznania spadkobiercy za niegodnego mogπ øπdaÊ wy≥πcznie pozostali spadkobiercy. Jest to uregulowane w kontekúcie ochrony interesÛw spadkodawcy oraz innych spadkobiercÛw, ktÛrzy mogπ byÊ poszkodowani przez niegodnego spadkobiercÍ.
+
+Relevant article: Art. 1015 Kodeksu cywilnego.",False,False,[1015]
+egzamin_wstepny_komorniczy_2022,30,"Question: Zgodnie z Kodeksem cywilnym, testament moøe zawieraÊ rozrzπdzenia:
+    
+            a) kilku osÛb, o ile zmar≥y jednoczeúnie
+            b) obojga ma≥øonkÛw
+            c) tylko jednego spadkodawcy.
+            ",C,art. 942 k.c.,"Odpowiedü: b) obojga ma≥øonkÛw
+
+Wyjaúnienie: Zgodnie z art. 952 Kodeksu cywilnego, ma≥øonkowie mogπ sporzπdziÊ wspÛlny testament. Testament taki moøe byÊ sporzπdzony w formie aktu notarialnego albo w formie w≥asnorÍcznego podpisu obojga ma≥øonkÛw na jednym dokumencie. Jest to jedna z moøliwoúci rozrzπdzeÒ testamentowych, ktÛre mogπ byÊ zawarte zgodnie z przepisami prawa cywilnego.
+
+Relevantny artyku≥: Art. 952 Kodeksu cywilnego.",False,False,[952]
+egzamin_wstepny_komorniczy_2022,31,"Question: Zgodnie z Kodeksem cywilnym, przedmiotem zapisu windykacyjnego moøe byÊ:
+    
+            a) rzecz oznaczona tylko co do gatunku
+            b) ogÛ≥ praw i obowiπzkÛw wspÛlnika spÛ≥ki kapita≥owej
+            c) rzecz oznaczona co do toøsamoúci.
+            ",C,art. 9811 ß 2 pkt 1 k.c.,"Odpowiedü: c) rzecz oznaczona co do toøsamoúci.
+
+Wybieram odpowiedü c), poniewaø zgodnie z Kodeksem cywilnym, przedmiotem zapisu windykacyjnego moøe byÊ rzecz oznaczona co do toøsamoúci. Zapis windykacyjny jest umowπ, w ktÛrej d≥uønik zobowiπzuje siÍ do wydania okreúlonej rzeczy wierzycielowi. Rzecz ta musi byÊ oznaczona co do toøsamoúci, czyli musi byÊ moøliwe jednoznaczne jej zidentyfikowanie.
+
+Relevantny artyku≥: Art. 1009 Kodeksu cywilnego.",True,False,[1009]
+egzamin_wstepny_komorniczy_2022,32,"Question: Zgodnie z Kodeksem cywilnym, jeøeli osoba powo≥ana jako wykonawca testamentu nie chce tego obowiπzku przyjπÊ, sk≥ada odpowiednie oúwiadczenie:
+    
+            a) przed sπdem albo notariuszem
+            b) przed kierownikiem urzÍdu stanu cywilnego
+            c) wobec wÛjta (burmistrza, prezydenta miasta), starosty, marsza≥ka wojewÛdztwa, sekretarza powiatu albo gminy.
+            ",A,art. 987 k.c.,"Odpowiedü: a) przed sπdem albo notariuszem
+
+Wyjaúnienie: Zgodnie z art. 1014 Kodeksu cywilnego, osoba powo≥ana jako wykonawca testamentu moøe z≥oøyÊ oúwiadczenie o nieprzyjÍciu obowiπzku przed sπdem albo notariuszem. Jest to istotne ze wzglÍdu na koniecznoúÊ zachowania formalnoúci i udokumentowania takiego oúwiadczenia w sposÛb wiarygodny i prawnie skuteczny.
+
+Relevant article: Kodeks cywilny, art. 1014.",True,False,[1014]
+egzamin_wstepny_komorniczy_2022,33,"Question: Zgodnie z Kodeksem cywilnym, do chwili przyjÍcia spadku spadkobierca:
+    
+            a) ponosi odpowiedzialnoúÊ za d≥ugi spadkowe tylko ze spadku
+            b) nie ponosi odpowiedzialnoúci za d≥ugi spadkowe
+            c) ponosi odpowiedzialnoúÊ za d≥ugi spadkowe z ca≥ego swego majπtku.
+            ",A,art. 1030 k.c.,"Odpowiedü: c) ponosi odpowiedzialnoúÊ za d≥ugi spadkowe z ca≥ego swego majπtku.
+
+Wyjaúnienie: Zgodnie z art. 1015 Kodeksu cywilnego, spadkobierca, ktÛry przyjmuje spadek, odpowiada za zobowiπzania spadkowe ca≥ym swoim majπtkiem. Oznacza to, øe spadkobierca nie tylko odpowiada za d≥ugi spadkowe ze spadku, ale takøe moøe byÊ zobowiπzany do ich sp≥aty z w≥asnego majπtku, jeúli spadek nie wystarcza na ich pokrycie.
+
+Relevant article: Art. 1015 Kodeksu cywilnego.",False,False,[1015]
+egzamin_wstepny_komorniczy_2022,34,"Question: Zgodnie z Kodeksem cywilnym, do chwili dzia≥u spadku spadkobiercy:
+    
+            a) nie ponoszπ odpowiedzialnoúci za d≥ugi spadkowe
+            b) ponoszπ odpowiedzialnoúÊ za d≥ugi spadkowe w stosunku do wielkoúci udzia≥Ûw
+            c) ponoszπ solidarnπ odpowiedzialnoúÊ za d≥ugi spadkowe.
+            ",C,art. 1034 ß 1 k.c.,"Odpowiedü: c) ponoszπ solidarnπ odpowiedzialnoúÊ za d≥ugi spadkowe.
+
+Wyjaúnienie: Zgodnie z art. 1010 Kodeksu cywilnego, spadkobiercy odpowiadajπ solidarnie za d≥ugi spadkowe. Oznacza to, øe kaødy z spadkobiercÛw moøe byÊ zobowiπzany do sp≥aty ca≥ego d≥ugu, niezaleønie od wielkoúci swojego udzia≥u w spadku. Dlatego odpowiedü c) jest poprawna, poniewaø spadkobiercy ponoszπ solidarnπ odpowiedzialnoúÊ za d≥ugi spadkowe.
+
+Relevant article: Kodeks cywilny, art. 1010.",True,False,[1010]
+egzamin_wstepny_adwokacki_radcowski_2023,29,"Question: Zgodnie z Kodeksem cywilnym, nie moøna czyniÊ ze swego prawa uøytku, ktÛry by by≥ sprzeczny ze spo≥eczno-gospodarczym przeznaczeniem tego prawa lub z zasadami wspÛ≥øycia spo≥ecznego; takie dzia≥anie lub zaniechanie uprawnionego:
+    
+            a) jest jednakøe uwaøane za wykonywanie prawa i korzysta z ochrony
+            b) nie jest uwaøane za wykonywanie prawa i nie korzysta z ochrony
+            c) nie jest uwaøane za wykonywanie prawa, jednakøe korzysta z ochrony
+            ",B,art. 5 k.c.,"Odpowiedü: b) nie jest uwaøane za wykonywanie prawa i nie korzysta z ochrony
+
+Wyjaúnienie: Zgodnie z art. 5 Kodeksu cywilnego, nie moøna czyniÊ ze swego prawa uøytku, ktÛry by by≥ sprzeczny ze spo≥eczno-gospodarczym przeznaczeniem tego prawa lub z zasadami wspÛ≥øycia spo≥ecznego. W przypadku takiego dzia≥ania lub zaniechania uprawniony nie moøe korzystaÊ z ochrony prawa, poniewaø nie jest ono uwaøane za prawid≥owe wykonanie prawa.
+
+èrÛd≥o: Kodeks cywilny, art. 5",True,True,[5]
+egzamin_wstepny_adwokacki_radcowski_2023,30,"Question: Zgodnie z Kodeksem cywilnym, ograniczonπ zdolnoúÊ do czynnoúci prawnych majπ:
+    
+            a) osoby ubezw≥asnowolnione ca≥kowicie
+            b) ma≥oletni, ktÛrzy ukoÒczyli lat dziesiÍÊ, oraz osoby ubezw≥asnowolnione ca≥kowicie
+            c) ma≥oletni, ktÛrzy ukoÒczyli lat trzynaúcie, jeøeli nie zostali ubezw≥asnowolnieni ca≥kowicie, oraz osoby ubezw≥asnowolnione czÍúciowo
+            ",C,art. 15 w zw. z art. 13 ß 1 k.c.,"Odpowiedü: c) ma≥oletni, ktÛrzy ukoÒczyli lat trzynaúcie, jeøeli nie zostali ubezw≥asnowolnieni ca≥kowicie, oraz osoby ubezw≥asnowolnione czÍúciowo.
+
+Wybieram odpowiedü c), poniewaø zgodnie z Kodeksem cywilnym, ma≥oletni, ktÛrzy ukoÒczyli lat trzynaúcie, jeøeli nie zostali ubezw≥asnowolnieni ca≥kowicie, oraz osoby ubezw≥asnowolnione czÍúciowo posiadajπ ograniczonπ zdolnoúÊ do czynnoúci prawnych. Oznacza to, øe nie sπ one w pe≥ni zdolne do samodzielnej realizacji wszystkich czynnoúci prawnych, a ich dzia≥ania mogπ byÊ waøne tylko w okreúlonym zakresie.
+
+Relevant article: Art. 11 Kodeksu cywilnego - zdolnoúÊ do czynnoúci prawnych ma kaødy cz≥owiek; ma≥oletni, ktÛrzy ukoÒczyli lat trzynaúcie, jeøeli nie zostali ubezw≥asnowolnieni ca≥kowicie, oraz osoby ubezw≥asnowolnione czÍúciowo majπ zdolnoúÊ do czynnoúci prawnych w granicach okreúlonych przepisami szczegÛlnymi.",True,True,"[11, 15, 13]"
+egzamin_wstepny_adwokacki_radcowski_2023,31,"Question: Zgodnie z Kodeksem cywilnym, prokura nie wygasa:
+    
+            a) wskutek wykreúlenia przedsiÍbiorcy z Centralnej Ewidencji i Informacji o Dzia≥alnoúci Gospodarczej albo z rejestru przedsiÍbiorcÛw Krajowego Rejestru Sπdowego
+            b) ze úmierciπ prokurenta
+            c) w razie utraty przez przedsiÍbiorcÍ zdolnoúci do czynnoúci prawnych
+            ",C,art. 1097 ß 4 k.c.,"Odpowiedü: a) wskutek wykreúlenia przedsiÍbiorcy z Centralnej Ewidencji i Informacji o Dzia≥alnoúci Gospodarczej albo z rejestru przedsiÍbiorcÛw Krajowego Rejestru Sπdowego
+
+Wyjaúnienie: Zgodnie z art. 101 ß 1 Kodeksu cywilnego, prokura wygasa wskutek wykreúlenia przedsiÍbiorcy z Centralnej Ewidencji i Informacji o Dzia≥alnoúci Gospodarczej albo z rejestru przedsiÍbiorcÛw Krajowego Rejestru Sπdowego. Oznacza to, øe gdy przedsiÍbiorca zostanie skreúlony z tych rejestrÛw, prokura przestaje obowiπzywaÊ. Natomiast úmierÊ prokurenta (opcja b) nie powoduje automatycznego wygaúniÍcia prokury, a utrata przez przedsiÍbiorcÍ zdolnoúci do czynnoúci prawnych (opcja c) nie ma bezpoúredniego wp≥ywu na istnienie prokury.
+
+Relevant article: Kodeks cywilny, art. 101 ß 1.",False,False,[101]
+egzamin_wstepny_adwokacki_radcowski_2023,32,"Question: Zgodnie z Kodeksem cywilnym, po up≥ywie terminu przedawnienia roszczenia majπtkowego biegnπcego przeciwko osobie niebÍdπcej konsumentem:
+    
+            a) roszczenie to wygasa
+            b) osoba ta moøe uchyliÊ siÍ od jego zaspokojenia, chyba øe zrzeka siÍ korzystania z zarzutu przedawnienia; jednakøe zrzeczenie siÍ zarzutu przedawnienia przed up≥ywem terminu jest niewaøne
+            c) osoba ta nie moøe byÊ pozwana o to roszczenie; w takiej sytuacji sπd odrzuca pozew
+            ",B,art. 117 ß 2 k.c.,"Odpowiedü: b) osoba ta moøe uchyliÊ siÍ od jego zaspokojenia, chyba øe zrzeka siÍ korzystania z zarzutu przedawnienia; jednakøe zrzeczenie siÍ zarzutu przedawnienia przed up≥ywem terminu jest niewaøne.
+
+Wyjaúnienie: Zgodnie z art. 123 Kodeksu cywilnego, po up≥ywie terminu przedawnienia roszczenia majπtkowego biegnπcego przeciwko osobie niebÍdπcej konsumentem, osoba ta moøe uchyliÊ siÍ od jego zaspokojenia, chyba øe zrzeka siÍ korzystania z zarzutu przedawnienia. Jednakøe istotne jest, øe zrzeczenie siÍ zarzutu przedawnienia przed up≥ywem terminu jest niewaøne. Oznacza to, øe osoba, przeciwko ktÛrej skierowane jest roszczenie, moøe skorzystaÊ z przedawnienia, chyba øe dobrowolnie zrzeknie siÍ tego prawa.
+
+Artyku≥: Kodeks cywilny - art. 123.",True,False,[123]
+egzamin_wstepny_adwokacki_radcowski_2023,33,"Question: Zgodnie z Kodeksem cywilnym, koniec terminu przedawnienia przypada na ostatni dzieÒ roku kalendarzowego, chyba øe termin przedawnienia jest krÛtszy niø:
+    
+            a) dwa lata
+            b) trzy lata
+            c) piÍÊ lat
+            ",A,art. 118 zdanie drugie k.c.,"Odpowiedü: b) trzy lata
+
+Wybieram odpowiedü b) trzy lata. Zgodnie z Kodeksem cywilnym, termin przedawnienia wynoszπcy mniej niø trzy lata nie moøe zakoÒczyÊ siÍ w ostatni dzieÒ roku kalendarzowego. Oznacza to, øe jeúli termin przedawnienia jest krÛtszy niø trzy lata, to nie koÒczy siÍ on w ostatni dzieÒ roku kalendarzowego, lecz up≥ywa w innym dniu.
+
+Relevant article: Art. 125 Kodeksu cywilnego.",False,False,[125]
+egzamin_wstepny_adwokacki_radcowski_2023,34,"Question: Zgodnie z Kodeksem cywilnym, posiadacz samoistny w z≥ej wierze rzeczy ruchomej, niebÍdπcy jej w≥aúcicielem:
+    
+            a) nabywa jej w≥asnoúÊ w drodze zasiedzenia, jeøeli posiada rzecz nieprzerwanie od lat trzech
+            b) nabywa jej w≥asnoúÊ w drodze zasiedzenia, jeøeli posiada rzecz nieprzerwanie od lat piÍciu
+            c) nie moøe nabyÊ jej w≥asnoúci w drodze zasiedzenia
+            ",C,art. 174 ß 1 k.c.,"Odpowiedü: a) nabywa jej w≥asnoúÊ w drodze zasiedzenia, jeøeli posiada rzecz nieprzerwanie od lat trzech.
+
+Wyjaúnienie: Zgodnie z art. 300 Kodeksu cywilnego, posiadacz samoistny w z≥ej wierze rzeczy ruchomej, niebÍdπcy jej w≥aúcicielem, nabywa jej w≥asnoúÊ w drodze zasiedzenia, jeøeli posiada rzecz nieprzerwanie przez okres trzech lat. Zasiedzenie jest jednym ze sposobÛw nabycia w≥asnoúci okreúlonych w Kodeksie cywilnym.
+
+Relevant article: Art. 300 Kodeksu cywilnego.",False,False,[300]
+egzamin_wstepny_adwokacki_radcowski_2023,35,"Question: Zgodnie z Kodeksem cywilnym, jeøeli rzecz (niebÍdπcπ zabytkiem lub materia≥em archiwalnym) znaleziono w takich okolicznoúciach, øe poszukiwanie w≥aúciciela by≥oby oczywiúcie bezcelowe, a znalazca nie jest w≥aúcicielem nieruchomoúci, na ktÛrej rzecz zosta≥a znaleziona, rzecz znaleziona staje siÍ:
+    
+            a) wy≥πcznπ w≥asnoúciπ znalazcy
+            b) wy≥πcznπ w≥asnoúciπ w≥aúciciela nieruchomoúci, na ktÛrej rzecz zosta≥a znaleziona
+            c) przedmiotem wspÛ≥w≥asnoúci w czÍúciach u≥amkowych znalazcy i w≥aúciciela nieruchomoúci, na ktÛrej rzecz zosta≥a znaleziona
+            ",C,art. 189 k.c.,"Odpowiedü: b) wy≥πcznπ w≥asnoúciπ w≥aúciciela nieruchomoúci, na ktÛrej rzecz zosta≥a znaleziona.
+
+Wyjaúnienie: Zgodnie z art. 189 Kodeksu cywilnego, rzecz ruchoma znaleziona na nieruchomoúci staje siÍ w≥asnoúciπ w≥aúciciela nieruchomoúci, na ktÛrej zosta≥a znaleziona, chyba øe w≥aúciciel nieruchomoúci lub posiadacz rzeczy ruchomej wyrazi zgodÍ na oddanie znaleziska znalazcy. W przypadku opisanym w pytaniu, gdzie poszukiwanie w≥aúciciela by≥oby bezcelowe, to znaleziona rzecz staje siÍ w≥asnoúciπ w≥aúciciela nieruchomoúci, na ktÛrej zosta≥a znaleziona. Znalazca nie ma prawa do wy≥πcznej w≥asnoúci znaleziska, chyba øe w≥aúciciel nieruchomoúci zdecyduje inaczej.
+
+Relevant article: Art. 189 Kodeksu cywilnego.",False,True,[189]
+egzamin_wstepny_adwokacki_radcowski_2023,36,"Question: Zgodnie z Kodeksem cywilnym, nieruchomoúÊ moøna obciπøyÊ na rzecz w≥aúciciela innej nieruchomoúci (nieruchomoúci w≥adnπcej) miÍdzy innymi prawem, ktÛrego treúÊ polega na tym, øe w≥aúciciel nieruchomoúci w≥adnπcej moøe korzystaÊ w oznaczonym zakresie z nieruchomoúci obciπøonej (s≥uøebnoúÊ gruntowa); taka s≥uøebnoúÊ:
+    
+            a) w øadnym wypadku nie moøe byÊ nabyta przez zasiedzenie
+            b) moøe byÊ nabyta przez zasiedzenie tylko w wypadku, gdy polega na korzystaniu z trwa≥ego i widocznego urzπdzenia
+            c) moøe byÊ nabyta przez zasiedzenie niezaleønie od tego, czy polega na korzystaniu z trwa≥ego i widocznego urzπdzenia
+            ",B,art. 292 w zw. z art. 285 ß 1 k.c.,"Odpowiedü: b) moøe byÊ nabyta przez zasiedzenie tylko w wypadku, gdy polega na korzystaniu z trwa≥ego i widocznego urzπdzenia.
+
+Wyjaúnienie: Zgodnie z art. 253 Kodeksu cywilnego, s≥uøebnoúÊ gruntowa moøe byÊ nabyta przez zasiedzenie tylko wtedy, gdy polega na korzystaniu z trwa≥ego i widocznego urzπdzenia. Zasiedzenie s≥uøebnoúci gruntowej jest jednym ze sposobÛw nabycia tego prawa, ale istotne jest, aby spe≥nione by≥y okreúlone warunki, w tym koniecznoúÊ korzystania z trwa≥ego i widocznego urzπdzenia. 
+
+Relevant article: Art. 253 Kodeksu cywilnego.",True,False,[253]
+egzamin_wstepny_adwokacki_radcowski_2023,37,"Question: Zgodnie z Kodeksem cywilnym, jeøeli d≥uønik jest zobowiπzany do úwiadczenia rzeczy oznaczonych tylko co do gatunku, a jakoúÊ rzeczy nie jest oznaczona przez w≥aúciwe przepisy lub przez czynnoúÊ prawnπ ani nie wynika z okolicznoúci, d≥uønik:
+    
+            a) moøe úwiadczyÊ rzeczy dowolnej jakoúci
+            b) powinien úwiadczyÊ rzeczy úredniej jakoúci
+            c) powinien úwiadczyÊ rzeczy najlepszej jakoúci
+            ",B,art. 357 k.c.,"Odpowiedü: a) moøe úwiadczyÊ rzeczy dowolnej jakoúci.
+
+Wybieram odpowiedü a), poniewaø zgodnie z art. 456 ß 1 Kodeksu cywilnego, jeøeli d≥uønik jest zobowiπzany do úwiadczenia rzeczy oznaczonej tylko co do gatunku, a jakoúÊ rzeczy nie jest oznaczona przez w≥aúciwe przepisy, ani przez czynnoúÊ prawnπ, ani nie wynika z okolicznoúci, d≥uønik moøe úwiadczyÊ rzecz dowolnej jakoúci. Jest to zasada, ktÛra daje pewnπ elastycznoúÊ d≥uønikowi w spe≥nianiu swojego zobowiπzania, gdy jakoúÊ rzeczy nie jest okreúlona w øaden sposÛb.",False,False,[456]
+egzamin_wstepny_adwokacki_radcowski_2023,38,"Question: Zgodnie z Kodeksem cywilnym, zobowiπzany do odszkodowania ponosi odpowiedzialnoúÊ tylko za normalne nastÍpstwa dzia≥ania lub zaniechania, z ktÛrego szkoda wynik≥a; w powyøszych granicach, w braku odmiennego przepisu ustawy lub postanowienia umowy, naprawienie szkody obejmuje:
+    
+            a) jedynie straty, ktÛre poszkodowany poniÛs≥
+            b) jedynie korzyúci, ktÛre poszkodowany mÛg≥by osiπgnπÊ, gdyby mu szkody nie wyrzπdzono
+            c) straty, ktÛre poszkodowany poniÛs≥, oraz korzyúci, ktÛre mÛg≥by osiπgnπÊ, gdyby mu szkody nie wyrzπdzono
+            ",C,art. 361 k.c.,"Odpowiedü: c) straty, ktÛre poszkodowany poniÛs≥, oraz korzyúci, ktÛre mÛg≥by osiπgnπÊ, gdyby mu szkody nie wyrzπdzono.
+
+Wyjaúnienie: Zgodnie z art. 361 Kodeksu cywilnego, zobowiπzany do odszkodowania ponosi odpowiedzialnoúÊ tylko za normalne nastÍpstwa dzia≥ania lub zaniechania, z ktÛrego szkoda wynik≥a. W ramach naprawienia szkody obejmuje on zarÛwno straty, ktÛre poszkodowany poniÛs≥, jak i korzyúci, ktÛre mÛg≥by osiπgnπÊ, gdyby mu szkody nie wyrzπdzono. Zasada ta wynika z ogÛlnych zasad odpowiedzialnoúci cywilnej okreúlonych w Kodeksie cywilnym.
+
+Relevant article: Art. 361 Kodeksu cywilnego.",True,True,[361]
+egzamin_wstepny_adwokacki_radcowski_2023,39,"Question: Zgodnie z Kodeksem cywilnym, zobowiπzanie (umowne) bezterminowe o charakterze ciπg≥ym wygasa po wypowiedzeniu przez d≥uønika lub wierzyciela z zachowaniem terminÛw:
+    
+            a) umownych, a w razie braku takich terminÛw nie moøe wygasnπÊ
+            b) umownych lub ustawowych, a w razie braku takich terminÛw nie moøe wygasnπÊ
+            c) umownych, ustawowych lub zwyczajowych, a w razie braku takich terminÛw niezw≥ocznie po wypowiedzeniu
+            ",C,art. 3651 k.c.,"Odpowiedü: b) umownych lub ustawowych, a w razie braku takich terminÛw nie moøe wygasnπÊ
+
+Wyjaúnienie: Zgodnie z art. 479 Kodeksu cywilnego, zobowiπzanie umowne bezterminowe o charakterze ciπg≥ym wygasa po wypowiedzeniu przez d≥uønika lub wierzyciela z zachowaniem terminÛw umownych lub ustawowych. W przypadku braku okreúlonych terminÛw, zobowiπzanie nie moøe wygasnπÊ automatycznie, a jedynie po wypowiedzeniu zgodnie z przepisami ogÛlnymi dotyczπcymi wypowiedzenia umowy.",False,False,[479]
+egzamin_wstepny_adwokacki_radcowski_2023,40,"Question: Zgodnie z Kodeksem cywilnym, zwolnienie z d≥ugu pieniÍønego przez wierzyciela wzglÍdem jednego z d≥uønikÛw solidarnych:
+    
+            a) nie ma skutku wzglÍdem wspÛ≥d≥uønikÛw
+            b) ma ten skutek, øe kaødy ze wspÛ≥d≥uønikÛw staje siÍ odpowiedzialny w rÛwnych czÍúciach
+            c) zwalnia z d≥ugu wszystkich wspÛ≥d≥uønikÛw
+            ",A,art. 373 k.c.,"Odpowiedü: a) nie ma skutku wzglÍdem wspÛ≥d≥uønikÛw
+
+Wyjaúnienie: Zgodnie z art. 491 Kodeksu cywilnego, zwolnienie z d≥ugu pieniÍønego przez wierzyciela wzglÍdem jednego z d≥uønikÛw solidarnych nie ma skutku wzglÍdem pozosta≥ych wspÛ≥d≥uønikÛw. Oznacza to, øe pozostali wspÛ≥d≥uønicy pozostajπ odpowiedzialni za ca≥oúÊ d≥ugu, nawet jeúli jeden z nich zosta≥ zwolniony przez wierzyciela.
+
+Odniesienie prawne: Art. 491 Kodeksu cywilnego.",True,False,[491]
+egzamin_wstepny_adwokacki_radcowski_2023,41,"Question: Zgodnie z Kodeksem cywilnym, w braku odmiennego zastrzeøenia umownego albo zwyczaju zadatek dany przy zawarciu umowy ma to znaczenie, øe w razie niewykonania umowy przez jednπ ze stron (gdy umowa nie uleg≥a rozwiπzaniu, a niewykonanie umowy nie nastπpi≥o wskutek okolicznoúci, za ktÛre øadna ze stron nie ponosi odpowiedzialnoúci albo za ktÛre ponoszπ odpowiedzialnoúÊ obie strony), druga strona moøe:
+    
+            a) bez wyznaczenia terminu dodatkowego od umowy odstπpiÊ i otrzymany zadatek zachowaÊ, a jeøeli sama go da≥a, moøe øπdaÊ sumy dwukrotnie wyøszej
+            b) po wyznaczeniu terminu dodatkowego od umowy odstπpiÊ i zwrÛciÊ otrzymany zadatek, a jeøeli sama go da≥a, nie moøe øπdaÊ jego zwrotu
+            c) bez wyznaczenia terminu dodatkowego od umowy odstπpiÊ i otrzymany zadatek zachowaÊ, a jeøeli sama go da≥a, moøe øπdaÊ sumy trzykrotnie wyøszej
+            ",A,art. 394 ß 1 i 3 k.c.,"Odpowiedü: a) bez wyznaczenia terminu dodatkowego od umowy odstπpiÊ i otrzymany zadatek zachowaÊ, a jeøeli sama go da≥a, moøe øπdaÊ sumy dwukrotnie wyøszej.
+
+Wyjaúnienie: Zgodnie z art. 394 Kodeksu cywilnego, jeúli umowa nie uleg≥a rozwiπzaniu, a niewykonanie umowy nie nastπpi≥o z winy øadnej ze stron lub z winy obu stron, druga strona moøe od umowy odstπpiÊ bez wyznaczenia terminu dodatkowego i zachowaÊ otrzymany zadatek. Ponadto, jeúli druga strona da≥a zadatek, moøe øπdaÊ sumy dwukrotnie wyøszej. Zatem odpowiedü a) jest poprawna zgodnie z przepisami Kodeksu cywilnego.
+
+Artyku≥ Kodeksu cywilnego: art. 394.",True,True,[394]
+egzamin_wstepny_adwokacki_radcowski_2023,42,"Question: Zgodnie z Kodeksem cywilnym, jeøeli poszkodowany utraci≥ ca≥kowicie lub czÍúciowo zdolnoúÊ do pracy zarobkowej wskutek uszkodzenia cia≥a lub wywo≥ania rozstroju zdrowia, moøe on øπdaÊ od zobowiπzanego do naprawienia szkody odpowiedniej renty; na øπdanie poszkodowanego:
+    
+            a) z waønych powodÛw sπd moøe przyznaÊ mu zamiast renty lub jej czÍúci odszkodowanie jednorazowe
+            b) z waønych powodÛw sπd moøe przyznaÊ mu zamiast renty lub jej czÍúci odpowiedniπ sumÍ tytu≥em zadoúÊuczynienia pieniÍønego
+            c) sπd przyznaje mu zamiast renty lub jej czÍúci odszkodowanie jednorazowe i odpowiedniπ sumÍ tytu≥em zadoúÊuczynienia pieniÍønego
+            ",A,art. 447 w zw. z art. 444 ß 1 i 2 k.c.,"Odpowiedü: a) z waønych powodÛw sπd moøe przyznaÊ mu zamiast renty lub jej czÍúci odszkodowanie jednorazowe
+
+Wyjaúnienie: Zgodnie z art. 444 ß 2 Kodeksu cywilnego, jeøeli poszkodowany utraci≥ ca≥kowicie lub czÍúciowo zdolnoúÊ do pracy zarobkowej wskutek uszkodzenia cia≥a lub wywo≥ania rozstroju zdrowia, moøe on øπdaÊ od zobowiπzanego do naprawienia szkody odpowiedniej renty. Jednakøe zgodnie z art. 445 ß 1 KC, z waønych powodÛw sπd moøe zasπdziÊ zamiast renty lub jej czÍúci odszkodowanie jednorazowe. Oznacza to, øe sπd moøe zdecydowaÊ, øe w danej sytuacji bardziej odpowiednie bÍdzie przyznanie poszkodowanemu odszkodowania jednorazowego zamiast renty. Natomiast zadoúÊuczynienie pieniÍøne nie jest tu wymienione jako alternatywa dla renty, dlatego odpowiedü b) jest niepoprawna.
+
+Relevant articles: 
+- Art. 444 ß 2 Kodeksu cywilnego
+- Art. 445 ß 1 Kodeksu cywilnego",True,True,"[444, 445]"
+egzamin_wstepny_adwokacki_radcowski_2023,43,"Question: Zgodnie z Kodeksem cywilnym, jeøeli termin zwrotu poøyczki nie jest oznaczony, d≥uønik obowiπzany jest zwrÛciÊ poøyczkÍ:
+    
+            a) niezw≥ocznie po wypowiedzeniu przez dajπcego poøyczkÍ
+            b) w ciπgu 30 dni po wypowiedzeniu przez dajπcego poøyczkÍ
+            c) w ciπgu szeúciu tygodni po wypowiedzeniu przez dajπcego poøyczkÍ
+            ",C,art. 723 k.c.,"Odpowiedü: a) niezw≥ocznie po wypowiedzeniu przez dajπcego poøyczkÍ
+
+Wyjaúnienie: Zgodnie z art. 720 ß 1 Kodeksu cywilnego, jeøeli termin zwrotu poøyczki nie jest oznaczony, d≥uønik obowiπzany jest zwrÛciÊ poøyczkÍ niezw≥ocznie po wypowiedzeniu przez wierzyciela. Termin ""niezw≥ocznie"" oznacza koniecznoúÊ dokonania zwrotu poøyczki bez zbÍdnej zw≥oki, natychmiast po otrzymaniu wypowiedzenia. D≥uønik nie moøe zwlekaÊ z wykonaniem tego obowiπzku.
+
+Relevant article: Kodeks cywilny, art. 720 ß 1",False,False,[720]
+egzamin_wstepny_adwokacki_radcowski_2023,44,"Question: Zgodnie z Kodeksem cywilnym, rozwiπzanie umowy rachunku bankowego zawartej na czas nieoznaczony moøe nastπpiÊ w kaødym czasie wskutek wypowiedzenia przez:
+    
+            a) posiadacza rachunku; bank nie moøe wypowiedzieÊ takiej umowy w øadnym przypadku
+            b) ktÛrπkolwiek ze stron; jednakøe bank moøe wypowiedzieÊ takπ umowÍ tylko z waønych powodÛw
+            c) ktÛrπkolwiek ze stron; jednakøe posiadacz rachunku moøe wypowiedzieÊ takπ umowÍ tylko z waønych powodÛw
+            ",B,art. 730 k.c.,"Odpowiedü: b) ktÛrπkolwiek ze stron; jednakøe bank moøe wypowiedzieÊ takπ umowÍ tylko z waønych powodÛw
+
+Wyjaúnienie: Zgodnie z art. 69<sup>1</sup> Kodeksu cywilnego, umowa rachunku bankowego zawarta na czas nieoznaczony moøe zostaÊ rozwiπzana w kaødym czasie wskutek wypowiedzenia przez ktÛrπkolwiek ze stron. Jednakøe, zgodnie z art. 69<sup>2</sup> KC, bank moøe wypowiedzieÊ umowÍ rachunku bankowego zawartπ na czas nieoznaczony tylko z waønych powodÛw. Natomiast posiadacz rachunku moøe wypowiedzieÊ takπ umowÍ bez koniecznoúci podawania przyczyny. 
+
+Zatem, opcja b) jest poprawna, poniewaø kaøda ze stron moøe wypowiedzieÊ umowÍ rachunku bankowego zawartπ na czas nieoznaczony, ale bank moøe to zrobiÊ tylko z waønych powodÛw.
+
+Artyku≥y: Art. 69<sup>1</sup> i 69<sup>2</sup> Kodeksu cywilnego.",True,False,"[69, 69]"
+egzamin_wstepny_adwokacki_radcowski_2023,45,"Question: Zgodnie z Kodeksem cywilnym, spadkodawca moøe w testamencie w≥oøyÊ na spadkobiorcÍ lub na zapisobiercÍ obowiπzek oznaczonego dzia≥ania lub zaniechania, nie czyniπc nikogo wierzycielem; jest to:
+    
+            a) zapis zwyk≥y
+            b) zapis windykacyjny
+            c) polecenie
+            ",C,art. 982 k.c.,"Odpowiedü: c) polecenie
+
+Wyjaúnienie:
+Zgodnie z Kodeksem cywilnym, polecenie to sytuacja, w ktÛrej spadkodawca w testamencie nak≥ada na spadkobiorcÍ lub zapisobiercÍ obowiπzek oznaczonego dzia≥ania lub zaniechania, nie czyniπc nikogo wierzycielem. Polecenie rÛøni siÍ od zapisu zwyk≥ego tym, øe nie powoduje powstania roszczenia majπtkowego. Natomiast zapis windykacyjny to zapis, ktÛry nak≥ada na spadkobiercÍ obowiπzek wydania okreúlonej rzeczy lub spe≥nienia okreúlonego úwiadczenia.
+
+Relevant article in the Polish Civil Code: Article 1009-1011.",True,True,[982]
+egzamin_wstepny_notarialny_2023,1,"Question: Zgodnie z Kodeksem cywilnym, jeøeli ustawa uzaleønia skutki prawne od dobrej lub z≥ej wiary:
+    
+            a) domniemywa siÍ istnienie dobrej wiary
+            b) domniemywa siÍ istnienie z≥ej wiary
+            c) nie domniemywa siÍ istnienia dobrej lub z≥ej wiary, a ciÍøar udowodnienia istnienia dobrej lub z≥ej wiary zawsze spoczywa na osobie, ktÛra z faktu tego wywodzi skutki prawne
+            ",A,art. 7 k.c.,"Odpowiedü: c) nie domniemywa siÍ istnienia dobrej lub z≥ej wiary, a ciÍøar udowodnienia istnienia dobrej lub z≥ej wiary zawsze spoczywa na osobie, ktÛra z faktu tego wywodzi skutki prawne.
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, jeøeli ustawa uzaleønia skutki prawne od dobrej lub z≥ej wiary, to nie ma domniemania co do istnienia dobrej lub z≥ej wiary. CiÍøar udowodnienia istnienia dobrej lub z≥ej wiary zawsze spoczywa na osobie, ktÛra chce wywodziÊ skutki prawne z tego faktu. Oznacza to, øe strona, ktÛra powo≥uje siÍ na dobru lub z≥ej wierze innej strony, musi udowodniÊ istnienie takiej wiary.
+
+Relevant article: Art. 6 Kodeksu cywilnego.",False,False,[6]
+egzamin_wstepny_notarialny_2023,2,"Question: Zgodnie z Kodeksem cywilnym, kaødy cz≥owiek ma zdolnoúÊ prawnπ:
+    
+            a) od chwili urodzenia
+            b) od chwili ukoÒczenia lat trzynastu
+            c) od chwili ukoÒczenia lat osiemnastu
+            ",A,art. 8 ß 1 k.c.,"Odpowiedü: a) od chwili urodzenia
+
+Wybieram odpowiedü a), poniewaø zgodnie z polskim Kodeksem cywilnym, kaødy cz≥owiek ma zdolnoúÊ prawnπ od chwili urodzenia. ZdolnoúÊ prawna rozpoczyna siÍ wraz z narodzinami i koÒczy siÍ úmierciπ (art. 11 Kodeksu cywilnego).
+
+Zgodnie z art. 11 Kodeksu cywilnego: ""Cz≥owiek ma zdolnoúÊ prawnπ od chwili urodzenia siÍ, a koÒczy jπ úmierÊ."" Jest to zasada ogÛlna dotyczπca zdolnoúci prawnej kaødej osoby, ktÛra obowiπzuje od momentu narodzin. Dlatego odpowiedü a) jest poprawna w kontekúcie zdolnoúci prawnej cz≥owieka zgodnie z polskim prawem cywilnym.",True,False,[11]
+egzamin_wstepny_notarialny_2023,3,"Question: Zgodnie z Kodeksem cywilnym, dobra osobiste cz≥owieka:
+    
+            a) pozostajπ wy≥πcznie pod ochronπ przewidzianπ w innych przepisach niø przepisy prawa cywilnego
+            b) pozostajπ pod ochronπ prawa cywilnego tylko wÛwczas, gdy nie pozostajπ pod ochronπ przewidzianπ w innych przepisach niø przepisy prawa cywilnego
+            c) pozostajπ pod ochronπ prawa cywilnego niezaleønie od ochrony przewidzianej w innych przepisach
+            ",C,art. 23 k.c.,"Odpowiedü: c) pozostajπ pod ochronπ prawa cywilnego niezaleønie od ochrony przewidzianej w innych przepisach.
+
+Wybieram odpowiedü c), poniewaø zgodnie z polskim Kodeksem cywilnym, dobra osobiste cz≥owieka sπ chronione niezaleønie od innych przepisÛw. Artyku≥ 23 Kodeksu cywilnego stanowi, øe ""dobra osobiste cz≥owieka, takie jak øycie, cia≥o, zdrowie, wolnoúÊ, uczciwoúÊ, swoboda sumienia, nazwisko lub pseudonim, tajemnica korespondencji, nietykalnoúÊ mieszkania, twÛrczoúÊ naukowa, artystyczna, wynalazcza i racjonalizatorska, sπ chronione niezaleønie od ochrony przewidzianej w innych przepisach.""
+
+Zatem, zgodnie z polskim prawem cywilnym, dobra osobiste cz≥owieka cieszπ siÍ ochronπ prawnπ niezaleønie od innych przepisÛw regulujπcych inne obszary prawa.",True,True,[23]
+egzamin_wstepny_notarialny_2023,4,"Question: Zgodnie z Kodeksem cywilnym, prokura:
+    
+            a) zawsze moøe byÊ ograniczona ze skutkiem wobec osÛb trzecich
+            b) nigdy nie moøe byÊ ograniczona ze skutkiem wobec osÛb trzecich
+            c) nie moøe byÊ ograniczona ze skutkiem wobec osÛb trzecich, chyba øe przepis szczegÛlny stanowi inaczej
+            ",C,art. 1091 ß 2 k.c.,"Odpowiedü: c) nie moøe byÊ ograniczona ze skutkiem wobec osÛb trzecich, chyba øe przepis szczegÛlny stanowi inaczej.
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, prokura jest pe≥nomocnictwem udzielanym przez przedsiÍbiorcÍ do dokonywania czynnoúci prawnych w jego imieniu. Zasada ogÛlna mÛwi, øe prokura nie moøe byÊ ograniczona ze skutkiem wobec osÛb trzecich, chyba øe przepis szczegÛlny stanowi inaczej. Oznacza to, øe osoby trzecie, ktÛre zawierajπ umowÍ z prokurentem, nie sπ zwiπzane ewentualnymi ograniczeniami prokury, chyba øe w danym przypadku obowiπzuje inna regulacja prawna.
+
+Relevant article: Art. 102 ß 1 Kodeksu cywilnego.",True,True,"[102, 1091]"
+egzamin_wstepny_notarialny_2023,5,"Question: Zgodnie z Kodeksem cywilnym, terminy przedawnienia roszczeÒ majπtkowych:
+    
+            a) nie mogπ byÊ skracane ani przed≥uøane przez czynnoúÊ prawnπ
+            b) przed ich up≥ywem mogπ byÊ skracane lub przed≥uøane przez czynnoúÊ prawnπ
+            c) mogπ byÊ skracane lub przed≥uøane przez czynnoúÊ prawnπ w kaødym czasie
+            ",A,art. 119 k.c.,"Odpowiedü: b) przed ich up≥ywem mogπ byÊ skracane lub przed≥uøane przez czynnoúÊ prawnπ.
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, terminy przedawnienia roszczeÒ majπtkowych mogπ byÊ skracane lub przed≥uøane przed ich up≥ywem przez czynnoúÊ prawnπ. Jest to uregulowane w art. 123 Kodeksu cywilnego, ktÛry mÛwi, øe strony mogπ skrÛciÊ termin przedawnienia roszczenia, ale nie mogπ go wyd≥uøyÊ. Zatem, opcja b) jest poprawna, poniewaø czynnoúÊ prawnπ moøna podjπÊ w celu skrÛcenia terminu przedawnienia roszczenia.",False,True,[119]
+egzamin_wstepny_notarialny_2023,6,"Question: Zgodnie z Kodeksem cywilnym, nabycie w≥asnoúci rzeczy znalezionej przez znalazcÍ, powiat albo Skarb PaÒstwa powoduje wygaúniÍcie obciπøajπcych jπ ograniczonych praw rzeczowych:
+    
+            a) z chwilπ jej nabycia
+            b) po up≥ywie miesiπca od chwili jej nabycia
+            c) po up≥ywie trzech miesiÍcy od chwili jej nabycia
+            ",A,art. 187 ß 3 k.c.,"Odpowiedü: c) po up≥ywie trzech miesiÍcy od chwili jej nabycia
+
+Wyjaúnienie: Zgodnie z art. 232 ß 1 Kodeksu cywilnego, nabycie w≥asnoúci rzeczy znalezionej przez znalazcÍ, powiat albo Skarb PaÒstwa powoduje wygaúniÍcie obciπøajπcych jπ ograniczonych praw rzeczowych po up≥ywie trzech miesiÍcy od dnia, w ktÛrym rzecz zosta≥a znaleziona. Oznacza to, øe po up≥ywie tego okresu ograniczone prawa rzeczowe przestajπ obciπøaÊ znalezionπ rzecz, a znalazca staje siÍ jej w≥aúcicielem.
+
+Zatem, zgodnie z polskim Kodeksem cywilnym, ograniczone prawa rzeczowe na rzeczy znalezionej wygasajπ po up≥ywie trzech miesiÍcy od chwili jej nabycia.",False,False,[232]
+egzamin_wstepny_notarialny_2023,7,"Question: Zgodnie z Kodeksem cywilnym, jeøeli ten, komu przys≥uguje ograniczone prawo rzeczowe obciπøajπce nieruchomoúÊ nabÍdzie tÍ nieruchomoúÊ na w≥asnoúÊ:
+    
+            a) ograniczone prawo rzeczowe nigdy nie wygasa
+            b) ograniczone prawo rzeczowe nie wygasa, chyba øe zostanie wykreúlone z ksiÍgi wieczystej
+            c) ograniczone prawo rzeczowe wygasa z chwilπ nabycia w≥asnoúci tej nieruchomoúci
+            ",C,art. 247 k.c.,"Odpowiedü: b) ograniczone prawo rzeczowe nie wygasa, chyba øe zostanie wykreúlone z ksiÍgi wieczystej.
+
+Wyjaúnienie: Zgodnie z art. 158 Kodeksu cywilnego, ograniczone prawo rzeczowe nie wygasa wskutek nabycia przez uprawnionego nieruchomoúci obciπøonej tym prawem. Jednakøe, zgodnie z art. 158 ß 2 KC, ograniczone prawo rzeczowe wygasa, jeøeli zostanie wykreúlone z ksiÍgi wieczystej. Oznacza to, øe mimo nabycia nieruchomoúci przez uprawnionego, ograniczone prawo rzeczowe nadal bÍdzie istnia≥o, chyba øe zostanie formalnie usuniÍte poprzez wykreúlenie z ksiÍgi wieczystej.
+
+Relevant articles: 
+- Art. 158 Kodeksu cywilnego",False,False,[158]
+egzamin_wstepny_notarialny_2023,8,"Question: Zgodnie z Kodeksem cywilnym, jeøeli uøytkowanie obejmuje pieniπdze lub inne rzeczy oznaczone tylko co do gatunku, uøytkownik:
+    
+            a) staje siÍ ich w≥aúcicielem z chwilπ wydania mu tych przedmiotÛw
+            b) nigdy nie staje siÍ ich w≥aúcicielem
+            c) staje siÍ ich w≥aúcicielem tylko wÛwczas, jeøeli wynika to z treúci umowy
+            ",A,art. 264 k.c.,"Odpowiedü: c) staje siÍ ich w≥aúcicielem tylko wÛwczas, jeøeli wynika to z treúci umowy.
+
+Wyjaúnienie: Zgodnie z art. 693 Kodeksu cywilnego, jeøeli uøytkowanie obejmuje pieniπdze lub inne rzeczy oznaczone tylko co do gatunku, uøytkownik staje siÍ ich w≥aúcicielem tylko wÛwczas, jeøeli wynika to z treúci umowy. W przypadku braku takiego postanowienia, uøytkownik nie staje siÍ w≥aúcicielem tych przedmiotÛw, a jedynie ma prawo do korzystania z nich zgodnie z umowπ uøytkowania.
+
+èrÛd≥o: Kodeks cywilny, art. 693.",False,False,[693]
+egzamin_wstepny_notarialny_2023,9,"Question: Zgodnie z Kodeksem cywilnym, uøytkownik bÍdπcy osobπ fizycznπ moøe zak≥adaÊ w pomieszczeniach nowe urzπdzenia w takich granicach jak:
+    
+            a) w≥aúciciel
+            b) najemca
+            c) uøytkownik wieczysty
+            ",B,art. 268 k.c.,"Odpowiedü: a) w≥aúciciel
+
+Wyjaúnienie: Zgodnie z Kodeksem cywilnym, uøytkownik bÍdπcy osobπ fizycznπ moøe zak≥adaÊ w pomieszczeniach nowe urzπdzenia w granicach okreúlonych przez w≥aúciciela. W≥aúciciel ma prawo decydowaÊ o tym, jakie zmiany mogπ byÊ wprowadzone w pomieszczeniach, ktÛre mu naleøπ. Jest to zasada wynikajπca z art. 222 Kodeksu cywilnego.
+
+Odniesienie prawne: Art. 222 Kodeksu cywilnego - Dopuszczalne zmiany w nieruchomoúci.",False,False,[222]
+egzamin_wstepny_notarialny_2023,10,"Question: Zgodnie z Kodeksem cywilnym, w≥aúciciel nieruchomoúci obciπøonej moøe øπdaÊ zniesienia s≥uøebnoúci gruntowej bez wynagrodzenia, jeøeli:
+    
+            a) wskutek zmiany stosunkÛw s≥uøebnoúÊ ta sta≥a siÍ dla niego szczegÛlnie uciπøliwa, a nie jest konieczna do prawid≥owego korzystania z nieruchomoúci w≥adnπcej
+            b) wskutek zmiany stosunkÛw s≥uøebnoúÊ ta sta≥a siÍ dla niego szczegÛlnie uciπøliwa, nawet gdy jest konieczna do prawid≥owego korzystania z nieruchomoúci w≥adnπcej
+            c) s≥uøebnoúÊ ta utraci≥a dla nieruchomoúci w≥adnπcej wszelkie znaczenie
+            ",C,art. 295 k.c.,"Odpowiedü: a) wskutek zmiany stosunkÛw s≥uøebnoúÊ ta sta≥a siÍ dla niego szczegÛlnie uciπøliwa, a nie jest konieczna do prawid≥owego korzystania z nieruchomoúci w≥adnπcej.
+
+Wyjaúnienie: Zgodnie z art. 253 Kodeksu cywilnego, w≥aúciciel nieruchomoúci obciπøonej moøe øπdaÊ zniesienia s≥uøebnoúci gruntowej bez wynagrodzenia, jeøeli s≥uøebnoúÊ ta sta≥a siÍ dla niego szczegÛlnie uciπøliwa, a nie jest konieczna do prawid≥owego korzystania z nieruchomoúci w≥adnπcej. Oznacza to, øe w≥aúciciel moøe øπdaÊ zniesienia s≥uøebnoúci, jeúli jej istnienie staje siÍ dla niego nadmiernie uciπøliwe, ale jednoczeúnie nie jest ona niezbÍdna do korzystania z jego nieruchomoúci.
+
+Przepis prawa: Art. 253 Kodeksu cywilnego.",False,False,[253]
+egzamin_wstepny_notarialny_2023,11,"Question: Zgodnie z Kodeksem cywilnym, w≥aúciciel nieruchomoúci obciπøonej moøe øπdaÊ zamiany s≥uøebnoúci osobistej na rentÍ, jeøeli:
+    
+            a) uprawniony z tytu≥u s≥uøebnoúci osobistej nie wykonuje swego prawa przez co najmniej dziesiÍÊ lat
+            b) uprawniony z tytu≥u s≥uøebnoúci osobistej dopuszcza siÍ raøπcych uchybieÒ przy wykonywaniu swego prawa
+            c) uprawniony z tytu≥u s≥uøebnoúci osobistej przeniÛs≥ uprawnienia do wykonywania s≥uøebnoúci osobistej na innπ osobÍ
+            ",B,art. 303 k.c.,"Poprawna odpowiedü: b) uprawniony z tytu≥u s≥uøebnoúci osobistej dopuszcza siÍ raøπcych uchybieÒ przy wykonywaniu swego prawa.
+
+Wyjaúnienie:
+Zgodnie z art. 253 Kodeksu cywilnego, w≥aúciciel nieruchomoúci obciπøonej s≥uøebnoúciπ osobistπ moøe øπdaÊ zamiany s≥uøebnoúci osobistej na rentÍ, jeøeli uprawniony z tytu≥u s≥uøebnoúci osobistej dopuszcza siÍ raøπcych uchybieÒ przy wykonywaniu swego prawa. Oznacza to, øe jeúli osoba korzystajπca z s≥uøebnoúci osobistej narusza w sposÛb istotny swoje obowiπzki lub przekracza granice swoich uprawnieÒ, w≥aúciciel nieruchomoúci moøe øπdaÊ zamiany tego obciπøenia na rentÍ.
+
+Zatem odpowiedü b) jest poprawna, poniewaø wskazuje na sytuacjÍ, ktÛra uprawnia w≥aúciciela nieruchomoúci do øπdania zamiany s≥uøebnoúci osobistej na rentÍ zgodnie z przepisami Kodeksu cywilnego.",True,False,[253]
+egzamin_wstepny_notarialny_2023,12,"Question: Zgodnie z Kodeksem cywilnym, zastrzeøenie, przez ktÛre zastawca zobowiπzuje siÍ wzglÍdem zastawnika, øe nie dokona zbycia lub obciπøenia rzeczy ruchomej przed wygaúniÍciem zastawu, jest:
+    
+            a) waøne, o ile umowa zastawu zosta≥a zawarta w formie pisemnej, z podpisami notarialnie poúwiadczonymi
+            b) bezskuteczne wy≥πcznie wzglÍdem nabywcy rzeczy
+            c) niewaøne
+            ",C,art. 311 k.c.,"Odpowiedü: a) waøne, o ile umowa zastawu zosta≥a zawarta w formie pisemnej, z podpisami notarialnie poúwiadczonymi.
+
+Wyjaúnienie: Zgodnie z art. 100 ß 1 Kodeksu cywilnego, zastrzeøenie, przez ktÛre zastawca zobowiπzuje siÍ wzglÍdem zastawnika, øe nie dokona zbycia lub obciπøenia rzeczy ruchomej przed wygaúniÍciem zastawu, jest waøne, o ile umowa zastawu zosta≥a zawarta w formie pisemnej, z podpisami notarialnie poúwiadczonymi. Jest to wymÛg formalny majπcy na celu zapewnienie wiarygodnoúci i ochrony interesÛw stron umowy zastawu. 
+
+Za podstawÍ prawnπ moøna przytoczyÊ art. 100 ß 1 Kodeksu cywilnego.",False,False,[100]
+egzamin_wstepny_notarialny_2023,13,"Question: Zgodnie z Kodeksem cywilnym, zastaw na rzeczach ruchomych zabezpiecza takøe roszczenia o odsetki od wierzytelnoúci zabezpieczonych zastawem:
+    
+            a) za trzy ostatnie lata przed zbyciem rzeczy w postÍpowaniu egzekucyjnym lub upad≥oúciowym
+            b) za piÍÊ ostatnich lat przed zbyciem rzeczy w postÍpowaniu egzekucyjnym lub upad≥oúciowym
+            c) za dziesiÍÊ ostatnich lat przed zbyciem rzeczy w postÍpowaniu egzekucyjnym lub upad≥oúciowym
+            ",A,art. 314 k.c.,"Poprawna odpowiedü to:
+
+b) za piÍÊ ostatnich lat przed zbyciem rzeczy w postÍpowaniu egzekucyjnym lub upad≥oúciowym
+
+Zgodnie z art. 100 ß 2 Kodeksu cywilnego, zastaw na rzeczach ruchomych zabezpiecza takøe roszczenia o odsetki od wierzytelnoúci zabezpieczonych zastawem za piÍÊ ostatnich lat przed zbyciem rzeczy w postÍpowaniu egzekucyjnym lub upad≥oúciowym. Jest to uregulowane w dziale 3 ""Zastaw na rzeczach ruchomych"" Kodeksu cywilnego.",False,False,[100]
+egzamin_wstepny_notarialny_2023,14,"Question: Zgodnie z Kodeksem cywilnym, jeøeli rzecz znajduje siÍ w posiadaniu zaleønym albo w dzierøeniu osoby trzeciej, przeniesienie posiadania samoistnego nastÍpuje:
+    
+            a) przez wydanie rzeczy nabywcy
+            b) wy≥πcznie na mocy samej umowy zawartej miÍdzy stronami w formie pisemnej z podpisami notarialnie poúwiadczonymi
+            c) przez umowÍ miÍdzy stronami i przez zawiadomienie posiadacza zaleønego albo dzierøyciela
+            ",C,art. 350 k.c.,"Odpowiedü: c) przez umowÍ miÍdzy stronami i przez zawiadomienie posiadacza zaleønego albo dzierøyciela.
+
+Wyjaúnienie: Zgodnie z art. 216 Kodeksu cywilnego, przeniesienie posiadania samoistnego nastÍpuje przez umowÍ miÍdzy stronami i przez zawiadomienie posiadacza zaleønego albo dzierøyciela. Jest to uregulowane w artykule 216 Kodeksu cywilnego, ktÛry okreúla warunki przeniesienia posiadania samoistnego. W tym przypadku, konieczne jest zawarcie umowy miÍdzy stronami oraz zawiadomienie posiadacza zaleønego albo dzierøyciela, aby przeniesienie posiadania by≥o skuteczne.",True,False,[216]
+egzamin_wstepny_notarialny_2023,15,"Question: Zgodnie z Kodeksem cywilnym, zw≥oka d≥uønika wzglÍdem jednego z wierzycieli solidarnych:
+    
+            a) ma skutek takøe wzglÍdem wspÛ≥wierzycieli
+            b) nie ma skutku wzglÍdem wspÛ≥wierzycieli
+            c) ma skutek takøe wzglÍdem wspÛ≥wierzycieli tylko o tyle, o ile wynika to z treúci umowy bÍdπcej podstawπ powstania zobowiπzania
+            ",A,art. 377 k.c.,"Odpowiedü: b) nie ma skutku wzglÍdem wspÛ≥wierzycieli
+
+Wyjaúnienie: Zgodnie z art. 491 Kodeksu cywilnego, zw≥oka d≥uønika wzglÍdem jednego z wierzycieli solidarnych nie ma skutku wzglÍdem pozosta≥ych wspÛ≥wierzycieli. Oznacza to, øe w przypadku gdy d≥uønik opÛünia siÍ w spe≥nieniu úwiadczenia wobec jednego z wierzycieli solidarnych, nie powoduje to automatycznie skutkÛw wobec innych wspÛ≥wierzycieli. Kaødy z wierzycieli solidarnych moøe dochodziÊ swojego roszczenia niezaleønie od postÍpowania innych wierzycieli.
+
+Artyku≥: Kodeks cywilny - art. 491",False,False,[491]
+egzamin_wstepny_notarialny_2023,16,"Question: Zgodnie z Kodeksem cywilnym, jeøeli w umowie zastrzeøono, øe d≥uønik spe≥ni úwiadczenie na rzecz osoby trzeciej:
+    
+            a) d≥uønik moøe podnieúÊ zarzuty z umowy takøe przeciwko osobie trzeciej
+            b) d≥uønik nie moøe podnieúÊ zarzutÛw z umowy przeciwko osobie trzeciej
+            c) d≥uønik moøe podnieúÊ przeciwko osobie trzeciej wy≥πcznie zarzuty wynikajπce ze stosunku ≥πczπcego tÍ osobÍ trzeciπ z wierzycielem
+            ",A,art. 393 ß 3 k.c.,"Odpowiedü: b) d≥uønik nie moøe podnieúÊ zarzutÛw z umowy przeciwko osobie trzeciej.
+
+Wyjaúnienie: Zgodnie z art. 509 Kodeksu cywilnego, jeøeli w umowie zastrzeøono, øe d≥uønik spe≥ni úwiadczenie na rzecz osoby trzeciej, to d≥uønik nie moøe podnieúÊ zarzutÛw z umowy przeciwko tej osobie trzeciej. D≥uønik jest zobowiπzany do spe≥nienia úwiadczenia na rzecz osoby wskazanej w umowie, a nie moøe korzystaÊ z ewentualnych zarzutÛw, jakie mÛg≥by mieÊ wobec tej osoby trzeciej.
+
+Relevant article: Art. 509 Kodeksu cywilnego.",False,False,[509]
+egzamin_wstepny_notarialny_2023,17,"Question: Zgodnie z Kodeksem cywilnym, dziecko moøe øπdaÊ naprawienia szkÛd doznanych przed urodzeniem:
+    
+            a) z chwilπ urodzenia
+            b) dopiero z chwilπ uzyskania pe≥noletnoúci
+            c) najwczeúniej w ciπgu roku od chwili uzyskania pe≥noletnoúci
+            ",A,art. 4461 k.c.,"Poprawna odpowiedü: a) z chwilπ urodzenia.
+
+Wyjaúnienie:
+Zgodnie z polskim Kodeksem cywilnym, dziecko moøe øπdaÊ naprawienia szkÛd doznanych przed urodzeniem z chwilπ urodzenia. Oznacza to, øe dziecko posiada takie prawo od momentu narodzin, a nie musi czekaÊ na uzyskanie pe≥noletnoúci. 
+
+Relevant article: 
+Artyku≥ 16 Kodeksu cywilnego: ""Osoba fizyczna nabywa zdolnoúÊ do czynnoúci prawnych w chwili narodzin.""",True,True,"[16, 4461]"
+egzamin_wstepny_notarialny_2023,18,"Question: Zgodnie z Kodeksem cywilnym, zastrzeøenie umowne, zgodnie z ktÛrym d≥uønik nie bÍdzie odpowiedzialny za szkodÍ, ktÛrπ moøe wyrzπdziÊ wierzycielowi umyúlnie, jest:
+    
+            a) waøne, o ile umowa zosta≥a zawarta w formie pisemnej
+            b) waøne, chyba øe stronπ takiej umowy jest konsument
+            c) niewaøne
+            ",C,art. 473 ß 2 k.c.,"Odpowiedü: b) waøne, chyba øe stronπ takiej umowy jest konsument
+
+Wyjaúnienie: Zgodnie z art. 385^1 Kodeksu cywilnego, zastrzeøenie umowne, zgodnie z ktÛrym d≥uønik nie bÍdzie odpowiedzialny za szkodÍ, ktÛrπ moøe wyrzπdziÊ wierzycielowi umyúlnie, jest niewaøne, jeúli d≥uønikiem jest konsument. W przypadku umÛw zawartych z udzia≥em konsumentÛw, takie zastrzeøenie jest niewaøne, poniewaø ma na celu ograniczenie odpowiedzialnoúci d≥uønika w sposÛb sprzeczny z zasadami ochrony konsumenta. Dlatego odpowiedü b) jest poprawna.",False,False,[3851]
+egzamin_wstepny_notarialny_2023,19,"Question: Zgodnie z Kodeksem cywilnym, wierzytelnoúÊ przedawniona:
+    
+            a) moøe byÊ potrπcona, jeøeli w chwili, gdy potrπcenie sta≥o siÍ moøliwe, przedawnienie juø nastπpi≥o, ale nie up≥ynπ≥ rok od jego przedawnienia
+            b) moøe byÊ potrπcona, jeøeli w chwili, gdy potrπcenie sta≥o siÍ moøliwe, przedawnienie jeszcze nie nastπpi≥o
+            c) zawsze moøe byÊ potrπcona
+            ",B,art. 502 k.c.,"Odpowiedü: b) moøe byÊ potrπcona, jeøeli w chwili, gdy potrπcenie sta≥o siÍ moøliwe, przedawnienie jeszcze nie nastπpi≥o.
+
+Wyjaúnienie: Zgodnie z przepisami Kodeksu cywilnego, wierzytelnoúÊ przedawniona nie moøe byÊ potrπcona. Natomiast w momencie, gdy wierzytelnoúÊ nie jest jeszcze przedawniona, istnieje moøliwoúÊ dokonania potrπcenia. Potrπcenie jest dopuszczalne, gdy obie wierzytelnoúci sπ wzajemne, wymagalne i nie sπ przedawnione. Zasady dotyczπce potrπcenia uregulowane sπ w art. 498-511 Kodeksu cywilnego.
+
+Przepis prawa: Kodeks cywilny, art. 498-511.",True,True,[502]
+egzamin_wstepny_notarialny_2023,20,"Question: Zgodnie z Kodeksem cywilnym, jeøeli skutecznoúÊ umowy o przejÍcie d≥ugu zaleøy od zgody d≥uønika, a d≥uønik zgody odmÛwi≥:
+    
+            a) strona, ktÛra wed≥ug umowy mia≥a przejπÊ d≥ug, jest odpowiedzialna wzglÍdem wierzyciela za to, øe d≥uønik nie bÍdzie podnosi≥ wzglÍdem niego zarzutÛw wynikajπcych z umowy zawartej pomiÍdzy wierzycielem i d≥uønikiem
+            b) strona, ktÛra wed≥ug umowy mia≥a przejπÊ d≥ug, jest odpowiedzialna wzglÍdem d≥uønika za to, øe wierzyciel nie bÍdzie øπda≥ od niego spe≥nienia úwiadczenia
+            c) umowÍ o przejÍcie d≥ugu uwaøa siÍ za niezawartπ
+            ",C,art. 521 ß 1 k.c.,"Poprawna odpowiedü to:
+
+c) umowÍ o przejÍcie d≥ugu uwaøa siÍ za niezawartπ
+
+Wybierajπc tÍ odpowiedü, odwo≥ujemy siÍ do przepisÛw Kodeksu cywilnego. Zgodnie z art. 509 ß 1 Kodeksu cywilnego, jeøeli skutecznoúÊ umowy o przejÍcie d≥ugu zaleøy od zgody d≥uønika, a d≥uønik zgody odmÛwi≥, to umowÍ uwaøa siÍ za niezawartπ. Oznacza to, øe strona, ktÛra mia≥a przejπÊ d≥ug, nie bÍdzie zobowiπzana do jego sp≥aty, a umowa nie bÍdzie mia≥a mocy prawnej. Dlatego odpowiedü c) jest poprawna w kontekúcie sytuacji opisanej w pytaniu.",True,False,[509]
+egzamin_wstepny_notarialny_2023,21,"Question: Zgodnie z Kodeksem cywilnym, jeøeli jest kilku uprawnionych do odkupu, a niektÛrzy z nich nie wykonywajπ tego prawa:
+    
+            a) pozostali uprawnieni mogπ je wykonaÊ w ca≥oúci
+            b) pozostali uprawnieni mogπ je wykonaÊ tylko w odpowiedniej czÍúci
+            c) pozostali uprawnieni nie mogπ wykonaÊ tego prawa ani w ca≥oúci, ani w czÍúci
+            ",A,art. 595 ß 2 k.c.,"Odpowiedü: a) pozostali uprawnieni mogπ je wykonaÊ w ca≥oúci.
+
+Wyjaúnienie: Zgodnie z art. 385 Kodeksu cywilnego, jeøeli jest kilku uprawnionych do odkupu, a niektÛrzy z nich nie wykonywali tego prawa, to pozostali uprawnieni mogπ je wykonaÊ w ca≥oúci. Innymi s≥owy, jeúli niektÛrzy z uprawnionych zrezygnowali z prawa do odkupu, to pozostali mogπ przejπÊ to prawo w pe≥ni, niezaleønie od liczby osÛb, ktÛre zdecydowa≥y siÍ z niego zrezygnowaÊ.
+
+èrÛd≥o: Kodeks cywilny, art. 385.",True,False,[385]
+egzamin_wstepny_notarialny_2023,22,"Question: Zgodnie z Kodeksem cywilnym, roszczenia wynikajπce z umowy o dzie≥o, ktÛre zosta≥o oddane, przedawniajπ siÍ z up≥ywem:
+    
+            a) lat dwÛch od dnia oddania dzie≥a
+            b) lat trzech od dnia oddania dzie≥a
+            c) lat szeúciu od dnia oddania dzie≥a
+            ",A,art. 646 k.c.,"Odpowiedü: b) lat trzech od dnia oddania dzie≥a.
+
+Wyjaúnienie: Zgodnie z art. 660 Kodeksu cywilnego, roszczenia wynikajπce z umowy o dzie≥o przedawniajπ siÍ z up≥ywem trzech lat od dnia oddania dzie≥a. Zatem, odpowiedü b) jest poprawna, poniewaø to w≥aúnie po up≥ywie trzech lat roszczenia te ulegajπ przedawnieniu.
+
+Odniesienie prawne: Art. 660 Kodeksu cywilnego.",False,False,[660]
+egzamin_wstepny_notarialny_2023,23,"Question: Zgodnie z Kodeksem cywilnym, najem zawarty miÍdzy przedsiÍbiorcami, po up≥ywie terminu, na ktÛry zosta≥ zawarty, poczytuje siÍ za zawarty na czas nieoznaczony, o ile najem zosta≥ zawarty na czas d≥uøszy niø:
+    
+            a) lat dziesiÍÊ
+            b) lat dwadzieúcia
+            c) lat trzydzieúci
+            ",C,art. 661 ß 2 k.c.,"Odpowiedü: a) lat dziesiÍÊ
+
+Wybieram odpowiedü a) lat dziesiÍÊ. Zgodnie z art. 660 ß 1 Kodeksu cywilnego, jeúli najem zosta≥ zawarty na czas d≥uøszy niø dziesiÍÊ lat, a po up≥ywie tego terminu najemca pozostaje w posiadaniu nieruchomoúci, to najem uwaøa siÍ za zawarty na czas nieoznaczony. Oznacza to, øe umowa najmu miÍdzy przedsiÍbiorcami, ktÛra pierwotnie mia≥a okreúlony termin, staje siÍ umowπ na czas nieoznaczony po up≥ywie dziesiÍciu lat.
+
+Zasada ta ma na celu zapewnienie stabilnoúci stosunkÛw najmu nieruchomoúci oraz ochronÍ interesÛw stron umowy. DziÍki temu najemca nie musi obawiaÊ siÍ nag≥ego zakoÒczenia umowy po up≥ywie okreúlonego terminu, a wynajmujπcy nie moøe jednostronnie zakoÒczyÊ umowy bez uzasadnionego powodu.
+
+Zatem, zgodnie z powyøszym, po up≥ywie terminu, na ktÛry zosta≥ zawarty najem miÍdzy przedsiÍbiorcami na czas d≥uøszy niø dziesiÍÊ lat, umowÍ tÍ uwaøa siÍ za zawartπ na czas nieoznaczony.",False,False,[660]
+egzamin_wstepny_notarialny_2023,24,"Question: Zgodnie z Kodeksem cywilnym, w razie zbycia przez finansujπcego rzeczy bÍdπcej przedmiotem umowy leasingu:
+    
+            a) nabywca wstÍpuje w stosunek leasingu na miejsce finansujπcego, a finansujπcy powinien niezw≥ocznie zawiadomiÊ korzystajπcego o zbyciu rzeczy
+            b) nabywca wstÍpuje w stosunek leasingu na miejsce finansujπcego, a finansujπcy powinien niezw≥ocznie uzyskaÊ zgodÍ korzystajπcego na zbycie rzeczy
+            c) nabywca wstÍpuje w stosunek leasingu na miejsce finansujπcego, o ile umowa leasingu zosta≥a zawarta na czas nie krÛtszy niø rok
+            ",A,art. 70914 k.c.,"Odpowiedü: a) nabywca wstÍpuje w stosunek leasingu na miejsce finansujπcego, a finansujπcy powinien niezw≥ocznie zawiadomiÊ korzystajπcego o zbyciu rzeczy.
+
+Wyjaúnienie: Zgodnie z art. 709^1 ß 1 Kodeksu cywilnego, w razie zbycia przez finansujπcego rzeczy bÍdπcej przedmiotem umowy leasingu, nabywca wstÍpuje w stosunek leasingu na miejsce finansujπcego. Ponadto, zgodnie z ß 2 tego samego artyku≥u, finansujπcy powinien niezw≥ocznie zawiadomiÊ korzystajπcego o zbyciu rzeczy. Jest to istotne z punktu widzenia zachowania ciπg≥oúci umowy leasingu oraz informowania strony korzystajπcej o zmianach w stosunku prawnym.",True,True,[7091]
+egzamin_wstepny_notarialny_2023,25,"Question: Zgodnie z Kodeksem cywilnym, testament sporzπdzony w formie aktu notarialnego moøe zawieraÊ rozrzπdzenia:
+    
+            a) wiÍcej niø jednego spadkodawcy
+            b) obojga ma≥øonkÛw, tylko wtedy, gdy rozrzπdzenia dotyczπ ich majπtku wspÛlnego
+            c) tylko jednego spadkodawcy
+            ",C,art. 942 k.c.,"Odpowiedü: b) obojga ma≥øonkÛw, tylko wtedy, gdy rozrzπdzenia dotyczπ ich majπtku wspÛlnego
+
+Wybieram odpowiedü b), poniewaø zgodnie z art. 952 Kodeksu cywilnego, testament sporzπdzony w formie aktu notarialnego moøe zawieraÊ rozrzπdzenia obojga ma≥øonkÛw, ale tylko wtedy, gdy rozrzπdzenia dotyczπ ich majπtku wspÛlnego. Jest to zgodne z zasadπ, øe ma≥øonkowie posiadajπcy majπtek wspÛlny mogπ wspÛlnie dysponowaÊ swoim majπtkiem w testamencie notarialnym.
+
+Relevantny artyku≥: 
+- Kodeks cywilny, art. 952",False,False,[952]
+egzamin_wstepny_notarialny_2023,26,"Question: Zgodnie z Kodeksem cywilnym, wykonawca testamentu:
+    
+            a) nie moøe byÊ pozywany w sprawach wynikajπcych z zarzπdu spadkiem, jego zorganizowanπ czÍúciπ lub oznaczonym sk≥adnikiem
+            b) moøe pozywaÊ i byÊ pozywany w sprawach wynikajπcych z zarzπdu spadkiem, jego zorganizowanπ czÍúciπ lub oznaczonym sk≥adnikiem
+            c) nie moøe pozywaÊ w sprawach o prawa naleøπce do spadku i byÊ pozwany w sprawach o d≥ugi spadkowe
+            ",B,art. 988 ß 2 k.c.,"Odpowiedü: b) moøe pozywaÊ i byÊ pozywany w sprawach wynikajπcych z zarzπdu spadkiem, jego zorganizowanπ czÍúciπ lub oznaczonym sk≥adnikiem.
+
+Wyjaúnienie: Zgodnie z art. 1014 Kodeksu cywilnego, wykonawca testamentu moøe pozywaÊ i byÊ pozywany w sprawach wynikajπcych z zarzπdu spadkiem, jego zorganizowanπ czÍúciπ lub oznaczonym sk≥adnikiem. Jest to istotne, poniewaø wykonawca testamentu ma okreúlone uprawnienia i obowiπzki zwiπzane z zarzπdem spadkiem, dlatego moøe byÊ zaangaøowany w sprawy dotyczπce tego zarzπdu.
+
+Relevant article: Kodeks cywilny, art. 1014.",True,False,[1014]
+egzamin_wstepny_notarialny_2023,27,"Question: Zgodnie z Kodeksem cywilnym, pe≥nomocnictwo do z≥oøenia oúwiadczenia o przyjÍciu lub o odrzuceniu spadku powinno byÊ:
+    
+            a) pisemne
+            b) pisemne z podpisem urzÍdowo poúwiadczonym
+            c) wy≥πcznie w formie aktu notarialnego
+            ",B,art. 1018 ß 3 zdanie trzecie k.c.,"Odpowiedü: b) pisemne z podpisem urzÍdowo poúwiadczonym
+
+Wybieram odpowiedü b), poniewaø zgodnie z art. 1018 Kodeksu cywilnego, pe≥nomocnictwo do z≥oøenia oúwiadczenia o przyjÍciu lub o odrzuceniu spadku powinno byÊ udzielone w formie pisemnej, a takøe z podpisem urzÍdowo poúwiadczonym. Jest to istotne zabezpieczenie, aby uniknπÊ sytuacji sporÛw czy wπtpliwoúci co do autentycznoúci pe≥nomocnictwa w tak waønej kwestii jak spadek.
+
+Artyku≥ 1018 Kodeksu cywilnego brzmi: ""ß 1. Pe≥nomocnictwo do z≥oøenia oúwiadczenia o przyjÍciu lub o odrzuceniu spadku powinno byÊ udzielone w formie pisemnej, a takøe z podpisem urzÍdowo poúwiadczonym.""",True,True,[1018]
+egzamin_wstepny_notarialny_2023,28,"Question: Zgodnie z Kodeksem cywilnym, Skarb PaÒstwa ani gmina:
+    
+            a) nie mogπ odrzuciÊ spadku, ktÛry im przypad≥ z mocy ustawy
+            b) nie mogπ odrzuciÊ spadku, ktÛry im przypad≥ z testamentu
+            c) mogπ odrzuciÊ spadek, ktÛry im przypad≥ z mocy ustawy
+            ",A,art. 1023 ß 1 k.c.,"Odpowiedü: a) nie mogπ odrzuciÊ spadku, ktÛry im przypad≥ z mocy ustawy.
+
+Wyjaúnienie: Zgodnie z art. 1018 Kodeksu cywilnego, Skarb PaÒstwa oraz gmina nie mogπ odrzuciÊ spadku, ktÛry im przypad≥ z mocy ustawy. Natomiast majπ moøliwoúÊ odrzucenia spadku, ktÛry im przypad≥ z testamentu. Zasada ta wynika z zasady beneficjum inventarii, ktÛra chroni Skarb PaÒstwa oraz gminÍ przed niekontrolowanym przyjmowaniem spadkÛw, ktÛre mog≥yby obciπøyÊ ich majπtek.
+
+Relevant article: Kodeks cywilny, art. 1018.",True,False,[1018]
+egzamin_wstepny_notarialny_2023,29,"Question: Zgodnie z Kodeksem cywilnym, umowny dzia≥ spadku:
+    
+            a) zawsze obejmuje ca≥y spadek
+            b) moøe objπÊ ca≥y spadek lub byÊ ograniczony do czÍúci spadku
+            c) nie moøe byÊ ograniczony do czÍúci spadku
+            ",B,art. 1038 ß 2 k.c.,"Odpowiedü: b) moøe objπÊ ca≥y spadek lub byÊ ograniczony do czÍúci spadku
+
+Wybieram odpowiedü b), poniewaø umowny dzia≥ spadku zgodnie z Kodeksem cywilnym moøe byÊ zawarty w taki sposÛb, øe obejmuje ca≥y spadek lub moøe byÊ ograniczony do czÍúci spadku. Jest to kwestia, ktÛra zaleøy od woli stron umowy.
+
+Relevantny artyku≥: Art. 1019 Kodeksu cywilnego - Umowny dzia≥ spadku moøe obejmowaÊ ca≥y spadek lub byÊ ograniczony do czÍúci spadku.",True,False,[1019]
+egzamin_wstepny_komorniczy_2023,12,"Question: Zgodnie z Kodeksem cywilnym, kaødy cz≥owiek od chwili urodzenia ma:
+    
+            a) zdolnoúÊ prawnπ
+            b) ograniczonπ zdolnoúÊ do czynnoúci prawnych
+            c) pe≥nπ zdolnoúÊ do czynnoúci prawnych
+            ",A,art. 8 ß 1 k.c.,"Odpowiedü: a) zdolnoúÊ prawnπ
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, kaødy cz≥owiek od chwili urodzenia ma zdolnoúÊ prawnπ, czyli zdolnoúÊ do bycia podmiotem praw i obowiπzkÛw. ZdolnoúÊ prawnπ nabywa siÍ w chwili narodzin i traci dopiero w chwili úmierci. Oznacza to, øe kaøda osoba fizyczna moøe byÊ podmiotem stosunkÛw prawnych i posiadaÊ prawa oraz obowiπzki. Natomiast zdolnoúÊ do czynnoúci prawnych moøe byÊ ograniczona, ale podstawowym za≥oøeniem jest posiadanie zdolnoúci prawnej od urodzenia.
+
+Relevant article: Artyku≥ 11 Kodeksu cywilnego: ""Cz≥owiek od chwili urodzenia ma zdolnoúÊ prawnπ.""",True,False,[11]
+egzamin_wstepny_komorniczy_2023,13,"Question: Zgodnie z Kodeksem cywilnym, dla osoby ubezw≥asnowolnionej czÍúciowo ustanawia siÍ:
+    
+            a) kuratelÍ
+            b) opiekÍ
+            c) prokurÍ
+            ",A,art. 16 ß 2 k.c.,"Odpowiedü: a) kuratelÍ
+
+Wyjaúnienie: Zgodnie z Kodeksem cywilnym, dla osoby ubezw≥asnowolnionej czÍúciowo ustanawia siÍ kuratelÍ. Kuratela jest instytucjπ majπcπ na celu ochronÍ interesÛw osoby ubezw≥asnowolnionej w zakresie okreúlonym przez sπd. Osoba ubezw≥asnowolniona czÍúciowo nie jest w stanie samodzielnie podejmowaÊ pewnych czynnoúci prawnych, dlatego kurator jest jej reprezentantem w tych kwestiach.
+
+Relevant article in the Polish Civil Code: Artyku≥ 99-101 Kodeksu cywilnego.",True,True,"[99, 100, 101, 16]"
+egzamin_wstepny_komorniczy_2023,14,"Question: Zgodnie z Kodeksem cywilnym, przepisy o ochronie dÛbr osobistych osÛb fizycznych:
+    
+            a) stosuje siÍ odpowiednio do osÛb prawnych
+            b) zawsze stosuje siÍ wprost do osÛb prawnych
+            c) nie znajdujπ nigdy zastosowania do osÛb prawnych
+            ",A,art. 43 k.c.,"Odpowiedü: a) stosuje siÍ odpowiednio do osÛb prawnych
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, przepisy o ochronie dÛbr osobistych osÛb fizycznych stosuje siÍ odpowiednio do osÛb prawnych. Oznacza to, øe choÊ przepisy te pierwotnie dotyczπ osÛb fizycznych, to w pewnych przypadkach mogπ byÊ stosowane analogicznie do osÛb prawnych, aby chroniÊ ich dobra osobiste. Artyku≥ 23 Kodeksu cywilnego stanowi podstawÍ prawnπ dla tej zasady.
+
+Artyku≥ 23 Kodeksu cywilnego brzmi: ""Przepisy o ochronie dÛbr osobistych osÛb fizycznych stosuje siÍ odpowiednio do osÛb prawnych, chyba øe ustawa stanowi inaczej."" Jest to kluczowy artyku≥, ktÛry potwierdza moøliwoúÊ stosowania przepisÛw o ochronie dÛbr osobistych osÛb fizycznych do osÛb prawnych w odpowiednich sytuacjach.",True,False,[23]
+egzamin_wstepny_komorniczy_2023,15,"Question: Zgodnie z Kodeksem cywilnym, firma (przedsiÍbiorcy):
+    
+            a) nie moøe byÊ zbyta
+            b) moøe byÊ zbyta
+            c) moøe byÊ zbyta, jeøeli przepis szczegÛlny tak stanowi
+            ",A,art. 439 ß 1 k.c.,"Odpowiedü: b) moøe byÊ zbyta
+
+Wyjaúnienie: Zgodnie z Kodeksem cywilnym, firma przedsiÍbiorcy moøe byÊ zbyta. Przepis ten wynika z art. 556 Kodeksu cywilnego, ktÛry stanowi, øe firma jest sk≥adnikiem majπtku przedsiÍbiorcy i moøe byÊ przedmiotem obrotu prawnego.
+
+Relevant article: Art. 556 Kodeksu cywilnego",False,False,[556]
+egzamin_wstepny_komorniczy_2023,16,"Question: Zgodnie z Kodeksem cywilnym, czÍúciπ sk≥adowπ rzeczy jest wszystko, co nie moøe byÊ od niej od≥πczone bez uszkodzenia lub istotnej zmiany ca≥oúci albo bez uszkodzenia lub istotnej zmiany przedmiotu od≥πczonego; za czÍúci sk≥adowe nieruchomoúci uwaøa siÍ takøe:
+    
+            a) rzeczy ruchome potrzebne do korzystania z niej zgodnie z jej przeznaczeniem, jeøeli pozostajπ z niπ w faktycznym zwiπzku odpowiadajπcym temu celowi
+            b) prawa zwiπzane z jej w≥asnoúciπ
+            c) przedmioty po≥πczone z niπ tylko dla przemijajπcego uøytku
+            ",B,art. 50 k.c.,"Odpowiedü: a) rzeczy ruchome potrzebne do korzystania z niej zgodnie z jej przeznaczeniem, jeøeli pozostajπ z niπ w faktycznym zwiπzku odpowiadajπcym temu celowi
+
+Wyjaúnienie: Zgodnie z art. 131 Kodeksu cywilnego, czÍúciami sk≥adowymi nieruchomoúci sπ rzeczy ruchome, ktÛre sπ potrzebne do korzystania z nieruchomoúci zgodnie z jej przeznaczeniem, jeøeli pozostajπ z niπ w faktycznym zwiπzku odpowiadajπcym temu celowi. Dlatego odpowiedü a) jest poprawna, poniewaø opisuje elementy, ktÛre mogπ byÊ uznane za czÍúci sk≥adowe nieruchomoúci.
+
+Artyku≥: Art. 131 Kodeksu cywilnego",False,False,[131]
+egzamin_wstepny_komorniczy_2023,17,"Question: Zgodnie z Kodeksem cywilnym, jeøeli ustawa uzaleønia waønoúÊ albo okreúlone skutki czynnoúci prawnej od urzÍdowego poúwiadczenia daty, poúwiadczenie takie jest skuteczne takøe wzglÍdem osÛb nieuczestniczπcych w dokonaniu tej czynnoúci prawnej (data pewna); czynnoúÊ prawna ma datÍ pewnπ takøe:
+    
+            a) w razie stwierdzenia dokonania czynnoúci w jakimkolwiek dokumencie urzÍdowym ñ od daty dokumentu urzÍdowego
+            b) w razie stwierdzenia dokonania czynnoúci w jakimkolwiek dokumencie urzÍdowym ñ po 7 dniach od daty dokumentu urzÍdowego
+            c) w razie stwierdzenia dokonania czynnoúci w jakimkolwiek dokumencie ñ od dnia nastÍpnego przypadajπcego po dacie podpisania tego dokumentu
+            ",A,art. 81 ß 2 pkt 1 k.c.,"Odpowiedü: a) w razie stwierdzenia dokonania czynnoúci w jakimkolwiek dokumencie urzÍdowym ñ od daty dokumentu urzÍdowego
+
+Wyjaúnienie: Zgodnie z art. 77 Kodeksu cywilnego, jeøeli ustawa uzaleønia waønoúÊ albo okreúlone skutki czynnoúci prawnej od urzÍdowego poúwiadczenia daty, poúwiadczenie takie jest skuteczne takøe wzglÍdem osÛb nieuczestniczπcych w dokonaniu tej czynnoúci prawnej. Data pewna czynnoúci prawnej ustalona jest w takim przypadku z chwilπ stwierdzenia dokonania czynnoúci w jakimkolwiek dokumencie urzÍdowym, a wiÍc od daty tego dokumentu urzÍdowego.
+
+Relevant article: Art. 77 Kodeksu cywilnego",True,False,[77]
+egzamin_wstepny_komorniczy_2023,18,"Question: Zgodnie z Kodeksem cywilnym, warunek niemoøliwy, jak rÛwnieø warunek przeciwny ustawie lub zasadom wspÛ≥øycia spo≥ecznego:
+    
+            a) pociπga za sobπ niewaønoúÊ czynnoúci prawnej, gdy jest zawieszajπcy
+            b) pociπga za sobπ niewaønoúÊ czynnoúci prawnej, gdy jest rozwiπzujπcy
+            c) uwaøa siÍ zawsze za niezastrzeøony niezaleønie od tego, czy jest zawieszajπcy, czy rozwiπzujπcy
+            ",A,art. 94 k.c.,"Odpowiedü: a) pociπga za sobπ niewaønoúÊ czynnoúci prawnej, gdy jest zawieszajπcy.
+
+Wyjaúnienie: Zgodnie z art. 58 Kodeksu cywilnego, warunek niemoøliwy, jak rÛwnieø warunek przeciwny ustawie lub zasadom wspÛ≥øycia spo≥ecznego pociπga za sobπ niewaønoúÊ czynnoúci prawnej, gdy jest zawieszajπcy. Oznacza to, øe jeúli spe≥nienie warunku jest niemoøliwe lub jest sprzeczne z prawem lub zasadami wspÛ≥øycia spo≥ecznego, to umowa zawarta pod takim warunkiem nie bÍdzie mia≥a mocy prawnej. Natomiast warunek rozwiπzujπcy nie pociπga za sobπ niewaønoúci czynnoúci prawnej, gdyø umowa zostaje zawarta, a warunek jedynie okreúla skutki tej umowy.
+
+Artyku≥ powiπzany: Art. 58 Kodeksu cywilnego.",True,False,[58]
+egzamin_wstepny_komorniczy_2023,19,"Question: Zgodnie z Kodeksem cywilnym, jeøeli termin jest oznaczony w miesiπcach lub latach, a ciπg≥oúÊ terminu nie jest wymagana:
+    
+            a) miesiπc liczy siÍ za dni trzydzieúci, a rok za dni trzysta szeúÊdziesiπt piÍÊ
+            b) miesiπc liczy siÍ za dni trzydzieúci jeden, a rok za dni trzysta szeúÊdziesiπt szeúÊ
+            c) miesiπc liczy siÍ za dni trzydzieúci jeden, a rok za dni trzysta szeúÊdziesiπt piÍÊ, o ile ostatni dzieÒ terminu nie nastÍpuje w roku przestÍpnym
+            ",A,art. 114 k.c.,"Odpowiedü: b) miesiπc liczy siÍ za dni trzydzieúci jeden, a rok za dni trzysta szeúÊdziesiπt szeúÊ.
+
+Wyjaúnienie: Zgodnie z art. 123 ß 1 Kodeksu cywilnego, jeúli termin jest oznaczony w miesiπcach lub latach, a ciπg≥oúÊ terminu nie jest wymagana, to miesiπc liczy siÍ za dni trzydzieúci jeden, a rok za dni trzysta szeúÊdziesiπt szeúÊ. Jest to zasada obowiπzujπca przy obliczaniu terminÛw w polskim prawie cywilnym.
+
+èrÛd≥o: Kodeks cywilny - art. 123 ß 1.",False,False,[123]
+egzamin_wstepny_komorniczy_2023,20,"Question: Zgodnie z Kodeksem cywilnym, terminy przedawnienia roszczeÒ majπtkowych:
+    
+            a) zawsze mogπ byÊ przed≥uøane, ale nigdy nie mogπ byÊ skracane przez czynnoúÊ prawnπ
+            b) zawsze mogπ byÊ skracane, ale nigdy nie mogπ byÊ przed≥uøane przez czynnoúÊ prawnπ
+            c) nie mogπ byÊ skracane ani przed≥uøane przez czynnoúÊ prawnπ
+            ",C,art. 119 k.c.,"Odpowiedü: c) nie mogπ byÊ skracane ani przed≥uøane przez czynnoúÊ prawnπ.
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, terminy przedawnienia roszczeÒ majπtkowych sπ uregulowane w sposÛb úciúle okreúlony i nie mogπ byÊ ani skracane, ani przed≥uøane przez czynnoúÊ prawnπ. Oznacza to, øe strony nie mogπ zmieniÊ d≥ugoúci terminu przedawnienia poprzez umowÍ lub innπ czynnoúÊ prawnπ.
+
+Relevantny artyku≥: Artyku≥ 123 Kodeksu cywilnego: ""Terminy przedawnienia ustawowego nie mogπ byÊ skracane ani przed≥uøane przez czynnoúÊ prawnπ.""",True,False,[123]
+egzamin_wstepny_komorniczy_2023,21,"Question: Zgodnie z Kodeksem cywilnym, domniemywa siÍ, øe mury, p≥oty, miedze, rowy i inne urzπdzenia podobne, znajdujπce siÍ na granicy gruntÛw sπsiadujπcych:
+    
+            a) s≥uøπ do wspÛlnego uøytku sπsiadÛw
+            b) zawsze stanowiπ wspÛ≥w≥asnoúÊ ≥πcznπ sπsiadÛw
+            c) stanowiπ rzeczy niczyje
+            ",A,art. 154 ß 1 k.c.,"Odpowiedü: b) zawsze stanowiπ wspÛ≥w≥asnoúÊ ≥πcznπ sπsiadÛw
+
+Wyjaúnienie: Zgodnie z art. 139 Kodeksu cywilnego, mury, p≥oty, miedze, rowy i inne urzπdzenia podobne, znajdujπce siÍ na granicy gruntÛw sπsiadujπcych, stanowiπ wspÛ≥w≥asnoúÊ ≥πcznπ sπsiadÛw, chyba øe umowa lub zwyczaj stanowi inaczej.
+
+èrÛd≥o: Kodeks cywilny, art. 139",False,False,[139]
+egzamin_wstepny_komorniczy_2023,22,"Question: Zgodnie z Kodeksem cywilnym, roszczenie o zniesienie wspÛ≥w≥asnoúci:
+    
+            a) przedawnia siÍ z up≥ywem lat trzech
+            b) przedawnia siÍ z up≥ywem lat szeúciu
+            c) nie ulega przedawnieniu
+            ",C,art. 220 k.c.,"Odpowiedü: b) przedawnia siÍ z up≥ywem lat szeúciu.
+
+Wyjaúnienie: Zgodnie z art. 189 Kodeksu cywilnego, roszczenie o zniesienie wspÛ≥w≥asnoúci przedawnia siÍ z up≥ywem lat szeúciu. Jest to termin przedawnienia okreúlony w ustawie, po ktÛrego up≥ywie strata prawa do dochodzenia roszczenia. W przypadku roszczenia o zniesienie wspÛ≥w≥asnoúci, strona musi dochodziÊ swoich praw w ciπgu 6 lat od ich naruszenia, w przeciwnym razie roszczenie bÍdzie przedawnione.
+
+Relevant article: Art. 189 Kodeksu cywilnego.",False,False,[189]
+egzamin_wstepny_komorniczy_2023,23,"Question: Zgodnie z Kodeksem cywilnym, umowa o przed≥uøenie wieczystego uøytkowania:
+    
+            a) powinna byÊ zawarta w formie aktu notarialnego
+            b) moøe byÊ zawarta w formie pisemnej
+            c) nie jest nigdy dopuszczalna w øadnej formie
+            ",A,art. 236 ß 3 k.c.,"Odpowiedü: b) moøe byÊ zawarta w formie pisemnej.
+
+Wybieram odpowiedü b), poniewaø umowa o przed≥uøenie wieczystego uøytkowania nie musi byÊ zawarta w formie aktu notarialnego, ale moøe byÊ zawarta w formie pisemnej zgodnie z przepisami Kodeksu cywilnego.
+
+Relevant article: Artyku≥ 241 Kodeksu cywilnego okreúla, øe umowa o przed≥uøenie wieczystego uøytkowania nieruchomoúci moøe byÊ zawarta w formie pisemnej.",False,False,[241]
+egzamin_wstepny_komorniczy_2023,24,"Question: Zgodnie z Kodeksem cywilnym, s≥uøebnoúÊ osobista:
+    
+            a) nie moøe byÊ nabyta przez zasiedzenie
+            b) moøe byÊ nabyta przez zasiedzenie tylko w wypadku, gdy polega na korzystaniu z trwa≥ego i widocznego urzπdzenia
+            c) moøe byÊ nabyta przez zasiedzenie, ale tylko przez dzieci, rodzicÛw i ma≥øonka uprawnionego
+            ",A,art. 304 k.c.,"Odpowiedü: a) nie moøe byÊ nabyta przez zasiedzenie.
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, s≥uøebnoúÊ osobista nie moøe byÊ nabyta przez zasiedzenie. S≥uøebnoúÊ osobista jest zwiπzana z osobπ uprawnionego i nie podlega zasiedzeniu, poniewaø nie jest trwa≥a i nie moøe byÊ przenoszona na inne osoby. Zasiedzenie dotyczy nabywania w≥asnoúci lub innych praw rzeczowych poprzez d≥ugotrwa≥e i nieprzerwane korzystanie z cudzej rzeczy. Natomiast s≥uøebnoúÊ osobista jest wyjπtkiem od zasady zasiedzenia.
+
+Relevant article: Art. 294 Kodeksu cywilnego.",True,True,"[294, 304]"
+egzamin_wstepny_komorniczy_2023,25,"Question: Zgodnie z Kodeksem cywilnym, zw≥oka wierzyciela wzglÍdem jednego z d≥uønikÛw solidarnych:
+    
+            a) ma skutek takøe wzglÍdem wspÛ≥d≥uønikÛw
+            b) nigdy nie ma skutku wzglÍdem wspÛ≥d≥uønikÛw
+            c) nie ma skutku wzglÍdem wspÛ≥d≥uønikÛw niewyp≥acalnych
+            ",A,art. 374 ß 2 k.c.,"Odpowiedü: a) ma skutek takøe wzglÍdem wspÛ≥d≥uønikÛw
+
+Wyjaúnienie: Zgodnie z art. 491 Kodeksu cywilnego, zw≥oka wierzyciela wzglÍdem jednego z d≥uønikÛw solidarnych ma skutek takøe wzglÍdem pozosta≥ych wspÛ≥d≥uønikÛw. Oznacza to, øe jeúli wierzyciel nie zrealizuje swojego roszczenia wobec jednego z d≥uønikÛw solidarnych, to moøe dochodziÊ jego spe≥nienia od pozosta≥ych d≥uønikÛw solidarnych. Dlatego zw≥oka wierzyciela ma skutek takøe wzglÍdem wspÛ≥d≥uønikÛw.
+
+Artyku≥: Kodeks cywilny, art. 491.",True,False,[491]
+egzamin_wstepny_komorniczy_2023,26,"Question: Zgodnie z Kodeksem cywilnym, jeøeli jedna ze stron, wyzyskujπc przymusowe po≥oøenie, niedo≥Ístwo, niedoúwiadczenie lub brak dostatecznego rozeznania drugiej strony co do przedmiotu umowy, w zamian za swoje úwiadczenie przyjmuje albo zastrzega dla siebie lub dla osoby trzeciej úwiadczenie, ktÛrego wartoúÊ w chwili zawarcia umowy przewyøsza w raøπcym stopniu wartoúÊ jej w≥asnego úwiadczenia, druga strona przed up≥ywem terminÛw wygaúniÍcia uprawnieÒ moøe:
+    
+            a) øπdaÊ wy≥πcznie rozwiπzania umowy
+            b) øπdaÊ wy≥πcznie zwiÍkszenia úwiadczenia drugiej strony, ale nie moøe øπdaÊ uniewaønienia umowy
+            c) wed≥ug swego wyboru øπdaÊ zmniejszenia swego úwiadczenia lub zwiÍkszenia naleønego jej úwiadczenia albo uniewaønienia umowy
+            ",C,art. 388 ß 1 k.c.,"Odpowiedü: c) wed≥ug swego wyboru øπdaÊ zmniejszenia swego úwiadczenia lub zwiÍkszenia naleønego jej úwiadczenia albo uniewaønienia umowy.
+
+Wybieram odpowiedü c), poniewaø zgodnie z art. 87 Kodeksu cywilnego, jeøeli jedna ze stron umowy wykorzystuje przymusowe po≥oøenie, niedo≥Ístwo, niedoúwiadczenie lub brak dostatecznego rozeznania drugiej strony co do przedmiotu umowy, w zamian za swoje úwiadczenie przyjmuje albo zastrzega dla siebie lub dla osoby trzeciej úwiadczenie, ktÛrego wartoúÊ w chwili zawarcia umowy przewyøsza w raøπcym stopniu wartoúÊ jej w≥asnego úwiadczenia, druga strona ma prawo wed≥ug swojego wyboru øπdaÊ zmniejszenia swojego úwiadczenia, zwiÍkszenia naleønego jej úwiadczenia lub uniewaønienia umowy.
+
+Zatem, w sytuacji opisanej w pytaniu, druga strona ma moøliwoúÊ wyboru jednej z wymienionych opcji, co wynika z przepisu art. 87 Kodeksu cywilnego.",True,False,[87]
+egzamin_wstepny_komorniczy_2023,27,"Question: Zgodnie z Kodeksem cywilnym, umowa dostawy:
+    
+            a) wymaga formy pisemnej pod rygorem niewaønoúci
+            b) wymaga formy aktu notarialnego pod rygorem niewaønoúci
+            c) powinna byÊ stwierdzona pismem
+            ",C,art. 606 k.c.,"Odpowiedü: c) powinna byÊ stwierdzona pismem.
+
+Wybieram odpowiedü c), poniewaø zgodnie z polskim Kodeksem cywilnym, umowa dostawy nie wymaga okreúlonej formy, ale powinna byÊ stwierdzona pismem. Oznacza to, øe umowa dostawy moøe byÊ zawarta zarÛwno ustnie, jak i na piúmie, ale dla celÛw dowodowych zaleca siÍ sporzπdzenie umowy na piúmie.
+
+Relevant article: Artyku≥ 699 Kodeksu cywilnego.",True,False,[699]
+egzamin_wstepny_komorniczy_2023,28,"Question: Zgodnie z Kodeksem cywilnym, dzierøawÍ zawartπ na czas d≥uøszy niø lat trzydzieúci poczytuje siÍ po up≥ywie tego terminu za:
+    
+            a) zawartπ na czas nieoznaczony
+            b) przed≥uøonπ o rok
+            c) zakoÒczonπ
+            ",A,art. 695 ß 1 k.c.,"Odpowiedü: c) zakoÒczonπ
+
+Wyjaúnienie: Zgodnie z art. 691 Kodeksu cywilnego, dzierøawa zawarta na czas d≥uøszy niø lat trzydzieúci uwaøa siÍ za zawartπ na czas nieoznaczony, chyba øe strony postanowi≥y inaczej. Oznacza to, øe po up≥ywie trzydziestu lat umowa dzierøawy zostaje zakoÒczona, chyba øe strony wczeúniej ustali≥y inny termin lub sposÛb rozwiπzania umowy.
+
+Relevant article: Kodeks cywilny, art. 691.",False,False,[691]
+egzamin_wstepny_komorniczy_2023,29,"Question: Zgodnie z Kodeksem cywilnym, przez umowÍ sk≥adu przedsiÍbiorca sk≥adowy zobowiπzuje siÍ do przechowania:
+    
+            a) za wynagrodzeniem, oznaczonych w umowie nieruchomoúci
+            b) za wynagrodzeniem, oznaczonych w umowie rzeczy ruchomych
+            c) bez wynagrodzenia, oznaczonych w umowie nieruchomoúci
+            ",B,art. 853 ß 1 k.c.,"Odpowiedü: b) za wynagrodzeniem, oznaczonych w umowie rzeczy ruchomych.
+
+Wyjaúnienie: Zgodnie z przepisami Kodeksu cywilnego, umowa sk≥adu jest umowπ przechowania, w ktÛrej przedsiÍbiorca sk≥adowy zobowiπzuje siÍ przechowaÊ rzeczy ruchome za wynagrodzeniem. Jest to umowa odp≥atna, gdzie przedmiotem przechowania sπ rzeczy ruchome, czyli takie, ktÛre mogπ byÊ przemieszczane bez uszczerbku dla ich substancji lub wartoúci.
+
+Relevantny artyku≥: Art. 709 Kodeksu cywilnego.",True,False,[709]
+egzamin_wstepny_komorniczy_2023,30,"Question: Zgodnie z Kodeksem cywilnym, spadkobierca nabywa spadek:
+    
+            a) zawsze z chwilπ otwarcia testamentu
+            b) z chwilπ otwarcia spadku
+            c) z chwilπ z≥oøenia oúwiadczenia o przyjÍciu spadku wprost
+            ",B,art. 925 k.c.,"Odpowiedü: b) z chwilπ otwarcia spadku
+
+Wyjaúnienie: Zgodnie z polskim Kodeksem cywilnym, spadkobierca nabywa spadek z chwilπ otwarcia spadku. Oznacza to, øe prawa i obowiπzki spadkobiercy wchodzπ w øycie od momentu úmierci spadkodawcy. Jest to zasada okreúlona w art. 924 Kodeksu cywilnego.
+
+Odniesienie prawne: Art. 924 Kodeksu cywilnego: ""Spadek otwiera siÍ z chwilπ úmierci spadkodawcy.""",True,False,[924]
+egzamin_wstepny_komorniczy_2023,31,"Question: Zgodnie z Kodeksem cywilnym, fundacja ustanowiona w testamencie przez spadkodawcÍ moøe byÊ spadkobiercπ, jeøeli zostanie wpisana do rejestru w ciπgu:
+    
+            a) dwÛch lat od og≥oszenia testamentu
+            b) trzech lat od og≥oszenia testamentu
+            c) piÍciu lat od og≥oszenia testamentu
+            ",A,art. 927 ß 3 k.c.,"Odpowiedü: a) dwÛch lat od og≥oszenia testamentu
+
+Wyjaúnienie: Zgodnie z art. 1004 Kodeksu cywilnego, fundacja ustanowiona w testamencie przez spadkodawcÍ moøe byÊ spadkobiercπ, jeøeli zostanie wpisana do rejestru fundacji w ciπgu dwÛch lat od dnia otwarcia spadku. Zatem, aby fundacja mog≥a zostaÊ spadkobiercπ na podstawie testamentu, musi byÊ wpisana do rejestru w ciπgu dwÛch lat od og≥oszenia testamentu.
+
+Relevant article: Kodeks cywilny, art. 1004.",True,False,[1004]
+egzamin_wstepny_komorniczy_2023,32,"Question: Zgodnie z Kodeksem cywilnym, spadkodawca (posiadajπcy pe≥nπ zdolnoúÊ do czynnoúci prawnych):
+    
+            a) moøe odwo≥aÊ ca≥y testament, ale nie moøe odwo≥aÊ jego poszczegÛlnych postanowieÒ
+            b) moøe w kaødej chwili odwo≥aÊ zarÛwno ca≥y testament, jak i jego poszczegÛlne postanowienia
+            c) nigdy nie moøe odwo≥aÊ testamentu
+            ",B,art. 943 k.c.,"Odpowiedü: a) moøe odwo≥aÊ ca≥y testament, ale nie moøe odwo≥aÊ jego poszczegÛlnych postanowieÒ.
+
+Wyjaúnienie: Zgodnie z art. 952 Kodeksu cywilnego, spadkodawca moøe odwo≥aÊ ca≥y testament, ale nie moøe odwo≥aÊ jego poszczegÛlnych postanowieÒ. Jest to zasada, ktÛra wynika z charakteru testamentu jako jednostronnego oúwiadczenia woli spadkodawcy. Spadkodawca ma prawo do zmiany lub odwo≥ania testamentu, ale dotyczy to testamentu jako ca≥oúci, a nie poszczegÛlnych jego czÍúci.
+
+Relevant article: Art. 952 Kodeksu cywilnego.",False,False,[952]
+egzamin_wstepny_komorniczy_2023,33,"Question: Zgodnie z Kodeksem cywilnym, jeøeli spadkodawca powo≥a≥ kilku spadkobiercÛw testamentowych, a jeden z nich nie chce lub nie moøe byÊ spadkobiercπ, przeznaczony dla niego udzia≥, w braku odmiennej woli spadkodawcy:
+    
+            a) przypada zawsze spadkobiercom ustawowym
+            b) przypada pozosta≥ym spadkobiercom testamentowym zawsze w czÍúciach rÛwnych (przyrost)
+            c) przypada pozosta≥ym spadkobiercom testamentowym w stosunku do przypadajπcych im udzia≥Ûw (przyrost)
+            ",C,art. 965 k.c.,"Odpowiedü: b) przypada pozosta≥ym spadkobiercom testamentowym zawsze w czÍúciach rÛwnych (przyrost)
+
+Wyjaúnienie: Zgodnie z art. 1019 Kodeksu cywilnego, jeúli spadkodawca powo≥a≥ kilku spadkobiercÛw testamentowych, a ktÛryú z nich nie chce lub nie moøe byÊ spadkobiercπ, to jego udzia≥ przechodzi na pozosta≥ych spadkobiercÛw testamentowych w czÍúciach rÛwnych (przyrost). Jest to zasada rÛwnoúci w dziedziczeniu testamentowym, ktÛra ma na celu zapewnienie rÛwnego traktowania spadkobiercÛw testamentowych w sytuacji, gdy jeden z nich nie moøe lub nie chce objπÊ spadku.
+
+Zatem, w sytuacji opisanej w pytaniu, udzia≥ przeznaczony dla spadkobiercy, ktÛry nie moøe lub nie chce byÊ spadkobiercπ, przypada pozosta≥ym spadkobiercom testamentowym zawsze w czÍúciach rÛwnych (przyrost).
+
+Artyku≥ Kodeksu cywilnego: art. 1019.",False,False,[1019]
+egzamin_wstepny_komorniczy_2023,34,"Question: Zgodnie z Kodeksem cywilnym, przedmiotem zapisu windykacyjnego moøe byÊ:
+    
+            a) rzecz oznaczona tylko co do gatunku
+            b) przedsiÍbiorstwo lub gospodarstwo rolne
+            c) ogÛ≥ praw wspÛlnika spÛ≥ki kapita≥owej
+            ",B,art. 9811 ß 2 pkt 3 k.c.,"Odpowiedü: a) rzecz oznaczona tylko co do gatunku
+
+Wyjaúnienie: Zgodnie z Kodeksem cywilnym, przedmiotem zapisu windykacyjnego moøe byÊ rzecz oznaczona tylko co do gatunku. Zapis windykacyjny jest umowπ, w ktÛrej d≥uønik zobowiπzuje siÍ do wydania okreúlonej rzeczy lub sumy pieniÍønej w przysz≥oúci. Istotne jest, aby rzecz by≥a oznaczona co do gatunku, czyli moøliwe by≥o jej jednoznaczne zidentyfikowanie, nawet jeúli nie jest jeszcze fizycznie istniejπca w momencie zawarcia umowy.
+
+Relevant article in the Polish Civil Code: Article 945 of the Polish Civil Code.",False,False,[945]
+egzamin_wstepny_komorniczy_2023,35,"Question: Zgodnie z Kodeksem cywilnym, oúwiadczenie o przyjÍciu lub o odrzuceniu spadku moøe byÊ z≥oøone:
+    
+            a) w ciπgu szeúciu miesiÍcy od dnia, w ktÛrym spadkobierca majπcy pe≥nπ zdolnoúÊ do czynnoúci prawnych dowiedzia≥ siÍ o tytule swego powo≥ania
+            b) w ciπgu roku od dnia, w ktÛrym spadkobierca majπcy pe≥nπ zdolnoúÊ do czynnoúci prawnych dowiedzia≥ siÍ o tytule swego powo≥ania
+            c) nie wczeúniej niø po up≥ywie roku od dnia, w ktÛrym spadkodawca zmar≥
+            ",A,art. 1015 ß 1 k.c.,"Poprawna odpowiedü to:
+
+b) w ciπgu roku od dnia, w ktÛrym spadkobierca majπcy pe≥nπ zdolnoúÊ do czynnoúci prawnych dowiedzia≥ siÍ o tytule swego powo≥ania
+
+Oúwiadczenie o przyjÍciu lub o odrzuceniu spadku moøe byÊ z≥oøone w ciπgu roku od dnia, w ktÛrym spadkobierca majπcy pe≥nπ zdolnoúÊ do czynnoúci prawnych dowiedzia≥ siÍ o tytule swego powo≥ania. Jest to zgodne z art. 1018 Kodeksu cywilnego.
+
+Artyku≥ 1018 Kodeksu cywilnego brzmi: ""ß 1. Oúwiadczenie o przyjÍciu lub o odrzuceniu spadku moøe byÊ z≥oøone w ciπgu roku od dnia, w ktÛrym spadkobierca majπcy pe≥nπ zdolnoúÊ do czynnoúci prawnych dowiedzia≥ siÍ o tytule swego powo≥ania.""",False,False,[1018]
