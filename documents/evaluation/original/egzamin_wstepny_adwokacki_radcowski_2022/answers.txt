@@ -1,157 +1,536 @@
-WYKAZ PRAWIDŁOWYCH ODPOWIEDZI DO ZESTAWU PYTAŃ TESTOWYCH 
-NA EGZAMIN WSTĘPNY NA APLIKACJĘ ADWOKACKĄ I RADCOWSKĄ 
-24 WRZEŚNIA 2022 R. 
+WYKAZ PRAWIDŁOWYCH ODPOWIEDZI DO ZESTAWU PYTAŃ
+TESTOWYCH
+NA EGZAMIN WSTĘPNY NA APLIKACJĘ ADWOKACKĄ I
+RADCOWSKĄ
+24 WRZEŚNIA 2022 R.
+nr pytania
+prawidłowa
+odpowiedź
+podstawa prawna
+1.
+B
+art. 15 § 2 w zw. z art. 15 § 1 k.k.
+2.
+C
+art. 18 § 1 k.k.
+3.
+B
+art. 18 § 3 k.k.
+4.
+A
+art. 25 § 3 k.k.
+5.
 
-nr pytania	prawidłowa
-odpowiedź	podstawa prawna
-1.	B	art. 15 § 2 w zw. z art. 15 § 1 k.k. 
-2.	C	art. 18 § 1 k.k.
-3.	B	art. 18 § 3 k.k.
-4.	A	art. 25 § 3 k.k.
-5.	C	art. 29 k.k. 
-6.	B	art. 37b k.k. 
-7.	B	art. 70 § 2 w zw. z art. 70 § 1 k.k.
-8.	B	art. 93a § 2 w zw. z art. 39 pkt 2c k.k.  
-9.	C	art. 99 w zw. z art. 39 pkt 3 w zw. z art. 31 § 1 k.k.
-10.	B	art. 105 § 2 k.k.
-11.	C	art. 160 § 5 w zw. z art. 160 § 3 i 1 k.k.  
-12.	B	art. 278a § 1 w zw. z art. 115 § 9a pkt 1 k.k.
-13.	C	art. 78 § 2 k.p.k. 
-14.	A	art. 87 § 1 i 2 k.p.k. 
-15.	B	art. 93a § 1 i 2 k.p.k. 
-16.	B	art. 99 § 2 k.p.k. 
-17.	B	art. 183 § 2 k.p.k. 
-18.	A	art. 212 k.p.k. 
-19.	A	art. 255 k.p.k. 
-20.	A	art. 408 w zw. z art. 406 § 1 k.p.k. 
-21.	C	art. 429 § 1 k.p.k. 
-22.	C	art. 539a § 1 k.p.k. 
-23.	B	art. 23 § 2 k.w.
-24.	A	art. 41 k.w.
-25.	B	art. 93 § 1 k.w.  
-26.	C	art. 20 § 1 k.p.s.w. 
-27.	B	art. 35 § 2 k.p.s.w.
-28.	B	art. 18 § 2 k.k.s.
-29.	C	art. 19 § 4 k.k.s. 
-30.	C	art. 13 § 2 k.c.
-31.	C	art. 42 § 1 k.c.
-32.	B	art. 441 § 1 k.c.
-33.	A	art. 50 k.c.
-34.	B	art. 62 k.c.
-35.	A	art. 651 k.c.
-36.	B	art. 155 § 1 k.c.
-37.	A	art. 157 § 1 k.c.
-38.	C	art. 202 k.c.
-39.	C	art. 222 § 2 k.c.
-40.	A	art. 231 § 1 k.c.
-41.	A	art. 263 k.c.
-42.	B	art. 3571 k.c. 
-43.	B	art. 380 § 2 k.c.
-44.	A	art. 385 § 2 k.c.
-45. A	art. 387 § 2 k.c.
-46.	B	art. 407 w zw. z art. 409 k.c.
-47.	C	art. 424 k.c.
-48.	A	art. 4421 § 4 k.c.
-49.	B	art. 462 § 1 i 3 k.c.
-50.	A	art. 511 k.c.
-51.	A	art. 720 § 2 k.c.
-52.	B	art. 37 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych
-53.	B	art. 683 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece
-54.	B	art. 37 ust. 2 pkt 2 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych
-55.	A	art. 23 ustawy z dnia 28 kwietnia 1936 r. – Prawo wekslowe
-56.	B	art. 10a ust. 3 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach
-57.	A	art. 1 ust. 11 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych
-58.	A	art. 38 § 1 pkt 7 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze
-59.	C	art. 19p ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego 
-60.	A	art. 2 ust. 1c ustawy z dnia 24 czerwca 1994 r. o własności lokali 
-61.	B	art. 7 ust. 1 ustawy z dnia 24 czerwca 1994 r. o własności lokali
-62.	B	art. 23 ust. 1e ustawy z dnia 21 sierpnia 1997 r.  o gospodarce nieruchomościami
-63.	C	art. 25d  ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami
-64.	B	art. 7 zdanie drugie k.p.c.
-65.	C	art. 39 k.p.c.
-66.	C	art. 52 § 1 k.p.c.
-67.	A	art. 1262 § 2 k.p.c.
-68.	A	art. 163 § 1 k.p.c.
-69.	B	art. 173 k.p.c.
-70.	C	art. 257 k.p.c.
-71.	B	art. 2591 k.p.c.
-72.	B	art. 324 § 2 k.p.c.
-73.	C	art. 373 § 1 k.p.c.
-74.	B	art. 21 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych
-75.	B	art. 78 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych
-76.	A	art. 89c ust. 2 w zw. z art. 89 ust. 1 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych
-77.	C	art. 54 § 1 k.r. i o
-78.	A	art. 108 k.r. i o
-79.	B	art. 137 § 1 k.r. i o.
-80.	B	art. 146 k.r. i o.
-81.	A	art. 3 ust. 1 ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów 
-82.	B	art. 17 ust. 2 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym
-83.	B	art. 3 ust. 4 pkt 2 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne
-84.	C	art. 13 ust. 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe
-85.	B	art. 29 ust. 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów 
-86.	A	art. 15 ust. 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta
-87.	A	art. 17 ust. 1 i 3 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców 
-88.	C	art. 13 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy
-89.	A	art. 54 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy
-90.	A	art. 4 § 1 pkt 5 k.s.h.
-91.	B	art. 127 § 5 k.s.h.
-92.	A	art. 161 § 1 k.s.h.
-93.	A	art. 243 § 2 k.s.h.
-94.	C	art. 259 k.s.h.
-95.	C	art. 373 § 2 k.s.h.
-96.	B	art. 531 § 21 k.s.h.
-97.	B	art. 569 § 1 w zw. z art. 551 § 1 k.s.h.
-98.	A	art. 42 § 4 k.p.
-99.	A	art. 49 k.p.
-100.	B	art. 683 k.p.
-101.	B	art. 153 § 1 k.p.
-102.	C	art. 16 ust. 1 pkt 6 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych
-103.	B	art. 11a ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym
-104.	A	art. 15 ust. 5 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym
-105.	C	art. 44 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa
-106.	C	art. 27 ust. 1 ustawy z dnia 23 stycznia 2009 r. o wojewodzie i administracji rządowej w województwie 
-107.	B	art. 27 § 3 k.p.a.
-108.	A	art. 37 § 1 pkt 2 k.p.a. 
-109.	C	art. 89 § 1 k.p.a.
-110.	B	art. 96 k.p.a.
-111.	A	art. 135 k.p.a.  
-112.	B	art. 147 k.p.a. w zw. z art. 145a k.p.a.
-113.	B	art. 239 § 1 w zw. z art. 228 k.p.a.    
-114.	C	art. 257 k.p.a. 
-115.	A	art. 5 pkt 1 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi 
-116.	C	art. 22 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnym
-117.	C	art. 37a ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi 
-118.	A	art. 42 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi 
-119.	A	art. 123 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi 
-120.	C	art. 155 § 1 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi 
-121.	A	art. 227 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi 
-122.	A	art. 14 ust. 1 Traktatu z dnia 7 lutego 1992 r. o Unii Europejskiej – tekst uwzględniający zmiany wprowadzone Traktatem z Lizbony
-123.	B	art. 14 ust. 2 Traktatu z dnia 7 lutego 1992 r. o Unii Europejskiej – tekst uwzględniający zmiany wprowadzone Traktatem z Lizbony
-124.	B	art. 228 ust. 2 Traktatu z dnia 25 marca 1957 r. o funkcjonowaniu Unii Europejskiej – tekst uwzględniający zmiany wprowadzone Traktatem z Lizbony
-125.	B	art. 253 Traktatu z dnia 25 marca 1957 r. o funkcjonowaniu Unii Europejskiej – tekst uwzględniający zmiany wprowadzone Traktatem z Lizbony
-126.	C	art. 43 Konstytucji Rzeczypospolitej Polskiej 
-127.	A	art. 96 ust. 2 Konstytucji Rzeczypospolitej Polskiej  
-128.	B	art. 116 ust. 2 Konstytucji Rzeczypospolitej Polskiej  
-129.	B	art. 122 ust. 5 Konstytucji Rzeczypospolitej Polskiej  
-130.	A	art. 216 ust. 5 Konstytucji Rzeczypospolitej Polskiej  
-131.	B	art. 41 ust. 3 w zw. z art. 39 ust. 2 pkt 1 ustawy z dnia 30 listopada 2016 r. o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym
-132.	C	art. 14 ust. 1 pkt 6 ustawy z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa 
-133.	C	art. 14 ust. 1 i 2 ustawy z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa
-134.	A	art. 26 § 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych 
-135.	B	art. 33 § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych 
-136.	B	art. 37 § 1 zdanie drugie w zw. z art. 9a § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych 
-137.	B	art. 24 § 1a ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych
-138.	C	art. 44 § 1 ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów administracyjnych
-139.	A	art. 74 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym 
-140.	C	art. 64 § 2 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze
-141.	B	art. 14 ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze
-142.	A	art. 72 ust. 1 pkt 5 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze
-143.	A	art. 81 ust. 1 pkt 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze
-144.	B	art. 81 ust. 4 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze
-145.	A	art. 222 ustawy z dnia 6 lipca 1982 r. o radcach prawnych
-146.	C	art. 29 pkt 3 ustawy z dnia 6 lipca 1982 r. o radcach prawnych
-147.	C	art. 60 pkt 4 ustawy z dnia 6 lipca 1982 r. o radcach prawnych
-148.	C	art. 683 ust. 2 ustawy z dnia 6 lipca 1982 r. o radcach prawnych
-149.	A	art. 7 ust. 3 w zw. z art. 7 ust. 1 pkt 1 ustawy z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich 
-150.	B	art. 22 ustawy z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich 
+C
+art. 29 k.k.
+6.
+B
+art. 37b k.k.
+7.
+B
+art. 70 § 2 w zw. z art. 70 § 1 k.k.
+8.
+B
+art. 93a § 2 w zw. z art. 39 pkt 2c k.k.
+9.
+C
+art. 99 w zw. z art. 39 pkt 3 w zw. z art. 31 § 1 k.k.
+10.
+B
+art. 105 § 2 k.k.
+11.
+C
+art. 160 § 5 w zw. z art. 160 § 3 i 1 k.k.
+12.
+B
 
+art. 278a § 1 w zw. z art. 115 § 9a pkt 1 k.k.
+13.
+C
+art. 78 § 2 k.p.k.
+14.
+A
+art. 87 § 1 i 2 k.p.k.
+15.
+B
+art. 93a § 1 i 2 k.p.k.
+16.
+B
+art. 99 § 2 k.p.k.
+17.
+B
+art. 183 § 2 k.p.k.
+18.
+A
+art. 212 k.p.k.
+19.
+A
+art. 255 k.p.k.
+
+20.
+A
+art. 408 w zw. z art. 406 § 1 k.p.k.
+21.
+C
+art. 429 § 1 k.p.k.
+22.
+C
+art. 539a § 1 k.p.k.
+23.
+B
+art. 23 § 2 k.w.
+24.
+A
+art. 41 k.w.
+25.
+B
+art. 93 § 1 k.w.
+26.
+C
+art. 20 § 1 k.p.s.w.
+27.
+
+B
+art. 35 § 2 k.p.s.w.
+28.
+B
+art. 18 § 2 k.k.s.
+29.
+C
+art. 19 § 4 k.k.s.
+30.
+C
+art. 13 § 2 k.c.
+31.
+C
+art. 42 § 1 k.c.
+32.
+B
+art. 441 § 1 k.c.
+33.
+A
+art. 50 k.c.
+34.
+B
+
+art. 62 k.c.
+35.
+A
+art. 651 k.c.
+36.
+B
+art. 155 § 1 k.c.
+37.
+A
+art. 157 § 1 k.c.
+38.
+C
+art. 202 k.c.
+39.
+C
+art. 222 § 2 k.c.
+40.
+A
+art. 231 § 1 k.c.
+41.
+A
+art. 263 k.c.
+
+42.
+B
+art. 3571 k.c.
+43.
+B
+art. 380 § 2 k.c.
+44.
+A
+art. 385 § 2 k.c.
+45.
+A
+art. 387 § 2 k.c.
+46.
+B
+art. 407 w zw. z art. 409 k.c.
+47.
+C
+art. 424 k.c.
+48.
+A
+art. 4421 § 4 k.c.
+49.
+
+B
+art. 462 § 1 i 3 k.c.
+50.
+A
+art. 511 k.c.
+51.
+A
+art. 720 § 2 k.c.
+52.
+B
+art. 37 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach
+pokrewnych
+53.
+B
+art. 683 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i
+hipotece
+54.
+B
+art. 37 ust. 2 pkt 2 ustawy z dnia 22 maja 2003 r. o
+ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu
+Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych
+55.
+A
+art. 23 ustawy z dnia 28 kwietnia 1936 r. – Prawo wekslowe
+
+56.
+B
+art. 10a ust. 3 ustawy z dnia 7 kwietnia 1989 r. – Prawo o
+stowarzyszeniach
+57.
+A
+art. 1 ust. 11 ustawy z dnia 15 grudnia 2000 r. o spółdzielniach
+mieszkaniowych
+58.
+A
+art. 38 § 1 pkt 7 ustawy z dnia 16 września 1982 r. – Prawo
+spółdzielcze
+59.
+C
+art. 19p ustawy z dnia 21 czerwca 2001 r. o ochronie praw
+lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu
+cywilnego
+60.
+A
+art. 2 ust. 1c ustawy z dnia 24 czerwca 1994 r. o własności lokali
+61.
+B
+art. 7 ust. 1 ustawy z dnia 24 czerwca 1994 r. o własności lokali
+62.
+
+B
+art. 23 ust. 1e ustawy z dnia 21 sierpnia 1997 r. o gospodarce
+nieruchomościami
+63.
+C
+art. 25d ustawy z dnia 21 sierpnia 1997 r. o gospodarce
+nieruchomościami
+64.
+B
+art. 7 zdanie drugie k.p.c.
+65.
+C
+art. 39 k.p.c.
+66.
+C
+art. 52 § 1 k.p.c.
+67.
+A
+art. 1262 § 2 k.p.c.
+68.
+A
+art. 163 § 1 k.p.c.
+
+69.
+B
+art. 173 k.p.c.
+70.
+C
+art. 257 k.p.c.
+71.
+B
+art. 2591 k.p.c.
+72.
+B
+art. 324 § 2 k.p.c.
+73.
+C
+art. 373 § 1 k.p.c.
+74.
+B
+art. 21 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w
+sprawach cywilnych
+75.
+B
+art. 78 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w
+sprawach cywilnych
+
+76.
+A
+art. 89c ust. 2 w zw. z art. 89 ust. 1 ustawy z dnia 28 lipca 2005 r. o
+kosztach sądowych w sprawach cywilnych
+77.
+C
+art. 54 § 1 k.r. i o
+78.
+A
+art. 108 k.r. i o
+79.
+B
+art. 137 § 1 k.r. i o.
+80.
+B
+art. 146 k.r. i o.
+81.
+A
+art. 3 ust. 1 ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym
+i rejestrze zastawów
+82.
+B
+art. 17 ust. 2 ustawy z dnia 20 sierpnia 1997 r. o Krajowym
+
+Rejestrze Sądowym
+83.
+B
+art. 3 ust. 4 pkt 2 ustawy z dnia 15 maja 2015 r. – Prawo
+restrukturyzacyjne
+84.
+C
+art. 13 ust. 1 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe
+85.
+B
+art. 29 ust. 3 ustawy z dnia 16 lutego 2007 r. o ochronie
+konkurencji i konsumentów
+86.
+A
+art. 15 ust. 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta
+87.
+A
+art. 17 ust. 1 i 3 ustawy z dnia 6 marca 2018 r. – Prawo
+przedsiębiorców
+88.
+C
+art. 13 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i
+Informacji o Działalności Gospodarczej i Punkcie Informacji dla
+Przedsiębiorcy
+
+89.
+A
+art. 54 ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i
+Informacji o Działalności Gospodarczej i Punkcie Informacji dla
+Przedsiębiorcy
+90.
+A
+art. 4 § 1 pkt 5 k.s.h.
+91.
+B
+art. 127 § 5 k.s.h.
+92.
+A
+art. 161 § 1 k.s.h.
+93.
+A
+art. 243 § 2 k.s.h.
+94.
+C
+art. 259 k.s.h.
+95.
+C
+
+art. 373 § 2 k.s.h.
+96.
+B
+art. 531 § 21 k.s.h.
+97.
+B
+art. 569 § 1 w zw. z art. 551 § 1 k.s.h.
+98.
+A
+art. 42 § 4 k.p.
+99.
+A
+art. 49 k.p.
+100.
+B
+art. 683 k.p.
+101.
+B
+art. 153 § 1 k.p.
+102.
+C
+art. 16 ust. 1 pkt 6 ustawy z dnia 13 października 1998 r. o
+
+systemie ubezpieczeń społecznych
+103.
+B
+art. 11a ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie
+gminnym
+104.
+A
+art. 15 ust. 5 ustawy z dnia 5 czerwca 1998 r. o samorządzie
+powiatowym
+105.
+C
+art. 44 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie
+województwa
+106.
+C
+art. 27 ust. 1 ustawy z dnia 23 stycznia 2009 r. o wojewodzie i
+administracji rządowej w województwie
+107.
+B
+art. 27 § 3 k.p.a.
+108.
+A
+art. 37 § 1 pkt 2 k.p.a.
+109.
+
+C
+art. 89 § 1 k.p.a.
+110.
+B
+art. 96 k.p.a.
+111.
+A
+art. 135 k.p.a.
+112.
+B
+art. 147 k.p.a. w zw. z art. 145a k.p.a.
+113.
+B
+art. 239 § 1 w zw. z art. 228 k.p.a.
+114.
+C
+art. 257 k.p.a.
+115.
+A
+art. 5 pkt 1 ustawy z dnia 30 sierpnia 2002 r. – Prawo o
+postępowaniu przed sądami administracyjnymi
+116.
+
+C
+art. 22 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o
+postępowaniu przed sądami administracyjnym
+117.
+C
+art. 37a ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu
+przed sądami administracyjnymi
+118.
+A
+art. 42 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o
+postępowaniu przed sądami administracyjnymi
+119.
+A
+art. 123 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu
+przed sądami administracyjnymi
+120.
+C
+art. 155 § 1 ustawy z dnia 30 sierpnia 2002 r. – Prawo o
+postępowaniu przed sądami administracyjnymi
+121.
+A
+art. 227 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o
+postępowaniu przed sądami administracyjnymi
+122.
+A
+
+art. 14 ust. 1 Traktatu z dnia 7 lutego 1992 r. o Unii Europejskiej –
+tekst uwzględniający zmiany wprowadzone Traktatem z Lizbony
+123.
+B
+art. 14 ust. 2 Traktatu z dnia 7 lutego 1992 r. o Unii Europejskiej –
+tekst uwzględniający zmiany wprowadzone Traktatem z Lizbony
+124.
+B
+art. 228 ust. 2 Traktatu z dnia 25 marca 1957 r. o funkcjonowaniu
+Unii Europejskiej – tekst uwzględniający zmiany wprowadzone
+Traktatem z Lizbony
+125.
+B
+art. 253 Traktatu z dnia 25 marca 1957 r. o funkcjonowaniu Unii
+Europejskiej – tekst uwzględniający zmiany wprowadzone
+Traktatem z Lizbony
+126.
+C
+art. 43 Konstytucji Rzeczypospolitej Polskiej
+127.
+A
+art. 96 ust. 2 Konstytucji Rzeczypospolitej Polskiej
+128.
+B
+art. 116 ust. 2 Konstytucji Rzeczypospolitej Polskiej
+
+129.
+B
+art. 122 ust. 5 Konstytucji Rzeczypospolitej Polskiej
+130.
+A
+art. 216 ust. 5 Konstytucji Rzeczypospolitej Polskiej
+131.
+B
+art. 41 ust. 3 w zw. z art. 39 ust. 2 pkt 1 ustawy z dnia 30 listopada
+2016 r. o organizacji i trybie postępowania przed Trybunałem
+Konstytucyjnym
+132.
+C
+art. 14 ust. 1 pkt 6 ustawy z dnia 12 maja 2011 r. o Krajowej
+Radzie Sądownictwa
+133.
+C
+art. 14 ust. 1 i 2 ustawy z dnia 12 maja 2011 r. o Krajowej Radzie
+Sądownictwa
+134.
+A
+art. 26 § 3 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów
+powszechnych
+135.
+
+B
+art. 33 § 2 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów
+powszechnych
+136.
+B
+art. 37 § 1 zdanie drugie w zw. z art. 9a § 1 ustawy z dnia 27 lipca
+2001 r. – Prawo o ustroju sądów powszechnych
+137.
+B
+art. 24 § 1a ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów
+administracyjnych
+138.
+C
+art. 44 § 1 ustawy z dnia 25 lipca 2002 r. – Prawo o ustroju sądów
+administracyjnych
+139.
+A
+art. 74 ustawy z dnia 8 grudnia 2017 r. o Sądzie Najwyższym
+140.
+C
+art. 64 § 2 ustawy z dnia 28 stycznia 2016 r. – Prawo o
+prokuraturze
+141.
+B
+
+art. 14 ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze
+142.
+A
+art. 72 ust. 1 pkt 5 ustawy z dnia 26 maja 1982 r. – Prawo o
+adwokaturze
+143.
+A
+art. 81 ust. 1 pkt 1 ustawy z dnia 26 maja 1982 r. – Prawo o
+adwokaturze
+144.
+B
+art. 81 ust. 4 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze
+145.
+A
+art. 222 ustawy z dnia 6 lipca 1982 r. o radcach prawnych
+146.
+C
+art. 29 pkt 3 ustawy z dnia 6 lipca 1982 r. o radcach prawnych
+147.
+C
+art. 60 pkt 4 ustawy z dnia 6 lipca 1982 r. o radcach prawnych
+148.
+C
+
+art. 683 ust. 2 ustawy z dnia 6 lipca 1982 r. o radcach prawnych
+149.
+A
+art. 7 ust. 3 w zw. z art. 7 ust. 1 pkt 1 ustawy z dnia 15 lipca 1987
+r. o Rzeczniku Praw Obywatelskich
+150.
+B
+art. 22 ustawy z dnia 15 lipca 1987 r. o Rzeczniku Praw
+Obywatelskich

@@ -22,7 +22,7 @@ class EvaluationLogger:
 
     def log_evaluation_result(self, question_dict, answer_dict, answer, answer_is_correct, context_is_correct, evaluation_result ):
         result = {
-            "dataset": question_dict["dataset"],
+            # "dataset": question_dict["dataset"],
             "index": question_dict["index"],
             "question": self.format_question(question_dict),
             "correct_answer_letter": answer_dict["answer"],

@@ -1,12 +1,15 @@
 import json
+import logging
+import os
 import re
 import fitz
-from src.utils.utils import get_project_root, get_original_questions_list_directories
+from src.utils.utils import get_original_questions_list_directories
 
 
 def extract_from_pdf_to_txt(list_of_directories):
-    for dir_name in list_of_directories:
-        dir_path = get_project_root() / "documents" / "evaluation" / "original" / dir_name
+    for dir_path in list_of_directories:
+        logging.info(f"Extracting questions and and answers from pdf to txt: {dir_path}")
+
         questions_pdf_file_path = dir_path / "questions.pdf"
         questions_txt_file_path = dir_path / "questions.txt"
         doc = fitz.open(questions_pdf_file_path)
@@ -33,6 +36,7 @@ def extract_from_pdf_to_txt(list_of_directories):
 def extract_questions(list_of_directories):
     for dir_path in list_of_directories:
         # dir_path = get_project_root() / "documents" / "evaluation" / "original" / dir_name
+        logging.info(f"Extracting questions from txt to json: {dir_path}")
         questions_txt_file_path = dir_path / "questions.txt"
         questions_json_file_path = dir_path / "questions.json"
 
@@ -44,7 +48,6 @@ def extract_questions(list_of_directories):
         questions_raw = re.sub(r" +", " ", questions_raw)
 
         questions_lines = questions_raw.split("\n")
-
         questions = []
         for i in range(150):
             question_index_offset = len(str(i + 1))
@@ -65,7 +68,7 @@ def extract_questions(list_of_directories):
 
 def extract_answers(list_of_directories):
     for dir_path in list_of_directories:
-        # dir_path = get_project_root() / "documents" / "evaluation" / "original" / dir_name
+        logging.info(f"Extracting answers from txt to json: {dir_path}")
         answers_txt_file_path = dir_path / "answers.txt"
         answers_json_file_path = dir_path / "answers.json"
         with open(answers_txt_file_path, "r", encoding="utf-8") as f:
@@ -77,8 +80,6 @@ def extract_answers(list_of_directories):
         answers_raw = re.sub(r"Bart\.", "B art.", answers_raw)
         answers_raw = re.sub(r"Cart\.", "C art.", answers_raw)
         answers_raw = re.sub(r" +", " ", answers_raw)
-
-        print(answers_raw)
 
         answers_rows = answers_raw.split("\n")
 
@@ -98,7 +99,8 @@ def extract_answers(list_of_directories):
 
 
 if __name__ == "__main__":
-    list_of_directories = get_original_questions_list_directories()
+    logging.getLogger().setLevel(logging.INFO)
+    list_of_directories = [directory for directory in get_original_questions_list_directories() if not directory.name.endswith("2022")]
     extract_from_pdf_to_txt(list_of_directories)
     extract_questions(list_of_directories)
     extract_answers(list_of_directories)

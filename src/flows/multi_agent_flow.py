@@ -27,7 +27,6 @@ class State(TypedDict):
 class MultiAgentFlow(FlowInterface):
     supported_codes = ['civil_code', 'civil_procedure_code', 'code_of_administrative_procedure', 'code_of_procedure_in_misdemeanor_cases', 'commercial_companies_code', 'family_code', 'labor_code', 'misdemeanor_code', 'penal_code', 'penal_procedure_code', 'tax_penal_code']
 
-
     def __init__(self, model="gpt-3.5-turbo-0125", temperature=0, k=10):
         self.model = model
         self.temperature = temperature
@@ -38,7 +37,7 @@ class MultiAgentFlow(FlowInterface):
     def create_retriever_tool(k, code):
         print(f"Creating retriever tool for {code}")
         docs = load_articles_as_documents(get_legal_act_json_path(code))
-        base_retriever = create_chroma_retriever(docs, code, k)
+        base_retriever = create_chroma_retriever(docs, code, k, False)
         retriever = PrefixedRetriever(retriever=base_retriever)
         retriever_tool = create_retriever_tool(
             retriever,

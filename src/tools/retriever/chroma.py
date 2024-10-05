@@ -8,8 +8,6 @@ from src.utils.utils import get_project_root, get_legal_act_json_path, get_chrom
 
 default_articles_source = get_project_root() / "documents" / "legal_acts" / "batch" / "civil_code" / "source.json"
 
-CREATE_NEW = False
-
 
 def load_articles_as_documents(path=default_articles_source):
     with open(path, "r") as f:
@@ -21,19 +19,19 @@ def load_articles_as_documents(path=default_articles_source):
     return documents
 
 
-def create_chroma_retriever(docs, name="civil_code", k=5):
+def create_chroma_retriever(docs, name="civil_code", k=5, create_new_instance=True):
     persist_directory = str(get_chroma_path())
 
     model_name = "sdadas/mmlw-roberta-large"
     # model_name = "BAAI/bge-multilingual-gemma2"
     embedding_function = HuggingFaceEmbeddings(model_name=model_name)
     db = Chroma(persist_directory=persist_directory, embedding_function=embedding_function, collection_name=name)
-    if CREATE_NEW:
+    if create_new_instance:
         db.delete_collection()
         db = Chroma.from_documents(docs, embedding_function, persist_directory=persist_directory, collection_name=name)
 
 
-    print("There are", db._collection.count(), "documents in the collection")
+    print(f"There are {db._collection.count()}, documents in the collection: {name}")
     retriever = db.as_retriever(search_kwargs={"k": k})
     return retriever
 

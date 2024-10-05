@@ -3,6 +3,7 @@ import json
 from src.evaluation_logger import EvaluationLogger
 from src.flows.concept_flow.concept_flow import ConceptFlow
 from src.flows.multi_agent_flow import MultiAgentFlow
+from src.flows.multi_agent_flow_simple_rag import MultiAgentFlowSimpleRag
 from src.flows.simple_flow import SimpleFlow
 from src.flows.simple_rag_flow import SimpleRagFlow
 from src.flows.simple_rag_search_flow import SimpleRagSearchFlow
@@ -16,7 +17,7 @@ def load_questions_for_codes(code_list):
     questions = []
     answers = []
     for code in code_list:
-        dataset_path = get_project_root() / "documents" / "evaluation" / code
+        dataset_path = get_project_root() / "documents" / "evaluation" / "extracted" / code
         questions_path = dataset_path / "questions.json"
         answers_path = dataset_path / "answers.json"
         with open(questions_path, "r") as f:
@@ -28,19 +29,31 @@ def load_questions_for_codes(code_list):
     return questions, answers
 
 
+def load_questions_from_directory(directory_path):
+    questions_path = directory_path / "questions.json"
+    answers_path = directory_path / "answers.json"
+    with open(questions_path, "r") as f:
+        questions = json.load(f)
+    with open(answers_path, "r") as f:
+        answers = json.load(f)
+    return questions, answers
+
+
 # dataset_path = get_project_root() / "documents" / "evaluation" / "penal_code_questions"
 questions, answers = load_questions_for_codes(["civil_code"])
+# questions, answers = load_questions_from_directory(get_project_root() / "documents" / "evaluation" / "original" / "egzamin_wstepny_adwokacki_radcowski_2024")
 
 # evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)  # 77, 26
 # evaluated_flow = SimpleFlow("gpt-4o-mini", 0)  # 101, 58
 # evaluated_flow = SimpleFlow("gpt-4", 0)  # 115, 53
-evaluated_flow = SimpleFlow("gpt-4o", 0)
+# evaluated_flow = SimpleFlow("gpt-4o", 0)
 
 # evaluated_flow = SimpleRagSearchFlow("gpt-3.5-turbo-0125", 0, 50)  # 112, 126
 # evaluated_flow = SimpleRagSearchFlow("gpt-4o-mini", 0, 50) # 128, 139
 #
 # evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0) #101, 116
 # evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0) # 130 128
+evaluated_flow = MultiAgentFlowSimpleRag("gpt-4o-mini", 0, 100)
 
 judge = Judge("gpt-4o-mini", 0)
 
@@ -48,6 +61,7 @@ logger = EvaluationLogger(evaluated_flow)
 context_used = 0
 correct_answer_count = 0
 correct_context_count = 0
+joint_score = 0
 questions_num = 0
 
 # # list of hard questions
@@ -96,6 +110,8 @@ for i in range(len(questions)):
     if proper_articles_are_referred is True:
         correct_context_count += 1
         print("Podano prawidłowy kontekst")
+    if answer_is_correct and proper_articles_are_referred:
+        joint_score += 1
     logger.log_evaluation_result(question_dict, answer_dict, evaluated_answer, answer_is_correct, proper_articles_are_referred, result)
 
     # evaluated_flow.save_graph_image(path = logger.get_run_directory(evaluated_flow) / "graph.png")
@@ -103,8 +119,9 @@ for i in range(len(questions)):
 
 logger.save_end_results(correct_answer_count, correct_context_count, len(questions))
 
-print(correct_answer_count)
-print(correct_context_count)
+print(f"Liczba prawidłowych odpowiedzi: {correct_answer_count}")
+print(f"Liczba prawidłowych odniesień: {correct_context_count}")
+print(f"Wynik łączny: {joint_score}")
 print(questions_num)
 print(context_used)
 print(context_used/questions_num)

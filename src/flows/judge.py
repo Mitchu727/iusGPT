@@ -44,8 +44,6 @@ class Judge:
             c) {answer_c}
 
             Student answer: {evaluated_answer} 
-            Correct answer: {correct_answer}
-            Proper article: {article}
             """
         output_parser = StrOutputParser()
         self.chain = prompt | llm | output_parser

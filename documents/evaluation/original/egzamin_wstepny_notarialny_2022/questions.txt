@@ -1,820 +1,1233 @@
- Ministerstwo Sprawiedliwości
+Nr kodu kandydata ……………
+Nr kodu kandydata ……………
+Ministerstwo Sprawiedliwości
 Departament Zawodów Prawniczych
-
 EGZAMIN WSTĘPNY
 DLA KANDYDATÓW NA APLIKANTÓW
 NOTARIALNYCH
 24 WRZEŚNIA 2022 r.
-
 ZESTAW PYTAŃ TESTOWYCH
-
-
 Pouczenie:
-
- 1.	Zestaw pytań testowych i kartę odpowiedzi oznacza się indywidualnym kodem. Wylosowany numer kodu kandydat wpisuje w prawym górnym rogu na pierwszej stronie zestawu pytań testowych i na każdej stronie karty odpowiedzi. Nie jest dopuszczalne w żadnym miejscu zestawu pytań testowych i karty odpowiedzi wpisanie imienia i nazwiska ani też podpisanie się własnym imieniem i nazwiskiem. 
-	
-	Karta odpowiedzi bez prawidłowo zamieszczonego oznaczenia kodowego nie podlega ocenie Komisji Kwalifikacyjnej. 
-
- 2.	Każdy kandydat otrzymuje:
-	1) jeden egzemplarz zestawu pytań testowych, zawarty na 36 stronach; 
-	2) jeden egzemplarz karty odpowiedzi, zawarty na 4 stronach.
-
- 3.	Przed przystąpieniem do rozwiązania zestawu pytań testowych należy sprawdzić, czy zawiera on wszystkie kolejno ponumerowane strony od 1 do 36 oraz czy karta odpowiedzi zawiera 4 strony. W przypadku braku którejkolwiek ze stron, należy 
-o tym niezwłocznie zawiadomić Komisję Kwalifikacyjną.
-
- 4.	Zestaw pytań testowych składa się ze 150 pytań jednokrotnego wyboru, przy czym każde pytanie zawiera po 3 propozycje odpowiedzi. 
-	Wybór odpowiedzi polega na zakreśleniu na karcie odpowiedzi znakiem „X” jednej z trzech propozycji odpowiedzi w odpowiedniej kolumnie (A albo B, albo C). 
-	Prawidłowa jest odpowiedź, która w połączeniu z treścią pytania tworzy – w świetle obowiązującego prawa – zdanie prawdziwe. Na każde pytanie testowe tylko jedna odpowiedź jest prawidłowa. Niedopuszczalne jest dokonywanie dodatkowych założeń, wykraczających poza treść pytania.
-
- 5.	Wyłączną podstawę ustalenia wyniku kandydata stanowią odpowiedzi zakreślone na karcie odpowiedzi. Odpowiedzi zaznaczone na zestawie pytań testowych nie będą podlegały ocenie. 
-
- 6.	Zmiana zakreślonej odpowiedzi jest niedozwolona. 
-
- 7.	Za każdą prawidłową odpowiedź kandydat otrzymuje 1 punkt. W przypadku zaznaczenia więcej niż jednej odpowiedzi, żadna z odpowiedzi nie podlega zaliczeniu jako prawidłowa. 
-
- 8.	Prawidłowość odpowiedzi ocenia się według stanu prawnego na dzień 24 września 2022 r.
-
-9.	Czas na rozwiązanie zestawu pytań testowych wynosi 150 minut (wyjątek: wydłużenie czasu egzaminu dla kandydata będącego osobą niepełnosprawną).
-1.	Zgodnie z Kodeksem cywilnym, Skarb Państwa:
-A.	jest osobą prawną,
-B.	nie jest osobą prawną,
-C.	jest jednostką organizacyjną niebędącą osobą prawną, do której stosuje się odpowiednio przepisy o osobach prawnych. 
-
-2.	Zgodnie z Kodeksem cywilnym, firmą osoby fizycznej będącej przedsiębiorcą:
-A.	zawsze jest wyłącznie jej imię i nazwisko,
-B.	nigdy nie jest jej imię i nazwisko,
-C.	jest jej imię i nazwisko; nie wyklucza to włączenia do firmy pseudonimu lub określeń wskazujących na przedmiot działalności przedsiębiorcy, miejsce jej prowadzenia oraz innych określeń dowolnie obranych. 
-
-3.	Zgodnie z Kodeksem cywilnym, czynność prawna sprzeczna z zasadami współżycia społecznego, o ile przepis szczególny nie stanowi inaczej:
-A.	jest nieważna,
-B.	jest zawsze ważna,
-C.	jest bezskuteczna. 
-
-4.	Zgodnie z Kodeksem cywilnym, oświadczenie woli wyrażone w postaci innej niż elektroniczna, które ma być złożone innej osobie, jest złożone:
-A.	zawsze z chwilą zapoznania się przez nią z jego treścią,
-B.	z chwilą, gdy doszło do niej w taki sposób, że mogła zapoznać się z jego treścią,
-C.	zawsze z chwilą jego wyrażenia. 
-
-5.	Zgodnie z Kodeksem cywilnym, prawomocne orzeczenie sądu stwierdzające obowiązek danej osoby do złożenia oznaczonego oświadczenia woli:
-A.	zastępuje to oświadczenie,
-B.	jest tytułem egzekucyjnym, podlegającym wykonaniu w drodze egzekucji sądowej, 
-C.	zastępuje to oświadczenie tylko wtedy, gdy sąd tak postanowi.   
-
-
-6.	Zgodnie z Kodeksem cywilnym, jeżeli przedsiębiorca otrzymał od osoby, z którą pozostaje w stałych stosunkach gospodarczych, ofertę zawarcia umowy w ramach swej działalności, brak niezwłocznej odpowiedzi poczytuje się za:
-A.	odmowę przyjęcia oferty, 
-B.	zaproszenie do rokowań,
-C.	przyjęcie oferty.
-
-7.	Zgodnie z Kodeksem cywilnym, oświadczenie woli złożone przez osobę, która z jakichkolwiek powodów znajdowała się w stanie wyłączającym świadome albo swobodne powzięcie decyzji i wyrażenie woli jest:
-A.	nieważne tylko wówczas, gdy zostało złożone innej osobie,
-B.	ważne, lecz nie wywołuje skutków prawnych,
-C.	nieważne. 
-
-8.	Zgodnie z Kodeksem cywilnym, jeżeli pełnomocnik po wygaśnięciu umocowania dokona w imieniu mocodawcy z drugą stroną czynności prawnej w granicach pierwotnego umocowania, czynność prawna jest:
-A.	zawsze nieważna, 
-B.	ważna tylko wtedy, gdy potwierdzi ją mocodawca,
-C.	ważna, chyba że druga strona o wygaśnięciu umocowania wiedziała lub z łatwością mogła się dowiedzieć.
-
-9.	Zgodnie z Kodeksem cywilnym, przez czynność prawną terminy przedawnienia roszczeń:
-A.	nie mogą być skracane ani przedłużane,
-B.	mogą być skracane, ale nie mogą być przedłużane,
-C.	mogą być przedłużane, ale nie mogą być skracane. 
-
-10.	Zgodnie z Kodeksem cywilnym, roszczenie o zniesienie współwłasności:
-A.	nie ulega przedawnieniu,  
-B.	ulega przedawnieniu, a termin przedawnienia wynosi lat dziesięć,
-C.	ulega przedawnieniu i termin przedawnienia wynosi lat dziesięć, ale bieg przedawnienia może być skrócony przez czynność prawną dokonaną między współwłaścicielami.  
-11.	Zgodnie z Kodeksem cywilnym, przedmiotem prawa użytkowania mogą być:
-A.	wyłącznie nieruchomości albo rzeczy ruchome, 
-B.	wyłącznie nieruchomości,
-C.	nieruchomości, rzeczy ruchome, a także prawa.
-
-12.	Zgodnie z Kodeksem cywilnym, posiadaczem rzeczy jest:
-A.	tylko właściciel, 
-B.	tylko posiadacz zależny, 
-C.	zarówno ten, kto nią faktycznie włada jak właściciel, jak i posiadacz zależny. 
-
-13.	Zgodnie z Kodeksem cywilnym, jeżeli świadczenie (z wyłączeniem świadczenia z gry lub zakładu) zostało spełnione dobrowolnie w celu zadośćuczynienia przedawnionemu roszczeniu, ten kto je spełnił: 
-A.	może żądać zwrotu świadczenia bez ograniczeń, 
-B.	może żądać zwrotu świadczenia w określonych przypadkach,
-C.	nie może żądać zwrotu świadczenia.
-
-14.	Zgodnie z Kodeksem cywilnym, roszczenie o zadośćuczynienie pieniężne za krzywdę doznaną przez osobę fizyczną: 
-A.	przechodzi na spadkobierców, gdy poszkodowany za życia skierował do zobowiązanego wezwanie do zapłaty,
-B.	przechodzi na spadkobierców, gdy powództwo o to roszczenie zostało wytoczone za życia poszkodowanego,
-C.	nigdy nie przechodzi na spadkobierców.
-
-15.	Zgodnie z Kodeksem cywilnym, zastrzeżona w umowie kara umowna ma na celu naprawienie szkody wynikłej z niewykonania lub nienależytego wykonania zobowiązania:
-A.	pieniężnego, 
-B.	niepieniężnego, 
-C.	zarówno pieniężnego, jak i niepieniężnego. 
-
-
-
-16.	Zgodnie z Kodeksem cywilnym, przejęcie długu może nastąpić: 
-A.	przez umowę między wierzycielem a dłużnikiem bez zgody osoby trzeciej, 
-B.	przez umowę między dłużnikiem a osobą trzecią bez zgody wierzyciela, 
-C.	przez umowę między wierzycielem a osobą trzecią za zgodą dłużnika. 
-
-17.	Zgodnie z Kodeksem cywilnym, prawo odkupu wykonywa się przez oświadczenie sprzedawcy złożone kupującemu, przy czym:
-A.	oświadczenie o wykonaniu prawa odkupu nigdy nie wymaga szczególnej formy,  
-B.	jeżeli zawarcie umowy sprzedaży wymagało zachowania szczególnej formy, oświadczenie o wykonaniu prawa odkupu powinno być złożone w tej samej formie, 
-C.	oświadczenie o wykonaniu prawa odkupu zawsze musi być złożone w formie aktu notarialnego.  
-
-18.	Zgodnie z Kodeksem cywilnym, do umowy zamiany stosuje się odpowiednio przepisy o: 
-A.	sprzedaży, 
-B.	darowiźnie,
-C.	użyczeniu. 
-
-19.	Zgodnie z Kodeksem cywilnym, w razie zbycia rzeczy najętej (niebędącej lokalem mieszkalnym) w czasie trwania najmu, uprawnienie do wypowiedzenia najmu z zachowaniem ustawowych terminów wypowiedzenia nie przysługuje nabywcy rzeczy najętej, wstępującemu w stosunek najmu na miejsce zbywcy, jeżeli: 
-A.	umowa najmu była zawarta na czas nieoznaczony, 
-B.	umowa najmu była zawarta na czas nieoznaczony z zachowaniem formy pisemnej i z datą pewną, a rzecz została najemcy wydana,
-C.	umowa najmu była zawarta na czas oznaczony z zachowaniem formy pisemnej i z datą pewną, a rzecz została najemcy wydana. 
-
-20.	Zgodnie z Kodeksem cywilnym, jeżeli termin zwrotu pożyczki nie jest oznaczony:
-A.	dłużnik obowiązany jest zwrócić pożyczkę w ciągu sześciu tygodni po wypowiedzeniu przez dającego pożyczkę,
-B.	dłużnik obowiązany jest zwrócić pożyczkę w ciągu sześciu miesięcy po wypowiedzeniu przez dającego pożyczkę,
-C.	umowa pożyczki jest nieważna.
-21.	Zgodnie z Kodeksem cywilnym, w umowie spółki można ustalić stosunek udziału wspólnika w zyskach i stratach, natomiast nie można: 
-A.	zwolnić niektórych wspólników od udziału w stratach,  
-B.	wyłączyć wspólnika od udziału w zyskach, 
-C.	ustalić, że każdy wspólnik nie jest uprawniony do równego udziału w zyskach. 
-
-22.	Zgodnie z Kodeksem cywilnym, osoba, względem której ciąży na dożywotniku ustawowy obowiązek alimentacyjny, może żądać uznania umowy o dożywocie za bezskuteczną w stosunku do niej, jeżeli wskutek tej umowy dożywotnik stał się niewypłacalny; uznania umowy o dożywocie za bezskuteczną nie można żądać po upływie: 
-A.	jednego roku od daty tej umowy,  
-B.	lat trzech od daty tej umowy, 
-C.	lat pięciu od daty tej umowy. 
-
-23.	Zgodnie z Kodeksem cywilnym, fundacja ustanowiona w testamencie przez spadkodawcę może być spadkobiercą, jeżeli zostanie wpisana do rejestru w ciągu dwóch lat od: 
-A.	ogłoszenia testamentu,
-B.	otwarcia spadku, 
-C.	uprawomocnienia się postanowienia o stwierdzeniu nabycia spadku.
-
-24.	Zgodnie z Kodeksem cywilnym, w przypadku dziedziczenia ustawowego, udział spadkowy małżonka, który dziedziczy w zbiegu z rodzicami, rodzeństwem i zstępnymi rodzeństwa spadkodawcy, wynosi połowę spadku; w braku zstępnych spadkodawcy, jego rodziców, rodzeństwa i ich zstępnych:
-A.	cały spadek przypada dziadkom spadkodawcy; dziedziczą oni w częściach równych,
-B.	spadek przypada gminie ostatniego miejsca zamieszkania spadkodawcy, jako spadkobiercy ustawowemu,
-C.	cały spadek przypada małżonkowi spadkodawcy.
-
-
-
-25.	Zgodnie z Kodeksem cywilnym, testament:
-A.	można sporządzić przez przedstawiciela,
-B.	można odwołać przez przedstawiciela,
-C.	nie może zostać sporządzony ani odwołany przez przedstawiciela.
-
-26.	Zgodnie z Kodeksem cywilnym, jeżeli spadek przypada kilku spadkobiercom, zapis zwykły: 
-A.	obciąża ich w stosunku do wielkości ich udziałów spadkowych, a spadkodawca nie może postanowić inaczej,
-B.	obciąża ich w stosunku do wielkości ich udziałów spadkowych, chyba że spadkodawca postanowił inaczej,
-C.	obciąża spadkobiercę, który ma największy udział, a spadkodawca nie może postanowić inaczej.
-
-27.	Zgodnie z Kodeksem cywilnym, roszczenie z tytułu wykonania zapisu zwykłego:
-A.	nie przedawnia się,
-B.	przedawnia się z upływem lat pięciu od dnia wymagalności zapisu,
-C.	przedawnia się z upływem lat trzech od dnia wymagalności zapisu.
-
-28.	Zgodnie z Kodeksem cywilnym, spadkobierca testamentowy nie może:
-A.	odrzucić spadku w żadnym przypadku,
-B.	przyjąć spadku bez ograniczenia odpowiedzialności za długi spadkowe,
-C.	przyjąć spadku z wyłączeniem odpowiedzialności za długi spadkowe.
-
-29.	Zgodnie z Kodeksem cywilnym, uchylenie się od skutków prawnych umowy o dział spadku zawartej pod wpływem błędu może nastąpić tylko wtedy, gdy błąd dotyczył:
-A.	wyłącznie stanu prawnego,
-B.	każdego stanu faktycznego,
-C.	stanu faktycznego, który strony uważały za niewątpliwy.
-
-
-30.	Zgodnie z Kodeksem cywilnym, spadkobierca ustawowy może przez umowę z przyszłym spadkodawcą zrzec się dziedziczenia po nim; umowa taka powinna być zawarta w formie:
-A.	pisemnej,
-B.	pisemnej z podpisami notarialnie poświadczonymi,
-C.	aktu notarialnego.
-
-31.	Zgodnie z Kodeksem cywilnym, umowa darowizny spadku powinna być zawarta w formie:
-A.	aktu notarialnego,
-B.	pisemnej z podpisami notarialnie poświadczonymi,
-C.	pisemnej. 
-
-32.	Zgodnie z ustawą o księgach wieczystych i hipotece, rękojmia wiary publicznej ksiąg wieczystych nie chroni:
-A.	rozporządzeń odpłatnych dokonanych na rzecz nabywcy działającego w dobrej wierze, 
-B.	rozporządzeń nieodpłatnych albo dokonanych na rzecz nabywcy działającego w złej wierze,
-C.	wyłącznie rozporządzeń dokonanych na rzecz nabywcy działającego w złej wierze.
-
-33.	Zgodnie z ustawą o księgach wieczystych i hipotece, właściciel kilku nieruchomości może żądać połączenia ich w księdze wieczystej w jedną nieruchomość:
-A.	jeżeli nieruchomości te stanowią całość gospodarczą lub graniczą ze sobą,
-B.	jeżeli nieruchomości te nabył na tej samej podstawie prawnej,
-C.	jeżeli uzyskał zgodę starosty na połączenie nieruchomości.
-
-34.	Zgodnie z ustawą o księgach wieczystych i hipotece, zgoda na dokonanie w księdze wieczystej wpisu ograniczonego prawa rzeczowego na nieruchomości:
-A.	może być uzależniona od warunku lub terminu,
-B.	może być uzależniona od warunku, o ile ziszczenie się warunku udowodnione zostanie dokumentem urzędowym lub prywatnym z podpisem urzędowo poświadczonym,
-C.	nie może być uzależniona od warunku lub terminu.
-35.	Zgodnie z ustawą o księgach wieczystych i hipotece, przedmiotem hipoteki może być także:
-A.	wierzytelność zabezpieczona zastawem,
-B.	wierzytelność zabezpieczona hipoteką,
-C.	spółdzielcze lokatorskie prawo do lokalu mieszkalnego. 
-
-36.	Zgodnie z ustawą o księgach wieczystych i hipotece, zastrzeżenie, przez które właściciel nieruchomości zobowiązuje się względem wierzyciela hipotecznego, że nie dokona zbycia lub obciążenia nieruchomości przed wygaśnięciem hipoteki:
-A.	jest dopuszczalne,
-B.	jest dopuszczalne, ale dla jego skuteczności wobec osób trzecich niezbędny jest wpis w księdze wieczystej,
-C.	jest niedopuszczalne.
-
-37.	Zgodnie z ustawą o nabywaniu nieruchomości przez cudzoziemców, cudzoziemcem w rozumieniu tej ustawy jest osoba fizyczna:
-A.	posiadająca obywatelstwo polskie, ale mieszkająca za granicą, 
-B.	posiadająca obywatelstwo polskie, będąca w związku małżeńskim z osobą nieposiadającą obywatelstwa polskiego,
-C.	nieposiadająca obywatelstwa polskiego. 
-
-38.	Zgodnie z ustawą o nabywaniu nieruchomości przez cudzoziemców, zezwolenie na nabycie nieruchomości przez cudzoziemca jest ważne: 
-A.	dwa lata od dnia wydania, 
-B.	trzy lata od dnia wydania,
-C.	pięć lat od dnia wydania. 
-
-39.	Zgodnie z ustawą o nabywaniu nieruchomości przez cudzoziemców, wypis aktu notarialnego, na mocy którego cudzoziemiec nabył nieruchomość położoną na terytorium Rzeczypospolitej Polskiej, notariusz przesyła ministrowi właściwemu do spraw wewnętrznych w terminie:
-A.	7 dni od dnia sporządzenia, 
-B.	14 dni od dnia sporządzenia, 
-C.	21 dni od dnia sporządzenia. 
-40.	Zgodnie z ustawą o kształtowaniu ustroju rolnego, ilekroć w tej ustawie jest mowa o „nieruchomości rolnej” – należy przez to rozumieć nieruchomość rolną w rozumieniu Kodeksu cywilnego:
-A.	z wyłączeniem nieruchomości położonych na obszarach przeznaczonych w planach zagospodarowania przestrzennego na cele inne niż rolne,
-B.	z wyłączeniem wszystkich nieruchomości położonych w granicach administracyjnych miast,
-C.	z wyłączeniem wszystkich nieruchomości o powierzchni większej niż 300 ha.
-
-41.	Zgodnie z ustawą o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, umową najmu okazjonalnego lokalu jest umowa najmu lokalu mieszkalnego, którego właściciel, będący osobą fizyczną:
-A.	prowadzi działalność gospodarczą w zakresie wynajmowania lokali, zawarta na czas oznaczony, nie dłuższy niż 10 lat,
-B.	nie prowadzi działalności gospodarczej w zakresie wynajmowania lokali, zawarta na czas nieoznaczony,
-C.	nie prowadzi działalności gospodarczej w zakresie wynajmowania lokali, zawarta na czas oznaczony, nie dłuższy niż 10 lat.
-
-42.	Zgodnie z ustawą o własności lokali, wspólnota mieszkaniowa: 
-A.	nigdy nie może nabywać praw ani zaciągać zobowiązań, 
-B.	może nabywać prawa i zaciągać zobowiązania, pozywać i być pozwana, 
-C.	może pozywać i być pozwana, nabywać prawa, ale nie może zaciągać zobowiązań. 
-
-43.	Zgodnie z ustawą o własności lokali, w przypadku kiedy odrębna własność lokalu jest ustanowiona w drodze umowy, umowa taka:
-A.	powinna być dokonana w formie aktu notarialnego, a do powstania własności lokalu niezbędny jest wpis do księgi wieczystej,
-B.	powinna być dokonana w formie aktu notarialnego, a własność lokalu powstaje z chwilą zawarcia umowy,  
-C. 	może być dokonana w formie pisemnej z podpisami notarialnie poświadczonymi, a własność lokalu powstaje z chwilą zawarcia umowy. 
-
-44.	Zgodnie z ustawą o gospodarce nieruchomościami, do gminnego zasobu nieruchomości należą nieruchomości: 
-A.	stanowiące przedmiot własności gminy, które zostały oddane przez gminę w użytkowanie wieczyste, 
-B.	które stanowią przedmiot własności gminy i nie zostały oddane w użytkowanie wieczyste oraz nieruchomości będące przedmiotem użytkowania wieczystego gminy,
-C.	niestanowiące przedmiotu własności gminy, ale oddane jej w trwały zarząd. 
-
-45.	Zgodnie z ustawą o gospodarce nieruchomościami, decyzja właściwego organu o wygaśnięciu trwałego zarządu przysługującego jednostkom organizacyjnym resortu obrony narodowej wymaga: 
-A.	zgody starosty, wydanej w porozumieniu z ministrem właściwym do spraw obrony narodowej, 
-B.	zgody wojewody, wydanej w porozumieniu z ministrem właściwym do spraw wewnętrznych, 
-C.	zgody wojewody, wydanej w porozumieniu z ministrem właściwym do spraw obrony narodowej. 
-
-46.	Zgodnie z ustawą o gospodarce nieruchomościami, od orzeczenia samorządowego kolegium odwoławczego ustalającego nową wysokość opłaty rocznej z tytułu użytkowania wieczystego nieruchomości gruntowej, właściwy organ lub użytkownik wieczysty mogą wnieść w terminie 14 dni od dnia doręczenia orzeczenia:
-A.	sprzeciw,
-B.	odwołanie, 
-C.	wniosek o ponowne rozpatrzenie sprawy.
-
-47.	Zgodnie z ustawą o gospodarce nieruchomościami, w przypadku sprzedaży nieruchomości wpisanej do rejestru zabytków lub prawa użytkowania wieczystego takiej nieruchomości, gminie nie przysługuje prawo pierwokupu: 
-A.	jeżeli prawo pierwokupu zostało ujawnione w księdze wieczystej, 
-B.	jeżeli prawo pierwokupu nie zostało ujawnione w księdze wieczystej, 
-C.	jeżeli prawo pierwokupu zostało ujawnione w księdze wieczystej wraz z ujawnieniem, że nieruchomość została wpisana do rejestru zabytków. 
-48.	Zgodnie z ustawą – Prawo spółdzielcze, członek spółdzielni może wystąpić z niej za wypowiedzeniem; wypowiedzenie powinno być dokonane: 
-A.	na piśmie dla celów dowodowych,
-B.	pod nieważnością na piśmie,
-C.	na piśmie z podpisem urzędowo poświadczonym.
-
-49.	Zgodnie z ustawą – Prawo spółdzielcze, rada nadzorcza spółdzielni składa się z  członków wybranych stosownie do postanowień statutu przez walne zgromadzenie, zebranie przedstawicieli lub zebrania grup członkowskich; rada nadzorcza składa się co najmniej z: 
-A.	dwóch członków,
-B.	trzech członków,
-C.	pięciu członków.
-
-50.	Zgodnie z ustawą o spółdzielniach mieszkaniowych, nie można być członkiem rady nadzorczej spółdzielni mieszkaniowej dłużej niż przez: 
-A.	jedną kadencję rady nadzorczej,
-B.	2 kolejne kadencje rady nadzorczej,
-C.	3 kolejne kadencje rady nadzorczej.
-
-51.	Zgodnie z ustawą o spółdzielniach mieszkaniowych, jeżeli w toku likwidacji, postępowania upadłościowego albo postępowania egzekucyjnego z nieruchomości spółdzielni nabywcą budynku albo udziału w budynku nie będzie spółdzielnia mieszkaniowa, spółdzielcze lokatorskie prawo do lokalu mieszkalnego przekształca się w: 
-A.	prawo użytkowania,
-B.	prawo najmu podlegające przepisom ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego,
-C.	prawo własności.
-
-
-
-
-52.	Zgodnie z ustawą o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, zarządca sukcesyjny:
-A.	nigdy nie może ustanowić pełnomocnika, 
-B.	może udzielić pełnomocnictwa ogólnego, 
-C.	może ustanowić pełnomocnika do poszczególnej czynności lub pewnego rodzaju czynności. 
-
-53.	Zgodnie z Kodeksem postępowania cywilnego, sprawy o uzgodnienie treści księgi wieczystej z rzeczywistym stanem prawnym należą w pierwszej instancji do właściwości:
-A.	sądów rejonowych,
-B.	sądów okręgowych niezależnie od wartości przedmiotu sporu,
-C.	sądów okręgowych, jeżeli wartość przedmiotu sporu przewyższa siedemdziesiąt pięć tysięcy złotych. 
-
-54.	Zgodnie z Kodeksem postępowania cywilnego, wypowiedzenie pełnomocnictwa procesowego przez mocodawcę odnosi skutek prawny w stosunku do sądu:
-A.	zawsze z chwilą wypowiedzenia,
-B.	z chwilą zawiadomienia go o tym,
-C.	z upływem dwóch tygodni od wypowiedzenia. 
-
-55.	Zgodnie z Kodeksem postępowania cywilnego, jeżeli kodeks przewiduje grzywnę bez określenia jej wysokości, grzywnę wymierza się w kwocie do:
-A.	trzech tysięcy złotych,
-B.	pięciu tysięcy złotych,
-C.	dziesięciu tysięcy złotych. 
-
-56.	Zgodnie z Kodeksem postępowania cywilnego, spóźniony lub z mocy ustawy niedopuszczalny wniosek o przywrócenie terminu do dokonania czynności procesowej, sąd:
-A.	zwraca,
-B.	oddala,
-C.	odrzuca. 
-
-57.	Zgodnie z Kodeksem postępowania cywilnego, jeżeli o to samo roszczenie pomiędzy tymi samymi stronami sprawa jest w toku, sąd:
-A.	odrzuci pozew,
-B.	sprawę z kolejnego pozwu połączy do wspólnego rozpoznania i rozstrzygnięcia ze sprawą wcześniej zawisłą,
-C.	zwróci pozew. 
-
-58.	Zgodnie z Kodeksem postępowania cywilnego, dokument prywatny sporządzony w formie pisemnej albo elektronicznej:
-A.	stanowi dowód tego, co zostało w nim urzędowo zaświadczone,
-B.	stanowi dowód tego, że osoba, która go podpisała, złożyła oświadczenie zawarte 
-w dokumencie,
-C.	nie stanowi dowodu. 
-
-59.	Zgodnie z Kodeksem postępowania cywilnego, sąd wydając wyrok na posiedzeniu, na którym nastąpiło zamknięcie rozprawy, bierze za podstawę wyrokowania stan rzeczy istniejący w chwili:
-A.	wniesienia pozwu,
-B.	zamknięcia rozprawy,
-C.	doręczenia odpisu pozwu pozwanemu. 
-
-60.	Zgodnie z Kodeksem postępowania cywilnego, pozwany, przeciwko któremu zapadł wyrok zaoczny, może złożyć:
-A.	apelację,
-B.	zarzuty,
-C.	sprzeciw. 
-
-61.	Zgodnie z Kodeksem postępowania cywilnego, skarga kasacyjna jest niedopuszczalna: 
-A.	we wszystkich sprawach, w których wartość przedmiotu zaskarżenia jest niższa niż pięćdziesiąt tysięcy złotych,
-B.	w sprawach o odszkodowanie z tytułu wyrządzenia szkody przez wydanie prawomocnego orzeczenia niezgodnego z prawem,
-C.	w sprawach o rozwód. 
-62.	Zgodnie z Kodeksem postępowania cywilnego, z wyjątkiem przypadku, gdy strona była pozbawiona możności działania lub nie była należycie reprezentowana, nie można żądać wznowienia postępowania w przypadku, gdy od dnia uprawomocnienia się wyroku upłynęło lat:
-A.	dziesięć,
-B.	pięć,
-C.	trzy. 
-
-63.	Zgodnie z Kodeksem rodzinnym i opiekuńczym, oświadczenie o wstąpieniu 
-w związek małżeński:
-A.	może być zawsze złożone przez pełnomocnika, 
-B.	może być złożone przez pełnomocnika za zezwoleniem sądu udzielonym z ważnych powodów,
-C.	w żadnym wypadku nie może być złożone przez pełnomocnika. 
-
-64.	Zgodnie z Kodeksem rodzinnym i opiekuńczym, mężczyzna, który nie ukończył lat osiemnastu, ale ukończył lat szesnaście:
-A.	za zgodą sądu opiekuńczego może zawrzeć małżeństwo,
-B.	nie może zawrzeć małżeństwa,
-C.	za zgodą przedstawiciela ustawowego oraz sądu opiekuńczego może zawrzeć małżeństwo. 
-
-65.	Zgodnie z Kodeksem rodzinnym i opiekuńczym, gdy między małżonkami istnieje ustawowa wspólność majątkowa, do majątku osobistego każdego z małżonków należą:
-A.	przedmioty majątkowe nabyte przez dziedziczenie ustawowe,
-B.	pobrane wynagrodzenie za pracę,
-C.	środki zgromadzone na rachunku otwartego lub pracowniczego funduszu emerytalnego każdego z małżonków. 
-
-
-
-66.	Zgodnie z Kodeksem rodzinnym i opiekuńczym, jeżeli żadnemu z rodziców nie przysługuje władza rodzicielska albo jeżeli rodzice są nieznani, ustanawia się dla dziecka:
-A.	zarządcę tymczasowego,
-B.	kuratora,
-C.	opiekę.
-
-67.	Zgodnie z Kodeksem rodzinnym i opiekuńczym, rodzice obowiązani są sprawować z należytą starannością zarząd majątkiem dziecka pozostającego pod ich władzą rodzicielską; zarząd sprawowany przez rodziców obejmuje: 
-A.	przedmioty oddane dziecku do swobodnego użytku,
-B.	przedmioty przypadające dziecku z testamentu, o ile spadkodawca nie postanowił inaczej, 
-C.	zarobek dziecka.
-
-68.	Zgodnie z Kodeksem rodzinnym i opiekuńczym, czysty dochód z majątku dziecka powinien być przede wszystkim obracany: 
-A.	wyłącznie na wychowanie dziecka,
-B.	wyłącznie na utrzymanie dziecka i potrzeby jego rodziców, 
-C.	na utrzymanie i wychowanie dziecka oraz jego rodzeństwa, które wychowuje się razem z nim, nadwyżka zaś na inne uzasadnione potrzeby rodziny.
-
-69.	Zgodnie z ustawą o zastawie rejestrowym i rejestrze zastawów, zastaw rejestrowy wygasa i podlega wykreśleniu z rejestru zastawów po upływie:
-A.	dziesięciu lat od chwili wpisu, chyba że strony postanowią o utrzymaniu zastawu na czas dalszy, nie dłuższy niż dziesięć lat, i do rejestru zastawów zostanie złożona zmiana umowy zastawniczej,
-B.	dwudziestu lat od chwili wpisu, chyba że strony postanowią o utrzymaniu zastawu na czas dalszy, nie dłuższy niż dziesięć lat, i do rejestru zastawów zostanie złożona zmiana umowy zastawniczej,
-C.	trzydziestu lat od chwili wpisu, chyba że strony postanowią o utrzymaniu zastawu na czas dalszy, nie dłuższy niż dziesięć lat, i do rejestru zastawów zostanie złożona zmiana umowy zastawniczej.
-
-70.	Zgodnie z ustawą o Krajowym Rejestrze Sądowym, wniosek o wpis do Krajowego Rejestru Sądowego powinien być złożony nie później niż w terminie:
-A.	7 dni od dnia zdarzenia uzasadniającego dokonanie wpisu, chyba że przepis szczególny stanowi inaczej,
-B.	14 dni od dnia zdarzenia uzasadniającego dokonanie wpisu, chyba że przepis szczególny stanowi inaczej,
-C.	3 miesięcy od dnia zdarzenia uzasadniającego dokonanie wpisu, chyba że przepis szczególny stanowi inaczej.
-
-71.	Zgodnie z ustawą – Prawo upadłościowe, nie można ogłosić upadłości:
-A.	niepublicznych podmiotów leczniczych,
-B.	publicznych samodzielnych zakładów opieki zdrowotnej,
-C.	spółek z ograniczoną odpowiedzialnością, prostych spółek akcyjnych i spółek akcyjnych prowadzących gospodarstwo rolne, które nie prowadzą innej działalności gospodarczej lub zawodowej.
-
-72.	Zgodnie z ustawą – Prawo upadłościowe, w razie oddalenia wniosku o wyłączenie z masy upadłości wnioskodawca może w drodze powództwa żądać wyłączenia mienia z masy upadłości; powództwo wnosi się w terminie miesiąca od dnia doręczenia postanowienia sędziego-komisarza o odmowie wyłączenia z masy upadłości do:
-A.	sędziego-komisarza,
-B.	sądu upadłościowego,
-C.	sądu okręgowego.
-
-73.	Zgodnie z ustawą – Prawo upadłościowe, spełnienie świadczenia do rąk upadłego przedsiębiorcy dokonane po obwieszczeniu o ogłoszeniu jego upadłości w Krajowym Rejestrze Zadłużonych:
-A.	zawsze zwalnia z obowiązku spełnienia świadczenia do masy upadłości, 
-B.	nigdy nie zwalnia z obowiązku spełnienia świadczenia do masy upadłości, 
-C.	nie zwalnia z obowiązku spełnienia świadczenia do masy upadłości, chyba że równowartość świadczenia została przekazana przez upadłego do masy upadłości.
-
-74.	Zgodnie z ustawą – Prawo upadłościowe, po ogłoszeniu upadłości przedsiębiorcy będącego jedną ze stron umowy pożyczki, umowa pożyczki:
-A.	zawsze wygasa, 
-B.	wygasa, gdy przedmiot pożyczki nie został jeszcze wydany,
-C.	nigdy nie wygasa.
-
-75.	Zgodnie z ustawą – Prawo upadłościowe, po ogłoszeniu upadłości przedsiębiorcy postępowanie egzekucyjne skierowane do majątku wchodzącego w skład masy upadłości, wszczęte przed dniem ogłoszenia upadłości, ulega:
-A.	zawieszeniu z mocy prawa po uprawomocnieniu się postanowienia o ogłoszeniu upadłości,
-B.	umorzeniu z mocy prawa po uprawomocnieniu się postanowienia o ogłoszeniu upadłości,
-C.	wstrzymaniu po uprawomocnieniu się postanowienia o ogłoszeniu upadłości.
-
-76.	Zgodnie z ustawą – Prawo wekslowe, roszczenia wekslowe przeciw akceptantowi ulegają przedawnieniu z upływem:
-A.	roku, licząc od dnia płatności wekslu,
-B.	lat trzech, licząc od dnia płatności wekslu,
-C.	lat pięciu, licząc od dnia płatności wekslu.
-
-77.	Zgodnie z ustawą – Prawo wekslowe, ten, komu weksel (inny niż weksel in blanco) zaginął, może żądać uznania go za umorzony:
-A.	od sądu rejonowego miejsca wystawienia wekslu,
-B.	od sądu rejonowego miejsca płatności wekslu,
-C.	od sądu rejonowego miejsca avalowania wekslu.
-
-
-
-
-
-
-
-78.	Zgodnie z ustawą – Prawo przedsiębiorców, średni przedsiębiorca to przedsiębiorca, który nie jest mikroprzedsiębiorcą ani małym przedsiębiorcą i w co najmniej jednym roku z dwóch ostatnich lat obrotowych spełniał łącznie następujące warunki:
-A.	zatrudniał średniorocznie mniej niż 10 pracowników oraz osiągnął roczny obrót netto ze sprzedaży towarów, wyrobów i usług oraz z operacji finansowych nieprzekraczający równowartości w złotych 2 milionów euro, 
-B.	zatrudniał średniorocznie mniej niż 50 pracowników oraz osiągnął roczny obrót netto ze sprzedaży towarów, wyrobów i usług oraz z operacji finansowych nieprzekraczający równowartości w złotych 10 milionów euro, 
-C.	zatrudniał średniorocznie mniej niż 250 pracowników oraz osiągnął roczny obrót netto ze sprzedaży towarów, wyrobów i usług oraz z operacji finansowych nieprzekraczający równowartości w złotych 50 milionów euro, lub sumy aktywów jego bilansu sporządzonego na koniec jednego z tych lat nie przekroczyły równowartości w złotych 43 milionów euro.
-
-79.	Zgodnie z ustawą – Prawo przedsiębiorców, dokonywanie lub przyjmowanie płatności związanych z wykonywaną działalnością gospodarczą następuje za pośrednictwem rachunku płatniczego przedsiębiorcy, w każdym przypadku gdy stroną transakcji, z której wynika płatność, jest inny przedsiębiorca oraz gdy jednorazowa wartość transakcji, bez względu na liczbę wynikających z niej płatności, przekracza:
-A.	15 000 zł lub równowartość tej kwoty, 
-B.	10 000 zł lub równowartość tej kwoty, 
-C.	5 000 zł lub równowartość tej kwoty.
-
-80.	Zgodnie z ustawą o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy, przedsiębiorca podlega wykreśleniu 
-z Centralnej Ewidencji i Informacji o Działalności Gospodarczej z urzędu, 
-w przypadkach określonych w tej ustawie, w drodze decyzji administracyjnej wydawanej przez:
-A.	ministra właściwego do spraw gospodarki, 
-B. 	wojewodę,
-C.	starostę.
-81.	Zgodnie z ustawą o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy, dane dotyczące wykreślonego przedsiębiorcy wpisane do Centralnej Ewidencji i Informacji o Działalności Gospodarczej przed dniem jego wykreślenia z tej ewidencji podlegają usunięciu po upływie:
-A.	10 lat od dnia wykreślenia, 
-B.	30 lat od dnia wykreślenia,
-C.	50 lat od dnia wykreślenia.
-
-82.	Zgodnie z Kodeksem spółek handlowych, spółkami handlowymi są:
-A.	spółka partnerska, spółka cywilna, spółka komandytowa, spółka komandytowo-akcyjna, spółka z ograniczoną odpowiedzialnością, spółka akcyjna, 
-B.	spółka jawna, spółka partnerska, spółka komandytowa, spółka komandytowo-akcyjna, spółka z ograniczoną odpowiedzialnością, prosta spółka akcyjna i spółka akcyjna,
-C.	wyłącznie spółka z ograniczoną odpowiedzialnością, prosta spółka akcyjna i spółka akcyjna.
-
-83.	Zgodnie z Kodeksem spółek handlowych, spółka z ograniczoną odpowiedzialnością w organizacji z chwilą wpisu do rejestru przedsiębiorców:
-A.	staje się spółką z ograniczoną odpowiedzialnością, 
-B.	pozostaje spółką w organizacji, ale uzyskuje osobowość prawną, 
-C.	przekształca się w spółkę akcyjną. 
-
-84.	Zgodnie z Kodeksem spółek handlowych, przedmiotem wkładu niepieniężnego do spółki z ograniczoną odpowiedzialnością i spółki akcyjnej może być:
-A.	służebność osobista, 
-B.	prawo użytkowania wieczystego nieruchomości, 
-C.	świadczenie pracy bądź usług. 
-
-
-
-
-85.	Zgodnie z Kodeksem spółek handlowych, jeżeli umowa spółki jawnej nie stanowi inaczej, w spółce jawnej:
-A.	ustanowienie oraz odwołanie prokury wymaga zgody wszystkich wspólników mających prawo prowadzenia spraw spółki, 
-B.	ustanowić prokurę może każdy wspólnik, bez względu na to czy ma prawo prowadzenia spraw spółki, 
-C.	odwołać prokurę może każdy wspólnik mający prawo prowadzenia spraw spółki.
-
-86.	Zgodnie z Kodeksem spółek handlowych, w spółce partnerskiej, jeżeli  prowadzenie spraw i reprezentowanie spółki powierzono zarządowi:
-A.	członkiem zarządu nie może być osoba trzecia, 
-B.	członkami zarządu muszą być wszyscy partnerzy, 
-C.	członkiem zarządu jest co najmniej jeden partner; członkiem zarządu może być także osoba trzecia. 
-
-87.	Zgodnie z Kodeksem spółek handlowych, w przypadku utraty przez partnera  uprawnień do wykonywania wolnego zawodu:
-A.	powinien on wystąpić ze spółki partnerskiej najpóźniej z końcem roku obrotowego, w którym utracił prawo wykonywania wolnego zawodu, 
-B.	powinien on wystąpić ze spółki partnerskiej najpóźniej w terminie 2 lat od dnia utraty prawa wykonywania wolnego zawodu, 
-C.	nie musi występować ze spółki partnerskiej, ale traci prawo reprezentowania spółki.
-
-88.	Zgodnie z Kodeksem spółek handlowych, w spółce komandytowo-akcyjnej prawo uczestniczenia w walnym zgromadzeniu ma: 
-A.	tylko akcjonariusz spółki komandytowo-akcyjnej, 
-B.	akcjonariusz oraz komplementariusz tylko w przypadku, gdy jest akcjonariuszem spółki komandytowo-akcyjnej, 
-C.	akcjonariusz oraz komplementariusz także w przypadku, gdy nie jest akcjonariuszem spółki komandytowo-akcyjnej. 
-
-
-
-89.	Zgodnie z Kodeksem spółek handlowych, spółka z ograniczoną odpowiedzialnością może być utworzona przez jedną albo więcej osób:
-A.	w każdym celu prawnie dopuszczalnym, chyba że ustawa stanowi inaczej,
-B.	tylko w celu gospodarczym,
-C.	tylko w celu prowadzenia działalności gospodarczej.
-
-90.	Zgodnie z Kodeksem spółek handlowych, w spółce z ograniczoną odpowiedzialnością, wspólnik, który wniósł wkłady niepieniężne oraz członkowie zarządu, którzy, wiedząc o tym, zgłosili spółkę do rejestru przedsiębiorców, obowiązani są solidarnie wyrównać spółce brakującą wartość, jeżeli wartość wkładów niepieniężnych została znacznie zawyżona w stosunku do ich wartości:
-A.	nominalnej w dniu zawarcia umowy spółki,
-B.	zbywczej w dniu zawarcia umowy spółki,
-C.	bilansowej w dniu sporządzenia sprawozdania finansowego kończącego pierwszy pełny rok obrotowy.
-
-91.	Zgodnie z Kodeksem spółek handlowych, w spółce z ograniczoną odpowiedzialnością, jeżeli w wyniku rezygnacji członka zarządu żaden mandat w zarządzie nie byłby obsadzony, członek zarządu składa rezygnację:
-A.	spółce, listem poleconym na jej adres,
-B.	sądowi rejestrowemu,
-C.	wspólnikom, zwołując jednocześnie zgromadzenie wspólników, chyba że umowa spółki stanowi inaczej. 
-
-92.	Zgodnie z Kodeksem spółek handlowych, umowa prostej spółki akcyjnej, która nie jest zawierana przy wykorzystaniu wzorca umowy udostępnionego w systemie teleinformatycznym, powinna być zawarta w formie:
-A.	pisemnej dla celów dowodowych,
-B.	pisemnej z podpisami urzędowo poświadczonymi,
-C.	aktu notarialnego. 
-
-
-
-93.	Zgodnie z Kodeksem spółek handlowych, wkłady do prostej spółki akcyjnej powinny zostać wniesione do spółki w całości:
-A.	przed zarejestrowaniem,
-B.	w ciągu trzech lat od dnia wpisu spółki do rejestru przedsiębiorców,
-C.	w ciągu pięciu lat od dnia wpisu spółki do rejestru przedsiębiorców. 
-
-94.	Zgodnie z Kodeksem spółek handlowych, w prostej spółce akcyjnej, w razie jej rozwiązania i likwidacji, cały majątek spółki może zostać przejęty przez oznaczonego akcjonariusza (akcjonariusza przejmującego), z obowiązkiem zaspokojenia wierzycieli i pozostałych akcjonariuszy, jeżeli przewiduje tak uchwała walnego zgromadzenia, podjęta większością trzech czwartych głosów, oddanych w obecności akcjonariuszy reprezentujących co najmniej:
-A.	połowę ogólnej liczby akcji, a sąd rejestrowy zezwoli na przejęcie,
-B.	połowę ogólnej liczby akcji, bez potrzeby udzielania zezwolenia na przejęcie przez sąd rejestrowy, 
-C.	dwie trzecie ogólnej liczby akcji, bez potrzeby udzielania zezwolenia na przejęcie przez sąd rejestrowy. 
-
-95.	Zgodnie z Kodeksem spółek handlowych, w przypadku gdy wszystkie akcje spółki akcyjnej przysługują jedynemu akcjonariuszowi albo jedynemu akcjonariuszowi 
-i spółce, oświadczenie woli takiego akcjonariusza składane spółce wymaga:
-A.	formy pisemnej pod rygorem nieważności, chyba że ustawa stanowi inaczej,
-B.	formy pisemnej z podpisem urzędowo poświadczonym pod rygorem nieważności, chyba że ustawa stanowi inaczej,
-C.	formy pisemnej z datą pewną pod rygorem nieważności, chyba że ustawa stanowi inaczej.
-
-96.	Zgodnie z Kodeksem spółek handlowych, rada nadzorcza spółki akcyjnej będącej spółką publiczną składa się co najmniej z:
-A.	trzech członków,
-B.	pięciu członków,
-C.	siedmiu członków.
-
-97.	Zgodnie z Kodeksem spółek handlowych, w spółce akcyjnej wysokość kapitału docelowego nie może przekraczać:
-A.	połowy kapitału zakładowego na dzień udzielenia upoważnienia radzie nadzorczej,
-B.	trzech czwartych kapitału zakładowego na dzień udzielenia upoważnienia zarządowi,
-C.	trzech piątych kapitału zakładowego na dzień udzielenia upoważnienia walnemu zgromadzeniu.
-
-98.	Zgodnie z Kodeksem pracy, pracodawcą jest:
-A.	jednostka organizacyjna, choćby nie posiadała osobowości prawnej, a także osoba fizyczna, jeżeli zatrudniają one pracowników,
-B.	wyłącznie osoba prawna i osoba fizyczna, jeżeli zatrudniają one pracowników, 
-C.	wyłącznie osoba prawna i jednostka organizacyjna, choćby nie posiadała osobowości prawnej, jeżeli zatrudniają one pracowników.
-
-99.	Zgodnie z Kodeksem pracy, nadzór i kontrolę przestrzegania prawa pracy, w tym przepisów i zasad bezpieczeństwa i higieny pracy, sprawuje:
-A.	minister właściwy do spraw pracy,
-B.	Państwowa Inspekcja Pracy,	
-C.	komisja bezpieczeństwa i higieny pracy.
-
-100.	Zgodnie z ustawą o systemie ubezpieczeń społecznych, od wydanych przez Zakład Ubezpieczeń Społecznych decyzji w zakresie indywidualnych spraw dotyczących przebiegu ubezpieczeń przysługuje odwołanie do:
-A.	właściwego sądu powszechnego,
-B.	Prezesa Zakładu Ubezpieczeń Społecznych,	
-C.	wojewódzkiego sądu administracyjnego.
-
-101.	Zgodnie z ustawą o dowodach osobistych, dowód osobisty wydany osobie, która nie ukończyła 12. roku życia, jest ważny:
-A.	przez okres 5 lat od daty jego wydania,
-B.	przez okres 6 lat od daty jego wydania,
-C.	przez okres 10 lat od daty jego wydania.
-
-102.	Zgodnie z ustawą – Prawo budowlane, pod warunkiem zgodności zamierzenia budowlanego z przepisami, prawo zabudowy nieruchomości gruntowej ma:
-A.	wyłącznie właściciel nieruchomości gruntowej, 
-B.	wyłącznie właściciel lub użytkownik wieczysty nieruchomości gruntowej, 
-C.	każdy, jeżeli wykaże tytuł prawny wynikający z prawa własności, użytkowania wieczystego, zarządu, ograniczonego prawa rzeczowego albo stosunku zobowiązaniowego, przewidującego uprawnienia do wykonywania robót budowlanych.
-
-103.	Zgodnie z ustawą o samorządzie gminnym, wójt (burmistrz, prezydent miasta) obowiązany jest do przedłożenia wojewodzie uchwał rady gminy, które nie ustanawiają przepisów porządkowych, w ciągu:
-A.	7 dni od dnia ich podjęcia,
-B.	14 dni od dnia ich podjęcia,
-C.	14 dni od dnia ich ogłoszenia.
-
-104.	Zgodnie z ustawą o samorządzie powiatowym, do wyłącznej właściwości rady powiatu należy podejmowanie uchwał w sprawach majątkowych powiatu dotyczących między innymi:
-A.	uchwalania regulaminu organizacyjnego starostwa powiatowego,
-B.	tworzenia i przystępowania do związków, stowarzyszeń, fundacji i spółdzielni oraz ich rozwiązywania lub występowania z nich,
-C.	zatrudniania i zwalniania kierowników jednostek organizacyjnych powiatu.
-
-105.	Zgodnie z ustawą o samorządzie województwa, w sprawie odwołania sejmiku województwa przed upływem kadencji rozstrzyga się wyłącznie w drodze:
-A.	postanowienia Prezydenta Rzeczypospolitej Polskiej, na wniosek ministra właściwego do spraw administracji publicznej,
-B.	rozporządzenia Rady Ministrów, na wniosek ministra właściwego do spraw administracji publicznej,
-C.	referendum wojewódzkiego.
-
-
-106.	Zgodnie z ustawą o planowaniu i zagospodarowaniu przestrzennym, uchwała rady gminy w sprawie uchwalenia miejscowego planu zagospodarowania przestrzennego obowiązuje od dnia wejścia w życie w niej określonego, jednak nie wcześniej niż po upływie:
-A.	7 dni od dnia opublikowania na stronie internetowej gminy,
-B.	14 dni od dnia ogłoszenia w dzienniku urzędowym województwa,
-C.	30 dni od dnia ogłoszenia w dzienniku urzędowym województwa.
-
-107.	Zgodnie z ustawą o Krajowym Zasobie Nieruchomości, nieruchomościami wchodzącymi w skład Zasobu Nieruchomości gospodaruje na zasadach określonych w ustawie:
-A.	Krajowy Zasób Nieruchomości,
-B.	minister właściwy do spraw aktywów państwowych,
-C.	minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa.
-
-108.	Zgodnie z ustawą – Prawo o aktach stanu cywilnego, przyjęcie przez kierownika urzędu stanu cywilnego albo konsula oświadczenia rozwiedzionego małżonka 
-o powrocie do nazwiska noszonego przed zawarciem małżeństwa dokumentuje się w formie:
-A.	protokołu, który podpisują rozwiedziony małżonek oraz kierownik urzędu stanu cywilnego albo konsul,
-B.	decyzji,
-C.	postanowienia. 
-
-109.	Zgodnie z Kodeksem postępowania administracyjnego, organizacja społeczna może w sprawie dotyczącej innej osoby występować z żądaniem wszczęcia postępowania lub dopuszczenia jej do udziału w postępowaniu:
-A.	w każdej sprawie, niezależnie od celów statutowych tej organizacji,
-B.	jeżeli jest to uzasadnione celami statutowymi tej organizacji i gdy przemawia za tym interes społeczny,
-C.	gdy przemawia za tym słuszny interes innej osoby, niezależnie od celów statutowych tej organizacji.
-
-110.	Zgodnie z Kodeksem postępowania administracyjnego, strona może zażądać uzupełnienia decyzji co do prawa wniesienia w stosunku do decyzji powództwa do sądu powszechnego lub skargi do sądu administracyjnego w terminie:
-A.	czternastu dni od dnia doręczenia lub ogłoszenia decyzji,
-B.	dwudziestu jeden dni od dnia doręczenia lub ogłoszenia decyzji,
-C.	trzydziestu dni od dnia doręczenia lub ogłoszenia decyzji.
-
-111.	Zgodnie z Kodeksem postępowania administracyjnego, jeżeli decyzja ostateczna została wydana w wyniku przestępstwa, organ administracji publicznej:
-A.	wznawia postępowanie,
-B.	stwierdza nieważność tej decyzji,
-C.	stwierdza wygaśnięcie tej decyzji.
-
-112.	Zgodnie z Kodeksem postępowania administracyjnego, skargę o wznowienie postępowania administracyjnego w przypadku, gdy zostało wydane orzeczenie Trybunału Sprawiedliwości Unii Europejskiej, które ma wpływ na treść wydanej decyzji wnosi się w terminie:
-A.	jednego miesiąca od dnia publikacji sentencji orzeczenia Trybunału Sprawiedliwości Unii Europejskiej w Dzienniku Urzędowym Unii Europejskiej,
-B.	trzech miesięcy od dnia publikacji sentencji orzeczenia Trybunału Sprawiedliwości Unii Europejskiej w Dzienniku Urzędowym Unii Europejskiej,
-C.	sześciu miesięcy od dnia publikacji sentencji orzeczenia Trybunału Sprawiedliwości Unii Europejskiej w Dzienniku Urzędowym Unii Europejskiej.
-
-113.	Zgodnie z Kodeksem postępowania administracyjnego, organ administracji publicznej załatwia sprawę w postępowaniu uproszczonym, jeżeli:
-A.	przyczyni się to do przyśpieszenia postępowania,
-B.	przepis szczególny tak stanowi,
-C.	przemawia za tym uzasadniony interes strony.
-
-
-
-
-114.	Zgodnie z ustawą – Prawo o postępowaniu przed sądami administracyjnymi, rozpoznając skargę na pisemną interpretację przepisów prawa podatkowego wydaną w indywidualnej sprawie, sąd administracyjny, rozstrzygając w granicach tej sprawy:
-A.	jest związany zarzutami i wnioskami skargi oraz powołaną podstawą prawną,
-B.	nie jest związany zarzutami i wnioskami skargi oraz powołaną podstawą prawną,
-C.	jest związany tylko zarzutami skargi.
-
-115.	Zgodnie z ustawą – Prawo o postępowaniu przed sądami administracyjnymi, jeżeli jest to niezbędne do wyjaśnienia istotnych wątpliwości i nie spowoduje nadmiernego przedłużenia postępowania w sprawie, wojewódzki sąd administracyjny może z urzędu lub na wniosek stron przeprowadzić dowody uzupełniające:
-A.	z zeznań świadków,
-B.	z oględzin,
-C.	z dokumentów.
-
-116.	Zgodnie z ustawą – Prawo o postępowaniu przed sądami administracyjnymi, jeżeli uzasadnienie wyroku zostało sporządzone na wniosek strony, odpis wyroku 
-z uzasadnieniem doręcza się:
-A.	każdej stronie,
-B.	stronie, która złożyła wniosek oraz organowi, którego działanie, bezczynność lub przewlekłe prowadzenie postępowania jest przedmiotem skargi,
-C.	tylko tej stronie, która złożyła wniosek.
-
-117.	Zgodnie z ustawą – Prawo o postępowaniu przed sądami administracyjnymi, jeżeli skarżący skutecznie cofnął skargę, wojewódzki sąd administracyjny wydaje postanowienie:
-A.	o umorzeniu postępowania sądowoadministracyjnego,
-B.	o pozostawieniu skargi bez rozpoznania,
-C.	o zwrocie skargi.
-
-
-118.	Zgodnie z ustawą – Prawo o postępowaniu przed sądami administracyjnymi, jeżeli strona reprezentowana przez adwokata, radcę prawnego, doradcę podatkowego lub rzecznika patentowego najpóźniej przed zamknięciem rozprawy bezpośrednio poprzedzającej wydanie orzeczenia nie zgłosi wniosku o przyznanie należnych kosztów:
-A.	może zgłosić wniosek w terminie 3 dni od zamknięcia rozprawy,
-B.	może zgłosić wniosek w terminie 7 dni od zamknięcia rozprawy,
-C.	traci uprawnienie do żądania zwrotu kosztów.
-
-119.	Zgodnie z ustawą – Prawo o postępowaniu przed sądami administracyjnymi, skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia wojewódzkiego sądu administracyjnego, gdy przez jego wydanie została stronie wyrządzona szkoda, a zmiana lub uchylenie orzeczenia w drodze innych przysługujących stronie środków prawnych nie było i nie jest możliwe, wnosi się do sądu, który wydał zaskarżone orzeczenie w terminie:
-A.	dwóch lat od dnia jego uprawomocnienia się,
-B.	trzech lat od dnia jego uprawomocnienia się,
-C.	pięciu lat od dnia jego uprawomocnienia się.
-
-120.	Zgodnie z ustawą – Prawo prywatne międzynarodowe, jeżeli ustawa przewiduje właściwość prawa ojczystego, cudzoziemiec mający obywatelstwo dwóch lub więcej państw podlega, jako prawu ojczystemu: 
-A.	prawu państwa, któremu zaczął podlegać jako pierwszemu,
-B.	prawu państwa, w którym zamieszkiwał ostatnio przez co najmniej rok,
-C.	prawu tego z nich, z którym jest najściślej związany.
-
-121.	Zgodnie z ustawą – Prawo prywatne międzynarodowe, jeżeli osoba prawna dokonuje czynności prawnej w zakresie prowadzonego przez siebie przedsiębiorstwa, dla oceny jej zdolności do wykonania tej czynności wystarczy, że ma zdolność do dokonania tej czynności według prawa państwa, w którym: 
-A.	przedsiębiorstwo jest prowadzone,
-B.	zawarto umowę,
-C.	ma nastąpić wykonanie umowy.
-
-122.	Zgodnie z Traktatem o Unii Europejskiej, granice kompetencji Unii Europejskiej wyznacza zasada przyznania; wykonywanie tych kompetencji podlega zasadom:
-A.	pierwszeństwa i nadrzędności,
-B.	podległości i służebności, 
-C.	pomocniczości i proporcjonalności.
-
-123.	Zgodnie z Traktatem o funkcjonowaniu Unii Europejskiej, Unia Europejska ma wyłączne kompetencje w dziedzinach takich jak:
-A.	spójność gospodarcza, społeczna i terytorialna,
-B.	rolnictwo i rybołówstwo, z wyłączeniem zachowania morskich zasobów biologicznych,
-C.	unia celna.
-
-124.	Zgodnie z ustawą – Ordynacja podatkowa, odwoławczym organem podatkowym od decyzji wójta, burmistrza (prezydenta miasta), starosty albo marszałka województwa w sprawach zobowiązań podatkowych jest:
-A.	dyrektor izby administracji skarbowej,
-B.	samorządowe kolegium odwoławcze,
-C.	wojewódzki sąd administracyjny.
-
-125.	Zgodnie z ustawą – Ordynacja podatkowa, wniosek o wydanie interpretacji przepisów prawa podatkowego (interpretacji indywidualnej) dotyczącej jednego stanu faktycznego lub zdarzenia przyszłego podlega opłacie w wysokości:
-A.	40 zł, 
-B.	100 zł,
-C.	200 zł.
-
-126.	Zgodnie z ustawą – Ordynacja podatkowa, spory o właściwość między wójtem, burmistrzem (prezydentem miasta), starostą albo marszałkiem województwa a naczelnikiem urzędu skarbowego lub naczelnikiem urzędu celno-skarbowego rozstrzyga:
-A.	dyrektor izby administracji skarbowej,
-B.	samorządowe kolegium odwoławcze,
-C.	sąd administracyjny.
-127.	Zgodnie z ustawą – Ordynacja podatkowa, jeżeli z dowodów zgromadzonych w toku postępowania, w szczególności zeznań strony, chyba że strona odmawia składania zeznań, wynikają wątpliwości co do istnienia lub nieistnienia stosunku prawnego lub prawa, z którym związane są skutki podatkowe, organ podatkowy występuje o ustalenie istnienia lub nieistnienia tego stosunku prawnego lub prawa:
-A.	do Rady do Spraw Przeciwdziałania Unikaniu Opodatkowania,
-B.	do sądu powszechnego,
-C.	do wojewódzkiego sądu administracyjnego.
-
-128.	Zgodnie z ustawą o podatku od spadków i darowizn, w przypadku nabycia rzeczy lub praw majątkowych niewykazanych w zeznaniu podatkowym o nabyciu rzeczy lub praw majątkowych, podatnik jest obowiązany do złożenia korekty zeznania podatkowego organowi, któremu złożono zeznanie podatkowe, w terminie:
-A.	14 dni od dnia, w którym dowiedział się o ich nabyciu,
-B.	21 dni od dnia, w którym dowiedział się o ich nabyciu,
-C.	1 miesiąca od dnia, w którym dowiedział się o ich nabyciu.
-
-129.	Zgodnie z ustawą o podatku dochodowym od osób fizycznych, podatek wyrażony w walutach obcych przelicza się na złote według kursu średniego walut obcych ogłaszanego przez Narodowy Bank Polski:
-A.	z dnia zapłaty podatku,
-B.	z ostatniego dnia roboczego poprzedzającego dzień zapłaty podatku,
-C.	z następnego dnia roboczego po dniu zapłaty podatku.
-
-130.	Zgodnie z ustawą o podatku od czynności cywilnoprawnych, zwalnia się od podatku sprzedaż rzeczy ruchomych:
-A.	bez względu na wysokość podstawy opodatkowania, 
-B.	jeżeli podstawa opodatkowania nie przekracza 1000 zł, 
-C.	jeżeli wartość rynkowa rzeczy wynosi co najmniej 2000 zł. 
-
-
-
-
-131.	Zgodnie z ustawą o podatku od czynności cywilnoprawnych, płatnicy podatku są obowiązani wpłacić pobrany podatek na rachunek organu podatkowego właściwego ze względu na siedzibę płatnika, w terminie do:
-A.	7 dnia miesiąca następującego po miesiącu, w którym pobrano podatek, 
-B.	10 dnia miesiąca następującego po miesiącu, w którym pobrano podatek,
-C.	14 dnia miesiąca następującego po miesiącu, w którym pobrano podatek. 
-
-132.	Zgodnie z Konstytucją Rzeczypospolitej Polskiej, samorządy zawodowe, reprezentujące osoby wykonujące zawody zaufania publicznego i sprawujące pieczę nad należytym wykonywaniem tych zawodów w granicach interesu publicznego i dla jego ochrony, można tworzyć w drodze:
-A.	rozporządzenia Rady Ministrów w uzgodnieniu z Prezydentem Rzeczypospolitej Polskiej, 
-B.	uchwały Sejmu,
-C.	ustawy.
-
-133.	Zgodnie z Konstytucją Rzeczypospolitej Polskiej, Sejm może skrócić swoją kadencję uchwałą podjętą większością co najmniej:
-A.	2/3 głosów ustawowej liczby posłów,
-B.	3/4 głosów ustawowej liczby posłów,
-C.	3/5 głosów ustawowej liczby posłów.
-
-134.	Zgodnie z Konstytucją Rzeczypospolitej Polskiej, zwierzchnikiem korpusu służby cywilnej jest:
-A.	minister właściwy do spraw administracji publicznej,
-B.	Prezes Rady Ministrów,
-C.	Prezydent Rzeczypospolitej Polskiej.
-
-135.	Zgodnie z Konstytucją Rzeczypospolitej Polskiej, członek Trybunału Stanu nie może być pociągnięty do odpowiedzialności karnej ani pozbawiony wolności bez uprzedniej zgody:
-A.	Sejmu,
-B.	Sądu Najwyższego,
-C.	Trybunału Stanu. 
-136.	Zgodnie z ustawą o Sądzie Najwyższym, Pierwszy Prezes Sądu Najwyższego jest powoływany przez Prezydenta Rzeczypospolitej Polskiej na kadencję:
-A.	czteroletnią, 
-B.	pięcioletnią,
-C.	sześcioletnią.
-
-137.	Zgodnie z ustawą o Sądzie Najwyższym, sędzia delegowany do pełnienia czynności sędziowskich w Sądzie Najwyższym:
-A.	nie może być przewodniczącym składu orzekającego,
-B.	może być przewodniczącym składu orzekającego,
-C.	nie może być przewodniczącym składu orzekającego, z wyłączeniem spraw rozpoznawanych w składzie jednego sędziego.
-
-138.	Zgodnie z ustawą o Sądzie Najwyższym, z chwilą jej podjęcia moc zasady prawnej uzyskuje każda uchwała:
-A.	pełnego składu Sądu Najwyższego, składu połączonych izb, składu całej izby, składu 7 sędziów oraz składu 3 sędziów,
-B.	pełnego składu Sądu Najwyższego, składu połączonych izb, składu całej izby oraz składu 7 sędziów,
-C.	pełnego składu Sądu Najwyższego, składu połączonych izb oraz składu całej izby.
-
-139.	Zgodnie z ustawą – Prawo o ustroju sądów powszechnych, zadania z zakresu wymiaru sprawiedliwości w sądach rejonowych wykonują:
-A.	wyłącznie sędziowie,
-B.	sędziowie, a z określonymi wyłączeniami także asesorzy sądowi,
-C.	sędziowie, referendarze sądowi, a z określonymi wyłączeniami także asesorzy sądowi. 
-
-140.	Zgodnie z ustawą – Prawo o ustroju sądów powszechnych, w sądzie okręgowym:
-A.	organem sądu jest wyłącznie prezes sądu,
-B.	organami sądu są wyłącznie prezes sądu i dyrektor sądu, 
-C.	organami sądu są prezes sądu, kolegium sądu i dyrektor sądu.
-
-141.	Zgodnie z ustawą – Prawo o ustroju sądów powszechnych, strojem urzędowym sędziego przewodniczącego na rozprawie lub posiedzeniu z udziałem stron, odbywającym się w budynku sądu, jest:
-A.	wyłącznie toga,
-B.	toga, a także nakładany na kołnierz togi łańcuch z wizerunkiem orła,
-C.	toga, biret, a także nakładany na kołnierz togi łańcuch z wizerunkiem orła.
-
-142.	Zgodnie z ustawą – Prawo o prokuraturze, Prokurator Generalny jest przełożonym:
-A.	wyłącznie prokuratorów powszechnych jednostek organizacyjnych prokuratury,
-B.	prokuratorów powszechnych jednostek organizacyjnych prokuratury oraz prokuratorów Instytutu Pamięci Narodowej,
-C.	prokuratorów powszechnych jednostek organizacyjnych prokuratury, prokuratorów Instytutu Pamięci Narodowej oraz prokuratorów jednostek organizacyjnych prokuratury wojskowej. 
-
-143.	Zgodnie z ustawą – Prawo o notariacie, organem izby notarialnej jest: 
-A.	Wyższy Sąd Dyscyplinarny,
-B.	rzecznik dyscyplinarny izby notarialnej,
-C.	walne zgromadzenie notariuszy izby.
-
-144.	Zgodnie z ustawą – Prawo o notariacie, ustalanie wysokości składek miesięcznych notariuszy na potrzeby samorządu notarialnego oraz zasad ich wydatkowania należy do zakresu działania: 
-A.	walnego zgromadzenia notariuszy izby,
-B.	Ministra Sprawiedliwości,
-C.	Krajowej Rady Notarialnej. 
-
-145.	Zgodnie z ustawą – Prawo o notariacie, rada izby notarialnej przedstawia Ministrowi Sprawiedliwości odpis protokołu z wizytacji przeprowadzonej w kancelarii notarialnej, zawiadamiając go równocześnie o środkach podjętych w celu usunięcia stwierdzonych uchybień:
-A.	niezwłocznie po wizytacji,
-B.	w terminie miesiąca od wizytacji,
-C.	w terminie 3 miesięcy od wizytacji. 
-146.	Zgodnie z ustawą – Prawo o notariacie, rady izb notarialnych, każdego roku, przekazują listę osób, które odbyły aplikację notarialną, w terminie 7 dni od dnia zakończenia aplikacji:
-A.	terytorialnie właściwej komisji egzaminacyjnej do spraw aplikacji notarialnej przy Ministrze Sprawiedliwości oraz Ministrowi Sprawiedliwości,
-B.	terytorialnie właściwemu prezesowi sądu apelacyjnego, 
-C.	Krajowej Radzie Notarialnej. 
-
-147.	Zgodnie z ustawą – Prawo o notariacie, jeżeli aplikant notarialny został prawomocnie skazany za umyślne przestępstwo lub umyślne przestępstwo skarbowe: 
-A. 	prezes sądu apelacyjnego skreśla aplikanta notarialnego z listy aplikantów notarialnych,
-B. 	rada izby notarialnej może skreślić aplikanta notarialnego z listy aplikantów notarialnych,
-C. 	rada izby notarialnej skreśla aplikanta notarialnego z listy aplikantów notarialnych.
-
-148.	Zgodnie z ustawą – Prawo o notariacie, zastępcy notariusza nie wolno dokonywać czynności notarialnych, które dotyczą:
-A.	jego powinowatych w linii bocznej bez ograniczenia stopnia,
-B.	jego krewnych w linii bocznej bez ograniczenia stopnia,
-C.	osób, będących w bliskim z nim stosunku. 
-
-149.	Zgodnie z ustawą – Prawo o notariacie, dla sporządzenia aktu poświadczenia dziedziczenia notariusz może zwracać się do organów administracji publicznej oraz organów wykonujących zadania z zakresu administracji publicznej o  udzielenie informacji lub wydanie dokumentów stanowiących dowód:
-A.	każdego faktu, 
-B.	faktu istotnego dla sporządzenia aktu poświadczenia dziedziczenia,
-C.	wszystkich faktów wskazanych przez strony czynności notarialnej.
-
-
-
-150.	Zgodnie z ustawą o Rzeczniku Praw Obywatelskich, w związku z rozpatrywanymi sprawami Rzecznik Praw Obywatelskich może również:
-A.	występować z inicjatywą ustawodawczą w każdej sprawie,
-B.	występować z inicjatywą ustawodawczą w sprawach dotyczących wolności i praw człowieka i obywatela,
-C.	występować do właściwych organów z wnioskami o podjęcie inicjatywy ustawodawczej bądź o wydanie lub zmianę innych aktów prawnych w sprawach dotyczących wolności i praw człowieka i obywatela.
-
-
-
+ 1. Zestaw pytań testowych i kartę odpowiedzi oznacza się
+indywidualnym kodem. Wylosowany numer kodu kandydat wpisuje
+w prawym górnym rogu na pierwszej stronie zestawu pytań
+testowych i na każdej stronie karty odpowiedzi. Nie jest
+dopuszczalne w żadnym miejscu zestawu pytań testowych i karty
+odpowiedzi wpisanie imienia i nazwiska ani też podpisanie się
+własnym imieniem i nazwiskiem.
+Karta odpowiedzi bez prawidłowo zamieszczonego oznaczenia
+kodowego nie podlega ocenie Komisji Kwalifikacyjnej.
+ 2. Każdy kandydat otrzymuje:
+1) jeden egzemplarz zestawu pytań testowych, zawarty na 36
+stronach;
+
+2) jeden egzemplarz karty odpowiedzi, zawarty na 4 stronach.
+ 3. Przed przystąpieniem do rozwiązania zestawu pytań testowych
+należy sprawdzić, czy zawiera on wszystkie kolejno ponumerowane
+strony od 1 do 36 oraz czy karta odpowiedzi zawiera 4 strony. W
+przypadku braku którejkolwiek ze stron, należy o tym niezwłocznie
+zawiadomić Komisję Kwalifikacyjną.
+ 4. Zestaw pytań testowych składa się ze 150 pytań jednokrotnego
+wyboru, przy czym każde pytanie zawiera po 3 propozycje
+odpowiedzi.
+Wybór odpowiedzi polega na zakreśleniu na karcie odpowiedzi
+znakiem „X” jednej z trzech propozycji odpowiedzi w odpowiedniej
+kolumnie (A albo B, albo C).
+Prawidłowa jest odpowiedź, która w połączeniu z treścią pytania
+tworzy – w świetle obowiązującego prawa – zdanie prawdziwe. Na
+każde pytanie testowe tylko jedna odpowiedź jest prawidłowa.
+Niedopuszczalne jest dokonywanie dodatkowych założeń,
+wykraczających poza treść pytania.
+ 5. Wyłączną podstawę ustalenia wyniku kandydata stanowią
+odpowiedzi zakreślone na karcie odpowiedzi. Odpowiedzi
+zaznaczone na zestawie pytań testowych nie będą podlegały ocenie.
+ 6. Zmiana zakreślonej odpowiedzi jest niedozwolona.
+ 7. Za każdą prawidłową odpowiedź kandydat otrzymuje 1 punkt.
+W przypadku zaznaczenia więcej niż jednej odpowiedzi, żadna z
+odpowiedzi nie podlega zaliczeniu jako prawidłowa.
+ 8. Prawidłowość odpowiedzi ocenia się według stanu prawnego na
+dzień 24 września 2022 r.
+9. Czas na rozwiązanie zestawu pytań testowych wynosi 150 minut
+
+(wyjątek: wydłużenie czasu egzaminu dla kandydata będącego
+osobą niepełnosprawną).
+1. Zgodnie z Kodeksem cywilnym, Skarb Państwa:
+A. jest osobą prawną,
+B. nie jest osobą prawną,
+C. jest jednostką organizacyjną niebędącą osobą prawną, do której
+stosuje się odpowiednio przepisy o osobach prawnych.
+2. Zgodnie z Kodeksem cywilnym, firmą osoby fizycznej będącej
+przedsiębiorcą:
+A. zawsze jest wyłącznie jej imię i nazwisko,
+B. nigdy nie jest jej imię i nazwisko,
+C. jest jej imię i nazwisko; nie wyklucza to włączenia do firmy
+pseudonimu lub określeń wskazujących na przedmiot działalności
+przedsiębiorcy, miejsce jej prowadzenia oraz innych określeń
+dowolnie obranych.
+3. Zgodnie z Kodeksem cywilnym, czynność prawna sprzeczna z
+zasadami współżycia społecznego, o ile przepis szczególny nie
+stanowi inaczej:
+A. jest nieważna,
+B. jest zawsze ważna,
+C. jest bezskuteczna.
+4. Zgodnie z Kodeksem cywilnym, oświadczenie woli wyrażone w
+postaci innej niż elektroniczna, które ma być złożone innej osobie,
+jest złożone:
+A. zawsze z chwilą zapoznania się przez nią z jego treścią,
+
+B. z chwilą, gdy doszło do niej w taki sposób, że mogła zapoznać się
+z jego treścią,
+C. zawsze z chwilą jego wyrażenia.
+5. Zgodnie z Kodeksem cywilnym, prawomocne orzeczenie sądu
+stwierdzające obowiązek danej osoby do złożenia oznaczonego
+oświadczenia woli:
+A. zastępuje to oświadczenie,
+B. jest tytułem egzekucyjnym, podlegającym wykonaniu w drodze
+egzekucji sądowej,
+C. zastępuje to oświadczenie tylko wtedy, gdy sąd tak postanowi.
+6. Zgodnie z Kodeksem cywilnym, jeżeli przedsiębiorca otrzymał od
+osoby, z którą pozostaje w stałych stosunkach gospodarczych, ofertę
+zawarcia umowy w ramach swej działalności, brak niezwłocznej
+odpowiedzi poczytuje się za:
+A. odmowę przyjęcia oferty,
+B. zaproszenie do rokowań,
+C. przyjęcie oferty.
+7. Zgodnie z Kodeksem cywilnym, oświadczenie woli złożone przez
+osobę, która z jakichkolwiek powodów znajdowała się w stanie
+wyłączającym świadome albo swobodne powzięcie decyzji i
+wyrażenie woli jest:
+A. nieważne tylko wówczas, gdy zostało złożone innej osobie,
+B. ważne, lecz nie wywołuje skutków prawnych,
+C. nieważne.
+
+8. Zgodnie z Kodeksem cywilnym, jeżeli pełnomocnik po
+wygaśnięciu umocowania dokona w imieniu mocodawcy z drugą
+stroną czynności prawnej w granicach pierwotnego umocowania,
+czynność prawna jest:
+A. zawsze nieważna,
+B. ważna tylko wtedy, gdy potwierdzi ją mocodawca,
+C. ważna, chyba że druga strona o wygaśnięciu umocowania
+wiedziała lub z łatwością mogła się dowiedzieć.
+9. Zgodnie z Kodeksem cywilnym, przez czynność prawną terminy
+przedawnienia roszczeń:
+A. nie mogą być skracane ani przedłużane,
+B. mogą być skracane, ale nie mogą być przedłużane,
+C. mogą być przedłużane, ale nie mogą być skracane.
+10. Zgodnie z Kodeksem cywilnym, roszczenie o zniesienie
+współwłasności:
+A. nie ulega przedawnieniu,
+B. ulega przedawnieniu, a termin przedawnienia wynosi lat
+dziesięć,
+C. ulega przedawnieniu i termin przedawnienia wynosi lat dziesięć,
+ale bieg przedawnienia może być skrócony przez czynność prawną
+dokonaną między współwłaścicielami.
+11. Zgodnie z Kodeksem cywilnym, przedmiotem prawa
+użytkowania mogą być:
+A. wyłącznie nieruchomości albo rzeczy ruchome,
+B. wyłącznie nieruchomości,
+
+C. nieruchomości, rzeczy ruchome, a także prawa.
+12. Zgodnie z Kodeksem cywilnym, posiadaczem rzeczy jest:
+A. tylko właściciel,
+B. tylko posiadacz zależny,
+C. zarówno ten, kto nią faktycznie włada jak właściciel, jak i
+posiadacz zależny.
+13. Zgodnie z Kodeksem cywilnym, jeżeli świadczenie (z
+wyłączeniem świadczenia z gry lub zakładu) zostało spełnione
+dobrowolnie w celu zadośćuczynienia przedawnionemu roszczeniu,
+ten kto je spełnił:
+A. może żądać zwrotu świadczenia bez ograniczeń,
+B. może żądać zwrotu świadczenia w określonych przypadkach,
+C. nie może żądać zwrotu świadczenia.
+14. Zgodnie z Kodeksem cywilnym, roszczenie o zadośćuczynienie
+pieniężne za krzywdę doznaną przez osobę fizyczną:
+A. przechodzi na spadkobierców, gdy poszkodowany za życia
+skierował do zobowiązanego wezwanie do zapłaty,
+B. przechodzi na spadkobierców, gdy powództwo o to roszczenie
+zostało wytoczone za życia poszkodowanego,
+C. nigdy nie przechodzi na spadkobierców.
+15. Zgodnie z Kodeksem cywilnym, zastrzeżona w umowie kara
+umowna ma na celu naprawienie szkody wynikłej z niewykonania
+lub nienależytego wykonania zobowiązania:
+A. pieniężnego,
+
+B. niepieniężnego,
+C. zarówno pieniężnego, jak i niepieniężnego.
+16. Zgodnie z Kodeksem cywilnym, przejęcie długu może nastąpić:
+A. przez umowę między wierzycielem a dłużnikiem bez zgody
+osoby trzeciej,
+B. przez umowę między dłużnikiem a osobą trzecią bez zgody
+wierzyciela,
+C. przez umowę między wierzycielem a osobą trzecią za zgodą
+dłużnika.
+17. Zgodnie z Kodeksem cywilnym, prawo odkupu wykonywa się
+przez oświadczenie sprzedawcy złożone kupującemu, przy czym:
+A. oświadczenie o wykonaniu prawa odkupu nigdy nie wymaga
+szczególnej formy,
+B. jeżeli zawarcie umowy sprzedaży wymagało zachowania
+szczególnej formy, oświadczenie o wykonaniu prawa odkupu
+powinno być złożone w tej samej formie,
+C. oświadczenie o wykonaniu prawa odkupu zawsze musi być
+złożone w formie aktu notarialnego.
+18. Zgodnie z Kodeksem cywilnym, do umowy zamiany stosuje się
+odpowiednio przepisy o:
+A. sprzedaży,
+B. darowiźnie,
+C. użyczeniu.
+
+19. Zgodnie z Kodeksem cywilnym, w razie zbycia rzeczy najętej
+(niebędącej lokalem mieszkalnym) w czasie trwania najmu,
+uprawnienie do wypowiedzenia najmu z zachowaniem ustawowych
+terminów wypowiedzenia nie przysługuje nabywcy rzeczy najętej,
+wstępującemu w stosunek najmu na miejsce zbywcy, jeżeli:
+A. umowa najmu była zawarta na czas nieoznaczony,
+B. umowa najmu była zawarta na czas nieoznaczony z
+zachowaniem formy pisemnej i z datą pewną, a rzecz została
+najemcy wydana,
+C. umowa najmu była zawarta na czas oznaczony z zachowaniem
+formy pisemnej i z datą pewną, a rzecz została najemcy wydana.
+20. Zgodnie z Kodeksem cywilnym, jeżeli termin zwrotu pożyczki
+nie jest oznaczony:
+A. dłużnik obowiązany jest zwrócić pożyczkę w ciągu sześciu
+tygodni po wypowiedzeniu przez dającego pożyczkę,
+B. dłużnik obowiązany jest zwrócić pożyczkę w ciągu sześciu
+miesięcy po wypowiedzeniu przez dającego pożyczkę,
+C. umowa pożyczki jest nieważna.
+21. Zgodnie z Kodeksem cywilnym, w umowie spółki można ustalić
+stosunek udziału wspólnika w zyskach i stratach, natomiast nie
+można:
+A. zwolnić niektórych wspólników od udziału w stratach,
+B. wyłączyć wspólnika od udziału w zyskach,
+C. ustalić, że każdy wspólnik nie jest uprawniony do równego
+udziału w zyskach.
+22. Zgodnie z Kodeksem cywilnym, osoba, względem której ciąży
+na dożywotniku ustawowy obowiązek alimentacyjny, może żądać
+
+uznania umowy o dożywocie za bezskuteczną w stosunku do niej,
+jeżeli wskutek tej umowy dożywotnik stał się niewypłacalny;
+uznania umowy o dożywocie za bezskuteczną nie można żądać po
+upływie:
+A. jednego roku od daty tej umowy,
+B. lat trzech od daty tej umowy,
+C. lat pięciu od daty tej umowy.
+23. Zgodnie z Kodeksem cywilnym, fundacja ustanowiona w
+testamencie przez spadkodawcę może być spadkobiercą, jeżeli
+zostanie wpisana do rejestru w ciągu dwóch lat od:
+A. ogłoszenia testamentu,
+B. otwarcia spadku,
+C. uprawomocnienia się postanowienia o stwierdzeniu nabycia
+spadku.
+24. Zgodnie z Kodeksem cywilnym, w przypadku dziedziczenia
+ustawowego, udział spadkowy małżonka, który dziedziczy w zbiegu
+z rodzicami, rodzeństwem i zstępnymi rodzeństwa spadkodawcy,
+wynosi połowę spadku; w braku zstępnych spadkodawcy, jego
+rodziców, rodzeństwa i ich zstępnych:
+A. cały spadek przypada dziadkom spadkodawcy; dziedziczą oni w
+częściach równych,
+B. spadek przypada gminie ostatniego miejsca zamieszkania
+spadkodawcy, jako spadkobiercy ustawowemu,
+C. cały spadek przypada małżonkowi spadkodawcy.
+25. Zgodnie z Kodeksem cywilnym, testament:
+
+A. można sporządzić przez przedstawiciela,
+B. można odwołać przez przedstawiciela,
+C. nie może zostać sporządzony ani odwołany przez
+przedstawiciela.
+26. Zgodnie z Kodeksem cywilnym, jeżeli spadek przypada kilku
+spadkobiercom, zapis zwykły:
+A. obciąża ich w stosunku do wielkości ich udziałów spadkowych, a
+spadkodawca nie może postanowić inaczej,
+B. obciąża ich w stosunku do wielkości ich udziałów spadkowych,
+chyba że spadkodawca postanowił inaczej,
+C. obciąża spadkobiercę, który ma największy udział, a
+spadkodawca nie może postanowić inaczej.
+27. Zgodnie z Kodeksem cywilnym, roszczenie z tytułu wykonania
+zapisu zwykłego:
+A. nie przedawnia się,
+B. przedawnia się z upływem lat pięciu od dnia wymagalności
+zapisu,
+C. przedawnia się z upływem lat trzech od dnia wymagalności
+zapisu.
+28. Zgodnie z Kodeksem cywilnym, spadkobierca testamentowy nie
+może:
+A. odrzucić spadku w żadnym przypadku,
+B. przyjąć spadku bez ograniczenia odpowiedzialności za długi
+spadkowe,
+C. przyjąć spadku z wyłączeniem odpowiedzialności za długi
+spadkowe.
+
+29. Zgodnie z Kodeksem cywilnym, uchylenie się od skutków
+prawnych umowy o dział spadku zawartej pod wpływem błędu
+może nastąpić tylko wtedy, gdy błąd dotyczył:
+A. wyłącznie stanu prawnego,
+B. każdego stanu faktycznego,
+C. stanu faktycznego, który strony uważały za niewątpliwy.
+30. Zgodnie z Kodeksem cywilnym, spadkobierca ustawowy może
+przez umowę z przyszłym spadkodawcą zrzec się dziedziczenia po
+nim; umowa taka powinna być zawarta w formie:
+A. pisemnej,
+B. pisemnej z podpisami notarialnie poświadczonymi,
+C. aktu notarialnego.
+31. Zgodnie z Kodeksem cywilnym, umowa darowizny spadku
+powinna być zawarta w formie:
+aktu notarialnego,
+B. pisemnej z podpisami notarialnie poświadczonymi,
+C. pisemnej.
+32. Zgodnie z ustawą o księgach wieczystych i hipotece, rękojmia
+wiary publicznej ksiąg wieczystych nie chroni:
+rozporządzeń odpłatnych dokonanych na rzecz nabywcy
+działającego w dobrej wierze,
+rozporządzeń nieodpłatnych albo dokonanych na rzecz nabywcy
+działającego w złej wierze,
+
+wyłącznie rozporządzeń dokonanych na rzecz nabywcy działającego
+w złej wierze.
+33. Zgodnie z ustawą o księgach wieczystych i hipotece, właściciel
+kilku nieruchomości może żądać połączenia ich w księdze
+wieczystej w jedną nieruchomość:
+jeżeli nieruchomości te stanowią całość gospodarczą lub graniczą ze
+sobą,
+jeżeli nieruchomości te nabył na tej samej podstawie prawnej,
+jeżeli uzyskał zgodę starosty na połączenie nieruchomości.
+34. Zgodnie z ustawą o księgach wieczystych i hipotece, zgoda na
+dokonanie w księdze wieczystej wpisu ograniczonego prawa
+rzeczowego na nieruchomości:
+może być uzależniona od warunku lub terminu,
+może być uzależniona od warunku, o ile ziszczenie się warunku
+udowodnione zostanie dokumentem urzędowym lub prywatnym z
+podpisem urzędowo poświadczonym,
+nie może być uzależniona od warunku lub terminu.
+35. Zgodnie z ustawą o księgach wieczystych i hipotece,
+przedmiotem hipoteki może być także:
+wierzytelność zabezpieczona zastawem,
+wierzytelność zabezpieczona hipoteką,
+spółdzielcze lokatorskie prawo do lokalu mieszkalnego.
+36. Zgodnie z ustawą o księgach wieczystych i hipotece,
+zastrzeżenie, przez które właściciel nieruchomości zobowiązuje się
+względem wierzyciela hipotecznego, że nie dokona zbycia lub
+obciążenia nieruchomości przed wygaśnięciem hipoteki:
+
+jest dopuszczalne,
+jest dopuszczalne, ale dla jego skuteczności wobec osób trzecich
+niezbędny jest wpis w księdze wieczystej,
+jest niedopuszczalne.
+37. Zgodnie z ustawą o nabywaniu nieruchomości przez
+cudzoziemców, cudzoziemcem w rozumieniu tej ustawy jest osoba
+fizyczna:
+A. posiadająca obywatelstwo polskie, ale mieszkająca za granicą,
+B. posiadająca obywatelstwo polskie, będąca w związku
+małżeńskim z osobą nieposiadającą obywatelstwa polskiego,
+C. nieposiadająca obywatelstwa polskiego.
+38. Zgodnie z ustawą o nabywaniu nieruchomości przez
+cudzoziemców, zezwolenie na nabycie nieruchomości przez
+cudzoziemca jest ważne:
+A. dwa lata od dnia wydania,
+B. trzy lata od dnia wydania,
+C. pięć lat od dnia wydania.
+39. Zgodnie z ustawą o nabywaniu nieruchomości przez
+cudzoziemców, wypis aktu notarialnego, na mocy którego
+cudzoziemiec nabył nieruchomość położoną na terytorium
+Rzeczypospolitej Polskiej, notariusz przesyła ministrowi
+właściwemu do spraw wewnętrznych w terminie:
+A. 7 dni od dnia sporządzenia,
+B. 14 dni od dnia sporządzenia,
+C. 21 dni od dnia sporządzenia.
+
+40. Zgodnie z ustawą o kształtowaniu ustroju rolnego, ilekroć w tej
+ustawie jest mowa o „nieruchomości rolnej” – należy przez to
+rozumieć nieruchomość rolną w rozumieniu Kodeksu cywilnego:
+z wyłączeniem nieruchomości położonych na obszarach
+przeznaczonych w planach zagospodarowania przestrzennego na
+cele inne niż rolne,
+z wyłączeniem wszystkich nieruchomości położonych w granicach
+administracyjnych miast,
+z wyłączeniem wszystkich nieruchomości o powierzchni większej
+niż 300 ha.
+41. Zgodnie z ustawą o ochronie praw lokatorów, mieszkaniowym
+zasobie gminy i o zmianie Kodeksu cywilnego, umową najmu
+okazjonalnego lokalu jest umowa najmu lokalu mieszkalnego,
+którego właściciel, będący osobą fizyczną:
+prowadzi działalność gospodarczą w zakresie wynajmowania lokali,
+zawarta na czas oznaczony, nie dłuższy niż 10 lat,
+nie prowadzi działalności gospodarczej w zakresie wynajmowania
+lokali, zawarta na czas nieoznaczony,
+nie prowadzi działalności gospodarczej w zakresie wynajmowania
+lokali, zawarta na czas oznaczony, nie dłuższy niż 10 lat.
+42. Zgodnie z ustawą o własności lokali, wspólnota mieszkaniowa:
+A. nigdy nie może nabywać praw ani zaciągać zobowiązań,
+B. może nabywać prawa i zaciągać zobowiązania, pozywać i być
+pozwana,
+C. może pozywać i być pozwana, nabywać prawa, ale nie może
+zaciągać zobowiązań.
+43. Zgodnie z ustawą o własności lokali, w przypadku kiedy
+
+odrębna własność lokalu jest ustanowiona w drodze umowy,
+umowa taka:
+A. powinna być dokonana w formie aktu notarialnego, a do
+powstania własności lokalu niezbędny jest wpis do księgi
+wieczystej,
+B. powinna być dokonana w formie aktu notarialnego, a własność
+lokalu powstaje z chwilą zawarcia umowy,
+C. może być dokonana w formie pisemnej z podpisami notarialnie
+poświadczonymi, a własność lokalu powstaje z chwilą zawarcia
+umowy.
+44. Zgodnie z ustawą o gospodarce nieruchomościami, do gminnego
+zasobu nieruchomości należą nieruchomości:
+A. stanowiące przedmiot własności gminy, które zostały oddane
+przez gminę w użytkowanie wieczyste,
+B. które stanowią przedmiot własności gminy i nie zostały oddane
+w użytkowanie wieczyste oraz nieruchomości będące przedmiotem
+użytkowania wieczystego gminy,
+C. niestanowiące przedmiotu własności gminy, ale oddane jej w
+trwały zarząd.
+45. Zgodnie z ustawą o gospodarce nieruchomościami, decyzja
+właściwego organu o wygaśnięciu trwałego zarządu
+przysługującego jednostkom organizacyjnym resortu obrony
+narodowej wymaga:
+A. zgody starosty, wydanej w porozumieniu z ministrem właściwym
+do spraw obrony narodowej,
+B. zgody wojewody, wydanej w porozumieniu z ministrem
+właściwym do spraw wewnętrznych,
+C. zgody wojewody, wydanej w porozumieniu z ministrem
+
+właściwym do spraw obrony narodowej.
+46. Zgodnie z ustawą o gospodarce nieruchomościami, od
+orzeczenia samorządowego kolegium odwoławczego ustalającego
+nową wysokość opłaty rocznej z tytułu użytkowania wieczystego
+nieruchomości gruntowej, właściwy organ lub użytkownik
+wieczysty mogą wnieść w terminie 14 dni od dnia doręczenia
+orzeczenia:
+sprzeciw,
+odwołanie,
+wniosek o ponowne rozpatrzenie sprawy.
+47. Zgodnie z ustawą o gospodarce nieruchomościami, w przypadku
+sprzedaży nieruchomości wpisanej do rejestru zabytków lub prawa
+użytkowania wieczystego takiej nieruchomości, gminie nie
+przysługuje prawo pierwokupu:
+A. jeżeli prawo pierwokupu zostało ujawnione w księdze wieczystej,
+B. jeżeli prawo pierwokupu nie zostało ujawnione w księdze
+wieczystej,
+C. jeżeli prawo pierwokupu zostało ujawnione w księdze wieczystej
+wraz z ujawnieniem, że nieruchomość została wpisana do rejestru
+zabytków.
+48. Zgodnie z ustawą – Prawo spółdzielcze, członek spółdzielni
+może wystąpić z niej za wypowiedzeniem; wypowiedzenie powinno
+być dokonane:
+A. na piśmie dla celów dowodowych,
+B. pod nieważnością na piśmie,
+C. na piśmie z podpisem urzędowo poświadczonym.
+
+49. Zgodnie z ustawą – Prawo spółdzielcze, rada nadzorcza
+spółdzielni składa się z  członków wybranych stosownie do
+postanowień statutu przez walne zgromadzenie, zebranie
+przedstawicieli lub zebrania grup członkowskich; rada nadzorcza
+składa się co najmniej z:
+A. dwóch członków,
+B. trzech członków,
+C. pięciu członków.
+50. Zgodnie z ustawą o spółdzielniach mieszkaniowych, nie można
+być członkiem rady nadzorczej spółdzielni mieszkaniowej dłużej niż
+przez:
+A. jedną kadencję rady nadzorczej,
+B. 2 kolejne kadencje rady nadzorczej,
+C. 3 kolejne kadencje rady nadzorczej.
+51. Zgodnie z ustawą o spółdzielniach mieszkaniowych, jeżeli w
+toku likwidacji, postępowania upadłościowego albo postępowania
+egzekucyjnego z nieruchomości spółdzielni nabywcą budynku albo
+udziału w budynku nie będzie spółdzielnia mieszkaniowa,
+spółdzielcze lokatorskie prawo do lokalu mieszkalnego przekształca
+się w:
+A. prawo użytkowania,
+B. prawo najmu podlegające przepisom ustawy o ochronie praw
+lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu
+cywilnego,
+C. prawo własności.
+
+52. Zgodnie z ustawą o zarządzie sukcesyjnym przedsiębiorstwem
+osoby fizycznej i innych ułatwieniach związanych z sukcesją
+przedsiębiorstw, zarządca sukcesyjny:
+A. nigdy nie może ustanowić pełnomocnika,
+B. może udzielić pełnomocnictwa ogólnego,
+C. może ustanowić pełnomocnika do poszczególnej czynności lub
+pewnego rodzaju czynności.
+53. Zgodnie z Kodeksem postępowania cywilnego, sprawy o
+uzgodnienie treści księgi wieczystej z rzeczywistym stanem
+prawnym należą w pierwszej instancji do właściwości:
+A. sądów rejonowych,
+B. sądów okręgowych niezależnie od wartości przedmiotu sporu,
+C. sądów okręgowych, jeżeli wartość przedmiotu sporu przewyższa
+siedemdziesiąt pięć tysięcy złotych.
+54. Zgodnie z Kodeksem postępowania cywilnego, wypowiedzenie
+pełnomocnictwa procesowego przez mocodawcę odnosi skutek
+prawny w stosunku do sądu:
+A. zawsze z chwilą wypowiedzenia,
+B. z chwilą zawiadomienia go o tym,
+C. z upływem dwóch tygodni od wypowiedzenia.
+55. Zgodnie z Kodeksem postępowania cywilnego, jeżeli kodeks
+przewiduje grzywnę bez określenia jej wysokości, grzywnę
+wymierza się w kwocie do:
+A. trzech tysięcy złotych,
+B. pięciu tysięcy złotych,
+
+C. dziesięciu tysięcy złotych.
+56. Zgodnie z Kodeksem postępowania cywilnego, spóźniony lub z
+mocy ustawy niedopuszczalny wniosek o przywrócenie terminu do
+dokonania czynności procesowej, sąd:
+A. zwraca,
+B. oddala,
+C. odrzuca.
+57. Zgodnie z Kodeksem postępowania cywilnego, jeżeli o to samo
+roszczenie pomiędzy tymi samymi stronami sprawa jest w toku, sąd:
+A. odrzuci pozew,
+B. sprawę z kolejnego pozwu połączy do wspólnego rozpoznania i
+rozstrzygnięcia ze sprawą wcześniej zawisłą,
+C. zwróci pozew.
+58. Zgodnie z Kodeksem postępowania cywilnego, dokument
+prywatny sporządzony w formie pisemnej albo elektronicznej:
+A. stanowi dowód tego, co zostało w nim urzędowo zaświadczone,
+B. stanowi dowód tego, że osoba, która go podpisała, złożyła
+oświadczenie zawarte w dokumencie,
+C. nie stanowi dowodu.
+59. Zgodnie z Kodeksem postępowania cywilnego, sąd wydając
+wyrok na posiedzeniu, na którym nastąpiło zamknięcie rozprawy,
+bierze za podstawę wyrokowania stan rzeczy istniejący w chwili:
+A. wniesienia pozwu,
+
+B. zamknięcia rozprawy,
+C. doręczenia odpisu pozwu pozwanemu.
+60. Zgodnie z Kodeksem postępowania cywilnego, pozwany,
+przeciwko któremu zapadł wyrok zaoczny, może złożyć:
+A. apelację,
+B. zarzuty,
+C. sprzeciw.
+61. Zgodnie z Kodeksem postępowania cywilnego, skarga kasacyjna
+jest niedopuszczalna:
+A. we wszystkich sprawach, w których wartość przedmiotu
+zaskarżenia jest niższa niż pięćdziesiąt tysięcy złotych,
+B. w sprawach o odszkodowanie z tytułu wyrządzenia szkody przez
+wydanie prawomocnego orzeczenia niezgodnego z prawem,
+C. w sprawach o rozwód.
+62. Zgodnie z Kodeksem postępowania cywilnego, z wyjątkiem
+przypadku, gdy strona była pozbawiona możności działania lub nie
+była należycie reprezentowana, nie można żądać wznowienia
+postępowania w przypadku, gdy od dnia uprawomocnienia się
+wyroku upłynęło lat:
+A. dziesięć,
+B. pięć,
+C. trzy.
+63. Zgodnie z Kodeksem rodzinnym i opiekuńczym, oświadczenie o
+wstąpieniu w związek małżeński:
+
+A. może być zawsze złożone przez pełnomocnika,
+B. może być złożone przez pełnomocnika za zezwoleniem sądu
+udzielonym z ważnych powodów,
+C. w żadnym wypadku nie może być złożone przez pełnomocnika.
+64. Zgodnie z Kodeksem rodzinnym i opiekuńczym, mężczyzna,
+który nie ukończył lat osiemnastu, ale ukończył lat szesnaście:
+A. za zgodą sądu opiekuńczego może zawrzeć małżeństwo,
+B. nie może zawrzeć małżeństwa,
+C. za zgodą przedstawiciela ustawowego oraz sądu opiekuńczego
+może zawrzeć małżeństwo.
+65. Zgodnie z Kodeksem rodzinnym i opiekuńczym, gdy między
+małżonkami istnieje ustawowa wspólność majątkowa, do majątku
+osobistego każdego z małżonków należą:
+A. przedmioty majątkowe nabyte przez dziedziczenie ustawowe,
+B. pobrane wynagrodzenie za pracę,
+C. środki zgromadzone na rachunku otwartego lub pracowniczego
+funduszu emerytalnego każdego z małżonków.
+66. Zgodnie z Kodeksem rodzinnym i opiekuńczym, jeżeli żadnemu
+z rodziców nie przysługuje władza rodzicielska albo jeżeli rodzice są
+nieznani, ustanawia się dla dziecka:
+zarządcę tymczasowego,
+kuratora,
+opiekę.
+
+67. Zgodnie z Kodeksem rodzinnym i opiekuńczym, rodzice
+obowiązani są sprawować z należytą starannością zarząd majątkiem
+dziecka pozostającego pod ich władzą rodzicielską; zarząd
+sprawowany przez rodziców obejmuje:
+przedmioty oddane dziecku do swobodnego użytku,
+przedmioty przypadające dziecku z testamentu, o ile spadkodawca
+nie postanowił inaczej,
+zarobek dziecka.
+68. Zgodnie z Kodeksem rodzinnym i opiekuńczym, czysty dochód z
+majątku dziecka powinien być przede wszystkim obracany:
+A. wyłącznie na wychowanie dziecka,
+B. wyłącznie na utrzymanie dziecka i potrzeby jego rodziców,
+C. na utrzymanie i wychowanie dziecka oraz jego rodzeństwa, które
+wychowuje się razem z nim, nadwyżka zaś na inne uzasadnione
+potrzeby rodziny.
+69. Zgodnie z ustawą o zastawie rejestrowym i rejestrze zastawów,
+zastaw rejestrowy wygasa i podlega wykreśleniu z rejestru
+zastawów po upływie:
+A. dziesięciu lat od chwili wpisu, chyba że strony postanowią o
+utrzymaniu zastawu na czas dalszy, nie dłuższy niż dziesięć lat, i do
+rejestru zastawów zostanie złożona zmiana umowy zastawniczej,
+B. dwudziestu lat od chwili wpisu, chyba że strony postanowią o
+utrzymaniu zastawu na czas dalszy, nie dłuższy niż dziesięć lat, i do
+rejestru zastawów zostanie złożona zmiana umowy zastawniczej,
+C. trzydziestu lat od chwili wpisu, chyba że strony postanowią o
+utrzymaniu zastawu na czas dalszy, nie dłuższy niż dziesięć lat, i do
+rejestru zastawów zostanie złożona zmiana umowy zastawniczej.
+
+70. Zgodnie z ustawą o Krajowym Rejestrze Sądowym, wniosek o
+wpis do Krajowego Rejestru Sądowego powinien być złożony nie
+później niż w terminie:
+A. 7 dni od dnia zdarzenia uzasadniającego dokonanie wpisu, chyba
+że przepis szczególny stanowi inaczej,
+B. 14 dni od dnia zdarzenia uzasadniającego dokonanie wpisu,
+chyba że przepis szczególny stanowi inaczej,
+C. 3 miesięcy od dnia zdarzenia uzasadniającego dokonanie wpisu,
+chyba że przepis szczególny stanowi inaczej.
+71. Zgodnie z ustawą – Prawo upadłościowe, nie można ogłosić
+upadłości:
+A. niepublicznych podmiotów leczniczych,
+B. publicznych samodzielnych zakładów opieki zdrowotnej,
+C. spółek z ograniczoną odpowiedzialnością, prostych spółek
+akcyjnych i spółek akcyjnych prowadzących gospodarstwo rolne,
+które nie prowadzą innej działalności gospodarczej lub zawodowej.
+72. Zgodnie z ustawą – Prawo upadłościowe, w razie oddalenia
+wniosku o wyłączenie z masy upadłości wnioskodawca może w
+drodze powództwa żądać wyłączenia mienia z masy upadłości;
+powództwo wnosi się w terminie miesiąca od dnia doręczenia
+postanowienia sędziego-komisarza o odmowie wyłączenia z masy
+upadłości do:
+A. sędziego-komisarza,
+B. sądu upadłościowego,
+C. sądu okręgowego.
+73. Zgodnie z ustawą – Prawo upadłościowe, spełnienie świadczenia
+do rąk upadłego przedsiębiorcy dokonane po obwieszczeniu o
+
+ogłoszeniu jego upadłości w Krajowym Rejestrze Zadłużonych:
+A. zawsze zwalnia z obowiązku spełnienia świadczenia do masy
+upadłości,
+B. nigdy nie zwalnia z obowiązku spełnienia świadczenia do masy
+upadłości,
+C. nie zwalnia z obowiązku spełnienia świadczenia do masy
+upadłości, chyba że równowartość świadczenia została przekazana
+przez upadłego do masy upadłości.
+74. Zgodnie z ustawą – Prawo upadłościowe, po ogłoszeniu
+upadłości przedsiębiorcy będącego jedną ze stron umowy pożyczki,
+umowa pożyczki:
+A. zawsze wygasa,
+B. wygasa, gdy przedmiot pożyczki nie został jeszcze wydany,
+C. nigdy nie wygasa.
+75. Zgodnie z ustawą – Prawo upadłościowe, po ogłoszeniu
+upadłości przedsiębiorcy postępowanie egzekucyjne skierowane do
+majątku wchodzącego w skład masy upadłości, wszczęte przed
+dniem ogłoszenia upadłości, ulega:
+A. zawieszeniu z mocy prawa po uprawomocnieniu się
+postanowienia o ogłoszeniu upadłości,
+B. umorzeniu z mocy prawa po uprawomocnieniu się postanowienia
+o ogłoszeniu upadłości,
+C. wstrzymaniu po uprawomocnieniu się postanowienia o
+ogłoszeniu upadłości.
+76. Zgodnie z ustawą – Prawo wekslowe, roszczenia wekslowe
+przeciw akceptantowi ulegają przedawnieniu z upływem:
+
+A. roku, licząc od dnia płatności wekslu,
+B. lat trzech, licząc od dnia płatności wekslu,
+C. lat pięciu, licząc od dnia płatności wekslu.
+77. Zgodnie z ustawą – Prawo wekslowe, ten, komu weksel (inny
+niż weksel in blanco) zaginął, może żądać uznania go za umorzony:
+A. od sądu rejonowego miejsca wystawienia wekslu,
+B. od sądu rejonowego miejsca płatności wekslu,
+C. od sądu rejonowego miejsca avalowania wekslu.
+78. Zgodnie z ustawą – Prawo przedsiębiorców, średni
+przedsiębiorca to przedsiębiorca, który nie jest mikroprzedsiębiorcą
+ani małym przedsiębiorcą i w co najmniej jednym roku z dwóch
+ostatnich lat obrotowych spełniał łącznie następujące warunki:
+A. zatrudniał średniorocznie mniej niż 10 pracowników oraz
+osiągnął roczny obrót netto ze sprzedaży towarów, wyrobów i usług
+oraz z operacji finansowych nieprzekraczający równowartości w
+złotych 2 milionów euro,
+B. zatrudniał średniorocznie mniej niż 50 pracowników oraz
+osiągnął roczny obrót netto ze sprzedaży towarów, wyrobów i usług
+oraz z operacji finansowych nieprzekraczający równowartości w
+złotych 10 milionów euro,
+C. zatrudniał średniorocznie mniej niż 250 pracowników oraz
+osiągnął roczny obrót netto ze sprzedaży towarów, wyrobów i usług
+oraz z operacji finansowych nieprzekraczający równowartości w
+złotych 50 milionów euro, lub sumy aktywów jego bilansu
+
+sporządzonego na koniec jednego z tych lat nie przekroczyły
+równowartości w złotych 43 milionów euro.
+79. Zgodnie z ustawą – Prawo przedsiębiorców, dokonywanie lub
+przyjmowanie płatności związanych z wykonywaną działalnością
+gospodarczą następuje za pośrednictwem rachunku płatniczego
+przedsiębiorcy, w każdym przypadku gdy stroną transakcji, z której
+wynika płatność, jest inny przedsiębiorca oraz gdy jednorazowa
+wartość transakcji, bez względu na liczbę wynikających z niej
+płatności, przekracza:
+A. 15 000 zł lub równowartość tej kwoty,
+B. 10 000 zł lub równowartość tej kwoty,
+C. 5 000 zł lub równowartość tej kwoty.
+80. Zgodnie z ustawą o Centralnej Ewidencji i Informacji o
+Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy,
+przedsiębiorca podlega wykreśleniu z Centralnej Ewidencji i
+Informacji o Działalności Gospodarczej z urzędu, w przypadkach
+określonych w tej ustawie, w drodze decyzji administracyjnej
+wydawanej przez:
+A. ministra właściwego do spraw gospodarki,
+B. wojewodę,
+C. starostę.
+81. Zgodnie z ustawą o Centralnej Ewidencji i Informacji o
+Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy,
+dane dotyczące wykreślonego przedsiębiorcy wpisane do Centralnej
+Ewidencji i Informacji o Działalności Gospodarczej przed dniem
+jego wykreślenia z tej ewidencji podlegają usunięciu po upływie:
+A. 10 lat od dnia wykreślenia,
+B. 30 lat od dnia wykreślenia,
+
+C. 50 lat od dnia wykreślenia.
+82. Zgodnie z Kodeksem spółek handlowych, spółkami handlowymi
+są:
+A. spółka partnerska, spółka cywilna, spółka komandytowa, spółka
+komandytowo-akcyjna, spółka z ograniczoną odpowiedzialnością,
+spółka akcyjna,
+B. spółka jawna, spółka partnerska, spółka komandytowa, spółka
+komandytowo-akcyjna, spółka z ograniczoną odpowiedzialnością,
+prosta spółka akcyjna i spółka akcyjna,
+C. wyłącznie spółka z ograniczoną odpowiedzialnością, prosta
+spółka akcyjna i spółka akcyjna.
+83. Zgodnie z Kodeksem spółek handlowych, spółka z ograniczoną
+odpowiedzialnością w organizacji z chwilą wpisu do rejestru
+przedsiębiorców:
+A. staje się spółką z ograniczoną odpowiedzialnością,
+B. pozostaje spółką w organizacji, ale uzyskuje osobowość prawną,
+C. przekształca się w spółkę akcyjną.
+84. Zgodnie z Kodeksem spółek handlowych, przedmiotem wkładu
+niepieniężnego do spółki z ograniczoną odpowiedzialnością i spółki
+akcyjnej może być:
+A. służebność osobista,
+B. prawo użytkowania wieczystego nieruchomości,
+C. świadczenie pracy bądź usług.
+
+85. Zgodnie z Kodeksem spółek handlowych, jeżeli umowa spółki
+jawnej nie stanowi inaczej, w spółce jawnej:
+A. ustanowienie oraz odwołanie prokury wymaga zgody wszystkich
+wspólników mających prawo prowadzenia spraw spółki,
+B. ustanowić prokurę może każdy wspólnik, bez względu na to czy
+ma prawo prowadzenia spraw spółki,
+C. odwołać prokurę może każdy wspólnik mający prawo
+prowadzenia spraw spółki.
+86. Zgodnie z Kodeksem spółek handlowych, w spółce partnerskiej,
+jeżeli prowadzenie spraw i reprezentowanie spółki powierzono
+zarządowi:
+A. członkiem zarządu nie może być osoba trzecia,
+B. członkami zarządu muszą być wszyscy partnerzy,
+C. członkiem zarządu jest co najmniej jeden partner; członkiem
+zarządu może być także osoba trzecia.
+87. Zgodnie z Kodeksem spółek handlowych, w przypadku utraty
+przez partnera uprawnień do wykonywania wolnego zawodu:
+A. powinien on wystąpić ze spółki partnerskiej najpóźniej z końcem
+roku obrotowego, w którym utracił prawo wykonywania wolnego
+zawodu,
+B. powinien on wystąpić ze spółki partnerskiej najpóźniej w
+terminie 2 lat od dnia utraty prawa wykonywania wolnego zawodu,
+C. nie musi występować ze spółki partnerskiej, ale traci prawo
+reprezentowania spółki.
+88. Zgodnie z Kodeksem spółek handlowych, w spółce
+komandytowo-akcyjnej prawo uczestniczenia w walnym
+zgromadzeniu ma:
+
+A. tylko akcjonariusz spółki komandytowo-akcyjnej,
+B. akcjonariusz oraz komplementariusz tylko w przypadku, gdy jest
+akcjonariuszem spółki komandytowo-akcyjnej,
+C. akcjonariusz oraz komplementariusz także w przypadku, gdy nie
+jest akcjonariuszem spółki komandytowo-akcyjnej.
+89. Zgodnie z Kodeksem spółek handlowych, spółka z ograniczoną
+odpowiedzialnością może być utworzona przez jedną albo więcej
+osób:
+A. w każdym celu prawnie dopuszczalnym, chyba że ustawa
+stanowi inaczej,
+B. tylko w celu gospodarczym,
+C. tylko w celu prowadzenia działalności gospodarczej.
+90. Zgodnie z Kodeksem spółek handlowych, w spółce z
+ograniczoną odpowiedzialnością, wspólnik, który wniósł wkłady
+niepieniężne oraz członkowie zarządu, którzy, wiedząc o tym,
+zgłosili spółkę do rejestru przedsiębiorców, obowiązani są solidarnie
+wyrównać spółce brakującą wartość, jeżeli wartość wkładów
+niepieniężnych została znacznie zawyżona w stosunku do ich
+wartości:
+A. nominalnej w dniu zawarcia umowy spółki,
+B. zbywczej w dniu zawarcia umowy spółki,
+C. bilansowej w dniu sporządzenia sprawozdania finansowego
+kończącego pierwszy pełny rok obrotowy.
+91. Zgodnie z Kodeksem spółek handlowych, w spółce z
+ograniczoną odpowiedzialnością, jeżeli w wyniku rezygnacji
+członka zarządu żaden mandat w zarządzie nie byłby obsadzony,
+
+członek zarządu składa rezygnację:
+A. spółce, listem poleconym na jej adres,
+B. sądowi rejestrowemu,
+C. wspólnikom, zwołując jednocześnie zgromadzenie wspólników,
+chyba że umowa spółki stanowi inaczej.
+92. Zgodnie z Kodeksem spółek handlowych, umowa prostej spółki
+akcyjnej, która nie jest zawierana przy wykorzystaniu wzorca
+umowy udostępnionego w systemie teleinformatycznym, powinna
+być zawarta w formie:
+A. pisemnej dla celów dowodowych,
+B. pisemnej z podpisami urzędowo poświadczonymi,
+C. aktu notarialnego.
+93. Zgodnie z Kodeksem spółek handlowych, wkłady do prostej
+spółki akcyjnej powinny zostać wniesione do spółki w całości:
+A. przed zarejestrowaniem,
+B. w ciągu trzech lat od dnia wpisu spółki do rejestru
+przedsiębiorców,
+C. w ciągu pięciu lat od dnia wpisu spółki do rejestru
+przedsiębiorców.
+94. Zgodnie z Kodeksem spółek handlowych, w prostej spółce
+akcyjnej, w razie jej rozwiązania i likwidacji, cały majątek spółki
+może zostać przejęty przez oznaczonego akcjonariusza
+(akcjonariusza przejmującego), z obowiązkiem zaspokojenia
+wierzycieli i pozostałych akcjonariuszy, jeżeli przewiduje tak
+uchwała walnego zgromadzenia, podjęta większością trzech
+
+czwartych głosów, oddanych w obecności akcjonariuszy
+reprezentujących co najmniej:
+A. połowę ogólnej liczby akcji, a sąd rejestrowy zezwoli na
+przejęcie,
+B. połowę ogólnej liczby akcji, bez potrzeby udzielania zezwolenia
+na przejęcie przez sąd rejestrowy,
+C. dwie trzecie ogólnej liczby akcji, bez potrzeby udzielania
+zezwolenia na przejęcie przez sąd rejestrowy.
+95. Zgodnie z Kodeksem spółek handlowych, w przypadku gdy
+wszystkie akcje spółki akcyjnej przysługują jedynemu
+akcjonariuszowi albo jedynemu akcjonariuszowi i spółce,
+oświadczenie woli takiego akcjonariusza składane spółce wymaga:
+A. formy pisemnej pod rygorem nieważności, chyba że ustawa
+stanowi inaczej,
+B. formy pisemnej z podpisem urzędowo poświadczonym pod
+rygorem nieważności, chyba że ustawa stanowi inaczej,
+C. formy pisemnej z datą pewną pod rygorem nieważności, chyba
+że ustawa stanowi inaczej.
+96. Zgodnie z Kodeksem spółek handlowych, rada nadzorcza spółki
+akcyjnej będącej spółką publiczną składa się co najmniej z:
+A. trzech członków,
+B. pięciu członków,
+C. siedmiu członków.
+97. Zgodnie z Kodeksem spółek handlowych, w spółce akcyjnej
+wysokość kapitału docelowego nie może przekraczać:
+A. połowy kapitału zakładowego na dzień udzielenia upoważnienia
+
+radzie nadzorczej,
+B. trzech czwartych kapitału zakładowego na dzień udzielenia
+upoważnienia zarządowi,
+C. trzech piątych kapitału zakładowego na dzień udzielenia
+upoważnienia walnemu zgromadzeniu.
+98. Zgodnie z Kodeksem pracy, pracodawcą jest:
+A. jednostka organizacyjna, choćby nie posiadała osobowości
+prawnej, a także osoba fizyczna, jeżeli zatrudniają one
+pracowników,
+B. wyłącznie osoba prawna i osoba fizyczna, jeżeli zatrudniają one
+pracowników,
+C. wyłącznie osoba prawna i jednostka organizacyjna, choćby nie
+posiadała osobowości prawnej, jeżeli zatrudniają one pracowników.
+99. Zgodnie z Kodeksem pracy, nadzór i kontrolę przestrzegania
+prawa pracy, w tym przepisów i zasad bezpieczeństwa i higieny
+pracy, sprawuje:
+A. minister właściwy do spraw pracy,
+B. Państwowa Inspekcja Pracy,
+C. komisja bezpieczeństwa i higieny pracy.
+100. Zgodnie z ustawą o systemie ubezpieczeń społecznych, od
+wydanych przez Zakład Ubezpieczeń Społecznych decyzji w
+zakresie indywidualnych spraw dotyczących przebiegu ubezpieczeń
+przysługuje odwołanie do:
+A. właściwego sądu powszechnego,
+B. Prezesa Zakładu Ubezpieczeń Społecznych,
+C. wojewódzkiego sądu administracyjnego.
+
+101. Zgodnie z ustawą o dowodach osobistych, dowód osobisty
+wydany osobie, która nie ukończyła 12. roku życia, jest ważny:
+przez okres 5 lat od daty jego wydania,
+przez okres 6 lat od daty jego wydania,
+przez okres 10 lat od daty jego wydania.
+102. Zgodnie z ustawą – Prawo budowlane, pod warunkiem
+zgodności zamierzenia budowlanego z przepisami, prawo zabudowy
+nieruchomości gruntowej ma:
+wyłącznie właściciel nieruchomości gruntowej,
+wyłącznie właściciel lub użytkownik wieczysty nieruchomości
+gruntowej,
+każdy, jeżeli wykaże tytuł prawny wynikający z prawa własności,
+użytkowania wieczystego, zarządu, ograniczonego prawa
+rzeczowego albo stosunku zobowiązaniowego, przewidującego
+uprawnienia do wykonywania robót budowlanych.
+103. Zgodnie z ustawą o samorządzie gminnym, wójt (burmistrz,
+prezydent miasta) obowiązany jest do przedłożenia wojewodzie
+uchwał rady gminy, które nie ustanawiają przepisów
+porządkowych, w ciągu:
+7 dni od dnia ich podjęcia,
+14 dni od dnia ich podjęcia,
+14 dni od dnia ich ogłoszenia.
+104. Zgodnie z ustawą o samorządzie powiatowym, do wyłącznej
+właściwości rady powiatu należy podejmowanie uchwał w
+sprawach majątkowych powiatu dotyczących między innymi:
+
+uchwalania regulaminu organizacyjnego starostwa powiatowego,
+tworzenia i przystępowania do związków, stowarzyszeń, fundacji i
+spółdzielni oraz ich rozwiązywania lub występowania z nich,
+zatrudniania i zwalniania kierowników jednostek organizacyjnych
+powiatu.
+105. Zgodnie z ustawą o samorządzie województwa, w sprawie
+odwołania sejmiku województwa przed upływem kadencji
+rozstrzyga się wyłącznie w drodze:
+postanowienia Prezydenta Rzeczypospolitej Polskiej, na wniosek
+ministra właściwego do spraw administracji publicznej,
+rozporządzenia Rady Ministrów, na wniosek ministra właściwego
+do spraw administracji publicznej,
+referendum wojewódzkiego.
+106. Zgodnie z ustawą o planowaniu i zagospodarowaniu
+przestrzennym, uchwała rady gminy w sprawie uchwalenia
+miejscowego planu zagospodarowania przestrzennego obowiązuje
+od dnia wejścia w życie w niej określonego, jednak nie wcześniej
+niż po upływie:
+7 dni od dnia opublikowania na stronie internetowej gminy,
+14 dni od dnia ogłoszenia w dzienniku urzędowym województwa,
+30 dni od dnia ogłoszenia w dzienniku urzędowym województwa.
+107. Zgodnie z ustawą o Krajowym Zasobie Nieruchomości,
+nieruchomościami wchodzącymi w skład Zasobu Nieruchomości
+gospodaruje na zasadach określonych w ustawie:
+A. Krajowy Zasób Nieruchomości,
+
+B. minister właściwy do spraw aktywów państwowych,
+C. minister właściwy do spraw budownictwa, planowania i
+zagospodarowania przestrzennego oraz mieszkalnictwa.
+108. Zgodnie z ustawą – Prawo o aktach stanu cywilnego, przyjęcie
+przez kierownika urzędu stanu cywilnego albo konsula
+oświadczenia rozwiedzionego małżonka o powrocie do nazwiska
+noszonego przed zawarciem małżeństwa dokumentuje się w formie:
+protokołu, który podpisują rozwiedziony małżonek oraz kierownik
+urzędu stanu cywilnego albo konsul,
+decyzji,
+postanowienia.
+109. Zgodnie z Kodeksem postępowania administracyjnego,
+organizacja społeczna może w sprawie dotyczącej innej osoby
+występować z żądaniem wszczęcia postępowania lub dopuszczenia
+jej do udziału w postępowaniu:
+w każdej sprawie, niezależnie od celów statutowych tej organizacji,
+jeżeli jest to uzasadnione celami statutowymi tej organizacji i gdy
+przemawia za tym interes społeczny,
+gdy przemawia za tym słuszny interes innej osoby, niezależnie od
+celów statutowych tej organizacji.
+110. Zgodnie z Kodeksem postępowania administracyjnego, strona
+może zażądać uzupełnienia decyzji co do prawa wniesienia w
+stosunku do decyzji powództwa do sądu powszechnego lub skargi
+do sądu administracyjnego w terminie:
+czternastu dni od dnia doręczenia lub ogłoszenia decyzji,
+dwudziestu jeden dni od dnia doręczenia lub ogłoszenia decyzji,
+
+trzydziestu dni od dnia doręczenia lub ogłoszenia decyzji.
+111. Zgodnie z Kodeksem postępowania administracyjnego, jeżeli
+decyzja ostateczna została wydana w wyniku przestępstwa, organ
+administracji publicznej:
+wznawia postępowanie,
+stwierdza nieważność tej decyzji,
+stwierdza wygaśnięcie tej decyzji.
+112. Zgodnie z Kodeksem postępowania administracyjnego, skargę
+o wznowienie postępowania administracyjnego w przypadku, gdy
+zostało wydane orzeczenie Trybunału Sprawiedliwości Unii
+Europejskiej, które ma wpływ na treść wydanej decyzji wnosi się w
+terminie:
+jednego miesiąca od dnia publikacji sentencji orzeczenia Trybunału
+Sprawiedliwości Unii Europejskiej w Dzienniku Urzędowym Unii
+Europejskiej,
+trzech miesięcy od dnia publikacji sentencji orzeczenia Trybunału
+Sprawiedliwości Unii Europejskiej w Dzienniku Urzędowym Unii
+Europejskiej,
+sześciu miesięcy od dnia publikacji sentencji orzeczenia Trybunału
+Sprawiedliwości Unii Europejskiej w Dzienniku Urzędowym Unii
+Europejskiej.
+113. Zgodnie z Kodeksem postępowania administracyjnego, organ
+administracji publicznej załatwia sprawę w postępowaniu
+uproszczonym, jeżeli:
+A. przyczyni się to do przyśpieszenia postępowania,
+B. przepis szczególny tak stanowi,
+C. przemawia za tym uzasadniony interes strony.
+
+114. Zgodnie z ustawą – Prawo o postępowaniu przed sądami
+administracyjnymi, rozpoznając skargę na pisemną interpretację
+przepisów prawa podatkowego wydaną w indywidualnej sprawie,
+sąd administracyjny, rozstrzygając w granicach tej sprawy:
+A. jest związany zarzutami i wnioskami skargi oraz powołaną
+podstawą prawną,
+B. nie jest związany zarzutami i wnioskami skargi oraz powołaną
+podstawą prawną,
+C. jest związany tylko zarzutami skargi.
+115. Zgodnie z ustawą – Prawo o postępowaniu przed sądami
+administracyjnymi, jeżeli jest to niezbędne do wyjaśnienia istotnych
+wątpliwości i nie spowoduje nadmiernego przedłużenia
+postępowania w sprawie, wojewódzki sąd administracyjny może z
+urzędu lub na wniosek stron przeprowadzić dowody uzupełniające:
+A. z zeznań świadków,
+B. z oględzin,
+C. z dokumentów.
+116. Zgodnie z ustawą – Prawo o postępowaniu przed sądami
+administracyjnymi, jeżeli uzasadnienie wyroku zostało sporządzone
+na wniosek strony, odpis wyroku z uzasadnieniem doręcza się:
+każdej stronie,
+stronie, która złożyła wniosek oraz organowi, którego działanie,
+bezczynność lub przewlekłe prowadzenie postępowania jest
+przedmiotem skargi,
+tylko tej stronie, która złożyła wniosek.
+
+117. Zgodnie z ustawą – Prawo o postępowaniu przed sądami
+administracyjnymi, jeżeli skarżący skutecznie cofnął skargę,
+wojewódzki sąd administracyjny wydaje postanowienie:
+o umorzeniu postępowania sądowoadministracyjnego,
+o pozostawieniu skargi bez rozpoznania,
+o zwrocie skargi.
+118. Zgodnie z ustawą – Prawo o postępowaniu przed sądami
+administracyjnymi, jeżeli strona reprezentowana przez adwokata,
+radcę prawnego, doradcę podatkowego lub rzecznika patentowego
+najpóźniej przed zamknięciem rozprawy bezpośrednio
+poprzedzającej wydanie orzeczenia nie zgłosi wniosku o przyznanie
+należnych kosztów:
+może zgłosić wniosek w terminie 3 dni od zamknięcia rozprawy,
+może zgłosić wniosek w terminie 7 dni od zamknięcia rozprawy,
+traci uprawnienie do żądania zwrotu kosztów.
+119. Zgodnie z ustawą – Prawo o postępowaniu przed sądami
+administracyjnymi, skargę o stwierdzenie niezgodności z prawem
+prawomocnego orzeczenia wojewódzkiego sądu administracyjnego,
+gdy przez jego wydanie została stronie wyrządzona szkoda, a
+zmiana lub uchylenie orzeczenia w drodze innych przysługujących
+stronie środków prawnych nie było i nie jest możliwe, wnosi się do
+sądu, który wydał zaskarżone orzeczenie w terminie:
+dwóch lat od dnia jego uprawomocnienia się,
+trzech lat od dnia jego uprawomocnienia się,
+pięciu lat od dnia jego uprawomocnienia się.
+120. Zgodnie z ustawą – Prawo prywatne międzynarodowe, jeżeli
+
+ustawa przewiduje właściwość prawa ojczystego, cudzoziemiec
+mający obywatelstwo dwóch lub więcej państw podlega, jako
+prawu ojczystemu:
+A. prawu państwa, któremu zaczął podlegać jako pierwszemu,
+B. prawu państwa, w którym zamieszkiwał ostatnio przez co
+najmniej rok,
+C. prawu tego z nich, z którym jest najściślej związany.
+121. Zgodnie z ustawą – Prawo prywatne międzynarodowe, jeżeli
+osoba prawna dokonuje czynności prawnej w zakresie
+prowadzonego przez siebie przedsiębiorstwa, dla oceny jej
+zdolności do wykonania tej czynności wystarczy, że ma zdolność do
+dokonania tej czynności według prawa państwa, w którym:
+A. przedsiębiorstwo jest prowadzone,
+B. zawarto umowę,
+C. ma nastąpić wykonanie umowy.
+122. Zgodnie z Traktatem o Unii Europejskiej, granice kompetencji
+Unii Europejskiej wyznacza zasada przyznania; wykonywanie tych
+kompetencji podlega zasadom:
+A. pierwszeństwa i nadrzędności,
+B. podległości i służebności,
+C. pomocniczości i proporcjonalności.
+123. Zgodnie z Traktatem o funkcjonowaniu Unii Europejskiej, Unia
+Europejska ma wyłączne kompetencje w dziedzinach takich jak:
+A. spójność gospodarcza, społeczna i terytorialna,
+B. rolnictwo i rybołówstwo, z wyłączeniem zachowania morskich
+
+zasobów biologicznych,
+C. unia celna.
+124. Zgodnie z ustawą – Ordynacja podatkowa, odwoławczym
+organem podatkowym od decyzji wójta, burmistrza (prezydenta
+miasta), starosty albo marszałka województwa w sprawach
+zobowiązań podatkowych jest:
+dyrektor izby administracji skarbowej,
+samorządowe kolegium odwoławcze,
+wojewódzki sąd administracyjny.
+125. Zgodnie z ustawą – Ordynacja podatkowa, wniosek o wydanie
+interpretacji przepisów prawa podatkowego (interpretacji
+indywidualnej) dotyczącej jednego stanu faktycznego lub zdarzenia
+przyszłego podlega opłacie w wysokości:
+40 zł,
+100 zł,
+200 zł.
+126. Zgodnie z ustawą – Ordynacja podatkowa, spory o właściwość
+między wójtem, burmistrzem (prezydentem miasta), starostą albo
+marszałkiem województwa a naczelnikiem urzędu skarbowego lub
+naczelnikiem urzędu celno-skarbowego rozstrzyga:
+dyrektor izby administracji skarbowej,
+samorządowe kolegium odwoławcze,
+sąd administracyjny.
+127. Zgodnie z ustawą – Ordynacja podatkowa, jeżeli z dowodów
+zgromadzonych w toku postępowania, w szczególności zeznań
+
+strony, chyba że strona odmawia składania zeznań, wynikają
+wątpliwości co do istnienia lub nieistnienia stosunku prawnego lub
+prawa, z którym związane są skutki podatkowe, organ podatkowy
+występuje o ustalenie istnienia lub nieistnienia tego stosunku
+prawnego lub prawa:
+do Rady do Spraw Przeciwdziałania Unikaniu Opodatkowania,
+do sądu powszechnego,
+do wojewódzkiego sądu administracyjnego.
+128. Zgodnie z ustawą o podatku od spadków i darowizn, w
+przypadku nabycia rzeczy lub praw majątkowych niewykazanych w
+zeznaniu podatkowym o nabyciu rzeczy lub praw majątkowych,
+podatnik jest obowiązany do złożenia korekty zeznania
+podatkowego organowi, któremu złożono zeznanie podatkowe, w
+terminie:
+14 dni od dnia, w którym dowiedział się o ich nabyciu,
+21 dni od dnia, w którym dowiedział się o ich nabyciu,
+1 miesiąca od dnia, w którym dowiedział się o ich nabyciu.
+129. Zgodnie z ustawą o podatku dochodowym od osób fizycznych,
+podatek wyrażony w walutach obcych przelicza się na złote według
+kursu średniego walut obcych ogłaszanego przez Narodowy Bank
+Polski:
+z dnia zapłaty podatku,
+z ostatniego dnia roboczego poprzedzającego dzień zapłaty
+podatku,
+z następnego dnia roboczego po dniu zapłaty podatku.
+130. Zgodnie z ustawą o podatku od czynności cywilnoprawnych,
+zwalnia się od podatku sprzedaż rzeczy ruchomych:
+
+A. bez względu na wysokość podstawy opodatkowania,
+B. jeżeli podstawa opodatkowania nie przekracza 1000 zł,
+C. jeżeli wartość rynkowa rzeczy wynosi co najmniej 2000 zł.
+131. Zgodnie z ustawą o podatku od czynności cywilnoprawnych,
+płatnicy podatku są obowiązani wpłacić pobrany podatek na
+rachunek organu podatkowego właściwego ze względu na siedzibę
+płatnika, w terminie do:
+A. 7 dnia miesiąca następującego po miesiącu, w którym pobrano
+podatek,
+B. 10 dnia miesiąca następującego po miesiącu, w którym pobrano
+podatek,
+C. 14 dnia miesiąca następującego po miesiącu, w którym pobrano
+podatek.
+132. Zgodnie z Konstytucją Rzeczypospolitej Polskiej, samorządy
+zawodowe, reprezentujące osoby wykonujące zawody zaufania
+publicznego i sprawujące pieczę nad należytym wykonywaniem
+tych zawodów w granicach interesu publicznego i dla jego ochrony,
+można tworzyć w drodze:
+rozporządzenia Rady Ministrów w uzgodnieniu z Prezydentem
+Rzeczypospolitej Polskiej,
+uchwały Sejmu,
+ustawy.
+133. Zgodnie z Konstytucją Rzeczypospolitej Polskiej, Sejm może
+skrócić swoją kadencję uchwałą podjętą większością co najmniej:
+
+2/3 głosów ustawowej liczby posłów,
+3/4 głosów ustawowej liczby posłów,
+3/5 głosów ustawowej liczby posłów.
+134. Zgodnie z Konstytucją Rzeczypospolitej Polskiej,
+zwierzchnikiem korpusu służby cywilnej jest:
+minister właściwy do spraw administracji publicznej,
+Prezes Rady Ministrów,
+Prezydent Rzeczypospolitej Polskiej.
+135. Zgodnie z Konstytucją Rzeczypospolitej Polskiej, członek
+Trybunału Stanu nie może być pociągnięty do odpowiedzialności
+karnej ani pozbawiony wolności bez uprzedniej zgody:
+Sejmu,
+Sądu Najwyższego,
+Trybunału Stanu.
+136. Zgodnie z ustawą o Sądzie Najwyższym, Pierwszy Prezes Sądu
+Najwyższego jest powoływany przez Prezydenta Rzeczypospolitej
+Polskiej na kadencję:
+A. czteroletnią,
+B. pięcioletnią,
+C. sześcioletnią.
+137. Zgodnie z ustawą o Sądzie Najwyższym, sędzia delegowany do
+pełnienia czynności sędziowskich w Sądzie Najwyższym:
+A. nie może być przewodniczącym składu orzekającego,
+
+B. może być przewodniczącym składu orzekającego,
+C. nie może być przewodniczącym składu orzekającego, z
+wyłączeniem spraw rozpoznawanych w składzie jednego sędziego.
+138. Zgodnie z ustawą o Sądzie Najwyższym, z chwilą jej podjęcia
+moc zasady prawnej uzyskuje każda uchwała:
+A. pełnego składu Sądu Najwyższego, składu połączonych izb,
+składu całej izby, składu 7 sędziów oraz składu 3 sędziów,
+B. pełnego składu Sądu Najwyższego, składu połączonych izb,
+składu całej izby oraz składu 7 sędziów,
+C. pełnego składu Sądu Najwyższego, składu połączonych izb oraz
+składu całej izby.
+139. Zgodnie z ustawą – Prawo o ustroju sądów powszechnych,
+zadania z zakresu wymiaru sprawiedliwości w sądach rejonowych
+wykonują:
+A. wyłącznie sędziowie,
+B. sędziowie, a z określonymi wyłączeniami także asesorzy sądowi,
+C. sędziowie, referendarze sądowi, a z określonymi wyłączeniami
+także asesorzy sądowi.
+140. Zgodnie z ustawą – Prawo o ustroju sądów powszechnych, w
+sądzie okręgowym:
+A. organem sądu jest wyłącznie prezes sądu,
+B. organami sądu są wyłącznie prezes sądu i dyrektor sądu,
+C. organami sądu są prezes sądu, kolegium sądu i dyrektor sądu.
+141. Zgodnie z ustawą – Prawo o ustroju sądów powszechnych,
+
+strojem urzędowym sędziego przewodniczącego na rozprawie lub
+posiedzeniu z udziałem stron, odbywającym się w budynku sądu,
+jest:
+A. wyłącznie toga,
+B. toga, a także nakładany na kołnierz togi łańcuch z wizerunkiem
+orła,
+C. toga, biret, a także nakładany na kołnierz togi łańcuch z
+wizerunkiem orła.
+142. Zgodnie z ustawą – Prawo o prokuraturze, Prokurator
+Generalny jest przełożonym:
+A. wyłącznie prokuratorów powszechnych jednostek
+organizacyjnych prokuratury,
+B. prokuratorów powszechnych jednostek organizacyjnych
+prokuratury oraz prokuratorów Instytutu Pamięci Narodowej,
+C. prokuratorów powszechnych jednostek organizacyjnych
+prokuratury, prokuratorów Instytutu Pamięci Narodowej oraz
+prokuratorów jednostek organizacyjnych prokuratury wojskowej.
+143. Zgodnie z ustawą – Prawo o notariacie, organem izby
+notarialnej jest:
+Wyższy Sąd Dyscyplinarny,
+rzecznik dyscyplinarny izby notarialnej,
+walne zgromadzenie notariuszy izby.
+144. Zgodnie z ustawą – Prawo o notariacie, ustalanie wysokości
+składek miesięcznych notariuszy na potrzeby samorządu
+notarialnego oraz zasad ich wydatkowania należy do zakresu
+działania:
+walnego zgromadzenia notariuszy izby,
+
+Ministra Sprawiedliwości,
+Krajowej Rady Notarialnej.
+145. Zgodnie z ustawą – Prawo o notariacie, rada izby notarialnej
+przedstawia Ministrowi Sprawiedliwości odpis protokołu z wizytacji
+przeprowadzonej w kancelarii notarialnej, zawiadamiając go
+równocześnie o środkach podjętych w celu usunięcia stwierdzonych
+uchybień:
+niezwłocznie po wizytacji,
+w terminie miesiąca od wizytacji,
+w terminie 3 miesięcy od wizytacji.
+146. Zgodnie z ustawą – Prawo o notariacie, rady izb notarialnych,
+każdego roku, przekazują listę osób, które odbyły aplikację
+notarialną, w terminie 7 dni od dnia zakończenia aplikacji:
+terytorialnie właściwej komisji egzaminacyjnej do spraw aplikacji
+notarialnej przy Ministrze Sprawiedliwości oraz Ministrowi
+Sprawiedliwości,
+terytorialnie właściwemu prezesowi sądu apelacyjnego,
+Krajowej Radzie Notarialnej.
+147. Zgodnie z ustawą – Prawo o notariacie, jeżeli aplikant
+notarialny został prawomocnie skazany za umyślne przestępstwo
+lub umyślne przestępstwo skarbowe:
+A. prezes sądu apelacyjnego skreśla aplikanta notarialnego z listy
+aplikantów notarialnych,
+B. rada izby notarialnej może skreślić aplikanta notarialnego z listy
+aplikantów notarialnych,
+C. rada izby notarialnej skreśla aplikanta notarialnego z listy
+aplikantów notarialnych.
+
+148. Zgodnie z ustawą – Prawo o notariacie, zastępcy notariusza nie
+wolno dokonywać czynności notarialnych, które dotyczą:
+jego powinowatych w linii bocznej bez ograniczenia stopnia,
+jego krewnych w linii bocznej bez ograniczenia stopnia,
+osób, będących w bliskim z nim stosunku.
+149. Zgodnie z ustawą – Prawo o notariacie, dla sporządzenia aktu
+poświadczenia dziedziczenia notariusz może zwracać się do
+organów administracji publicznej oraz organów wykonujących
+zadania z zakresu administracji publicznej o  udzielenie informacji
+lub wydanie dokumentów stanowiących dowód:
+każdego faktu,
+faktu istotnego dla sporządzenia aktu poświadczenia dziedziczenia,
+wszystkich faktów wskazanych przez strony czynności notarialnej.
+150. Zgodnie z ustawą o Rzeczniku Praw Obywatelskich, w związku
+z rozpatrywanymi sprawami Rzecznik Praw Obywatelskich może
+również:
+występować z inicjatywą ustawodawczą w każdej sprawie,
+występować z inicjatywą ustawodawczą w sprawach dotyczących
+wolności i praw człowieka i obywatela,
+występować do właściwych organów z wnioskami o podjęcie
+inicjatywy ustawodawczej bądź o wydanie lub zmianę innych
+aktów prawnych w sprawach dotyczących wolności i praw
+człowieka i obywatela.

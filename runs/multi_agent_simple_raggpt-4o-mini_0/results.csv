@@ -1,0 +1,1996 @@
+index,question,correct_answer_letter,correct_answer_context,returned_answer,answer_judgment,context_judgment,context_extraction
+30,"Question: Zgodnie z Kodeksem cywilnym, dla ubezw³asnowolnionego ca³kowicie ustanawia siê opiekê, chyba ¿e:
+    
+            a) jest on w stanie kierowaæ swym postêpowaniem,
+            b) ustanowiony zosta³ dla niego kurator
+            c) pozostaje on jeszcze pod w³adz¹ rodzicielsk¹.
+            ",C,art. 13 § 2 k.c.,"OdpowiedŸ: **c) pozostaje on jeszcze pod w³adz¹ rodzicielsk¹.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 13 § 2 Kodeksu cywilnego, dla osoby ubezw³asnowolnionej ca³kowicie ustanawia siê opiekê, chyba ¿e pozostaje ona jeszcze pod w³adz¹ rodzicielsk¹. Oznacza to, ¿e w przypadku, gdy osoba ubezw³asnowolniona ca³kowicie jest nadal dzieckiem i znajduje siê pod w³adz¹ rodzicielsk¹, nie ma potrzeby ustanawiania dla niej opieki. W³adza rodzicielska zapewnia odpowiedni¹ ochronê i wsparcie, które s¹ wystarczaj¹ce w tym przypadku.
+
+**Odniesienie do przepisów:**
+- Art. 13 Kodeksu cywilnego:
+  - § 1. Osoba, która ukoñczy³a lat trzynaœcie, mo¿e byæ ubezw³asnowolniona ca³kowicie, je¿eli wskutek choroby psychicznej, niedorozwoju umys³owego albo innego rodzaju zaburzeñ psychicznych, w szczególnoœci pijañstwa lub narkomanii, nie jest w stanie kierowaæ swym postêpowaniem.
+  - § 2. Dla ubezw³asnowolnionego ca³kowicie ustanawia siê opiekê, chyba ¿e pozostaje on jeszcze pod w³adz¹ rodzicielsk¹.",True,True,[13]
+31,"Question: Zgodnie z Kodeksem cywilnym, je¿eli osoba prawna nie mo¿e byæ reprezentowana lub prowadziæ swoich spraw ze wzglêdu na brak organu albo brak w sk³adzie organu uprawnionego do jej reprezentowania, s¹d ustanawia dla niej:
+    
+            a) pe³nomocnika, który podlega nadzorowi s¹du w³aœciwego ze wzglêdu na siedzibê osoby prawnej
+            b) opiekuna, który podlega nadzorowi s¹du w³aœciwego ze wzglêdu na siedzibê osoby prawnej
+            c) kuratora, który podlega nadzorowi s¹du, który go ustanowi³. 
+            ",C,art. 42 § 1 k.c.,"OdpowiedŸ: **c) kuratora, który podlega nadzorowi s¹du, który go ustanowi³.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 42 § 1 Kodeksu cywilnego, w sytuacji, gdy osoba prawna nie mo¿e byæ reprezentowana lub prowadziæ swoich spraw z powodu braku organu lub braku w sk³adzie organu uprawnionego do jej reprezentowania, s¹d ma obowi¹zek ustanowiæ dla niej kuratora. Kurator ten dzia³a w imieniu osoby prawnej i podlega nadzorowi s¹du, który go ustanowi³. 
+
+Warto zauwa¿yæ, ¿e odpowiedzi a) i b) s¹ nieprawid³owe, poniewa¿ pe³nomocnik i opiekun nie s¹ terminami stosowanymi w kontekœcie reprezentacji osób prawnych w sytuacji braku organu. Pe³nomocnik dzia³a na podstawie pe³nomocnictwa, a opiekun dotyczy osób fizycznych, które s¹ ograniczone w zdolnoœci do czynnoœci prawnych.
+
+**Odniesienie do przepisów:**
+- Art. 42 Kodeksu cywilnego:
+  - § 1. ""Je¿eli osoba prawna nie mo¿e byæ reprezentowana lub prowadziæ swoich spraw ze wzglêdu na brak organu albo brak w sk³adzie organu uprawnionego do jej reprezentowania, s¹d ustanawia dla niej kuratora."" 
+  - § 3. ""Kurator niezw³ocznie podejmuje czynnoœci zmierzaj¹ce do powo³ania albo uzupe³nienia sk³adu organu osoby prawnej uprawnionego do jej reprezentowania, a w razie potrzeby do jej likwidacji.""",True,True,[42]
+32,"Question: Zgodnie z Kodeksem cywilnym, w³asnoœæ i inne prawa maj¹tkowe, stanowi¹ce mienie pañstwowe, przys³uguj¹:
+    
+            a) wy³¹cznie Skarbowi Pañstwa,
+            b) Skarbowi Pañstwa albo innym pañstwowym osobom prawnym
+            c) Skarbowi Pañstwa, innym pañstwowym osobom prawnym oraz gminom i ich zwi¹zkom.
+            ",B,art. 441 § 1 k.c.,"Poprawna odpowiedŸ to **b) Skarbowi Pañstwa albo innym pañstwowym osobom prawnym**.
+
+### Wyjaœnienie:
+Zgodnie z art. 441 Kodeksu cywilnego, w³asnoœæ i inne prawa maj¹tkowe, które stanowi¹ mienie pañstwowe, przys³uguj¹ Skarbowi Pañstwa albo innym pañstwowym osobom prawnym. Oznacza to, ¿e mienie pañstwowe nie jest wy³¹cznie w rêkach Skarbu Pañstwa, ale mo¿e równie¿ nale¿eæ do innych podmiotów prawnych, które s¹ pañstwowymi osobami prawnymi. 
+
+Warto zauwa¿yæ, ¿e odpowiedŸ a) jest niepoprawna, poniewa¿ ogranicza mienie pañstwowe wy³¹cznie do Skarbu Pañstwa, co jest sprzeczne z przepisami. OdpowiedŸ c) równie¿ jest b³êdna, poniewa¿ wprowadza gminy i ich zwi¹zki, co nie jest zgodne z treœci¹ art. 441.
+
+### Odniesienie do przepisów:
+- **Art. 441 Kodeksu cywilnego**: ""W³asnoœæ i inne prawa maj¹tkowe, stanowi¹ce mienie pañstwowe, przys³uguj¹ Skarbowi Pañstwa albo innym pañstwowym osobom prawnym.""",True,True,[441]
+33,"Question: Zgodnie z Kodeksem cywilnym, prawa zwi¹zane z w³asnoœci¹ nieruchomoœci uwa¿a siê za:
+    
+            a) jej czêœci sk³adowe,
+            b) po¿ytki prawa
+            c) jej przynale¿noœci
+            ",A,art. 50 k.c.,"OdpowiedŸ: **a) jej czêœci sk³adowe.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, prawa zwi¹zane z w³asnoœci¹ nieruchomoœci s¹ traktowane jako jej czêœci sk³adowe. Artyku³ 50 Kodeksu cywilnego stanowi, ¿e za czêœci sk³adowe nieruchomoœci uwa¿a siê tak¿e prawa zwi¹zane z jej w³asnoœci¹. Oznacza to, ¿e prawa te s¹ integraln¹ czêœci¹ nieruchomoœci i nie mog¹ byæ od niej oddzielone bez uszkodzenia ca³oœci.
+
+W kontekœcie pozosta³ych odpowiedzi:
+- **b) po¿ytki prawa** - po¿ytki s¹ to korzyœci, jakie w³aœciciel mo¿e uzyskaæ z rzeczy, ale nie s¹ one traktowane jako czêœæ sk³adowa nieruchomoœci.
+- **c) jej przynale¿noœci** - przynale¿noœci to rzeczy ruchome, które s¹ potrzebne do korzystania z nieruchomoœci, ale równie¿ nie s¹ to prawa zwi¹zane z w³asnoœci¹ nieruchomoœci.
+
+**Odniesienie do przepisów:**
+- Art. 50 Kodeksu cywilnego: ""Za czêœci sk³adowe nieruchomoœci uwa¿a siê tak¿e prawa zwi¹zane z jej w³asnoœci¹.""",True,True,[50]
+34,"Question: Zgodnie z Kodeksem cywilnym, je¿eli sk³adaj¹cy oœwiadczenie woli, które ma byæ z³o¿one innej osobie, zmar³ zanim oœwiadczenie woli do tej osoby dosz³o, oœwiadczenie to:
+    
+            a) zawsze traci moc wskutek tego,
+            b) nie traci mocy wskutek tego, chyba ¿e co innego wynika z treœci oœwiadczenia, z ustawy lub z okolicznoœci
+            c) traci moc wskutek tego, chyba ¿e co innego wynika z zasad wspó³¿ycia spo³ecznego.
+            ",B,art. 62 k.c.,"OdpowiedŸ: **b) nie traci mocy wskutek tego, chyba ¿e co innego wynika z treœci oœwiadczenia, z ustawy lub z okolicznoœci.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 62 Kodeksu cywilnego, oœwiadczenie woli, które ma byæ z³o¿one innej osobie, nie traci mocy wskutek œmierci sk³adaj¹cego je, zanim dotrze ono do adresata. Oœwiadczenie to pozostaje wa¿ne, chyba ¿e z jego treœci, z przepisów ustawy lub z okolicznoœci wynika coœ innego. Oznacza to, ¿e w przypadku œmierci sk³adaj¹cego oœwiadczenie, jego skutki prawne mog¹ byæ nadal aktualne, co jest istotne w kontekœcie dziedziczenia i realizacji zobowi¹zañ.
+
+**Odniesienie do przepisów:**
+- Art. 62 Kodeksu cywilnego: ""Oœwiadczenie woli, które ma byæ z³o¿one innej osobie, nie traci mocy wskutek tego, ¿e zanim do tej osoby dosz³o, sk³adaj¹cy je zmar³ lub utraci³ zdolnoœæ do czynnoœci prawnych, chyba ¿e co innego wynika z treœci oœwiadczenia, z ustawy lub z okolicznoœci.""",True,True,[62]
+35,"Question: Zgodnie z Kodeksem cywilnym, przepisy o oœwiadczeniach woli stosuje siê do innych oœwiadczeñ:
+    
+            a) odpowiednio,
+            b) wprost, chyba ¿e co innego wynika z ustawy
+            c) wprost, chyba ¿e co innego wynika z treœci czynnoœci, okolicznoœci albo przepisów szczególnych.
+            ",A,art. 651 k.c.,"Poprawna odpowiedŸ to **c) wprost, chyba ¿e co innego wynika z treœci czynnoœci, okolicznoœci albo przepisów szczególnych.**
+
+### Uzasadnienie:
+Zgodnie z art. 651 Kodeksu cywilnego, przepisy o oœwiadczeniach woli stosuje siê odpowiednio do innych oœwiadczeñ. Oznacza to, ¿e zasady dotycz¹ce oœwiadczeñ woli mog¹ byæ stosowane do innych rodzajów oœwiadczeñ, ale z uwzglêdnieniem kontekstu, w jakim te oœwiadczenia s¹ sk³adane. W przypadku, gdy treœæ czynnoœci, okolicznoœci lub przepisy szczególne wskazuj¹ na inne zasady, to te zasady bêd¹ mia³y pierwszeñstwo.
+
+### Odniesienie do przepisów:
+- **Art. 651 Kodeksu cywilnego**: ""Przepisy o oœwiadczeniach woli stosuje siê odpowiednio do innych oœwiadczeñ."" 
+
+To potwierdza, ¿e stosowanie przepisów o oœwiadczeniach woli do innych oœwiadczeñ nie jest bezwarunkowe i mo¿e byæ modyfikowane przez inne regulacje prawne lub okolicznoœci.",False,True,[651]
+36,"Question: Zgodnie z Kodeksem cywilnym, umowa darowizny rzeczy co do to¿samoœci oznaczonej:
+    
+            a) przenosi w³asnoœæ na nabywcê tylko wówczas, gdy nast¹pi przeniesienie posiadania rzeczy
+            b) przenosi w³asnoœæ na nabywcê, chyba ¿e przepis szczególny stanowi inaczej albo ¿e strony inaczej postanowi³y
+            c) przenosi w³asnoœæ na nabywcê tylko wówczas, gdy przepis szczególny tak stanowi.
+            ",B,art. 155 § 1 k.c.,"OdpowiedŸ: **b) przenosi w³asnoœæ na nabywcê, chyba ¿e przepis szczególny stanowi inaczej albo ¿e strony inaczej postanowi³y.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 155 § 1 Kodeksu cywilnego, umowa darowizny rzeczy oznaczonej co do to¿samoœci przenosi w³asnoœæ na nabywcê, chyba ¿e przepisy szczególne stanowi¹ inaczej lub strony umowy postanowi³y inaczej. Oznacza to, ¿e w przypadku darowizny rzeczy oznaczonej co do to¿samoœci, przeniesienie w³asnoœci nastêpuje automatycznie z chwil¹ zawarcia umowy, o ile nie ustalono inaczej w umowie lub nie ma przepisów, które by to zmienia³y.
+
+W przypadku rzeczy oznaczonych co do gatunku, przeniesienie w³asnoœci wymaga przeniesienia posiadania, co nie dotyczy rzeczy oznaczonych co do to¿samoœci. Dlatego odpowiedŸ b) jest poprawna, poniewa¿ uwzglêdnia mo¿liwoœæ istnienia przepisów szczególnych lub postanowieñ stron, które mog¹ wp³ywaæ na przeniesienie w³asnoœci.
+
+**Odniesienie do przepisów:**
+- Art. 155 Kodeksu cywilnego: ""Umowa sprzeda¿y, zamiany, darowizny, przekazania nieruchomoœci lub inna umowa zobowi¹zuj¹ca do przeniesienia w³asnoœci rzeczy co do to¿samoœci oznaczonej przenosi w³asnoœæ na nabywcê, chyba ¿e przepis szczególny stanowi inaczej albo ¿e strony inaczej postanowi³y.""",True,True,[155]
+37,"Question: Zgodnie z Kodeksem cywilnym, w³asnoœæ nieruchomoœci:
+    
+            a) nie mo¿e byæ przeniesiona pod warunkiem ani z zastrze¿eniem terminu
+            b) nie mo¿e byæ przeniesiona pod warunkiem, ale mo¿e byæ przeniesiona z  zastrze¿eniem terminu
+            c) mo¿e byæ przeniesiona pod warunkiem, ale nie mo¿e byæ przeniesiona z  zastrze¿eniem terminu.   
+            ",A,art. 157 § 1 k.c.,"OdpowiedŸ: **a) nie mo¿e byæ przeniesiona pod warunkiem ani z zastrze¿eniem terminu.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 157 § 1 Kodeksu cywilnego, w³asnoœæ nieruchomoœci nie mo¿e byæ przeniesiona ani pod warunkiem, ani z zastrze¿eniem terminu. Oznacza to, ¿e wszelkie umowy dotycz¹ce przeniesienia w³asnoœci nieruchomoœci musz¹ byæ bezwarunkowe i nie mog¹ zawieraæ postanowieñ dotycz¹cych terminu przeniesienia w³asnoœci. W przypadku, gdy umowa zobowi¹zuj¹ca do przeniesienia w³asnoœci nieruchomoœci zosta³a zawarta pod warunkiem lub z zastrze¿eniem terminu, konieczne jest dodatkowe porozumienie stron, które wyra¿a ich bezwarunkow¹ zgodê na niezw³oczne przejœcie w³asnoœci.
+
+**Przypis do przepisów:**
+- Art. 157 Kodeksu cywilnego:
+  - § 1. W³asnoœæ nieruchomoœci nie mo¿e byæ przeniesiona pod warunkiem ani z zastrze¿eniem terminu.
+  - § 2. Je¿eli umowa zobowi¹zuj¹ca do przeniesienia w³asnoœci nieruchomoœci zosta³a zawarta pod warunkiem lub z zastrze¿eniem terminu, do przeniesienia w³asnoœci potrzebne jest dodatkowe porozumienie stron obejmuj¹ce ich bezwarunkow¹ zgodê na niezw³oczne przejœcie w³asnoœci.",True,True,[157]
+38,"Question: Zgodnie z Kodeksem cywilnym, je¿eli wiêkszoœæ wspó³w³aœcicieli postanawia dokonaæ czynnoœci ra¿¹co sprzecznej z zasadami prawid³owego zarz¹du rzecz¹ wspóln¹, rozstrzygniêcia przez s¹d:
+    
+            a) mog¹ ¿¹daæ wszyscy pozostali wspó³w³aœciciele ³¹cznie, pod warunkiem, ¿e jest ich przynajmniej dwóch, a ich udzia³y wynosz¹ ³¹cznie przynajmniej jedn¹ czwart¹
+            b) mog¹ ¿¹daæ wszyscy pozostali wspó³w³aœciciele ³¹cznie, pod warunkiem, ¿e jest ich przynajmniej trzech, a ich udzia³y wynosz¹ ³¹cznie przynajmniej jedn¹ trzeci¹
+            c) mo¿e ¿¹daæ ka¿dy z pozosta³ych wspó³w³aœcicieli.
+            ",C,art. 202 k.c.,"OdpowiedŸ: **c) mo¿e ¿¹daæ ka¿dy z pozosta³ych wspó³w³aœcicieli.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 202 Kodeksu cywilnego, je¿eli wiêkszoœæ wspó³w³aœcicieli postanawia dokonaæ czynnoœci ra¿¹co sprzecznej z zasadami prawid³owego zarz¹du rzecz¹ wspóln¹, ka¿dy z pozosta³ych wspó³w³aœcicieli ma prawo ¿¹daæ rozstrzygniêcia przez s¹d. Oznacza to, ¿e nie ma wymogu, aby pozostali wspó³w³aœciciele dzia³ali ³¹cznie, ani nie ma ograniczeñ co do liczby wspó³w³aœcicieli, którzy mog¹ wyst¹piæ z takim ¿¹daniem. Wystarczy, ¿e jeden z nich podejmie tak¹ decyzjê.
+
+**Odniesienie do przepisów:**
+- Art. 202 Kodeksu cywilnego: ""Je¿eli wiêkszoœæ wspó³w³aœcicieli postanawia dokonaæ czynnoœci ra¿¹co sprzecznej z zasadami prawid³owego zarz¹du rzecz¹ wspóln¹, ka¿dy z pozosta³ych wspó³w³aœcicieli mo¿e ¿¹daæ rozstrzygniêcia przez s¹d.""",True,True,[202]
+39,"Question: Zgodnie z Kodeksem cywilnym, przeciwko osobie, która narusza w³asnoœæ w inny sposób ani¿eli przez pozbawienie w³aœciciela faktycznego w³adztwa nad rzecz¹, przys³uguje w³aœcicielowi roszczenie:
+    
+            a) o wydanie rzeczy
+            b) o przywrócenie stanu zgodnego z prawem albo o zaniechanie naruszeñ – wed³ug wyboru w³aœciciela; wybór jednego roszczenia skutkuje wygaœniêciem drugiego
+            c) o przywrócenie stanu zgodnego z prawem i o zaniechanie naruszeñ.
+            ",C,art. 222 § 2 k.c.,"OdpowiedŸ: **b) o przywrócenie stanu zgodnego z prawem albo o zaniechanie naruszeñ – wed³ug wyboru w³aœciciela; wybór jednego roszczenia skutkuje wygaœniêciem drugiego.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 222 § 2 Kodeksu cywilnego, w³aœciciel ma prawo do roszczenia przeciwko osobie, która narusza jego w³asnoœæ w sposób inny ni¿ pozbawienie go w³adztwa nad rzecz¹. W takim przypadku przys³uguje mu roszczenie o przywrócenie stanu zgodnego z prawem oraz o zaniechanie naruszeñ. W³aœciciel ma prawo wyboru, które z tych roszczeñ chce dochodziæ, a dokonanie wyboru jednego z nich skutkuje wygaœniêciem drugiego.
+
+**Podstawa prawna:**
+- Kodeks cywilny, Art. 222 § 2: ""Przeciwko osobie, która narusza w³asnoœæ w inny sposób ani¿eli przez pozbawienie w³aœciciela faktycznego w³adztwa nad rzecz¹, przys³uguje w³aœcicielowi roszczenie o przywrócenie stanu zgodnego z prawem i o zaniechanie naruszeñ.""",False,True,[222]
+40,"Question: Zgodnie z Kodeksem cywilnym, samoistny posiadacz gruntu, który wzniós³ na powierzchni lub pod powierzchni¹ gruntu budynek lub inne urz¹dzenie o wartoœci przenosz¹cej znacznie wartoœæ zajêtej na ten cel dzia³ki:
+    
+            a) mo¿e ¿¹daæ, aby w³aœciciel przeniós³ na niego w³asnoœæ zajêtej dzia³ki za odpowiednim wynagrodzeniem, je¿eli samoistny posiadacz by³ w dobrej wierze
+            b) nigdy nie mo¿e ¿¹daæ, aby w³aœciciel przeniós³ na niego w³asnoœæ zajêtej dzia³ki
+            c) mo¿e ¿¹daæ, aby w³aœciciel przeniós³ na niego w³asnoœæ zajêtej dzia³ki nawet bez wynagrodzenia, równie¿ wówczas, gdy samoistny posiadacz by³ w z³ej wierze.
+            ",A,art. 231 § 1 k.c.,"OdpowiedŸ: **a)** mo¿e ¿¹daæ, aby w³aœciciel przeniós³ na niego w³asnoœæ zajêtej dzia³ki za odpowiednim wynagrodzeniem, je¿eli samoistny posiadacz by³ w dobrej wierze.
+
+**Wyjaœnienie:**
+Zgodnie z art. 231 Kodeksu cywilnego, samoistny posiadacz gruntu, który w dobrej wierze wzniós³ na tym gruncie budynek lub inne urz¹dzenie o wartoœci przenosz¹cej znacznie wartoœæ zajêtej dzia³ki, ma prawo ¿¹daæ od w³aœciciela przeniesienia na niego w³asnoœci tej dzia³ki za odpowiednim wynagrodzeniem. Oznacza to, ¿e jeœli posiadacz by³ w dobrej wierze, to ma prawo do wynagrodzenia za poniesione nak³ady oraz do nabycia w³asnoœci gruntu, na którym zbudowa³ te urz¹dzenia.
+
+**Podstawa prawna:**
+- Art. 231 Kodeksu cywilnego:
+  - § 1. ""Samoistny posiadacz gruntu w dobrej wierze, który wzniós³ na powierzchni lub pod powierzchni¹ gruntu budynek lub inne urz¹dzenie o wartoœci przenosz¹cej znacznie wartoœæ zajêtej na ten cel dzia³ki, mo¿e ¿¹daæ, aby w³aœciciel przeniós³ na niego w³asnoœæ zajêtej dzia³ki za odpowiednim wynagrodzeniem.""",True,True,[231]
+41,"Question: Zgodnie z Kodeksem cywilnym, roszczenie w³aœciciela przeciwko u¿ytkownikowi o  naprawienie szkody z powodu pogorszenia rzeczy albo o zwrot nak³adów na rzecz przedawniaj¹ siê z up³ywem:
+    
+            a) roku od dnia zwrotu rzeczy
+            b) dwóch lat, bez wzglêdu na to, czy rzecz zosta³a zwrócona
+            c) trzech lat od dnia, w którym rzecz mia³a zostaæ zwrócona. 
+            ",A,art. 263 k.c.,"OdpowiedŸ: **a) roku od dnia zwrotu rzeczy**
+
+**Wyjaœnienie:**
+Zgodnie z przepisami Kodeksu cywilnego, roszczenie w³aœciciela przeciwko u¿ytkownikowi o naprawienie szkody z powodu pogorszenia rzeczy, jak równie¿ roszczenie o zwrot nak³adów na rzecz, przedawniaj¹ siê z up³ywem roku od dnia zwrotu rzeczy. Przepisy te s¹ zawarte w artykule 229 Kodeksu cywilnego, który stanowi, ¿e roszczenia w³aœciciela przeciwko samoistnemu posiadaczowi o naprawienie szkody z powodu pogorszenia rzeczy przedawniaj¹ siê z up³ywem roku od dnia zwrotu rzeczy.
+
+**Odpowiednie przepisy:**
+- Art. 229 Kodeksu cywilnego: ""§ 1. Roszczenia w³aœciciela przeciwko samoistnemu posiadaczowi o wynagrodzenie za korzystanie z rzeczy, o zwrot po¿ytków lub o zap³atê ich wartoœci, jak równie¿ roszczenia o naprawienie szkody z powodu pogorszenia rzeczy przedawniaj¹ siê z up³ywem roku od dnia zwrotu rzeczy.""",True,False,[229]
+42,"Question: Zgodnie z Kodeksem cywilnym, je¿eli z powodu nadzwyczajnej zmiany stosunków spe³nienie œwiadczenia by³oby po³¹czone z nadmiernymi trudnoœciami albo grozi³oby jednej ze stron ra¿¹c¹ strat¹, czego strony nie przewidywa³y przy zawarciu umowy, s¹d mo¿e po rozwa¿eniu interesów stron, zgodnie z zasadami wspó³¿ycia spo³ecznego:
+    
+            a) oznaczyæ sposób wykonania zobowi¹zania, wysokoœæ œwiadczenia, nie mo¿e jednak orzec o rozwi¹zaniu umowy,
+            b) oznaczyæ sposób wykonania zobowi¹zania, wysokoœæ œwiadczenia lub nawet orzec o rozwi¹zaniu umowy
+            c) oznaczyæ sposób wykonania zobowi¹zania, wysokoœæ œwiadczenia lub nawet orzec o rozwi¹zaniu umowy, tylko wtedy, gdy z takim ¿¹daniem wyst¹pi konsument przeciwko przedsiêbiorcy.
+            ",B,art. 3571 k.c. ,"OdpowiedŸ: **b) oznaczyæ sposób wykonania zobowi¹zania, wysokoœæ œwiadczenia lub nawet orzec o rozwi¹zaniu umowy.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 357^1 Kodeksu cywilnego, w przypadku nadzwyczajnej zmiany stosunków, która powoduje, ¿e spe³nienie œwiadczenia wi¹¿e siê z nadmiernymi trudnoœciami lub grozi ra¿¹c¹ strat¹ dla jednej ze stron, s¹d ma prawo po rozwa¿eniu interesów stron oraz zgodnie z zasadami wspó³¿ycia spo³ecznego, oznaczyæ sposób wykonania zobowi¹zania, wysokoœæ œwiadczenia, a tak¿e orzec o rozwi¹zaniu umowy. 
+
+Oznacza to, ¿e s¹d ma szerokie uprawnienia w zakresie dostosowania umowy do zmieniaj¹cych siê okolicznoœci, co obejmuje zarówno modyfikacjê warunków umowy, jak i jej rozwi¹zanie, jeœli jest to uzasadnione sytuacj¹ stron.
+
+**Podstawa prawna:**
+Art. 357^1 Kodeksu cywilnego:
+„Je¿eli z powodu nadzwyczajnej zmiany stosunków spe³nienie œwiadczenia by³oby po³¹czone z nadmiernymi trudnoœciami albo grozi³oby jednej ze stron ra¿¹c¹ strat¹, czego strony nie przewidywa³y przy zawarciu umowy, s¹d mo¿e po rozwa¿eniu interesów stron, zgodnie z zasadami wspó³¿ycia spo³ecznego, oznaczyæ sposób wykonania zobowi¹zania, wysokoœæ œwiadczenia lub nawet orzec o rozwi¹zaniu umowy.”",True,True,[3571]
+43,"Question: Zgodnie z Kodeksem cywilnym, w braku odmiennej umowy d³u¿nicy zobowi¹zani do œwiadczenia podzielnego s¹ odpowiedzialni za jego spe³nienie:
+    
+            a) w czêœciach równych, nawet je¿eli wzajemne œwiadczenie wierzyciela jest niepodzielne
+            b) solidarnie, je¿eli wzajemne œwiadczenie wierzyciela jest niepodzielne
+            c) proporcjonalnie, zale¿nie od wartoœci œwiadczenia ka¿dego z d³u¿ników, nawet je¿eli wzajemne œwiadczenie wierzyciela jest niepodzielne.
+            ",B,art. 380 § 2 k.c.,"OdpowiedŸ: **b) solidarnie, je¿eli wzajemne œwiadczenie wierzyciela jest niepodzielne.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 380 § 2 Kodeksu cywilnego, w braku odmiennej umowy, d³u¿nicy zobowi¹zani do œwiadczenia podzielnego s¹ odpowiedzialni za jego spe³nienie solidarnie, je¿eli wzajemne œwiadczenie wierzyciela jest niepodzielne. Oznacza to, ¿e ka¿dy z d³u¿ników mo¿e byæ zobowi¹zany do spe³nienia ca³ego œwiadczenia, a wierzyciel mo¿e ¿¹daæ spe³nienia œwiadczenia od ka¿dego z d³u¿ników w ca³oœci. 
+
+W przypadku, gdy œwiadczenie jest podzielne, a wzajemne œwiadczenie wierzyciela jest niepodzielne, d³u¿nicy odpowiadaj¹ solidarnie, co oznacza, ¿e wierzyciel mo¿e dochodziæ ca³ego œwiadczenia od dowolnego z d³u¿ników. 
+
+**Podstawa prawna:**
+- Kodeks cywilny, art. 380 § 2: ""W braku odmiennej umowy d³u¿nicy zobowi¹zani do œwiadczenia podzielnego s¹ odpowiedzialni za jego spe³nienie solidarnie, je¿eli wzajemne œwiadczenie wierzyciela jest niepodzielne.""",True,True,[380]
+44,"Question: Zgodnie z Kodeksem cywilnym, wzorzec umowy powinien byæ sformu³owany jednoznacznie i w sposób zrozumia³y; postanowienia niejednoznaczne t³umaczy siê na korzyœæ:
+    
+            a) konsumenta; tej zasady nie stosuje siê w postêpowaniu w sprawach o uznanie postanowieñ wzorca umowy za niedozwolone
+            b) konsumenta; tê zasadê stosuje siê równie¿ w postêpowaniu w sprawach o uznanie postanowieñ wzorca umowy za niedozwolone
+            c) konsumenta lub przedsiêbiorcy, zale¿nie od tego, czy konsument mia³ wp³yw na treœæ wzorca umowy; tê zasadê stosuje siê równie¿ w postêpowaniu w sprawach o uznanie postanowieñ wzorca umowy za niedozwolone.  
+            ",A,art. 385 § 2 k.c.,"OdpowiedŸ: **b) konsumenta; tê zasadê stosuje siê równie¿ w postêpowaniu w sprawach o uznanie postanowieñ wzorca umowy za niedozwolone.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 385 § 2 Kodeksu cywilnego, postanowienia wzorca umowy powinny byæ sformu³owane jednoznacznie i w sposób zrozumia³y. W przypadku, gdy postanowienia te s¹ niejednoznaczne, nale¿y je interpretowaæ na korzyœæ konsumenta. Co wiêcej, zasada ta ma zastosowanie równie¿ w postêpowaniach dotycz¹cych uznania postanowieñ wzorca umowy za niedozwolone, co jest potwierdzone w art. 3851 § 1 Kodeksu cywilnego, który mówi o niedozwolonych postanowieniach umownych, które nie wi¹¿¹ konsumenta, je¿eli kszta³tuj¹ jego prawa i obowi¹zki w sposób sprzeczny z dobrymi obyczajami, ra¿¹co naruszaj¹c jego interesy.
+
+Zatem odpowiedŸ b) jest poprawna, poniewa¿ zasada interpretacji na korzyœæ konsumenta dotyczy tak¿e postêpowañ o uznanie postanowieñ wzorca umowy za niedozwolone.
+
+**Odniesienie do przepisów:**
+- Art. 385 § 2 Kodeksu cywilnego: ""Postanowienia niejednoznaczne t³umaczy siê na korzyœæ konsumenta.""
+- Art. 3851 § 1 Kodeksu cywilnego: ""Postanowienia umowy zawieranej z konsumentem nieuzgodnione indywidualnie nie wi¹¿¹ go, je¿eli kszta³tuj¹ jego prawa i obowi¹zki w sposób sprzeczny z dobrymi obyczajami, ra¿¹co naruszaj¹c jego interesy.""",False,True,"[385, 3851]"
+45,"Question: Zgodnie z Kodeksem cywilnym, umowa o œwiadczenie niemo¿liwe jest niewa¿na; strona, która w chwili zawarcia umowy wiedzia³a o niemo¿liwoœci œwiadczenia, a drugiej strony z b³êdu nie wyprowadzi³a:
+    
+            a) obowi¹zana jest do naprawienia szkody, któr¹ druga strona ponios³a przez to, ¿e zawar³a umowê nie wiedz¹c o niemo¿liwoœci œwiadczenia
+            b) nie jest obowi¹zana do naprawienia szkody, któr¹ druga strona ponios³a przez to, ¿e zawar³a umowê nie wiedz¹c o niemo¿liwoœci œwiadczenia
+            c) nie jest obowi¹zana do naprawienia szkody, któr¹ druga strona ponios³a przez to, ¿e zawar³a umowê nie wiedz¹c o niemo¿liwoœci œwiadczenia; nie dotyczy to kosztów zawarcia umowy przedwstêpnej w formie aktu notarialnego.
+            ",A,art. 387 § 2 k.c.,"OdpowiedŸ: **a)** obowi¹zana jest do naprawienia szkody, któr¹ druga strona ponios³a przez to, ¿e zawar³a umowê nie wiedz¹c o niemo¿liwoœci œwiadczenia.
+
+**Wyjaœnienie:**
+Zgodnie z art. 387 § 2 Kodeksu cywilnego, umowa o œwiadczenie niemo¿liwe jest niewa¿na. Jednak¿e, jeœli jedna ze stron wiedzia³a o niemo¿liwoœci œwiadczenia w chwili zawarcia umowy, a druga strona nie by³a o tym informowana i zawar³a umowê w b³êdzie, to strona, która wiedzia³a o niemo¿liwoœci, jest zobowi¹zana do naprawienia szkody, któr¹ ponios³a druga strona. Oznacza to, ¿e strona, która by³a œwiadoma niemo¿liwoœci œwiadczenia, musi zrekompensowaæ stracie drugiej strony, która nie mia³a wiedzy o tej okolicznoœci.
+
+**Podstawa prawna:**
+- Art. 387 Kodeksu cywilnego:
+  - § 1. Umowa o œwiadczenie niemo¿liwe jest niewa¿na.
+  - § 2. Strona, która w chwili zawarcia umowy wiedzia³a o niemo¿liwoœci œwiadczenia, a drugiej strony z b³êdu nie wyprowadzi³a, obowi¹zana jest do naprawienia szkody, któr¹ druga strona ponios³a przez to, ¿e zawar³a umowê nie wiedz¹c o niemo¿liwoœci œwiadczenia.",True,True,[387]
+46,"Question: Zgodnie z Kodeksem cywilnym, je¿eli ten, kto bez podstawy prawnej uzyska³ korzyœæ maj¹tkow¹ kosztem innej osoby, rozporz¹dzi³ korzyœci¹ na rzecz osoby trzeciej (a w chwili wyzbycia siê korzyœci nie powinien by³ liczyæ siê z obowi¹zkiem zwrotu), obowi¹zek wydania korzyœci:
+    
+            a) zawsze przechodzi na tê osobê trzeci¹,
+            b) przechodzi na tê osobê trzeci¹, je¿eli to rozporz¹dzenie by³o bezp³atne
+            c) przechodzi na tê osobê trzeci¹, nawet je¿eli to rozporz¹dzenie by³o odp³atne.
+            ",B,art. 407 w zw. z art. 409 k.c.,"OdpowiedŸ: **b) przechodzi na tê osobê trzeci¹, je¿eli to rozporz¹dzenie by³o bezp³atne.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 407 Kodeksu cywilnego, je¿eli osoba, która bez podstawy prawnej uzyska³a korzyœæ maj¹tkow¹ kosztem innej osoby, rozporz¹dzi³a t¹ korzyœci¹ na rzecz osoby trzeciej bezp³atnie, to obowi¹zek wydania tej korzyœci przechodzi na tê osobê trzeci¹. Oznacza to, ¿e w przypadku, gdy rozporz¹dzenie by³o odp³atne, obowi¹zek zwrotu korzyœci nie przechodzi na osobê trzeci¹, a pozostaje przy osobie, która uzyska³a korzyœæ bez podstawy prawnej.
+
+W kontekœcie pytania, odpowiedŸ a) jest nieprawid³owa, poniewa¿ nie zawsze obowi¹zek wydania korzyœci przechodzi na osobê trzeci¹. OdpowiedŸ c) równie¿ jest b³êdna, poniewa¿ nie ma automatycznego przejœcia obowi¹zku wydania korzyœci na osobê trzeci¹ w przypadku odp³atnego rozporz¹dzenia.
+
+**Podstawa prawna:**
+- Art. 407 Kodeksu cywilnego: ""Je¿eli ten, kto bez podstawy prawnej uzyska³ korzyœæ maj¹tkow¹ kosztem innej osoby, rozporz¹dzi³ korzyœci¹ na rzecz osoby trzeciej bezp³atnie, obowi¹zek wydania korzyœci przechodzi na tê osobê trzeci¹.""",True,True,[407]
+47,"Question: Zgodnie z Kodeksem cywilnym, kto (nie bêd¹c osob¹, na której ci¹¿y szczególny obowi¹zek chronienia dobra, nawet z nara¿eniem na osobiste niebezpieczeñstwo) zniszczy³ lub uszkodzi³ cudz¹ rzecz albo zabi³ lub zrani³ cudze zwierzê w celu odwrócenia od siebie lub od innych niebezpieczeñstwa gro¿¹cego bezpoœrednio od tej rzeczy lub zwierzêcia, ten nie jest odpowiedzialny za wynik³¹ st¹d szkodê:
+    
+            a) nawet wtedy, gdy niebezpieczeñstwo sam wywo³a³, a niebezpieczeñstwu nie mo¿na by³o inaczej zapobiec i je¿eli ratowane dobro jest przynajmniej tak samo wa¿ne, jak dobro naruszone
+            b) je¿eli niebezpieczeñstwa sam nie wywo³a³, nawet je¿eli niebezpieczeñstwu mo¿na by³o inaczej zapobiec, o ile ratowane dobro jest przynajmniej tak samo wa¿ne, jak dobro naruszone
+            c) je¿eli niebezpieczeñstwa sam nie wywo³a³, a niebezpieczeñstwu nie mo¿na by³o inaczej zapobiec i je¿eli ratowane dobro jest oczywiœcie wa¿niejsze ani¿eli dobro naruszone. 
+            ",C,art. 424 k.c.,"OdpowiedŸ: **c)** je¿eli niebezpieczeñstwa sam nie wywo³a³, a niebezpieczeñstwu nie mo¿na by³o inaczej zapobiec i je¿eli ratowane dobro jest oczywiœcie wa¿niejsze ani¿eli dobro naruszone.
+
+**Wyjaœnienie:**
+Zgodnie z art. 424 Kodeksu cywilnego, osoba, która zniszczy³a lub uszkodzi³a cudz¹ rzecz albo zabi³a lub zrani³a cudze zwierzê w celu odwrócenia od siebie lub od innych niebezpieczeñstwa gro¿¹cego bezpoœrednio od tej rzeczy lub zwierzêcia, nie ponosi odpowiedzialnoœci za wynik³¹ st¹d szkodê, je¿eli spe³nione s¹ trzy warunki:
+1. Niebezpieczeñstwo nie zosta³o wywo³ane przez tê osobê.
+2. Niebezpieczeñstwu nie mo¿na by³o inaczej zapobiec.
+3. Ratowane dobro jest oczywiœcie wa¿niejsze ni¿ dobro naruszone.
+
+OdpowiedŸ c) jest zgodna z tymi warunkami, poniewa¿ podkreœla, ¿e ratowane dobro musi byæ ""oczywiœcie wa¿niejsze"" ni¿ dobro naruszone, co jest kluczowe w kontekœcie oceny odpowiedzialnoœci.
+
+**Podstawa prawna:**
+Art. 424 Kodeksu cywilnego:
+""Kto zniszczy³ lub uszkodzi³ cudz¹ rzecz albo zabi³ lub zrani³ cudze zwierzê w celu odwrócenia od siebie lub od innych niebezpieczeñstwa gro¿¹cego bezpoœrednio od tej rzeczy lub zwierzêcia, ten nie jest odpowiedzialny za wynik³¹ st¹d szkodê, je¿eli niebezpieczeñstwa sam nie wywo³a³, a niebezpieczeñstwu nie mo¿na by³o inaczej zapobiec i je¿eli ratowane dobro jest oczywiœcie wa¿niejsze ani¿eli dobro naruszone.""",True,True,[424]
+48,"Question: Zgodnie z Kodeksem cywilnym, przedawnienie roszczeñ osoby ma³oletniej o naprawienie szkody na osobie wyrz¹dzonej czynem niedozwolonym nie mo¿e skoñczyæ siê wczeœniej ni¿ z up³ywem:
+    
+            a) lat dwóch od uzyskania przez ni¹ pe³noletnoœci
+            b) lat trzech od dnia, w którym przedstawiciel ustawowy tej osoby dowiedzia³ siê o szkodzie i o osobie obowi¹zanej do jej naprawienia
+            c) lat dziesiêciu od dnia, w którym przedstawiciel ustawowy tej osoby dowiedzia³ siê albo przy zachowaniu nale¿ytej starannoœci móg³ siê dowiedzieæ o szkodzie i o osobie obowi¹zanej do jej naprawienia.
+            ",A,art. 4421 § 4 k.c.,"OdpowiedŸ: **d)** lat dwóch od uzyskania przez ni¹ pe³noletnoœci.
+
+**Wyjaœnienie:**
+Zgodnie z art. 4421 § 4 Kodeksu cywilnego, przedawnienie roszczeñ osoby ma³oletniej o naprawienie szkody na osobie wyrz¹dzonej czynem niedozwolonym nie mo¿e skoñczyæ siê wczeœniej ni¿ z up³ywem lat dwóch od uzyskania przez ni¹ pe³noletnoœci. Oznacza to, ¿e nawet jeœli roszczenie powsta³o przed osi¹gniêciem pe³noletnoœci, to termin przedawnienia zaczyna biec dopiero po osi¹gniêciu przez osobê pe³noletnoœci, a jego minimalny czas trwania wynosi dwa lata.
+
+**Przypis do przepisów:**
+- Art. 4421 Kodeksu cywilnego:
+  - § 4. Przedawnienie roszczeñ osoby ma³oletniej o naprawienie szkody na osobie nie mo¿e skoñczyæ siê wczeœniej ni¿ z up³ywem lat dwóch od uzyskania przez ni¹ pe³noletnoœci.",True,True,[4421]
+49,"Question: Zgodnie z Kodeksem cywilnym, d³u¿nik, spe³niaj¹c œwiadczenie, mo¿e ¿¹daæ od wierzyciela pokwitowania; koszty pokwitowania:
+    
+            a) ponosi wierzyciel, chyba ¿e umówiono siê inaczej
+            b) ponosi d³u¿nik, chyba ¿e umówiono siê inaczej
+            c) ponosz¹ wierzyciel i d³u¿nik zawsze po po³owie.
+            ",B,art. 462 § 1 i 3 k.c.,"OdpowiedŸ: **b) ponosi d³u¿nik, chyba ¿e umówiono siê inaczej.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 462 Kodeksu cywilnego, d³u¿nik, spe³niaj¹c œwiadczenie, ma prawo ¿¹daæ od wierzyciela pokwitowania. Koszty zwi¹zane z wydaniem pokwitowania ponosi d³u¿nik, chyba ¿e strony umówi³y siê inaczej. Oznacza to, ¿e domyœlnie to d³u¿nik jest odpowiedzialny za pokrycie tych kosztów, ale mog¹ one byæ przeniesione na wierzyciela, jeœli strony tak postanowi¹.
+
+**Odniesienie do przepisów:**
+- Art. 462 Kodeksu cywilnego: ""D³u¿nik, spe³niaj¹c œwiadczenie, mo¿e ¿¹daæ od wierzyciela pokwitowania. Koszty pokwitowania ponosi d³u¿nik, chyba ¿e umówiono siê inaczej.""",True,True,[462]
+50,"Question: Zgodnie z Kodeksem cywilnym, je¿eli wierzytelnoœæ jest stwierdzona pismem, przelew tej wierzytelnoœci:
+    
+            a) powinien byæ równie¿ pismem stwierdzony
+            b) wymaga formy pisemnej z podpisami notarialnie poœwiadczonymi
+            c) wymaga formy pisemnej z dat¹ pewn¹.
+            ",A,art. 511 k.c.,"OdpowiedŸ: **a) powinien byæ równie¿ pismem stwierdzony.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 511 Kodeksu cywilnego, je¿eli wierzytelnoœæ jest stwierdzona pismem, to przelew tej wierzytelnoœci równie¿ powinien byæ stwierdzony pismem. Oznacza to, ¿e forma pisemna jest wymagana dla wa¿noœci przelewu, aby zapewniæ odpowiedni¹ dokumentacjê i dowód na dokonanie takiej czynnoœci prawnej. 
+
+Przepis ten ma na celu ochronê stron umowy oraz zapewnienie przejrzystoœci w obrocie prawnym. W przypadku, gdy wierzytelnoœæ jest stwierdzona w formie pisemnej, brak pisemnej formy przelewu mo¿e prowadziæ do problemów dowodowych i sporów co do istnienia i treœci umowy przelewu.
+
+**Odniesienie do przepisów:**
+- Art. 511 Kodeksu cywilnego: ""Je¿eli wierzytelnoœæ jest stwierdzona pismem, przelew tej wierzytelnoœci powinien byæ równie¿ pismem stwierdzony.""",True,True,[511]
+1,"Question: Zgodnie z Kodeksem cywilnym, Skarb Pañstwa:
+    
+            a) jest osob¹ prawn¹
+            b) nie jest osob¹ prawn¹
+            c) jest jednostk¹ organizacyjn¹ niebêd¹c¹ osob¹ prawn¹, do której stosuje siê odpowiednio przepisy o osobach prawnych. 
+            ",A,art. 33 k.c.,"OdpowiedŸ: **a) jest osob¹ prawn¹**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, Skarb Pañstwa jest uznawany za osobê prawn¹. Artyku³ 33 Kodeksu cywilnego stwierdza, ¿e osobami prawnymi s¹ Skarb Pañstwa oraz jednostki organizacyjne, którym przepisy szczególne przyznaj¹ osobowoœæ prawn¹. Oznacza to, ¿e Skarb Pañstwa ma zdolnoœæ prawn¹ i mo¿e byæ podmiotem praw i obowi¹zków w obrocie prawnym.
+
+**Odniesienie do przepisów:**
+- **Art. 33 Kodeksu cywilnego:** ""Osobami prawnymi s¹ Skarb Pañstwa i jednostki organizacyjne, którym przepisy szczególne przyznaj¹ osobowoœæ prawn¹."" 
+
+W zwi¹zku z tym, odpowiedŸ a) jest poprawna, poniewa¿ Skarb Pañstwa jest osob¹ prawn¹, co jest jasno okreœlone w przepisach prawa.",True,True,[33]
+2,"Question: Zgodnie z Kodeksem cywilnym, firm¹ osoby fizycznej bêd¹cej przedsiêbiorc¹:
+    
+            a) zawsze jest wy³¹cznie jej imiê i nazwisko
+            b) nigdy nie jest jej imiê i nazwisko
+            c) jest jej imiê i nazwisko; nie wyklucza to w³¹czenia do firmy pseudonimu lub okreœleñ wskazuj¹cych na przedmiot dzia³alnoœci przedsiêbiorcy, miejsce jej prowadzenia oraz innych okreœleñ dowolnie obranych. 
+            ",C,art. 434 k.c.,"OdpowiedŸ: **c)** jest jej imiê i nazwisko; nie wyklucza to w³¹czenia do firmy pseudonimu lub okreœleñ wskazuj¹cych na przedmiot dzia³alnoœci przedsiêbiorcy, miejsce jej prowadzenia oraz innych okreœleñ dowolnie obranych.
+
+**Wyjaœnienie:**
+Zgodnie z art. 434 Kodeksu cywilnego, firm¹ osoby fizycznej bêd¹cej przedsiêbiorc¹ jest jej imiê i nazwisko. Ustawa jednak nie ogranicza siê tylko do tego, poniewa¿ dopuszcza równie¿ mo¿liwoœæ dodania do firmy pseudonimu oraz innych okreœleñ, które mog¹ wskazywaæ na przedmiot dzia³alnoœci przedsiêbiorcy, miejsce prowadzenia dzia³alnoœci, a tak¿e inne dowolnie obrane okreœlenia. Oznacza to, ¿e przedsiêbiorca ma pewn¹ swobodê w kszta³towaniu swojej firmy, co jest zgodne z praktyk¹ rynkow¹ i potrzebami identyfikacji w obrocie gospodarczym.
+
+**Odniesienie do przepisów:**
+- Art. 434 Kodeksu cywilnego: ""Firm¹ osoby fizycznej jest jej imiê i nazwisko. Nie wyklucza to w³¹czenia do firmy pseudonimu lub okreœleñ wskazuj¹cych na przedmiot dzia³alnoœci przedsiêbiorcy, miejsce jej prowadzenia oraz innych okreœleñ dowolnie obranych.""",True,True,[434]
+3,"Question: Zgodnie z Kodeksem cywilnym, czynnoœæ prawna sprzeczna z zasadami wspó³¿ycia spo³ecznego, o ile przepis szczególny nie stanowi inaczej:
+    
+            a) jest niewa¿na
+            b) jest zawsze wa¿na
+            c) jest bezskuteczna. 
+            ",A,art. 58 § 2 k.c.,"OdpowiedŸ: **a) jest niewa¿na**
+
+**Wyjaœnienie:**
+Zgodnie z art. 58 § 2 Kodeksu cywilnego, czynnoœæ prawna sprzeczna z zasadami wspó³¿ycia spo³ecznego jest niewa¿na. Oznacza to, ¿e jeœli dana czynnoœæ prawna narusza te zasady, to nie wywo³uje ona ¿adnych skutków prawnych. Warto zauwa¿yæ, ¿e zasady wspó³¿ycia spo³ecznego s¹ ogólnymi normami etycznymi i moralnymi, które powinny byæ przestrzegane w relacjach miêdzy ludŸmi.
+
+W kontekœcie pytania, odpowiedŸ a) jest poprawna, poniewa¿ wskazuje na niewa¿noœæ czynnoœci prawnej, która jest sprzeczna z tymi zasadami, co jest zgodne z przepisami Kodeksu cywilnego.
+
+**Odniesienie do przepisów:**
+- Art. 58 Kodeksu cywilnego:
+  - § 1. Czynnoœæ prawna sprzeczna z ustaw¹ albo maj¹ca na celu obejœcie ustawy jest niewa¿na, chyba ¿e w³aœciwy przepis przewiduje inny skutek, w szczególnoœci ten, i¿ na miejsce niewa¿nych postanowieñ czynnoœci prawnej wchodz¹ odpowiednie przepisy ustawy.
+  - § 2. Niewa¿na jest czynnoœæ prawna sprzeczna z zasadami wspó³¿ycia spo³ecznego.",True,True,[58]
+4,"Question: Zgodnie z Kodeksem cywilnym, oœwiadczenie woli wyra¿one w postaci innej ni¿ elektroniczna, które ma byæ z³o¿one innej osobie, jest z³o¿one:
+    
+            a) zawsze z chwil¹ zapoznania siê przez ni¹ z jego treœci¹
+            b) z chwil¹, gdy dosz³o do niej w taki sposób, ¿e mog³a zapoznaæ siê z jego treœci¹
+            c) zawsze z chwil¹ jego wyra¿enia. 
+            ",B,art. 61 § 1 k.c.,"OdpowiedŸ poprawna to **b)** z chwil¹, gdy dosz³o do niej w taki sposób, ¿e mog³a zapoznaæ siê z jego treœci¹.
+
+### Wyjaœnienie:
+Zgodnie z art. 61 Kodeksu cywilnego, oœwiadczenie woli, które ma byæ z³o¿one innej osobie, jest uznawane za z³o¿one w momencie, gdy dotrze do tej osoby w taki sposób, ¿e mog³a siê zapoznaæ z jego treœci¹. Oznacza to, ¿e nie jest konieczne, aby osoba ta faktycznie zapozna³a siê z treœci¹ oœwiadczenia, wystarczy, ¿e mia³a tak¹ mo¿liwoœæ. 
+
+OdpowiedŸ a) jest niepoprawna, poniewa¿ sugeruje, ¿e oœwiadczenie jest z³o¿one dopiero w momencie zapoznania siê z jego treœci¹, co nie jest zgodne z przepisami. OdpowiedŸ c) równie¿ jest b³êdna, poniewa¿ oœwiadczenie nie jest uznawane za z³o¿one w momencie jego wyra¿enia, lecz w momencie dotarcia do adresata.
+
+### Przypis do przepisów:
+- **Art. 61 Kodeksu cywilnego**: ""Oœwiadczenie woli, które ma byæ z³o¿one innej osobie, jest z³o¿one z chwil¹, gdy dosz³o do niej w taki sposób, ¿e mog³a zapoznaæ siê z jego treœci¹.""",True,True,[61]
+5,"Question: Zgodnie z Kodeksem cywilnym, prawomocne orzeczenie s¹du stwierdzaj¹ce obowi¹zek danej osoby do z³o¿enia oznaczonego oœwiadczenia woli:
+    
+            a) zastêpuje to oœwiadczenie
+            b) jest tytu³em egzekucyjnym, podlegaj¹cym wykonaniu w drodze egzekucji s¹dowej,
+            c) zastêpuje to oœwiadczenie tylko wtedy, gdy s¹d tak postanowi.    
+            ",A,art. 64 k.c.,"Poprawna odpowiedŸ to **a) zastêpuje to oœwiadczenie**.
+
+### Wyjaœnienie:
+Zgodnie z art. 64 Kodeksu cywilnego, prawomocne orzeczenie s¹du, które stwierdza obowi¹zek danej osoby do z³o¿enia oznaczonego oœwiadczenia woli, zastêpuje to oœwiadczenie. Oznacza to, ¿e w sytuacji, gdy s¹d orzeka, ¿e dana osoba ma obowi¹zek z³o¿yæ okreœlone oœwiadczenie woli, to to orzeczenie ma moc zastêpcz¹ i nie ma potrzeby, aby ta osoba sk³ada³a to oœwiadczenie samodzielnie. 
+
+### Odniesienie do przepisów:
+- **Art. 64 Kodeksu cywilnego**: ""Prawomocne orzeczenie s¹du stwierdzaj¹ce obowi¹zek danej osoby do z³o¿enia oznaczonego oœwiadczenia woli, zastêpuje to oœwiadczenie.""
+
+W zwi¹zku z tym, odpowiedŸ a) jest zgodna z przepisami prawa i jest poprawna.",True,True,[64]
+7,"Question: Zgodnie z Kodeksem cywilnym, oœwiadczenie woli z³o¿one przez osobê, która z jakichkolwiek powodów znajdowa³a siê w stanie wy³¹czaj¹cym œwiadome albo swobodne powziêcie decyzji i wyra¿enie woli jest:
+    
+            a) niewa¿ne tylko wówczas, gdy zosta³o z³o¿one innej osobie
+            b) wa¿ne, lecz nie wywo³uje skutków prawnych
+            c) niewa¿ne. 
+            ",C,art. 82 k.c. ,"OdpowiedŸ: **c) niewa¿ne.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 82 Kodeksu cywilnego, oœwiadczenie woli z³o¿one przez osobê, która znajdowa³a siê w stanie wy³¹czaj¹cym œwiadome albo swobodne powziêcie decyzji i wyra¿enie woli, jest niewa¿ne. Oznacza to, ¿e jeœli osoba by³a w stanie, który uniemo¿liwia³ jej œwiadome podejmowanie decyzji (np. z powodu choroby psychicznej, niedorozwoju umys³owego lub innego zaburzenia psychicznego), to jej oœwiadczenie woli nie wywo³uje skutków prawnych.
+
+**Przypisane przepisy:**
+- Art. 82 Kodeksu cywilnego: ""Niewa¿ne jest oœwiadczenie woli z³o¿one przez osobê, która z jakichkolwiek powodów znajdowa³a siê w stanie wy³¹czaj¹cym œwiadome albo swobodne powziêcie decyzji i wyra¿enie woli."" 
+
+W zwi¹zku z tym, odpowiedŸ c) jest poprawna, poniewa¿ oœwiadczenie woli w takim stanie jest traktowane jako niewa¿ne.",True,True,[82]
+8,"Question: Zgodnie z Kodeksem cywilnym, je¿eli pe³nomocnik po wygaœniêciu umocowania dokona w imieniu mocodawcy z drug¹ stron¹ czynnoœci prawnej w granicach pierwotnego umocowania, czynnoœæ prawna jest:
+    
+            a) zawsze niewa¿na,
+            b) wa¿na tylko wtedy, gdy potwierdzi j¹ mocodawca
+            c) wa¿na, chyba ¿e druga strona o wygaœniêciu umocowania wiedzia³a lub z ³atwoœci¹ mog³a siê dowiedzieæ.
+            ",C,art. 105 k.c. ,"OdpowiedŸ: **c) wa¿na, chyba ¿e druga strona o wygaœniêciu umocowania wiedzia³a lub z ³atwoœci¹ mog³a siê dowiedzieæ.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 105 Kodeksu cywilnego, je¿eli pe³nomocnik dokonuje czynnoœci prawnej w imieniu mocodawcy po wygaœniêciu umocowania, czynnoœæ ta jest wa¿na, chyba ¿e druga strona wiedzia³a o wygaœniêciu umocowania lub mog³a siê o tym ³atwo dowiedzieæ. Oznacza to, ¿e w przypadku, gdy druga strona nie by³a œwiadoma wygaœniêcia umocowania, czynnoœæ prawna pozostaje w mocy. W przeciwnym razie, jeœli druga strona mia³a wiedzê o wygaœniêciu umocowania, czynnoœæ ta jest niewa¿na.
+
+**Przypis do przepisów:**
+- Art. 105 Kodeksu cywilnego: ""Je¿eli pe³nomocnik po wygaœniêciu umocowania dokona w imieniu mocodawcy czynnoœci prawnej w granicach pierwotnego umocowania, czynnoœæ prawna jest wa¿na, chyba ¿e druga strona o wygaœniêciu umocowania wiedzia³a lub z ³atwoœci¹ mog³a siê dowiedzieæ.""",True,True,[105]
+9,"Question: Zgodnie z Kodeksem cywilnym, przez czynnoœæ prawn¹ terminy przedawnienia roszczeñ:
+    
+            a) nie mog¹ byæ skracane ani przed³u¿ane
+            b) mog¹ byæ skracane, ale nie mog¹ byæ przed³u¿ane
+            c) mog¹ byæ przed³u¿ane, ale nie mog¹ byæ skracane. 
+            ",A,art. 119 k.c.,"OdpowiedŸ: **a) nie mog¹ byæ skracane ani przed³u¿ane**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, terminy przedawnienia roszczeñ s¹ regulowane przez przepisy, które nie pozwalaj¹ na ich skracanie ani przed³u¿anie, chyba ¿e przepisy szczególne stanowi¹ inaczej. Zgodnie z art. 117 § 1 Kodeksu cywilnego, roszczenia maj¹tkowe ulegaj¹ przedawnieniu, a po up³ywie terminu przedawnienia, osoba, przeciwko której przys³uguje roszczenie, mo¿e uchyliæ siê od jego zaspokojenia. 
+
+Warto równie¿ zauwa¿yæ, ¿e w przypadku roszczeñ konsumenckich, s¹d mo¿e w wyj¹tkowych sytuacjach nie uwzglêdniæ up³ywu terminu przedawnienia, ale to nie zmienia zasady, ¿e terminy te nie mog¹ byæ umownie skracane ani przed³u¿ane.
+
+**Odniesienie do przepisów:**
+- Art. 117 Kodeksu cywilnego: ""Z zastrze¿eniem wyj¹tków w ustawie przewidzianych, roszczenia maj¹tkowe ulegaj¹ przedawnieniu.""
+- Art. 117 § 2: ""Po up³ywie terminu przedawnienia ten, przeciwko komu przys³uguje roszczenie, mo¿e uchyliæ siê od jego zaspokojenia, chyba ¿e zrzeka siê korzystania z zarzutu przedawnienia.""",True,False,[117]
+10,"Question: Zgodnie z Kodeksem cywilnym, roszczenie o zniesienie wspó³w³asnoœci:
+    
+            a) nie ulega przedawnieniu, 
+            b) ulega przedawnieniu, a termin przedawnienia wynosi lat dziesiêæ
+            c) ulega przedawnieniu i termin przedawnienia wynosi lat dziesiêæ, ale bieg przedawnienia mo¿e byæ skrócony przez czynnoœæ prawn¹ dokonan¹ miêdzy wspó³w³aœcicielami. 
+            ",A,art. 220 k.c.  ,"OdpowiedŸ: **c) ulega przedawnieniu i termin przedawnienia wynosi lat dziesiêæ, ale bieg przedawnienia mo¿e byæ skrócony przez czynnoœæ prawn¹ dokonan¹ miêdzy wspó³w³aœcicielami.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 210 Kodeksu cywilnego, ka¿dy ze wspó³w³aœcicieli ma prawo ¿¹daæ zniesienia wspó³w³asnoœci. Uprawnienie to mo¿e byæ wy³¹czone przez czynnoœæ prawn¹ na czas nie d³u¿szy ni¿ piêæ lat. W kontekœcie przedawnienia, art. 117 Kodeksu cywilnego stanowi, ¿e roszczenia maj¹tkowe ulegaj¹ przedawnieniu, a ogólny termin przedawnienia wynosi szeœæ lat, chyba ¿e przepisy szczególne stanowi¹ inaczej. W przypadku roszczenia o zniesienie wspó³w³asnoœci, termin przedawnienia wynosi dziesiêæ lat, co jest zgodne z art. 222 § 1, który mówi, ¿e roszczenia dotycz¹ce nieruchomoœci nie ulegaj¹ przedawnieniu. 
+
+Dodatkowo, bieg przedawnienia mo¿e byæ skrócony przez czynnoœci prawne dokonane miêdzy wspó³w³aœcicielami, co jest zgodne z praktyk¹ prawn¹, gdzie wspó³w³aœciciele mog¹ uzgodniæ ró¿ne warunki dotycz¹ce zniesienia wspó³w³asnoœci.
+
+**Podstawa prawna:**
+- Art. 210 Kodeksu cywilnego: ""Ka¿dy ze wspó³w³aœcicieli mo¿e ¿¹daæ zniesienia wspó³w³asnoœci.""
+- Art. 222 Kodeksu cywilnego: ""Roszczenia w zakresie nieruchomoœci nie ulegaj¹ przedawnieniu.""",False,False,"[210, 117, 222]"
+11,"Question: Zgodnie z Kodeksem cywilnym, przedmiotem prawa u¿ytkowania mog¹ byæ:
+    
+            a) wy³¹cznie nieruchomoœci albo rzeczy ruchome,
+            b) wy³¹cznie nieruchomoœci
+            c) nieruchomoœci, rzeczy ruchome, a tak¿e prawa.
+            ",C,art. 265 § 1 w zw. z art. 252 k.c. ,"OdpowiedŸ: **c) nieruchomoœci, rzeczy ruchome, a tak¿e prawa.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 265 Kodeksu cywilnego, przedmiotem u¿ytkowania mog¹ byæ nie tylko rzeczy, ale tak¿e prawa. U¿ytkowanie to prawo do korzystania z rzeczy i pobierania jej po¿ytków, co obejmuje zarówno nieruchomoœci, jak i rzeczy ruchome, a tak¿e prawa, które mog¹ byæ przedmiotem u¿ytkowania. 
+
+Artyku³ 265 Kodeksu cywilnego brzmi:
+- § 1. Przedmiotem u¿ytkowania mog¹ byæ tak¿e prawa.
+- § 2. Do u¿ytkowania praw stosuje siê odpowiednio przepisy o u¿ytkowaniu rzeczy.
+
+W zwi¹zku z tym, odpowiedŸ c) jest poprawna, poniewa¿ obejmuje wszystkie mo¿liwe przedmioty u¿ytkowania, które s¹ wymienione w przepisach prawa. 
+
+**Podsumowuj¹c**, odpowiedŸ c) jest zgodna z przepisami Kodeksu cywilnego, które jasno wskazuj¹, ¿e przedmiotem u¿ytkowania mog¹ byæ nieruchomoœci, rzeczy ruchome oraz prawa.",True,True,[265]
+12,"Question: Zgodnie z Kodeksem cywilnym, posiadaczem rzeczy jest:
+    
+            a) tylko w³aœciciel,
+            b) tylko posiadacz zale¿ny,
+            c) zarówno ten, kto ni¹ faktycznie w³ada jak w³aœciciel, jak i posiadacz zale¿ny. 
+            ",C,art. 336 k.c.,"OdpowiedŸ: **c) zarówno ten, kto ni¹ faktycznie w³ada jak w³aœciciel, jak i posiadacz zale¿ny.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, posiadaczem rzeczy jest zarówno posiadacz samoistny, który faktycznie w³ada rzecz¹ jak w³aœciciel, jak i posiadacz zale¿ny, który w³ada rzecz¹ na podstawie innego prawa (np. najemca, dzier¿awca). Artyku³ 336 Kodeksu cywilnego wyraŸnie definiuje posiadacza jako osobê, która ma faktyczne w³adztwo nad rzecz¹, niezale¿nie od tego, czy jest jej w³aœcicielem, czy te¿ posiada j¹ na podstawie innego tytu³u prawnego.
+
+**Odpowiedni przepis:**
+- **Art. 336 Kodeksu cywilnego:** ""Posiadaczem rzeczy jest zarówno ten, kto ni¹ faktycznie w³ada jak w³aœciciel (posiadacz samoistny), jak i ten, kto ni¹ faktycznie w³ada jak u¿ytkownik, zastawnik, najemca, dzier¿awca lub maj¹cy inne prawo, z którym ³¹czy siê okreœlone w³adztwo nad cudz¹ rzecz¹ (posiadacz zale¿ny)."" 
+
+To potwierdza, ¿e odpowiedŸ c) jest poprawna, poniewa¿ obejmuje obie kategorie posiadaczy.",True,True,[336]
+13,"Question: Zgodnie z Kodeksem cywilnym, je¿eli œwiadczenie (z wy³¹czeniem œwiadczenia z gry lub zak³adu) zosta³o spe³nione dobrowolnie w celu zadoœæuczynienia przedawnionemu roszczeniu, ten kto je spe³ni³: 
+    
+            a) mo¿e ¿¹daæ zwrotu œwiadczenia bez ograniczeñ,
+            b) mo¿e ¿¹daæ zwrotu œwiadczenia w okreœlonych przypadkach
+            c) nie mo¿e ¿¹daæ zwrotu œwiadczenia.
+            ",C,art. 411 pkt 3 k.c. ,"OdpowiedŸ: **c) nie mo¿e ¿¹daæ zwrotu œwiadczenia.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 411 Kodeksu cywilnego, osoba, która spe³ni³a œwiadczenie w celu zadoœæuczynienia przedawnionemu roszczeniu, nie ma prawa ¿¹daæ zwrotu tego œwiadczenia. Przepis ten stanowi, ¿e nie mo¿na ¿¹daæ zwrotu œwiadczenia, je¿eli spe³nienie go mia³o miejsce w celu zadoœæuczynienia przedawnionemu roszczeniu. Oznacza to, ¿e osoba, która dobrowolnie spe³ni³a œwiadczenie w takim celu, nie mo¿e póŸniej domagaæ siê jego zwrotu, co jest zgodne z zasadami wspó³¿ycia spo³ecznego.
+
+**Odniesienie do przepisów:**
+- Art. 411 Kodeksu cywilnego: ""Nie mo¿na ¿¹daæ zwrotu œwiadczenia: [...] 3) je¿eli œwiadczenie zosta³o spe³nione w celu zadoœæuczynienia przedawnionemu roszczeniu.""",True,True,[411]
+14,"Question: Zgodnie z Kodeksem cywilnym, roszczenie o zadoœæuczynienie pieniê¿ne za krzywdê doznan¹ przez osobê fizyczn¹: 
+    
+            a) przechodzi na spadkobierców, gdy poszkodowany za ¿ycia skierowa³ do zobowi¹zanego wezwanie do zap³aty
+            b) przechodzi na spadkobierców, gdy powództwo o to roszczenie zosta³o wytoczone za ¿ycia poszkodowanego
+            c) nigdy nie przechodzi na spadkobierców.
+            ",B,art. 445 § 3 k.c. ,"OdpowiedŸ: **b) przechodzi na spadkobierców, gdy powództwo o to roszczenie zosta³o wytoczone za ¿ycia poszkodowanego.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 446 § 3 Kodeksu cywilnego, roszczenie o zadoœæuczynienie przechodzi na spadkobierców tylko w przypadku, gdy zosta³o uznane na piœmie albo gdy powództwo zosta³o wytoczone za ¿ycia poszkodowanego. Oznacza to, ¿e jeœli poszkodowany za ¿ycia z³o¿y³ pozew o zadoœæuczynienie, to jego spadkobiercy mog¹ kontynuowaæ to roszczenie po jego œmierci. 
+
+W przypadku odpowiedzi a), roszczenie nie przechodzi na spadkobierców tylko na podstawie wezwania do zap³aty, a odpowiedŸ c) jest nieprawdziwa, poniewa¿ roszczenie o zadoœæuczynienie mo¿e przechodziæ na spadkobierców w okreœlonych warunkach.
+
+**Odniesienie do przepisów:**
+- Art. 446 Kodeksu cywilnego:
+  - § 3: ""Roszczenie o zadoœæuczynienie przechodzi na spadkobierców tylko wtedy, gdy zosta³o uznane na piœmie albo gdy powództwo zosta³o wytoczone za ¿ycia poszkodowanego.""",True,False,[446]
+15,"Question: Zgodnie z Kodeksem cywilnym, zastrze¿ona w umowie kara umowna ma na celu naprawienie szkody wynik³ej z niewykonania lub nienale¿ytego wykonania zobowi¹zania:
+    
+            a) pieniê¿nego,
+            b) niepieniê¿nego,
+            c) zarówno pieniê¿nego, jak i niepieniê¿nego.   
+            ",B,art. 483 § 1 k.c.,"OdpowiedŸ: **c) zarówno pieniê¿nego, jak i niepieniê¿nego.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, kara umowna mo¿e byæ zastrze¿ona w umowie jako forma zabezpieczenia naprawienia szkody wynik³ej z niewykonania lub nienale¿ytego wykonania zobowi¹zania. Artyku³ 483 Kodeksu cywilnego stanowi, ¿e mo¿na zastrzec w umowie, i¿ naprawienie szkody wynik³ej z niewykonania lub nienale¿ytego wykonania zobowi¹zania niepieniê¿nego nast¹pi przez zap³atê okreœlonej sumy (kara umowna). Oznacza to, ¿e kara umowna mo¿e dotyczyæ zarówno zobowi¹zañ pieniê¿nych, jak i niepieniê¿nych.
+
+Dodatkowo, artyku³ 484 § 1 wskazuje, ¿e w razie niewykonania lub nienale¿ytego wykonania zobowi¹zania kara umowna nale¿y siê wierzycielowi w zastrze¿onej wysokoœci, niezale¿nie od wysokoœci poniesionej szkody. To potwierdza, ¿e kara umowna ma zastosowanie w ró¿nych kontekstach zobowi¹zañ.
+
+**Podstawa prawna:**
+- Art. 483 Kodeksu cywilnego: ""Mo¿na zastrzec w umowie, ¿e naprawienie szkody wynik³ej z niewykonania lub nienale¿ytego wykonania zobowi¹zania niepieniê¿nego nast¹pi przez zap³atê okreœlonej sumy (kara umowna).""
+- Art. 484 Kodeksu cywilnego: ""W razie niewykonania lub nienale¿ytego wykonania zobowi¹zania kara umowna nale¿y siê wierzycielowi w zastrze¿onej na ten wypadek wysokoœci bez wzglêdu na wysokoœæ poniesionej szkody.""",False,True,"[483, 484]"
+16,"Question: Zgodnie z Kodeksem cywilnym, przejêcie d³ugu mo¿e nast¹piæ: 
+    
+            a) przez umowê miêdzy wierzycielem a d³u¿nikiem bez zgody osoby trzeciej,
+            b) przez umowê miêdzy d³u¿nikiem a osob¹ trzeci¹ bez zgody wierzyciela,
+            c) przez umowê miêdzy wierzycielem a osob¹ trzeci¹ za zgod¹ d³u¿nika. 
+            ",C,art. 519 § 2 pkt 1 k.c.,"OdpowiedŸ: **c) przez umowê miêdzy wierzycielem a osob¹ trzeci¹ za zgod¹ d³u¿nika.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 519 Kodeksu cywilnego, przejêcie d³ugu mo¿e nast¹piæ na dwa sposoby: 
+1. Przez umowê miêdzy wierzycielem a osob¹ trzeci¹ za zgod¹ d³u¿nika.
+2. Przez umowê miêdzy d³u¿nikiem a osob¹ trzeci¹ za zgod¹ wierzyciela.
+
+W kontekœcie podanych odpowiedzi, odpowiedŸ c) jest poprawna, poniewa¿ odnosi siê do sytuacji, w której wierzyciel i osoba trzecia zawieraj¹ umowê o przejêcie d³ugu, a d³u¿nik wyra¿a na to zgodê. Zgoda d³u¿nika jest kluczowa, poniewa¿ bez niej umowa nie bêdzie skuteczna.
+
+Odpowiedzi a) i b) s¹ nieprawid³owe, poniewa¿:
+- OdpowiedŸ a) sugeruje, ¿e wierzyciel i d³u¿nik mog¹ przej¹æ d³ug bez zgody osoby trzeciej, co jest sprzeczne z przepisami.
+- OdpowiedŸ b) wskazuje na mo¿liwoœæ przejêcia d³ugu przez osobê trzeci¹ bez zgody wierzyciela, co równie¿ jest niezgodne z prawem.
+
+**Przepisy:**
+- Art. 519 § 2 Kodeksu cywilnego: ""Przejêcie d³ugu mo¿e nast¹piæ: 1) przez umowê miêdzy wierzycielem a osob¹ trzeci¹ za zgod¹ d³u¿nika; 2) przez umowê miêdzy d³u¿nikiem a osob¹ trzeci¹ za zgod¹ wierzyciela.""",True,True,[519]
+17,"Question: Zgodnie z Kodeksem cywilnym, prawo odkupu wykonywa siê przez oœwiadczenie sprzedawcy z³o¿one kupuj¹cemu, przy czym:
+    
+            a) oœwiadczenie o wykonaniu prawa odkupu nigdy nie wymaga szczególnej formy, 
+            b) je¿eli zawarcie umowy sprzeda¿y wymaga³o zachowania szczególnej formy, oœwiadczenie o wykonaniu prawa odkupu powinno byæ z³o¿one w tej samej formie,
+            c) oœwiadczenie o wykonaniu prawa odkupu zawsze musi byæ z³o¿one w formie aktu notarialnego.  
+            ",B,art. 593 § 2 k.c.,"OdpowiedŸ poprawna to **b)**: je¿eli zawarcie umowy sprzeda¿y wymaga³o zachowania szczególnej formy, oœwiadczenie o wykonaniu prawa odkupu powinno byæ z³o¿one w tej samej formie.
+
+### Wyjaœnienie:
+Prawo odkupu, zgodnie z art. 593 § 2 Kodeksu cywilnego, wykonuje siê przez oœwiadczenie sprzedawcy z³o¿one kupuj¹cemu. W przypadku, gdy umowa sprzeda¿y, na podstawie której przys³uguje prawo odkupu, wymaga³a zachowania szczególnej formy (np. formy aktu notarialnego), to równie¿ oœwiadczenie o wykonaniu tego prawa musi byæ z³o¿one w tej samej formie. Oznacza to, ¿e forma oœwiadczenia o wykonaniu prawa odkupu jest uzale¿niona od formy, w jakiej zosta³a zawarta umowa sprzeda¿y.
+
+### Przypis do przepisów:
+- **Art. 593 Kodeksu cywilnego**: ""Prawo odkupu wykonuje siê przez oœwiadczenie sprzedawcy z³o¿one kupuj¹cemu. Je¿eli zawarcie umowy sprzeda¿y wymaga³o zachowania szczególnej formy, oœwiadczenie o wykonaniu prawa odkupu powinno byæ z³o¿one w tej samej formie.""",True,True,[593]
+18,"Question: Zgodnie z Kodeksem cywilnym, do umowy zamiany stosuje siê odpowiednio przepisy o: 
+    
+            a) sprzeda¿y,
+            b) darowiŸnie
+            c) u¿yczeniu. 
+            ",A,art. 604 k.c.,"OdpowiedŸ: **a) sprzeda¿y**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, umowa zamiany jest regulowana przez przepisy dotycz¹ce umowy sprzeda¿y. Zgodnie z art. 603 Kodeksu cywilnego, przez umowê zamiany ka¿da ze stron zobowi¹zuje siê przenieœæ na drug¹ stronê w³asnoœæ rzeczy w zamian za zobowi¹zanie siê do przeniesienia w³asnoœci innej rzeczy. Oznacza to, ¿e zasady dotycz¹ce przeniesienia w³asnoœci, odpowiedzialnoœci za wady rzeczy oraz inne aspekty umowy zamiany s¹ analogiczne do tych, które obowi¹zuj¹ w umowie sprzeda¿y.
+
+W szczególnoœci, art. 862 Kodeksu cywilnego stwierdza, ¿e do umowy, w której jedna ze stron zobowi¹zuje siê do przeniesienia w³asnoœci rzeczy, stosuje siê odpowiednio przepisy o sprzeda¿y. 
+
+**Podstawa prawna:**
+- Art. 603 Kodeksu cywilnego: ""Przez umowê zamiany ka¿da ze stron zobowi¹zuje siê przenieœæ na drug¹ stronê w³asnoœæ rzeczy w zamian za zobowi¹zanie siê do przeniesienia w³asnoœci innej rzeczy.""
+- Art. 862 Kodeksu cywilnego: ""Je¿eli wspólnik zobowi¹za³ siê wnieœæ do spó³ki w³asnoœæ rzeczy, do wykonania tego zobowi¹zania, jak równie¿ do odpowiedzialnoœci z tytu³u rêkojmi oraz do niebezpieczeñstwa utraty lub uszkodzenia rzeczy stosuje siê odpowiednio przepisy o sprzeda¿y.""",True,False,"[603, 862]"
+19,"Question: Zgodnie z Kodeksem cywilnym, w razie zbycia rzeczy najêtej (niebêd¹cej lokalem mieszkalnym) w czasie trwania najmu, uprawnienie do wypowiedzenia najmu z zachowaniem ustawowych terminów wypowiedzenia nie przys³uguje nabywcy rzeczy najêtej, wstêpuj¹cemu w stosunek najmu na miejsce zbywcy, je¿eli: 
+    
+            a) umowa najmu by³a zawarta na czas nieoznaczony,
+            b) umowa najmu by³a zawarta na czas nieoznaczony z zachowaniem formy pisemnej i z dat¹ pewn¹, a rzecz zosta³a najemcy wydana
+            c) umowa najmu by³a zawarta na czas oznaczony z zachowaniem formy pisemnej i z dat¹ pewn¹, a rzecz zosta³a najemcy wydana. 
+            ",C,art. 678 § 2 k.c.  ,"OdpowiedŸ: **c) umowa najmu by³a zawarta na czas oznaczony z zachowaniem formy pisemnej i z dat¹ pewn¹, a rzecz zosta³a najemcy wydana.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 678 § 2 Kodeksu cywilnego, nabywca rzeczy najêtej wstêpuje w stosunek najmu na miejsce zbywcy, ale nie przys³uguje mu prawo do wypowiedzenia najmu, je¿eli umowa najmu by³a zawarta na czas oznaczony, z zachowaniem formy pisemnej i z dat¹ pewn¹, a rzecz zosta³a najemcy wydana. Oznacza to, ¿e w przypadku umowy najmu na czas oznaczony, nabywca nie mo¿e wypowiedzieæ umowy, co chroni najemcê przed nag³ymi zmianami w sytuacji prawnej dotycz¹cej wynajmowanej rzeczy.
+
+W przypadku odpowiedzi a) i b), umowa najmu na czas nieoznaczony (a) oraz umowa na czas nieoznaczony z zachowaniem formy pisemnej (b) nie s¹ objête tym samym zakresem ochrony, co umowa na czas oznaczony, dlatego nabywca móg³by w tych przypadkach wypowiedzieæ umowê.
+
+**Podstawa prawna:**
+- Kodeks cywilny, art. 678 § 2.",True,True,[678]
+20,"Question: Zgodnie z Kodeksem cywilnym, je¿eli termin zwrotu po¿yczki nie jest oznaczony:
+    
+            a) d³u¿nik obowi¹zany jest zwróciæ po¿yczkê w ci¹gu szeœciu tygodni po wypowiedzeniu przez daj¹cego po¿yczkê
+            b) d³u¿nik obowi¹zany jest zwróciæ po¿yczkê w ci¹gu szeœciu miesiêcy po wypowiedzeniu przez daj¹cego po¿yczkê
+            c) umowa po¿yczki jest niewa¿na
+            ",A,art. 723 k.c.  ,"OdpowiedŸ: **a) d³u¿nik obowi¹zany jest zwróciæ po¿yczkê w ci¹gu szeœciu tygodni po wypowiedzeniu przez daj¹cego po¿yczkê.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 723 Kodeksu cywilnego, je¿eli termin zwrotu po¿yczki nie jest oznaczony, d³u¿nik ma obowi¹zek zwróciæ po¿yczkê w ci¹gu szeœciu tygodni po wypowiedzeniu przez daj¹cego po¿yczkê. Oznacza to, ¿e w przypadku braku ustalonego terminu zwrotu, daj¹cy po¿yczkê mo¿e wypowiedzieæ umowê, a d³u¿nik jest zobowi¹zany do zwrotu po¿yczki w okreœlonym czasie.
+
+**Odniesienie do przepisów:**
+- Art. 723 Kodeksu cywilnego: ""Je¿eli termin zwrotu po¿yczki nie jest oznaczony, d³u¿nik obowi¹zany jest zwróciæ po¿yczkê w ci¹gu szeœciu tygodni po wypowiedzeniu przez daj¹cego po¿yczkê.""",True,True,[723]
+21,"Question: Zgodnie z Kodeksem cywilnym, w umowie spó³ki mo¿na ustaliæ stosunek udzia³u wspólnika w zyskach i stratach, natomiast nie mo¿na: 
+    
+            a) zwolniæ niektórych wspólników od udzia³u w stratach, 
+            b) wy³¹czyæ wspólnika od udzia³u w zyskach,
+            c) ustaliæ, ¿e ka¿dy wspólnik nie jest uprawniony do równego udzia³u w zyskach. 
+            ",B,art. 867 § 1 k.c.,"OdpowiedŸ: **b) wy³¹czyæ wspólnika od udzia³u w zyskach.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 867 § 1 Kodeksu cywilnego, ka¿dy wspólnik jest uprawniony do równego udzia³u w zyskach i w tym samym stosunku uczestniczy w stratach, co oznacza, ¿e nie mo¿na wy³¹czyæ wspólnika od udzia³u w zyskach. W umowie spó³ki mo¿na ustaliæ inny stosunek udzia³u wspólników w zyskach i stratach, jednak nie mo¿na ca³kowicie wy³¹czyæ wspólnika od udzia³u w zyskach. Natomiast zwolnienie niektórych wspólników od udzia³u w stratach jest dozwolone, co potwierdza art. 867 § 1, który mówi, ¿e mo¿na zwolniæ niektórych wspólników od udzia³u w stratach.
+
+**Podstawa prawna:**
+- Kodeks cywilny, art. 867 § 1.",True,True,[867]
+22,"Question: Zgodnie z Kodeksem cywilnym, osoba, wzglêdem której ci¹¿y na do¿ywotniku ustawowy obowi¹zek alimentacyjny, mo¿e ¿¹daæ uznania umowy o do¿ywocie za bezskuteczn¹ w stosunku do niej, je¿eli wskutek tej umowy do¿ywotnik sta³ siê niewyp³acalny; uznania umowy o do¿ywocie za bezskuteczn¹ nie mo¿na ¿¹daæ po up³ywie: 
+    
+            a) jednego roku od daty tej umowy, 
+            b) lat trzech od daty tej umowy,
+            c) lat piêciu od daty tej umowy. 
+            ",C,art. 916 k.c.  ,"OdpowiedŸ: **b) lat trzech od daty tej umowy.**
+
+**Wyjaœnienie:**
+Zgodnie z przepisami Kodeksu cywilnego, osoba, wzglêdem której ci¹¿y na do¿ywotniku ustawowy obowi¹zek alimentacyjny, ma prawo ¿¹daæ uznania umowy o do¿ywocie za bezskuteczn¹, je¿eli do¿ywotnik sta³ siê niewyp³acalny. Jednak¿e, aby takie ¿¹danie mog³o byæ skutecznie zg³oszone, musi byæ wniesione w odpowiednim terminie. Zgodnie z art. 531 Kodeksu cywilnego, uznania czynnoœci prawnej dokonanej z pokrzywdzeniem wierzycieli za bezskuteczn¹ nie mo¿na ¿¹daæ po up³ywie lat piêciu od daty tej czynnoœci. Natomiast w kontekœcie umowy o do¿ywocie, termin ten wynosi trzy lata, co jest zgodne z ogólnymi zasadami przedawnienia roszczeñ.
+
+**Przypis do przepisów:**
+- Art. 531 Kodeksu cywilnego: ""Uznania czynnoœci prawnej dokonanej z pokrzywdzeniem wierzycieli za bezskuteczn¹ nie mo¿na ¿¹daæ po up³ywie lat piêciu od daty tej czynnoœci.""
+- Art. 125 § 1 Kodeksu cywilnego: ""Roszczenia stwierdzone prawomocnym orzeczeniem s¹du przedawniaj¹ siê z up³ywem szeœciu lat. Je¿eli stwierdzone w ten sposób roszczenie obejmuje œwiadczenia okresowe, roszczenie o œwiadczenie okresowe nale¿ne w przysz³oœci przedawnia siê z up³ywem trzech lat."" 
+
+W kontekœcie umowy o do¿ywocie, termin trzech lat jest kluczowy dla mo¿liwoœci dochodzenia roszczeñ zwi¹zanych z niewyp³acalnoœci¹ do¿ywotnika.",False,False,"[531, 125]"
+23,"Question: Zgodnie z Kodeksem cywilnym, fundacja ustanowiona w testamencie przez spadkodawcê mo¿e byæ spadkobierc¹, je¿eli zostanie wpisana do rejestru w ci¹gu dwóch lat od: 
+    
+            a) og³oszenia testamentu
+            b) otwarcia spadku,
+            c) uprawomocnienia siê postanowienia o stwierdzeniu nabycia spadku.
+            ",A,art. 927 § 3 k.c.,"OdpowiedŸ: **b) otwarcia spadku.**
+
+**Wyjaœnienie:**
+Zgodnie z przepisami Kodeksu cywilnego, fundacja ustanowiona w testamencie przez spadkodawcê mo¿e byæ spadkobierc¹, je¿eli zostanie wpisana do rejestru w ci¹gu dwóch lat od otwarcia spadku. Otwarcie spadku nastêpuje z chwil¹ œmierci spadkodawcy, co jest kluczowe dla ustalenia terminu, w którym fundacja musi zostaæ zarejestrowana, aby mog³a nabyæ status spadkobiercy.
+
+Zgodnie z art. 981 Kodeksu cywilnego, fundacja, która ma byæ spadkobierc¹, musi byæ wpisana do rejestru w terminie dwóch lat od otwarcia spadku. W przeciwnym razie nie bêdzie mog³a skutecznie nabyæ spadku.
+
+**Przypis do przepisów:**
+- Art. 981 Kodeksu cywilnego: ""Fundacja, która ma byæ spadkobierc¹, musi byæ wpisana do rejestru w terminie dwóch lat od otwarcia spadku.""",False,False,[981]
+24,"Question: Zgodnie z Kodeksem cywilnym, w przypadku dziedziczenia ustawowego, udzia³ spadkowy ma³¿onka, który dziedziczy w zbiegu z rodzicami, rodzeñstwem i zstêpnymi rodzeñstwa spadkodawcy, wynosi po³owê spadku; w braku zstêpnych spadkodawcy, jego rodziców, rodzeñstwa i ich zstêpnych:
+    
+            a) ca³y spadek przypada dziadkom spadkodawcy; dziedzicz¹ oni w czêœciach równych
+            b) spadek przypada gminie ostatniego miejsca zamieszkania spadkodawcy, jako spadkobiercy ustawowemu
+            c) ca³y spadek przypada ma³¿onkowi spadkodawcy.  
+            ",C,art. 933 k.c.,"OdpowiedŸ: **c) ca³y spadek przypada ma³¿onkowi spadkodawcy.**
+
+**Wyjaœnienie:**
+Zgodnie z przepisami Kodeksu cywilnego, w przypadku dziedziczenia ustawowego, ma³¿onek spadkodawcy dziedziczy w pierwszej kolejnoœci. W sytuacji, gdy spadkodawca nie ma zstêpnych (dzieci, wnuków), a jego rodzice, rodzeñstwo i zstêpni rodzeñstwa równie¿ nie ¿yj¹, ca³y spadek przypada ma³¿onkowi. 
+
+Zgodnie z art. 931 Kodeksu cywilnego, w przypadku braku zstêpnych, rodziców, rodzeñstwa i ich zstêpnych, ma³¿onek dziedziczy ca³y spadek. 
+
+**Odpowiednie przepisy:**
+- Art. 931 Kodeksu cywilnego: ""W przypadku dziedziczenia ustawowego, je¿eli zmar³y nie mia³ zstêpnych, spadek przypada ma³¿onkowi oraz rodzicom zmar³ego w czêœciach równych, a w przypadku braku rodziców - ma³¿onkowi przypada ca³y spadek."" 
+
+W zwi¹zku z tym, odpowiedŸ c) jest poprawna, poniewa¿ w opisanej sytuacji ma³¿onek dziedziczy ca³y spadek.",True,False,[931]
+25,"Question: Zgodnie z Kodeksem cywilnym, testament:
+    
+            a) mo¿na sporz¹dziæ przez przedstawiciela
+            b) mo¿na odwo³aæ przez przedstawiciela
+            c) nie mo¿e zostaæ sporz¹dzony ani odwo³any przez przedstawiciela.
+            ",C,art. 944 § 2 k.c.,"OdpowiedŸ: c) nie mo¿e zostaæ sporz¹dzony ani odwo³any przez przedstawiciela.
+
+**Wyjaœnienie:**
+Zgodnie z polskim prawem, testament jest osobistym oœwiadczeniem woli testatora, które musi byæ sporz¹dzone przez niego osobiœcie. Kodeks cywilny w art. 949 stanowi, ¿e testament mo¿e byæ sporz¹dzony w formie pisemnej, ustnej lub w formie aktu notarialnego, ale zawsze musi byæ to dzia³anie bezpoœrednio podejmowane przez osobê, która chce sporz¹dziæ testament. Nie ma mo¿liwoœci, aby testament by³ sporz¹dzony przez przedstawiciela, co oznacza, ¿e nie mo¿na go równie¿ odwo³aæ przez przedstawiciela.
+
+Zgodnie z art. 949 Kodeksu cywilnego:
+- ""Testament mo¿e byæ sporz¹dzony w formie pisemnej, ustnej lub w formie aktu notarialnego. Testament sporz¹dzony w formie pisemnej powinien byæ w³asnorêcznie podpisany przez testatora.""
+
+W zwi¹zku z tym, odpowiedŸ c) jest poprawna, poniewa¿ testament musi byæ sporz¹dzony i odwo³any osobiœcie przez testatora.",True,False,[949]
+26,"Question: Zgodnie z Kodeksem cywilnym, je¿eli spadek przypada kilku spadkobiercom, zapis zwyk³y: 
+    
+            a) obci¹¿a ich w stosunku do wielkoœci ich udzia³ów spadkowych, a spadkodawca nie mo¿e postanowiæ inaczej
+            b) obci¹¿a ich w stosunku do wielkoœci ich udzia³ów spadkowych, chyba ¿e spadkodawca postanowi³ inaczej
+            c) obci¹¿a spadkobiercê, który ma najwiêkszy udzia³, a spadkodawca nie mo¿e postanowiæ inaczej.
+            ",B,art. 971 k.c.,"OdpowiedŸ: **b) obci¹¿a ich w stosunku do wielkoœci ich udzia³ów spadkowych, chyba ¿e spadkodawca postanowi³ inaczej.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, zapisy dotycz¹ce spadku, w tym zapisy zwyk³e, s¹ regulowane przez przepisy dotycz¹ce dziedziczenia. W przypadku, gdy spadek przypada kilku spadkobiercom, zapisy zwyk³e obci¹¿aj¹ ich w proporcji do wielkoœci ich udzia³ów spadkowych, chyba ¿e spadkodawca postanowi³ inaczej. Oznacza to, ¿e spadkodawca ma prawo okreœliæ w testamencie, w jaki sposób zapisy maj¹ byæ rozdzielane pomiêdzy spadkobierców.
+
+Zgodnie z art. 207 Kodeksu cywilnego, ""Po¿ytki i inne przychody z rzeczy wspólnej przypadaj¹ wspó³w³aœcicielom w stosunku do wielkoœci udzia³ów; w takim samym stosunku wspó³w³aœciciele ponosz¹ wydatki i ciê¿ary zwi¹zane z rzecz¹ wspóln¹."" To odnosi siê do zasady, ¿e w przypadku wspó³w³asnoœci, w tym przypadku spadku, ciê¿ary i korzyœci s¹ dzielone proporcjonalnie do udzia³ów, chyba ¿e spadkodawca postanowi inaczej.
+
+**Podstawa prawna:**
+- Kodeks cywilny, art. 207.",True,False,[207]
+27,"Question: Zgodnie z Kodeksem cywilnym, roszczenie z tytu³u wykonania zapisu zwyk³ego:
+    
+            a) nie przedawnia siê
+            b) przedawnia siê z up³ywem lat piêciu od dnia wymagalnoœci zapisu
+            c) przedawnia siê z up³ywem lat trzech od dnia wymagalnoœci zapisu.
+            ",B,art. 981 w zw. z art. 970 k.c. ,"OdpowiedŸ: **b) przedawnia siê z up³ywem lat piêciu od dnia wymagalnoœci zapisu.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, roszczenia z tytu³u wykonania zapisu zwyk³ego przedawniaj¹ siê z up³ywem piêciu lat od dnia, w którym roszczenie sta³o siê wymagalne. Zapis zwyk³y to forma testamentu, w której spadkodawca mo¿e na³o¿yæ na spadkobiercê obowi¹zek wykonania okreœlonego œwiadczenia na rzecz osoby trzeciej. W przypadku, gdy osoba uprawniona do wykonania zapisu nie dochodzi swojego roszczenia w ci¹gu piêciu lat, traci prawo do jego dochodzenia.
+
+Odpowiedni przepis dotycz¹cy przedawnienia roszczeñ znajduje siê w art. 118 Kodeksu cywilnego, który stanowi, ¿e ""je¿eli przepis szczególny nie stanowi inaczej, termin przedawnienia wynosi szeœæ lat, a dla roszczeñ o œwiadczenia okresowe oraz roszczeñ zwi¹zanych z prowadzeniem dzia³alnoœci gospodarczej – trzy lata."" Jednak¿e w przypadku zapisów, które nie s¹ traktowane jako œwiadczenia okresowe, stosuje siê piêcioletni termin przedawnienia.
+
+**Przypisany przepis:**
+- Art. 118 Kodeksu cywilnego: ""Je¿eli przepis szczególny nie stanowi inaczej, termin przedawnienia wynosi szeœæ lat, a dla roszczeñ o œwiadczenia okresowe oraz roszczeñ zwi¹zanych z prowadzeniem dzia³alnoœci gospodarczej – trzy lata.""",True,False,[118]
+28,"Question: Zgodnie z Kodeksem cywilnym, spadkobierca testamentowy nie mo¿e:
+    
+            a) odrzuciæ spadku w ¿adnym przypadku
+            b) przyj¹æ spadku bez ograniczenia odpowiedzialnoœci za d³ugi spadkowe
+            c) przyj¹æ spadku z wy³¹czeniem odpowiedzialnoœci za d³ugi spadkowe.
+            ",C,art. 1012 k.c. ,"OdpowiedŸ: **b) przyj¹æ spadku bez ograniczenia odpowiedzialnoœci za d³ugi spadkowe.**
+
+**Wyjaœnienie:**
+Zgodnie z polskim prawem spadkowym, spadkobierca testamentowy ma prawo przyj¹æ spadek z ograniczon¹ odpowiedzialnoœci¹ za d³ugi spadkowe. Oznacza to, ¿e mo¿e on przyj¹æ spadek, ale z ograniczeniem odpowiedzialnoœci za d³ugi spadkowe do wysokoœci wartoœci przyjêtego spadku. W przeciwnym razie, jeœli spadkobierca przyjmie spadek bez ograniczenia odpowiedzialnoœci, bêdzie odpowiada³ za d³ugi spadkowe ca³ym swoim maj¹tkiem.
+
+Zgodnie z art. 1012 Kodeksu cywilnego, spadkobierca mo¿e przyj¹æ spadek w sposób:
+1. Zwyk³y (co oznacza pe³n¹ odpowiedzialnoœæ za d³ugi spadkowe).
+2. Z ograniczon¹ odpowiedzialnoœci¹ (tzw. przyjêcie spadku z dobrodziejstwem inwentarza).
+
+W przypadku odpowiedzi b), stwierdzenie, ¿e spadkobierca nie mo¿e przyj¹æ spadku bez ograniczenia odpowiedzialnoœci za d³ugi spadkowe, jest prawdziwe, poniewa¿ przyjêcie spadku bez ograniczenia odpowiedzialnoœci wi¹¿e siê z pe³n¹ odpowiedzialnoœci¹ za d³ugi, co nie jest korzystne dla spadkobiercy.
+
+**Odpowiedni przepis:**
+- Art. 1012 Kodeksu cywilnego: ""Spadkobierca mo¿e przyj¹æ spadek w ca³oœci lub z dobrodziejstwem inwentarza.""",False,True,[1012]
+29,"Question: Zgodnie z Kodeksem cywilnym, uchylenie siê od skutków prawnych umowy o dzia³ spadku zawartej pod wp³ywem b³êdu mo¿e nast¹piæ tylko wtedy, gdy b³¹d dotyczy³:
+    
+            a) wy³¹cznie stanu prawnego
+            b) ka¿dego stanu faktycznego
+            c) stanu faktycznego, który strony uwa¿a³y za niew¹tpliwy. 
+            ",C,art. 1045 k.c. ,"OdpowiedŸ: **c) stanu faktycznego, który strony uwa¿a³y za niew¹tpliwy.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, uchwa³a o dzia³ spadku mo¿e byæ uchylona w przypadku, gdy strony zawar³y umowê pod wp³ywem b³êdu. Kluczowe jest, aby b³¹d dotyczy³ stanu faktycznego, który by³ uwa¿any przez strony za niew¹tpliwy. Oznacza to, ¿e jeœli strony mia³y b³êdne przekonanie o istotnych okolicznoœciach, które mia³y wp³yw na ich decyzjê o zawarciu umowy, mog¹ one uchyliæ siê od skutków prawnych tej umowy.
+
+Zgodnie z art. 84 Kodeksu cywilnego, uchwa³a o dzia³ spadku mo¿e byæ uchylona, jeœli b³¹d dotyczy treœci czynnoœci prawnej, a w szczególnoœci, gdy b³¹d jest istotny. Istotny b³¹d to taki, który móg³by wp³yn¹æ na decyzjê stron o zawarciu umowy, co w kontekœcie dzia³u spadku odnosi siê do stanu faktycznego, który by³ uwa¿any za niew¹tpliwy przez obie strony.
+
+**Odniesienie do przepisów:**
+- Art. 84 Kodeksu cywilnego: ""W razie b³êdu co do treœci czynnoœci prawnej mo¿na uchyliæ siê od skutków prawnych swego oœwiadczenia woli.""",True,False,[84]
+30,"Question: Zgodnie z Kodeksem cywilnym, spadkobierca ustawowy mo¿e przez umowê z przysz³ym spadkodawc¹ zrzec siê dziedziczenia po nim; umowa taka powinna byæ zawarta w formie:
+    
+            a) pisemnej
+            b) pisemnej z podpisami notarialnie poœwiadczonymi
+            c) aktu notarialnego.
+            ",C,art. 1048 k.c.,"OdpowiedŸ: **c) aktu notarialnego.**
+
+**Wyjaœnienie:**
+Zgodnie z polskim prawem, zrzeczenie siê dziedziczenia po przysz³ym spadkodawcy musi byæ dokonane w formie aktu notarialnego. Przepisy Kodeksu cywilnego w art. 1048 stanowi¹, ¿e zrzeczenie siê dziedziczenia powinno byæ dokonane w formie aktu notarialnego, aby by³o skuteczne. 
+
+Art. 1048 Kodeksu cywilnego mówi:
+„§ 1. Zrzeczenie siê dziedziczenia mo¿e nast¹piæ tylko w formie aktu notarialnego.”
+
+Zatem, aby zrzeczenie siê dziedziczenia by³o wa¿ne, musi byæ dokonane w formie aktu notarialnego, co wyklucza inne formy, takie jak forma pisemna czy pisemna z podpisami notarialnie poœwiadczonymi.
+
+**Podstawa prawna:**
+- Kodeks cywilny, art. 1048.",True,True,[1048]
+10,"Question: Zgodnie z Kodeksem cywilnym, uprawnionemu do pobierania po¿ytków:
+    
+            a) przypadaj¹ po¿ytki naturalne, które zosta³y od³¹czone od rzeczy w czasie trwania jego uprawnienia, a po¿ytki cywilne – w stosunku do czasu trwania tego uprawnienia
+            b) przypadaj¹ po¿ytki cywilne, które zosta³y od³¹czone od rzeczy w czasie trwania jego uprawnienia, a po¿ytki naturalne – w stosunku do czasu trwania tego uprawnienia
+            c) przypadaj¹ po¿ytki naturalne – w stosunku do czasu trwania tego uprawnienia, a nie przypadaj¹ po¿ytki cywilne.
+            ",A,art. 55 § 1 k.c.,"OdpowiedŸ: **a)** przypadaj¹ po¿ytki naturalne, które zosta³y od³¹czone od rzeczy w czasie trwania jego uprawnienia, a po¿ytki cywilne – w stosunku do czasu trwania tego uprawnienia.
+
+**Wyjaœnienie:**
+Zgodnie z art. 55 Kodeksu cywilnego, uprawnionemu do pobierania po¿ytków przys³uguj¹ po¿ytki naturalne, które zosta³y od³¹czone od rzeczy w czasie trwania jego uprawnienia, a po¿ytki cywilne w stosunku do czasu trwania tego uprawnienia. Oznacza to, ¿e osoba, która ma prawo do pobierania po¿ytków, nabywa prawo do po¿ytków naturalnych w momencie ich od³¹czenia od rzeczy, natomiast po¿ytki cywilne przys³uguj¹ jej za czas, w którym mia³a to prawo.
+
+**Odniesienie do przepisów:**
+- Art. 55 Kodeksu cywilnego:
+  - § 1. Uprawnionemu do pobierania po¿ytków przypadaj¹ po¿ytki naturalne, które zosta³y od³¹czone od rzeczy w czasie trwania jego uprawnienia, a po¿ytki cywilne – w stosunku do czasu trwania tego uprawnienia.",True,True,[55]
+11,"Question: Zgodnie z Kodeksem cywilnym, czynnoœæ prawna wywo³uje nie tylko skutki w niej wyra¿one, lecz równie¿ te, które:
+    
+            a) wynikaj¹ z ustawy, z orzecznictwa s¹dów i z ustalonych zwyczajów
+            b) wynikaj¹ z ustawy, z zasad wspó³¿ycia spo³ecznego i z ustalonych zwyczajów
+            c) wynikaj¹ z zasad wspó³¿ycia spo³ecznego, z orzecznictwa s¹dów i z ustalonych zwyczajów.
+            ",B,art. 56 k.c.,"OdpowiedŸ: **b) wynikaj¹ z ustawy, z zasad wspó³¿ycia spo³ecznego i z ustalonych zwyczajów.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 56 Kodeksu cywilnego, czynnoœæ prawna wywo³uje nie tylko skutki w niej wyra¿one, lecz równie¿ te, które wynikaj¹ z ustawy, z zasad wspó³¿ycia spo³ecznego i z ustalonych zwyczajów. Oznacza to, ¿e skutki czynnoœci prawnej s¹ szersze ni¿ tylko te, które zosta³y bezpoœrednio okreœlone w umowie. W szczególnoœci, zasady wspó³¿ycia spo³ecznego oraz ustalone zwyczaje mog¹ wp³ywaæ na interpretacjê i skutki prawne danej czynnoœci.
+
+**Podstawa prawna:**
+- Art. 56 Kodeksu cywilnego: ""Czynnoœæ prawna wywo³uje nie tylko skutki w niej wyra¿one, lecz równie¿ te, które wynikaj¹ z ustawy, z zasad wspó³¿ycia spo³ecznego i z ustalonych zwyczajów.""",True,True,[56]
+12,"Question: Zgodnie z Kodeksem cywilnym, je¿eli przedsiêbiorca otrzyma³ od osoby, z któr¹ pozostaje w sta³ych stosunkach gospodarczych, ofertê zawarcia umowy w ramach swej dzia³alnoœci, brak niezw³ocznej odpowiedzi poczytuje siê za:
+    
+            a) przyjêcie oferty
+            b) odmowê przyjêcia oferty
+            c) zaproszenie do negocjacji.
+            ",A,art. 682 k.c.,"OdpowiedŸ: **a) przyjêcie oferty**
+
+**Wyjaœnienie:**
+Zgodnie z art. 682 Kodeksu cywilnego, je¿eli przedsiêbiorca otrzyma³ od osoby, z któr¹ pozostaje w sta³ych stosunkach gospodarczych, ofertê zawarcia umowy w ramach swej dzia³alnoœci, brak niezw³ocznej odpowiedzi poczytuje siê za przyjêcie oferty. Oznacza to, ¿e w kontekœcie sta³ych relacji gospodarczych, milczenie lub brak reakcji na ofertê jest interpretowane jako akceptacja tej oferty. 
+
+Przepis ten ma na celu uproszczenie obiegu informacji i przyspieszenie procesów decyzyjnych w relacjach miêdzy przedsiêbiorcami, gdzie szybka reakcja jest czêsto kluczowa.
+
+**Odniesienie do przepisów:**
+- Art. 682 Kodeksu cywilnego: ""Je¿eli przedsiêbiorca otrzyma³ od osoby, z któr¹ pozostaje w sta³ych stosunkach gospodarczych, ofertê zawarcia umowy w ramach swej dzia³alnoœci, brak niezw³ocznej odpowiedzi poczytuje siê za przyjêcie oferty.""",True,True,[682]
+13,"Question: Zgodnie z Kodeksem cywilnym, pe³nomocnictwo ogólne obejmuje umocowanie:
+    
+            a) do czynnoœci zwyk³ego zarz¹du
+            b) do czynnoœci przekraczaj¹cych zakres zwyk³ego zarz¹du
+            c) do czynnoœci zwyk³ego zarz¹du oraz do czynnoœci przekraczaj¹cych zakres zwyk³ego zarz¹du.
+            ",A,art. 98 zd. 1 k.c.,"OdpowiedŸ: **a) do czynnoœci zwyk³ego zarz¹du**
+
+**Wyjaœnienie:**
+Pe³nomocnictwo ogólne, zgodnie z art. 98 Kodeksu cywilnego, obejmuje umocowanie do czynnoœci zwyk³ego zarz¹du. Oznacza to, ¿e pe³nomocnik ma prawo do podejmowania dzia³añ, które s¹ typowe i nieprzekraczaj¹ce codziennych, standardowych czynnoœci zwi¹zanych z zarz¹dzaniem sprawami mocodawcy. Natomiast do czynnoœci przekraczaj¹cych zakres zwyk³ego zarz¹du wymagane jest pe³nomocnictwo szczególne, które musi okreœlaæ rodzaj tych czynnoœci.
+
+**Odniesienie do przepisów:**
+- Art. 98 Kodeksu cywilnego: ""Pe³nomocnictwo ogólne obejmuje umocowanie do czynnoœci zwyk³ego zarz¹du. Do czynnoœci przekraczaj¹cych zakres zwyk³ego zarz¹du potrzebne jest pe³nomocnictwo okreœlaj¹ce ich rodzaj, chyba ¿e ustawa wymaga pe³nomocnictwa do poszczególnej czynnoœci.""",True,True,[98]
+14,"Question: Zgodnie z Kodeksem cywilnym, termin pó³miesiêczny jest równy:
+    
+            a) czternastu dniom
+            b) piêtnastu dniom
+            c) dwóm tygodniom.
+            ",B,art. 113 § 2 k.c.,"OdpowiedŸ: **b) piêtnastu dniom**
+
+Wyjaœnienie: Zgodnie z art. 113 § 2 Kodeksu cywilnego, termin pó³miesiêczny jest równy piêtnastu dniom. Oznacza to, ¿e w kontekœcie obliczania terminów w polskim prawodawstwie, pó³miesiêczny termin nie jest równy czternastu dniom ani dwóm tygodniom, lecz dok³adnie piêtnastu dniom. 
+
+Przypisany przepis:
+- **Art. 113. § 2 Kodeksu cywilnego**: ""Termin pó³miesiêczny jest równy piêtnastu dniom.""",True,True,[113]
+15,"Question: Zgodnie z Kodeksem cywilnym, je¿eli w³aœciciel nieruchomoœci, przeciwko któremu biegnie zasiedzenie, jest ma³oletni, zasiedzenie nie mo¿e skoñczyæ siê wczeœniej ni¿ z up³ywem:
+    
+            a) dwóch lat od uzyskania pe³noletnoœci przez w³aœciciela
+            b) trzech lat od uzyskania pe³noletnoœci przez w³aœciciela
+            c) piêciu lat od uzyskania pe³noletnoœci przez w³aœciciela.
+            ",A,art. 173 k.c.,"OdpowiedŸ: **a) dwóch lat od uzyskania pe³noletnoœci przez w³aœciciela.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 173 Kodeksu cywilnego, je¿eli w³aœciciel nieruchomoœci, przeciwko któremu biegnie zasiedzenie, jest ma³oletni, zasiedzenie nie mo¿e zakoñczyæ siê wczeœniej ni¿ z up³ywem dwóch lat od uzyskania pe³noletnoœci przez w³aœciciela. Oznacza to, ¿e czas trwania zasiedzenia jest wyd³u¿ony o okres, w którym w³aœciciel by³ ma³oletni, a zasiedzenie mo¿e byæ skuteczne dopiero po up³ywie dwóch lat od momentu, gdy w³aœciciel osi¹gnie pe³noletnoœæ.
+
+**Przypis do przepisów:**
+- Art. 173 Kodeksu cywilnego: ""Je¿eli w³aœciciel nieruchomoœci, przeciwko któremu biegnie zasiedzenie, jest ma³oletni, zasiedzenie nie mo¿e skoñczyæ siê wczeœniej ni¿ z up³ywem dwóch lat od uzyskania pe³noletnoœci przez w³aœciciela.""",True,True,[173]
+16,"Question: Zgodnie z Kodeksem cywilnym, ka¿dy ze wspó³w³aœcicieli niesprawuj¹cych zarz¹du rzecz¹ wspóln¹:
+    
+            a) zawsze jest obowi¹zany ¿¹daæ w odpowiednich terminach rachunku z zarz¹du
+            b) mo¿e ¿¹daæ w odpowiednich terminach rachunku z zarz¹du
+            c) nigdy nie jest uprawniony do ¿¹dania rachunku z zarz¹du.
+            ",B,art. 208 k.c.,"OdpowiedŸ: **b) mo¿e ¿¹daæ w odpowiednich terminach rachunku z zarz¹du.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 208 Kodeksu cywilnego, ka¿dy ze wspó³w³aœcicieli, który nie sprawuje zarz¹du rzecz¹ wspóln¹, ma prawo ¿¹daæ rachunku z zarz¹du. Oznacza to, ¿e wspó³w³aœciciele, którzy nie s¹ odpowiedzialni za zarz¹dzanie wspóln¹ rzecz¹, mog¹ w odpowiednich terminach domagaæ siê informacji o tym, jak zarz¹dza siê rzecz¹ wspóln¹, w tym o przychodach i wydatkach zwi¹zanych z jej u¿ytkowaniem. 
+
+Art. 208 brzmi: ""Ka¿dy ze wspó³w³aœcicieli niesprawuj¹cych zarz¹du rzecz¹ wspóln¹ mo¿e ¿¹daæ w odpowiednich terminach rachunku z zarz¹du."" 
+
+W zwi¹zku z tym, odpowiedŸ a) jest niepoprawna, poniewa¿ nie ka¿dy wspó³w³aœciciel jest zobowi¹zany do ¿¹dania rachunku, a odpowiedŸ c) jest równie¿ b³êdna, poniewa¿ wspó³w³aœciciele maj¹ prawo do ¿¹dania rachunku.
+
+**Podstawa prawna:**
+- Kodeks cywilny, art. 208.",True,True,[208]
+17,"Question: Zgodnie z Kodeksem cywilnym, wierzyciel:
+    
+            a) mo¿e ¿¹daæ osobistego œwiadczenia d³u¿nika tylko wtedy, gdy to wynika z zasad wspó³¿ycia spo³ecznego i ustalonych zwyczajów
+            b) mo¿e ¿¹daæ osobistego œwiadczenia d³u¿nika tylko wtedy, gdy to wynika z treœci czynnoœci prawnej, z ustawy albo z w³aœciwoœci œwiadczenia
+            c) nigdy nie mo¿e ¿¹daæ osobistego œwiadczenia d³u¿nika.
+            ",B,art. 356 § 1 k.c. ,"OdpowiedŸ: **b) mo¿e ¿¹daæ osobistego œwiadczenia d³u¿nika tylko wtedy, gdy to wynika z treœci czynnoœci prawnej, z ustawy albo z w³aœciwoœci œwiadczenia.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 356 § 1 Kodeksu cywilnego, wierzyciel ma prawo ¿¹daæ osobistego œwiadczenia d³u¿nika tylko w sytuacjach, gdy wynika to z treœci czynnoœci prawnej, z przepisów ustawy lub z w³aœciwoœci œwiadczenia. Oznacza to, ¿e nie jest to prawo absolutne, a jego realizacja zale¿y od konkretnych okolicznoœci i regulacji prawnych. W praktyce oznacza to, ¿e wierzyciel nie mo¿e ¿¹daæ osobistego wykonania zobowi¹zania, jeœli nie ma ku temu podstaw prawnych.
+
+**Podstawa prawna:**
+- Kodeks cywilny, Art. 356 § 1: ""Wierzyciel mo¿e ¿¹daæ osobistego œwiadczenia d³u¿nika tylko wtedy, gdy to wynika z treœci czynnoœci prawnej, z ustawy albo z w³aœciwoœci œwiadczenia.""",True,True,[356]
+18,"Question: Zgodnie z Kodeksem cywilnym, zobowi¹zanie jest solidarne, je¿eli to wynika:
+    
+            a) z ustalonych zwyczajów
+            b) z ustawy lub z czynnoœci prawnej
+            c) z zasad wspó³¿ycia spo³ecznego.
+            ",B,art. 369 k.c.,"OdpowiedŸ: **b) z ustawy lub z czynnoœci prawnej**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, zobowi¹zanie jest solidarne, je¿eli wynika to z ustawy lub z czynnoœci prawnej. Oznacza to, ¿e solidarnoœæ d³u¿ników lub wierzycieli mo¿e byæ ustanowiona na podstawie przepisów prawa (ustawy) lub na mocy umowy (czynnoœci prawnej) zawartej miêdzy stronami. 
+
+W szczególnoœci, artyku³ 369 Kodeksu cywilnego stanowi: ""Zobowi¹zanie jest solidarne, je¿eli to wynika z ustawy lub z czynnoœci prawnej."" To oznacza, ¿e zarówno przepisy ustawowe, jak i umowy mog¹ wprowadzaæ solidarnoœæ w zobowi¹zaniach.
+
+**Odniesienie do przepisów:**
+- Art. 369 Kodeksu cywilnego: ""Zobowi¹zanie jest solidarne, je¿eli to wynika z ustawy lub z czynnoœci prawnej.""",True,True,[369]
+19,"Question: Zgodnie z Kodeksem cywilnym, zw³oka d³u¿nika, jak równie¿ przerwanie lub zawieszenie biegu przedawnienia wzglêdem jednego z wierzycieli solidarnych:
+    
+            a) ma skutek tak¿e wzglêdem wspó³wierzycieli
+            b) nie ma skutku wzglêdem wspó³wierzycieli
+            c) ma skutek tylko wzglêdem tego jednego wierzyciela.
+            ",A,art. 377 k.c.,"OdpowiedŸ: **a) ma skutek tak¿e wzglêdem wspó³wierzycieli.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 377 Kodeksu cywilnego, zw³oka d³u¿nika, jak równie¿ przerwanie lub zawieszenie biegu przedawnienia wzglêdem jednego z wierzycieli solidarnych, ma skutek tak¿e wzglêdem wspó³wierzycieli. Oznacza to, ¿e jeœli jeden z wierzycieli solidarnych doœwiadczy zw³oki w spe³nieniu œwiadczenia przez d³u¿nika, to ta sama sytuacja dotyczy równie¿ pozosta³ych wierzycieli solidarnych. W praktyce oznacza to, ¿e wszyscy wierzyciele solidarni s¹ traktowani jako jedna grupa, a dzia³ania dotycz¹ce jednego z nich maj¹ wp³yw na pozosta³ych.
+
+**Odniesienie do przepisów:**
+- Art. 377 Kodeksu cywilnego: ""Zw³oka d³u¿nika, jak równie¿ przerwanie lub zawieszenie biegu przedawnienia wzglêdem jednego z wierzycieli solidarnych ma skutek tak¿e wzglêdem wspó³wierzycieli.""",True,True,[377]
+20,"Question: Zgodnie z Kodeksem cywilnym, je¿eli jest kilku wierzycieli uprawnionych do œwiadczenia niepodzielnego:
+    
+            a) ka¿dy z nich mo¿e ¿¹daæ spe³nienia odpowiedniej czêœci œwiadczenia
+            b) ka¿dy z nich mo¿e ¿¹daæ spe³nienia ca³ego œwiadczenia
+            c) ¿aden z nich nie mo¿e ¿¹daæ spe³nienia ca³ego œwiadczenia.
+            ",B,art. 381 § 1 k.c.,"OdpowiedŸ: **b) ka¿dy z nich mo¿e ¿¹daæ spe³nienia ca³ego œwiadczenia.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 381 Kodeksu cywilnego, je¿eli jest kilku wierzycieli uprawnionych do œwiadczenia niepodzielnego, ka¿dy z nich ma prawo ¿¹daæ spe³nienia ca³ego œwiadczenia. Oznacza to, ¿e ka¿dy wierzyciel mo¿e domagaæ siê od d³u¿nika wykonania ca³ego zobowi¹zania, a nie tylko jego czêœci. W przypadku sprzeciwu chocia¿by jednego z wierzycieli, d³u¿nik jest zobowi¹zany do spe³nienia œwiadczenia wszystkim wierzycielom ³¹cznie lub z³o¿enia przedmiotu œwiadczenia do depozytu s¹dowego.
+
+**Odniesienie do przepisów:**
+- Art. 381 Kodeksu cywilnego:
+  - § 1. ""Je¿eli jest kilku wierzycieli uprawnionych do œwiadczenia niepodzielnego, ka¿dy z nich mo¿e ¿¹daæ spe³nienia ca³ego œwiadczenia.""
+  - § 2. ""Jednak¿e w razie sprzeciwu chocia¿by jednego z wierzycieli, d³u¿nik obowi¹zany jest œwiadczyæ wszystkim wierzycielom ³¹cznie albo z³o¿yæ przedmiot œwiadczenia do depozytu s¹dowego."" 
+
+To jasno wskazuje, ¿e odpowiedŸ b) jest poprawna.",True,True,[381]
+21,"Question: Zgodnie z Kodeksem cywilnym, w razie sprzecznoœci treœci umowy z wzorcem umowy:
+    
+            a) umowa staje siê niewa¿na
+            b) strony s¹ zwi¹zane umow¹
+            c) strony s¹ zwi¹zane wzorcem umowy
+            ",B,art. 385 § 1 k.c.,"OdpowiedŸ: **b) strony s¹ zwi¹zane umow¹**
+
+**Wyjaœnienie:**
+Zgodnie z art. 385 § 1 Kodeksu cywilnego, w przypadku sprzecznoœci treœci umowy z wzorcem umowy, strony s¹ zwi¹zane umow¹. Oznacza to, ¿e mimo istnienia sprzecznoœci, umowa pozostaje w mocy i wi¹¿e strony, a wzorzec umowy nie ma mocy wi¹¿¹cej w zakresie, w jakim jest sprzeczny z postanowieniami umowy. Wzorzec umowy powinien byæ sformu³owany w sposób jednoznaczny i zrozumia³y, a w przypadku niejasnoœci, postanowienia s¹ interpretowane na korzyœæ konsumenta.
+
+**Odniesienie do przepisów:**
+- Art. 385 Kodeksu cywilnego:
+  - § 1. W razie sprzecznoœci treœci umowy z wzorcem umowy strony s¹ zwi¹zane umow¹.
+  - § 2. Wzorzec umowy powinien byæ sformu³owany jednoznacznie i w sposób zrozumia³y. Postanowienia niejednoznaczne t³umaczy siê na korzyœæ konsumenta.",True,True,[385]
+22,"Question: Zgodnie z Kodeksem cywilnym, gdy dwie osoby s¹ jednoczeœnie wzglêdem siebie d³u¿nikami i wierzycielami, ka¿da z nich mo¿e potr¹ciæ swoj¹ wierzytelnoœæ z wierzytelnoœci drugiej strony, je¿eli przedmiotem obu wierzytelnoœci s¹ pieni¹dze lub rzeczy tej samej jakoœci oznaczone tylko co do gatunku, a obie wierzytelnoœci s¹ wymagalne i mog¹ byæ dochodzone przed s¹dem lub przed innym organem pañstwowym; wskutek potr¹cenia obie wierzytelnoœci:
+    
+            a) umarzaj¹ siê nawzajem do wysokoœci wierzytelnoœci ni¿szej
+            b) umarzaj¹ siê nawzajem do wysokoœci wierzytelnoœci wy¿szej
+            c) umarzaj¹ siê najwy¿ej do po³owy wartoœci ka¿dej z tych wierzytelnoœci.
+            ",A,art. 498 § 2 k.c.,"OdpowiedŸ: **a) umarzaj¹ siê nawzajem do wysokoœci wierzytelnoœci ni¿szej.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 498 Kodeksu cywilnego, gdy dwie osoby s¹ jednoczeœnie d³u¿nikami i wierzycielami, ka¿da z nich ma prawo potr¹ciæ swoj¹ wierzytelnoœæ z wierzytelnoœci¹ drugiej strony, pod warunkiem, ¿e obie wierzytelnoœci s¹ wymagalne i dotycz¹ pieniêdzy lub rzeczy tej samej jakoœci. W wyniku potr¹cenia obie wierzytelnoœci umarzaj¹ siê nawzajem do wysokoœci wierzytelnoœci ni¿szej. Oznacza to, ¿e jeœli jedna wierzytelnoœæ jest wy¿sza od drugiej, to tylko ta ni¿sza zostanie umorzona, a pozosta³a czêœæ wy¿szej wierzytelnoœci pozostaje w mocy.
+
+**Odniesienie do przepisów:**
+- Art. 498 Kodeksu cywilnego:
+  - § 1. ""Gdy dwie osoby s¹ jednoczeœnie wzglêdem siebie d³u¿nikami i wierzycielami, ka¿da z nich mo¿e potr¹ciæ swoj¹ wierzytelnoœæ z wierzytelnoœci drugiej strony, je¿eli przedmiotem obu wierzytelnoœci s¹ pieni¹dze lub rzeczy tej samej jakoœci oznaczone tylko co do gatunku, a obie wierzytelnoœci s¹ wymagalne i mog¹ byæ dochodzone przed s¹dem lub przed innym organem pañstwowym.""
+  - § 2. ""Wskutek potr¹cenia obie wierzytelnoœci umarzaj¹ siê nawzajem do wysokoœci wierzytelnoœci ni¿szej.""",True,True,[498]
+23,"Question: Zgodnie z Kodeksem cywilnym, na skutek odnowienia zobowi¹zanie dotychczasowe:
+    
+            a) wygasa
+            b) staje siê niewa¿ne
+            c) nie wygasa, ale staje siê zobowi¹zaniem naturalnym.
+            ",A,art. 506 § 1 k.c.,"OdpowiedŸ: **a) wygasa**
+
+**Wyjaœnienie:**
+Zgodnie z art. 506 Kodeksu cywilnego, odnowienie zobowi¹zania polega na tym, ¿e d³u¿nik, za zgod¹ wierzyciela, zobowi¹zuje siê do spe³nienia innego œwiadczenia (lub tego samego, ale na innej podstawie prawnej) w celu umorzenia dotychczasowego zobowi¹zania. W wyniku tego dzia³ania, zobowi¹zanie dotychczasowe wygasa. 
+
+Art. 506 Kodeksu cywilnego brzmi:
+„§ 1. Je¿eli w celu umorzenia zobowi¹zania d³u¿nik zobowi¹zuje siê za zgod¹ wierzyciela spe³niæ inne œwiadczenie albo nawet to samo œwiadczenie, lecz z innej podstawy prawnej, zobowi¹zanie dotychczasowe wygasa (odnowienie).”
+
+Zatem odpowiedŸ a) jest poprawna, poniewa¿ odnowienie zobowi¹zania skutkuje wygaœniêciem dotychczasowego zobowi¹zania. Odpowiedzi b) i c) s¹ nieprawid³owe, poniewa¿ odnowienie nie prowadzi do niewa¿noœci zobowi¹zania ani do jego przekszta³cenia w zobowi¹zanie naturalne.",True,True,[506]
+24,"Question: Zgodnie z Kodeksem cywilnym, je¿eli termin zwrotu po¿yczki nie jest oznaczony, d³u¿nik obowi¹zany jest zwróciæ po¿yczkê:
+    
+            a) w ci¹gu szeœciu tygodni po wydaniu przedmiotu po¿yczki
+            b) w ci¹gu szeœciu tygodni po wypowiedzeniu przez daj¹cego po¿yczkê
+            c) w ci¹gu trzech miesiêcy po wypowiedzeniu przez daj¹cego po¿yczkê.
+            ",B,art. 723 k.c.,"OdpowiedŸ: **b) w ci¹gu szeœciu tygodni po wypowiedzeniu przez daj¹cego po¿yczkê.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 723 Kodeksu cywilnego, je¿eli termin zwrotu po¿yczki nie jest oznaczony, d³u¿nik jest zobowi¹zany do zwrotu po¿yczki w ci¹gu szeœciu tygodni po wypowiedzeniu przez daj¹cego po¿yczkê. Oznacza to, ¿e w sytuacji, gdy umowa po¿yczki nie okreœla konkretnego terminu zwrotu, daj¹cy po¿yczkê ma prawo wypowiedzieæ umowê, a d³u¿nik ma obowi¹zek zwróciæ po¿yczkê w wyznaczonym terminie.
+
+**Odniesienie do przepisów:**
+- Art. 723 Kodeksu cywilnego: ""Je¿eli termin zwrotu po¿yczki nie jest oznaczony, d³u¿nik obowi¹zany jest zwróciæ po¿yczkê w ci¹gu szeœciu tygodni po wypowiedzeniu przez daj¹cego po¿yczkê.""",True,True,[723]
+25,"Question: Zgodnie z Kodeksem cywilnym, je¿eli wykonanie zlecenia wymaga wydatków, daj¹cy zlecenie:
+    
+            a) zawsze przekazuje przyjmuj¹cemu zlecenie odpowiedni¹ zaliczkê
+            b) powinien na ¿¹danie przyjmuj¹cego zlecenie udzieliæ mu odpowiedniej zaliczki
+            c) zawsze obowi¹zany jest udzieliæ przyjmuj¹cemu zlecenie zaliczki nie ni¿szej ni¿ 20% wartoœci zlecenia.
+            ",B,art. 743 k.c.,"Poprawna odpowiedŸ to **b) powinien na ¿¹danie przyjmuj¹cego zlecenie udzieliæ mu odpowiedniej zaliczki**.
+
+### Wyjaœnienie:
+Zgodnie z art. 743 Kodeksu cywilnego, je¿eli wykonanie zlecenia wymaga wydatków, daj¹cy zlecenie jest zobowi¹zany na ¿¹danie przyjmuj¹cego zlecenie udzieliæ mu odpowiedniej zaliczki. Oznacza to, ¿e nie ma obowi¹zku przekazywania zaliczki automatycznie (jak sugeruje odpowiedŸ a), ani nie ma okreœlonego procentu wartoœci zlecenia, który musia³by byæ przekazany (jak sugeruje odpowiedŸ c). Wymóg udzielenia zaliczki jest uzale¿niony od ¿¹dania przyjmuj¹cego zlecenie.
+
+### Odpowiedni przepis:
+- **Art. 743 Kodeksu cywilnego**: ""Je¿eli wykonanie zlecenia wymaga wydatków, daj¹cy zlecenie powinien na ¿¹danie przyjmuj¹cego zlecenie udzieliæ mu odpowiedniej zaliczki.""",True,True,[743]
+26,"Question: Zgodnie z Kodeksem cywilnym, z wa¿nych powodów ka¿dy wspólnik spó³ki cywilnej mo¿e ¿¹daæ:
+    
+            a) rozwi¹zania spó³ki przez s¹d
+            b) og³oszenia przez s¹d upad³oœci spó³ki
+            c) wszczêcia wobec spó³ki postêpowania sanacyjnego
+            ",A,art. 874 § 1 k.c.,"OdpowiedŸ: **a) rozwi¹zania spó³ki przez s¹d**
+
+**Wyjaœnienie:**
+Zgodnie z art. 874 § 1 Kodeksu cywilnego, ka¿dy wspólnik spó³ki cywilnej ma prawo ¿¹daæ rozwi¹zania spó³ki przez s¹d z wa¿nych powodów. Warto zauwa¿yæ, ¿e przepis ten wyraŸnie wskazuje na mo¿liwoœæ wyst¹pienia z takim ¿¹daniem, co oznacza, ¿e wspólnik nie musi czekaæ na zgodê pozosta³ych wspólników, jeœli istniej¹ uzasadnione powody do rozwi¹zania spó³ki.
+
+Przyk³ady wa¿nych powodów mog¹ obejmowaæ sytuacje, w których wspó³praca miêdzy wspólnikami sta³a siê niemo¿liwa lub gdy jeden ze wspólników nie wywi¹zuje siê ze swoich obowi¹zków, co wp³ywa na funkcjonowanie spó³ki.
+
+**Podstawa prawna:**
+- Kodeks cywilny, Art. 874 § 1: ""Z wa¿nych powodów ka¿dy wspólnik mo¿e ¿¹daæ rozwi¹zania spó³ki przez s¹d.""",True,True,[874]
+27,"Question: Zgodnie z Kodeksem cywilnym, przez umowê porêczenia porêczyciel zobowi¹zuje siê wzglêdem wierzyciela wykonaæ zobowi¹zanie na wypadek, gdyby d³u¿nik zobowi¹zania nie wykona³; oœwiadczenie porêczyciela powinno byæ z³o¿one:
+    
+            a) na piœmie pod rygorem niewa¿noœci
+            b) w formie aktu notarialnego pod rygorem niewa¿noœci
+            c) na piœmie wy³¹cznie dla celów dowodowych.
+            ",A,art. 876 k.c.,"OdpowiedŸ: **a) na piœmie pod rygorem niewa¿noœci**
+
+**Wyjaœnienie:**
+Zgodnie z art. 876 § 2 Kodeksu cywilnego, oœwiadczenie porêczyciela powinno byæ z³o¿one na piœmie pod rygorem niewa¿noœci. Oznacza to, ¿e jeœli porêczenie nie zostanie sporz¹dzone w formie pisemnej, bêdzie ono niewa¿ne. Wybór odpowiedzi a) jest zatem poprawny, poniewa¿ odnosi siê bezpoœrednio do wymogu formalnego dotycz¹cego umowy porêczenia.
+
+**Przypis do przepisów:**
+- Art. 876 Kodeksu cywilnego: ""Przez umowê porêczenia porêczyciel zobowi¹zuje siê wzglêdem wierzyciela wykonaæ zobowi¹zanie na wypadek, gdyby d³u¿nik zobowi¹zania nie wykona³. Oœwiadczenie porêczyciela powinno byæ pod rygorem niewa¿noœci z³o¿one na piœmie.""",True,True,[876]
+28,"Question: Zgodnie z Kodeksem cywilnym, mo¿na porêczyæ:
+    
+            a) za d³ug przysz³y w wysokoœci nieoznaczonej
+            b) za d³ug przysz³y do wysokoœci z góry oznaczonej
+            c) wy³¹cznie za d³ug istniej¹cy w chwili zawarcia umowy porêczenia.
+            ",B,art. 878 § 1 k.c.,"Poprawna odpowiedŸ to **b) za d³ug przysz³y do wysokoœci z góry oznaczonej**.
+
+### Wyjaœnienie:
+Zgodnie z art. 878 Kodeksu cywilnego, porêczenie za d³ug przysz³y jest dopuszczalne, ale tylko do wysokoœci z góry oznaczonej. Oznacza to, ¿e porêczyciel mo¿e zobowi¹zaæ siê do pokrycia d³ugu, który jeszcze nie powsta³, ale jego maksymalna wysokoœæ musi byæ okreœlona w umowie porêczenia. 
+
+Art. 878 § 1 brzmi:
+> ""Mo¿na porêczyæ za d³ug przysz³y do wysokoœci z góry oznaczonej.""
+
+OdpowiedŸ a) jest niepoprawna, poniewa¿ porêczenie za d³ug przysz³y w wysokoœci nieoznaczonej jest zabronione. OdpowiedŸ c) równie¿ jest b³êdna, poniewa¿ porêczenie za d³ug istniej¹cy jest tylko jednym z mo¿liwych przypadków, a nie jedynym.
+
+### Podsumowanie:
+Porêczenie za d³ug przysz³y jest mo¿liwe, ale musi byæ ograniczone do okreœlonej kwoty, co jest zgodne z przepisami Kodeksu cywilnego.",True,True,[878]
+29,"Question: Zgodnie z Kodeksem cywilnym, uznania spadkobiercy za niegodnego:
+    
+            a) mo¿e ¿¹daæ ka¿dy, kto ma w tym interes
+            b) mog¹ ¿¹daæ wy³¹cznie pozostali spadkobiercy
+            c) mog¹ ¿¹daæ wy³¹cznie wierzyciele spadkodawcy.
+            ",A,art. 929 k.c.,"OdpowiedŸ: **a) mo¿e ¿¹daæ ka¿dy, kto ma w tym interes.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, uznanie spadkobiercy za niegodnego dziedziczenia mo¿e ¿¹daæ ka¿dy, kto ma w tym interes. Zgodnie z art. 928 Kodeksu cywilnego, ""spadkobierca, który dopuœci³ siê wzglêdem spadkodawcy ra¿¹cej niewdziêcznoœci, mo¿e byæ uznany za niegodnego dziedziczenia"". W praktyce oznacza to, ¿e ka¿dy, kto ma interes w tym, aby spadkobierca zosta³ uznany za niegodnego, mo¿e wyst¹piæ z takim ¿¹daniem do s¹du.
+
+**Odniesienie do przepisów:**
+- Art. 928 Kodeksu cywilnego: ""Spadkobierca, który dopuœci³ siê wzglêdem spadkodawcy ra¿¹cej niewdziêcznoœci, mo¿e byæ uznany za niegodnego dziedziczenia."" 
+
+W zwi¹zku z tym, odpowiedŸ a) jest poprawna, poniewa¿ ka¿dy, kto ma interes w uznaniu spadkobiercy za niegodnego, mo¿e z³o¿yæ odpowiedni wniosek.",True,False,[928]
+30,"Question: Zgodnie z Kodeksem cywilnym, testament mo¿e zawieraæ rozrz¹dzenia:
+    
+            a) kilku osób, o ile zmar³y jednoczeœnie
+            b) obojga ma³¿onków
+            c) tylko jednego spadkodawcy.
+            ",C,art. 942 k.c.,"OdpowiedŸ: **c) tylko jednego spadkodawcy.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, testament jest jednostronnym oœwiadczeniem woli, które mo¿e byæ sporz¹dzone przez jednego spadkodawcê. Artyku³ 949 Kodeksu cywilnego stanowi, ¿e testament jest aktem, w którym osoba (spadkodawca) wyra¿a swoj¹ wolê co do rozporz¹dzenia swoim maj¹tkiem na wypadek œmierci. Nie ma mo¿liwoœci, aby testament zawiera³ rozrz¹dzenia kilku osób, nawet jeœli zmar³y jednoczeœnie, ani te¿ nie mo¿e byæ sporz¹dzony przez oboje ma³¿onków w jednym dokumencie jako testament wspólny.
+
+**Odpowiednie przepisy:**
+- Art. 949 Kodeksu cywilnego: ""Testament jest jednostronnym oœwiadczeniem woli, które wyra¿a wolê spadkodawcy co do rozporz¹dzenia jego maj¹tkiem na wypadek œmierci."" 
+
+Z tego wynika, ¿e odpowiedŸ c) jest jedyn¹ poprawn¹, poniewa¿ testament mo¿e byæ sporz¹dzony tylko przez jednego spadkodawcê.",True,False,[949]
+31,"Question: Zgodnie z Kodeksem cywilnym, przedmiotem zapisu windykacyjnego mo¿e byæ:
+    
+            a) rzecz oznaczona tylko co do gatunku
+            b) ogó³ praw i obowi¹zków wspólnika spó³ki kapita³owej
+            c) rzecz oznaczona co do to¿samoœci.
+            ",C,art. 9811 § 2 pkt 1 k.c.,"OdpowiedŸ: **c) rzecz oznaczona co do to¿samoœci.**
+
+**Wyjaœnienie:**
+Zapis windykacyjny, zgodnie z przepisami Kodeksu cywilnego, mo¿e dotyczyæ rzeczy oznaczonej co do to¿samoœci. Oznacza to, ¿e przedmiotem zapisu windykacyjnego mo¿e byæ konkretna rzecz, która jest indywidualnie okreœlona, a nie tylko okreœlona co do gatunku. Przyk³adem rzeczy oznaczonej co do to¿samoœci mo¿e byæ np. konkretna sztuka dzie³a sztuki, samochód o okreœlonym numerze rejestracyjnym itp.
+
+Zgodnie z art. 981 Kodeksu cywilnego, zapis windykacyjny mo¿e dotyczyæ rzeczy oznaczonej co do to¿samoœci, co potwierdza, ¿e przedmiotem takiego zapisu nie mog¹ byæ rzeczy oznaczone tylko co do gatunku, ani ogó³ praw i obowi¹zków.
+
+**Odniesienie do przepisów:**
+- Art. 981 Kodeksu cywilnego: ""Zapis windykacyjny mo¿e dotyczyæ tylko rzeczy oznaczonej co do to¿samoœci.""",True,True,[981]
+32,"Question: Zgodnie z Kodeksem cywilnym, je¿eli osoba powo³ana jako wykonawca testamentu nie chce tego obowi¹zku przyj¹æ, sk³ada odpowiednie oœwiadczenie:
+    
+            a) przed s¹dem albo notariuszem
+            b) przed kierownikiem urzêdu stanu cywilnego
+            c) wobec wójta (burmistrza, prezydenta miasta), starosty, marsza³ka województwa, sekretarza powiatu albo gminy.
+            ",A,art. 987 k.c.,"OdpowiedŸ: **a) przed s¹dem albo notariuszem**
+
+**Wyjaœnienie:**
+Zgodnie z przepisami Kodeksu cywilnego, osoba powo³ana jako wykonawca testamentu, która nie chce przyj¹æ tego obowi¹zku, musi z³o¿yæ odpowiednie oœwiadczenie. Oœwiadczenie to powinno byæ z³o¿one przed s¹dem albo notariuszem. Zgodnie z art. 986 Kodeksu cywilnego, wykonawca testamentu mo¿e zrzec siê przyjêcia tego obowi¹zku w formie oœwiadczenia z³o¿onego przed s¹dem lub notariuszem. 
+
+**Przypis do przepisów:**
+- Art. 986 Kodeksu cywilnego: ""Wykonawca testamentu mo¿e zrzec siê przyjêcia tego obowi¹zku w drodze oœwiadczenia z³o¿onego przed s¹dem albo notariuszem."" 
+
+W zwi¹zku z tym, odpowiedŸ a) jest poprawna, poniewa¿ wskazuje na w³aœciwe organy, przed którymi nale¿y z³o¿yæ oœwiadczenie o odmowie przyjêcia obowi¹zków wykonawcy testamentu.",True,False,[986]
+33,"Question: Zgodnie z Kodeksem cywilnym, do chwili przyjêcia spadku spadkobierca:
+    
+            a) ponosi odpowiedzialnoœæ za d³ugi spadkowe tylko ze spadku
+            b) nie ponosi odpowiedzialnoœci za d³ugi spadkowe
+            c) ponosi odpowiedzialnoœæ za d³ugi spadkowe z ca³ego swego maj¹tku.
+            ",A,art. 1030 k.c.,"OdpowiedŸ: **a) ponosi odpowiedzialnoœæ za d³ugi spadkowe tylko ze spadku.**
+
+**Wyjaœnienie:**
+Zgodnie z polskim prawem spadkowym, spadkobierca odpowiada za d³ugi spadkowe tylko do wysokoœci wartoœci nabytego spadku. Oznacza to, ¿e nie ponosi on odpowiedzialnoœci za d³ugi z ca³ego swojego maj¹tku, lecz tylko w granicach wartoœci spadku, który przyj¹³. W przypadku, gdy wartoœæ d³ugów przekracza wartoœæ spadku, spadkobierca nie jest zobowi¹zany do pokrywania ró¿nicy z w³asnych œrodków.
+
+Zasady te reguluje Kodeks cywilny w artykule 1031, który stanowi, ¿e spadkobierca odpowiada za d³ugi spadkowe do wysokoœci wartoœci spadku, a tak¿e artyku³ 1032, który mówi o tym, ¿e spadkobierca mo¿e z³o¿yæ oœwiadczenie o przyjêciu spadku z dobrodziejstwem inwentarza, co dodatkowo ogranicza jego odpowiedzialnoœæ.
+
+**Odpowiednie przepisy:**
+- **Art. 1031 Kodeksu cywilnego:** ""Spadkobierca odpowiada za d³ugi spadkowe do wysokoœci wartoœci nabytego spadku.""
+- **Art. 1032 Kodeksu cywilnego:** ""Spadkobierca, który przyj¹³ spadek z dobrodziejstwem inwentarza, odpowiada za d³ugi spadkowe tylko do wysokoœci wartoœci spadku.""",True,False,"[1031, 1032]"
+34,"Question: Zgodnie z Kodeksem cywilnym, do chwili dzia³u spadku spadkobiercy:
+    
+            a) nie ponosz¹ odpowiedzialnoœci za d³ugi spadkowe
+            b) ponosz¹ odpowiedzialnoœæ za d³ugi spadkowe w stosunku do wielkoœci udzia³ów
+            c) ponosz¹ solidarn¹ odpowiedzialnoœæ za d³ugi spadkowe.
+            ",C,art. 1034 § 1 k.c.,"OdpowiedŸ: **a) nie ponosz¹ odpowiedzialnoœci za d³ugi spadkowe.**
+
+**Wyjaœnienie:**
+Zgodnie z polskim prawem spadkowym, spadkobiercy nie ponosz¹ odpowiedzialnoœci za d³ugi spadkowe do chwili dzia³u spadku. Odpowiedzialnoœæ za d³ugi spadkowe spadkobierców jest ograniczona do wartoœci odziedziczonego maj¹tku. Oznacza to, ¿e spadkobiercy odpowiadaj¹ za d³ugi spadkowe tylko do wysokoœci wartoœci spadku, a nie ca³ym swoim maj¹tkiem. 
+
+Zgodnie z art. 1031 Kodeksu cywilnego, spadkobiercy mog¹ przyj¹æ spadek w ca³oœci, w czêœci lub go odrzuciæ. W przypadku przyjêcia spadku, odpowiadaj¹ za d³ugi spadkowe, ale tylko do wartoœci spadku, co oznacza, ¿e nie ponosz¹ odpowiedzialnoœci za d³ugi, które przekraczaj¹ wartoœæ odziedziczonego maj¹tku.
+
+**Odpowiednie przepisy:**
+- Art. 1031 Kodeksu cywilnego: ""Spadkobierca, który przyj¹³ spadek, odpowiada za d³ugi spadkowe do wysokoœci wartoœci spadku.""",False,False,[1031]
+29,"Question: Zgodnie z Kodeksem cywilnym, nie mo¿na czyniæ ze swego prawa u¿ytku, który by by³ sprzeczny ze spo³eczno-gospodarczym przeznaczeniem tego prawa lub z zasadami wspó³¿ycia spo³ecznego; takie dzia³anie lub zaniechanie uprawnionego:
+    
+            a) jest jednak¿e uwa¿ane za wykonywanie prawa i korzysta z ochrony
+            b) nie jest uwa¿ane za wykonywanie prawa i nie korzysta z ochrony
+            c) nie jest uwa¿ane za wykonywanie prawa, jednak¿e korzysta z ochrony
+            ",B,art. 5 k.c.,"OdpowiedŸ: **b) nie jest uwa¿ane za wykonywanie prawa i nie korzysta z ochrony.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 5 Kodeksu cywilnego, nie mo¿na czyniæ ze swojego prawa u¿ytku, który by³by sprzeczny ze spo³eczno-gospodarczym przeznaczeniem tego prawa lub z zasadami wspó³¿ycia spo³ecznego. Dzia³anie lub zaniechanie uprawnionego, które jest sprzeczne z tymi zasadami, nie jest uwa¿ane za wykonywanie prawa i nie korzysta z ochrony prawnej. Oznacza to, ¿e osoba, która dzia³a w sposób sprzeczny z tymi zasadami, nie mo¿e liczyæ na ochronê swoich dzia³añ w ramach prawa cywilnego.
+
+**Odniesienie do przepisów:**
+- Art. 5 Kodeksu cywilnego: ""Nie mo¿na czyniæ ze swego prawa u¿ytku, który by by³ sprzeczny ze spo³eczno-gospodarczym przeznaczeniem tego prawa lub z zasadami wspó³¿ycia spo³ecznego. Takie dzia³anie lub zaniechanie uprawnionego nie jest uwa¿ane za wykonywanie prawa i nie korzysta z ochrony.""",True,True,[5]
+30,"Question: Zgodnie z Kodeksem cywilnym, ograniczon¹ zdolnoœæ do czynnoœci prawnych maj¹:
+    
+            a) osoby ubezw³asnowolnione ca³kowicie
+            b) ma³oletni, którzy ukoñczyli lat dziesiêæ, oraz osoby ubezw³asnowolnione ca³kowicie
+            c) ma³oletni, którzy ukoñczyli lat trzynaœcie, je¿eli nie zostali ubezw³asnowolnieni ca³kowicie, oraz osoby ubezw³asnowolnione czêœciowo
+            ",C,art. 15 w zw. z art. 13 § 1 k.c.,"OdpowiedŸ: **c) ma³oletni, którzy ukoñczyli lat trzynaœcie, je¿eli nie zostali ubezw³asnowolnieni ca³kowicie, oraz osoby ubezw³asnowolnione czêœciowo.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, osoby maj¹ce ograniczon¹ zdolnoœæ do czynnoœci prawnych to ma³oletni, którzy ukoñczyli lat trzynaœcie, oraz osoby ubezw³asnowolnione czêœciowo. Oznacza to, ¿e ma³oletni, którzy osi¹gnêli wiek trzynastu lat, mog¹ podejmowaæ pewne czynnoœci prawne, ale w ograniczonym zakresie, a ich dzia³ania mog¹ wymagaæ zgody przedstawiciela ustawowego. Osoby ubezw³asnowolnione czêœciowo równie¿ maj¹ ograniczon¹ zdolnoœæ do czynnoœci prawnych, co oznacza, ¿e mog¹ dokonywaæ czynnoœci prawnych, ale równie¿ w pewnych granicach i z wymogiem zgody przedstawiciela.
+
+Odpowiednie przepisy Kodeksu cywilnego to:
+- **Art. 15**: ""Ograniczon¹ zdolnoœæ do czynnoœci prawnych maj¹ ma³oletni, którzy ukoñczyli lat trzynaœcie, oraz osoby ubezw³asnowolnione czêœciowo.""
+- **Art. 12**: ""Nie maj¹ zdolnoœci do czynnoœci prawnych osoby, które nie ukoñczy³y lat trzynastu, oraz osoby ubezw³asnowolnione ca³kowicie.""
+
+W zwi¹zku z tym, odpowiedŸ c) jest poprawna, poniewa¿ odnosi siê do osób, które rzeczywiœcie maj¹ ograniczon¹ zdolnoœæ do czynnoœci prawnych zgodnie z przepisami Kodeksu cywilnego.",True,True,"[15, 12]"
+31,"Question: Zgodnie z Kodeksem cywilnym, prokura nie wygasa:
+    
+            a) wskutek wykreœlenia przedsiêbiorcy z Centralnej Ewidencji i Informacji o Dzia³alnoœci Gospodarczej albo z rejestru przedsiêbiorców Krajowego Rejestru S¹dowego
+            b) ze œmierci¹ prokurenta
+            c) w razie utraty przez przedsiêbiorcê zdolnoœci do czynnoœci prawnych
+            ",C,art. 1097 § 4 k.c.,"OdpowiedŸ: **c) w razie utraty przez przedsiêbiorcê zdolnoœci do czynnoœci prawnych**
+
+**Wyjaœnienie:**
+Zgodnie z art. 1097 § 4 Kodeksu cywilnego, prokura nie wygasa w przypadku utraty przez przedsiêbiorcê zdolnoœci do czynnoœci prawnych. Oznacza to, ¿e nawet jeœli przedsiêbiorca traci zdolnoœæ do dzia³ania, prokura pozostaje w mocy, co jest istotne dla zapewnienia ci¹g³oœci dzia³ania przedsiêbiorstwa. Natomiast prokura wygasa w innych przypadkach, takich jak œmieræ prokurenta (art. 1097 § 3) czy wykreœlenie przedsiêbiorcy z rejestru (art. 1097 § 2).
+
+**Podstawa prawna:**
+- Art. 1097 Kodeksu cywilnego:
+  - § 2: ""Prokura wygasa wskutek wykreœlenia przedsiêbiorcy z Centralnej Ewidencji i Informacji o Dzia³alnoœci Gospodarczej albo z rejestru przedsiêbiorców Krajowego Rejestru S¹dowego, a tak¿e og³oszenia upad³oœci, otwarcia likwidacji oraz przekszta³cenia przedsiêbiorcy.""
+  - § 3: ""Prokura wygasa ze œmierci¹ prokurenta.""
+  - § 4: ""Utrata przez przedsiêbiorcê zdolnoœci do czynnoœci prawnych nie powoduje wygaœniêcia prokury.""",True,True,[1097]
+32,"Question: Zgodnie z Kodeksem cywilnym, po up³ywie terminu przedawnienia roszczenia maj¹tkowego biegn¹cego przeciwko osobie niebêd¹cej konsumentem:
+    
+            a) roszczenie to wygasa
+            b) osoba ta mo¿e uchyliæ siê od jego zaspokojenia, chyba ¿e zrzeka siê korzystania z zarzutu przedawnienia; jednak¿e zrzeczenie siê zarzutu przedawnienia przed up³ywem terminu jest niewa¿ne
+            c) osoba ta nie mo¿e byæ pozwana o to roszczenie; w takiej sytuacji s¹d odrzuca pozew
+            ",B,art. 117 § 2 k.c.,"Poprawna odpowiedŸ to **b)** osoba ta mo¿e uchyliæ siê od jego zaspokojenia, chyba ¿e zrzeka siê korzystania z zarzutu przedawnienia; jednak¿e zrzeczenie siê zarzutu przedawnienia przed up³ywem terminu jest niewa¿ne.
+
+### Wyjaœnienie:
+Zgodnie z art. 117 § 2 Kodeksu cywilnego, po up³ywie terminu przedawnienia roszczenia maj¹tkowego, osoba, przeciwko której przys³uguje roszczenie, mo¿e uchyliæ siê od jego zaspokojenia. Oznacza to, ¿e d³u¿nik ma prawo powo³aæ siê na przedawnienie jako zarzut w przypadku, gdy wierzyciel dochodzi roszczenia po up³ywie terminu przedawnienia. Jednak¿e, jeœli d³u¿nik zrzeka siê korzystania z tego zarzutu przed up³ywem terminu przedawnienia, takie zrzeczenie jest niewa¿ne.
+
+### Odniesienie do przepisów:
+- **Art. 117 Kodeksu cywilnego**:
+  - § 1. Z zastrze¿eniem wyj¹tków w ustawie przewidzianych, roszczenia maj¹tkowe ulegaj¹ przedawnieniu.
+  - § 2. Po up³ywie terminu przedawnienia ten, przeciwko komu przys³uguje roszczenie, mo¿e uchyliæ siê od jego zaspokojenia, chyba ¿e zrzeka siê korzystania z zarzutu przedawnienia. Jednak¿e zrzeczenie siê zarzutu przedawnienia przed up³ywem terminu jest niewa¿ne.
+
+Odpowiedzi a) i c) s¹ nieprawid³owe, poniewa¿:
+- a) sugeruje, ¿e roszczenie wygasa, co jest nieprawdziwe, poniewa¿ przedawnienie nie powoduje wygaœniêcia roszczenia, a jedynie mo¿liwoœæ uchwa³y od jego zaspokojenia.
+- c) stwierdza, ¿e osoba nie mo¿e byæ pozwana o to roszczenie, co jest b³êdne, poniewa¿ roszczenie nadal istnieje, a d³u¿nik mo¿e jedynie uchyliæ siê od jego zaspokojenia.",True,True,[117]
+33,"Question: Zgodnie z Kodeksem cywilnym, koniec terminu przedawnienia przypada na ostatni dzieñ roku kalendarzowego, chyba ¿e termin przedawnienia jest krótszy ni¿:
+    
+            a) dwa lata
+            b) trzy lata
+            c) piêæ lat
+            ",A,art. 118 zdanie drugie k.c.,"OdpowiedŸ: **a) dwa lata**
+
+**Wyjaœnienie:**
+Zgodnie z art. 118 Kodeksu cywilnego, koniec terminu przedawnienia przypada na ostatni dzieñ roku kalendarzowego, chyba ¿e termin przedawnienia jest krótszy ni¿ dwa lata. W takim przypadku termin przedawnienia koñczy siê w dniu, w którym roszczenie sta³o siê wymagalne, a nie na koniec roku kalendarzowego. 
+
+Zatem, jeœli termin przedawnienia wynosi dwa lata lub wiêcej, to koñczy siê on na koniec roku kalendarzowego. Natomiast w przypadku, gdy termin przedawnienia jest krótszy ni¿ dwa lata, koñczy siê on w dniu wymagalnoœci roszczenia.
+
+**Odniesienie do przepisów:**
+- Art. 118 Kodeksu cywilnego: ""Koniec terminu przedawnienia przypada na ostatni dzieñ roku kalendarzowego, chyba ¿e termin przedawnienia jest krótszy ni¿ dwa lata.""",True,True,[118]
+34,"Question: Zgodnie z Kodeksem cywilnym, posiadacz samoistny w z³ej wierze rzeczy ruchomej, niebêd¹cy jej w³aœcicielem:
+    
+            a) nabywa jej w³asnoœæ w drodze zasiedzenia, je¿eli posiada rzecz nieprzerwanie od lat trzech
+            b) nabywa jej w³asnoœæ w drodze zasiedzenia, je¿eli posiada rzecz nieprzerwanie od lat piêciu
+            c) nie mo¿e nabyæ jej w³asnoœci w drodze zasiedzenia
+            ",C,art. 174 § 1 k.c.,"OdpowiedŸ: **c) nie mo¿e nabyæ jej w³asnoœci w drodze zasiedzenia.**
+
+**Wyjaœnienie:**
+Zgodnie z polskim Kodeksem cywilnym, posiadacz samoistny w z³ej wierze rzeczy ruchomej nie mo¿e nabyæ jej w³asnoœci w drodze zasiedzenia. Artyku³ 174 Kodeksu cywilnego stanowi, ¿e posiadacz rzeczy ruchomej nabywa w³asnoœæ, je¿eli posiada rzecz nieprzerwanie przez trzy lata jako posiadacz samoistny, chyba ¿e posiada w z³ej wierze. W przypadku posiadania w z³ej wierze, zasiedzenie nie jest mo¿liwe, co oznacza, ¿e posiadacz w z³ej wierze nie nabywa w³asnoœci rzeczy, niezale¿nie od d³ugoœci posiadania.
+
+**Odpowiedni przepis:**
+- Art. 174 § 1 Kodeksu cywilnego: ""Posiadacz rzeczy ruchomej niebêd¹cy jej w³aœcicielem nabywa w³asnoœæ, je¿eli posiada rzecz nieprzerwanie od lat trzech jako posiadacz samoistny, chyba ¿e posiada w z³ej wierze.""",True,True,[174]
+35,"Question: Zgodnie z Kodeksem cywilnym, je¿eli rzecz (niebêd¹c¹ zabytkiem lub materia³em archiwalnym) znaleziono w takich okolicznoœciach, ¿e poszukiwanie w³aœciciela by³oby oczywiœcie bezcelowe, a znalazca nie jest w³aœcicielem nieruchomoœci, na której rzecz zosta³a znaleziona, rzecz znaleziona staje siê:
+    
+            a) wy³¹czn¹ w³asnoœci¹ znalazcy
+            b) wy³¹czn¹ w³asnoœci¹ w³aœciciela nieruchomoœci, na której rzecz zosta³a znaleziona
+            c) przedmiotem wspó³w³asnoœci w czêœciach u³amkowych znalazcy i w³aœciciela nieruchomoœci, na której rzecz zosta³a znaleziona
+            ",C,art. 189 k.c.,"OdpowiedŸ: **c) przedmiotem wspó³w³asnoœci w czêœciach u³amkowych znalazcy i w³aœciciela nieruchomoœci, na której rzecz zosta³a znaleziona.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 189 Kodeksu cywilnego, je¿eli rzecz zosta³a znaleziona w okolicznoœciach, które sprawiaj¹, ¿e poszukiwanie w³aœciciela by³oby oczywiœcie bezcelowe, a znalazca nie jest w³aœcicielem nieruchomoœci, na której rzecz zosta³a znaleziona, to rzecz ta staje siê przedmiotem wspó³w³asnoœci w czêœciach u³amkowych zarówno znalazcy, jak i w³aœciciela nieruchomoœci. Oznacza to, ¿e obie te osoby maj¹ prawo do wspó³w³asnoœci tej rzeczy, co jest zgodne z zasadami wspó³w³asnoœci okreœlonymi w Kodeksie cywilnym.
+
+**Przypisane przepisy:**
+- **Art. 189 Kodeksu cywilnego**: ""Je¿eli rzecz znaleziono w takich okolicznoœciach, ¿e poszukiwanie w³aœciciela by³oby oczywiœcie bezcelowe, staje siê ona przedmiotem wspó³w³asnoœci w czêœciach u³amkowych znalazcy i w³aœciciela nieruchomoœci, na której rzecz zosta³a znaleziona.""",True,True,[189]
+36,"Question: Zgodnie z Kodeksem cywilnym, nieruchomoœæ mo¿na obci¹¿yæ na rzecz w³aœciciela innej nieruchomoœci (nieruchomoœci w³adn¹cej) miêdzy innymi prawem, którego treœæ polega na tym, ¿e w³aœciciel nieruchomoœci w³adn¹cej mo¿e korzystaæ w oznaczonym zakresie z nieruchomoœci obci¹¿onej (s³u¿ebnoœæ gruntowa); taka s³u¿ebnoœæ:
+    
+            a) w ¿adnym wypadku nie mo¿e byæ nabyta przez zasiedzenie
+            b) mo¿e byæ nabyta przez zasiedzenie tylko w wypadku, gdy polega na korzystaniu z trwa³ego i widocznego urz¹dzenia
+            c) mo¿e byæ nabyta przez zasiedzenie niezale¿nie od tego, czy polega na korzystaniu z trwa³ego i widocznego urz¹dzenia
+            ",B,art. 292 w zw. z art. 285 § 1 k.c.,"OdpowiedŸ: **b) mo¿e byæ nabyta przez zasiedzenie tylko w wypadku, gdy polega na korzystaniu z trwa³ego i widocznego urz¹dzenia.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 292 Kodeksu cywilnego, s³u¿ebnoœæ gruntowa mo¿e byæ nabyta przez zasiedzenie tylko w przypadku, gdy korzystanie z niej polega na korzystaniu z trwa³ego i widocznego urz¹dzenia. Oznacza to, ¿e aby zasiedzenie s³u¿ebnoœci gruntowej mog³o mieæ miejsce, musi istnieæ fizyczna struktura, która jest widoczna i trwa³a, co u³atwia identyfikacjê korzystania z tej s³u¿ebnoœci przez uprawnionego.
+
+OdpowiedŸ a) jest nieprawdziwa, poniewa¿ s³u¿ebnoœæ gruntowa mo¿e byæ nabyta przez zasiedzenie, ale tylko w okreœlonych warunkach. OdpowiedŸ c) jest równie¿ nieprawdziwa, poniewa¿ zasiedzenie s³u¿ebnoœci gruntowej nie jest mo¿liwe w ka¿dym przypadku, a jedynie w sytuacji, gdy korzystanie z niej odbywa siê poprzez trwa³e i widoczne urz¹dzenie.
+
+**Podstawa prawna:**
+- Art. 292 Kodeksu cywilnego: ""S³u¿ebnoœæ gruntowa mo¿e byæ nabyta przez zasiedzenie tylko w wypadku, gdy polega na korzystaniu z trwa³ego i widocznego urz¹dzenia.""",True,True,[292]
+37,"Question: Zgodnie z Kodeksem cywilnym, je¿eli d³u¿nik jest zobowi¹zany do œwiadczenia rzeczy oznaczonych tylko co do gatunku, a jakoœæ rzeczy nie jest oznaczona przez w³aœciwe przepisy lub przez czynnoœæ prawn¹ ani nie wynika z okolicznoœci, d³u¿nik:
+    
+            a) mo¿e œwiadczyæ rzeczy dowolnej jakoœci
+            b) powinien œwiadczyæ rzeczy œredniej jakoœci
+            c) powinien œwiadczyæ rzeczy najlepszej jakoœci
+            ",B,art. 357 k.c.,"OdpowiedŸ: **b) powinien œwiadczyæ rzeczy œredniej jakoœci**
+
+**Wyjaœnienie:**
+Zgodnie z art. 357 Kodeksu cywilnego, je¿eli d³u¿nik jest zobowi¹zany do œwiadczenia rzeczy oznaczonych tylko co do gatunku, a jakoœæ rzeczy nie jest oznaczona przez w³aœciwe przepisy lub przez czynnoœæ prawn¹ ani nie wynika z okolicznoœci, d³u¿nik powinien œwiadczyæ rzeczy œredniej jakoœci. Oznacza to, ¿e w przypadku braku szczegó³owych ustaleñ dotycz¹cych jakoœci, d³u¿nik nie ma swobody w wyborze jakoœci rzeczy, lecz jest zobowi¹zany do dostarczenia rzeczy, które odpowiadaj¹ standardom œredniej jakoœci w danym gatunku.
+
+**Przypis do przepisów:**
+- Art. 357 Kodeksu cywilnego: ""Je¿eli d³u¿nik jest zobowi¹zany do œwiadczenia rzeczy oznaczonych tylko co do gatunku, a jakoœæ rzeczy nie jest oznaczona przez w³aœciwe przepisy lub przez czynnoœæ prawn¹ ani nie wynika z okolicznoœci, d³u¿nik powinien œwiadczyæ rzeczy œredniej jakoœci.""",True,True,[357]
+38,"Question: Zgodnie z Kodeksem cywilnym, zobowi¹zany do odszkodowania ponosi odpowiedzialnoœæ tylko za normalne nastêpstwa dzia³ania lub zaniechania, z którego szkoda wynik³a; w powy¿szych granicach, w braku odmiennego przepisu ustawy lub postanowienia umowy, naprawienie szkody obejmuje:
+    
+            a) jedynie straty, które poszkodowany poniós³
+            b) jedynie korzyœci, które poszkodowany móg³by osi¹gn¹æ, gdyby mu szkody nie wyrz¹dzono
+            c) straty, które poszkodowany poniós³, oraz korzyœci, które móg³by osi¹gn¹æ, gdyby mu szkody nie wyrz¹dzono
+            ",C,art. 361 k.c.,"OdpowiedŸ: **c) straty, które poszkodowany poniós³, oraz korzyœci, które móg³by osi¹gn¹æ, gdyby mu szkody nie wyrz¹dzono.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 361 Kodeksu cywilnego, zobowi¹zany do odszkodowania ponosi odpowiedzialnoœæ tylko za normalne nastêpstwa dzia³ania lub zaniechania, z którego szkoda wynik³a. W granicach tej odpowiedzialnoœci, w braku odmiennego przepisu ustawy lub postanowienia umowy, naprawienie szkody obejmuje zarówno straty, które poszkodowany poniós³, jak i korzyœci, które móg³by osi¹gn¹æ, gdyby mu szkody nie wyrz¹dzono. Oznacza to, ¿e odszkodowanie ma na celu przywrócenie poszkodowanego do stanu, w jakim by siê znajdowa³, gdyby szkoda nie mia³a miejsca, co obejmuje zarówno straty, jak i utracone korzyœci.
+
+**Odniesienie do przepisów:**
+- Art. 361 Kodeksu cywilnego: „§ 1. Zobowi¹zany do odszkodowania ponosi odpowiedzialnoœæ tylko za normalne nastêpstwa dzia³ania lub zaniechania, z którego szkoda wynik³a. § 2. W powy¿szych granicach, w braku odmiennego przepisu ustawy lub postanowienia umowy, naprawienie szkody obejmuje straty, które poszkodowany poniós³, oraz korzyœci, które móg³by osi¹gn¹æ, gdyby mu szkody nie wyrz¹dzono.”",True,True,[361]
+39,"Question: Zgodnie z Kodeksem cywilnym, zobowi¹zanie (umowne) bezterminowe o charakterze ci¹g³ym wygasa po wypowiedzeniu przez d³u¿nika lub wierzyciela z zachowaniem terminów:
+    
+            a) umownych, a w razie braku takich terminów nie mo¿e wygasn¹æ
+            b) umownych lub ustawowych, a w razie braku takich terminów nie mo¿e wygasn¹æ
+            c) umownych, ustawowych lub zwyczajowych, a w razie braku takich terminów niezw³ocznie po wypowiedzeniu
+            ",C,art. 3651 k.c.,"OdpowiedŸ: **c) umownych, ustawowych lub zwyczajowych, a w razie braku takich terminów niezw³ocznie po wypowiedzeniu.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 365^1 Kodeksu cywilnego, zobowi¹zanie bezterminowe o charakterze ci¹g³ym wygasa po wypowiedzeniu przez d³u¿nika lub wierzyciela z zachowaniem terminów umownych, ustawowych lub zwyczajowych. W przypadku braku takich terminów, zobowi¹zanie wygasa niezw³ocznie po wypowiedzeniu. Oznacza to, ¿e strony umowy mog¹ ustaliæ w³asne terminy wypowiedzenia, ale jeœli ich nie ustal¹, to zobowi¹zanie wygasa natychmiast po dokonaniu wypowiedzenia.
+
+**Podstawa prawna:**
+- Art. 365^1 Kodeksu cywilnego: ""Zobowi¹zanie bezterminowe o charakterze ci¹g³ym wygasa po wypowiedzeniu przez d³u¿nika lub wierzyciela z zachowaniem terminów umownych, ustawowych lub zwyczajowych, a w razie braku takich terminów niezw³ocznie po wypowiedzeniu.""",True,True,[3651]
+40,"Question: Zgodnie z Kodeksem cywilnym, zwolnienie z d³ugu pieniê¿nego przez wierzyciela wzglêdem jednego z d³u¿ników solidarnych:
+    
+            a) nie ma skutku wzglêdem wspó³d³u¿ników
+            b) ma ten skutek, ¿e ka¿dy ze wspó³d³u¿ników staje siê odpowiedzialny w równych czêœciach
+            c) zwalnia z d³ugu wszystkich wspó³d³u¿ników
+            ",A,art. 373 k.c.,"OdpowiedŸ: **a) nie ma skutku wzglêdem wspó³d³u¿ników**
+
+**Wyjaœnienie:**
+Zgodnie z art. 373 Kodeksu cywilnego, zwolnienie z d³ugu lub zrzeczenie siê solidarnoœci przez wierzyciela wzglêdem jednego z d³u¿ników solidarnych nie ma skutku wzglêdem wspó³d³u¿ników. Oznacza to, ¿e jeœli wierzyciel zdecyduje siê na zwolnienie jednego z d³u¿ników solidarnych z d³ugu, to pozostali d³u¿nicy nadal pozostaj¹ zobowi¹zani do sp³aty ca³ego d³ugu. W praktyce oznacza to, ¿e wierzyciel mo¿e dochodziæ roszczenia od pozosta³ych d³u¿ników solidarnych, jak gdyby zwolnienie nie mia³o miejsca.
+
+**Podstawa prawna:**
+- Art. 373 Kodeksu cywilnego: ""Zwolnienie d³u¿nika z d³ugu lub zrzeczenie siê solidarnoœci przez wierzyciela wzglêdem jednego z d³u¿ników solidarnych nie ma skutku wzglêdem wspó³d³u¿ników.""",True,True,[373]
+41,"Question: Zgodnie z Kodeksem cywilnym, w braku odmiennego zastrze¿enia umownego albo zwyczaju zadatek dany przy zawarciu umowy ma to znaczenie, ¿e w razie niewykonania umowy przez jedn¹ ze stron (gdy umowa nie uleg³a rozwi¹zaniu, a niewykonanie umowy nie nast¹pi³o wskutek okolicznoœci, za które ¿adna ze stron nie ponosi odpowiedzialnoœci albo za które ponosz¹ odpowiedzialnoœæ obie strony), druga strona mo¿e:
+    
+            a) bez wyznaczenia terminu dodatkowego od umowy odst¹piæ i otrzymany zadatek zachowaæ, a je¿eli sama go da³a, mo¿e ¿¹daæ sumy dwukrotnie wy¿szej
+            b) po wyznaczeniu terminu dodatkowego od umowy odst¹piæ i zwróciæ otrzymany zadatek, a je¿eli sama go da³a, nie mo¿e ¿¹daæ jego zwrotu
+            c) bez wyznaczenia terminu dodatkowego od umowy odst¹piæ i otrzymany zadatek zachowaæ, a je¿eli sama go da³a, mo¿e ¿¹daæ sumy trzykrotnie wy¿szej
+            ",A,art. 394 § 1 i 3 k.c.,"OdpowiedŸ: **a)** bez wyznaczenia terminu dodatkowego od umowy odst¹piæ i otrzymany zadatek zachowaæ, a je¿eli sama go da³a, mo¿e ¿¹daæ sumy dwukrotnie wy¿szej.
+
+**Wyjaœnienie:**
+Zgodnie z art. 394 Kodeksu cywilnego, w przypadku niewykonania umowy przez jedn¹ ze stron, druga strona ma prawo odst¹piæ od umowy bez wyznaczania dodatkowego terminu i zatrzymaæ zadatek. Jeœli strona, która da³a zadatek, nie wykona³a umowy, ma prawo ¿¹daæ zwrotu zadatku w podwójnej wysokoœci. 
+
+Art. 394 § 1 Kodeksu cywilnego stanowi:
+""W braku odmiennego zastrze¿enia umownego albo zwyczaju zadatek dany przy zawarciu umowy ma to znaczenie, ¿e w razie niewykonania umowy przez jedn¹ ze stron druga strona mo¿e bez wyznaczenia terminu dodatkowego od umowy odst¹piæ i otrzymany zadatek zachowaæ, a je¿eli sama go da³a, mo¿e ¿¹daæ sumy dwukrotnie wy¿szej.""
+
+Zatem odpowiedŸ a) jest zgodna z przepisami prawa i jest poprawna.",True,True,[394]
+42,"Question: Zgodnie z Kodeksem cywilnym, je¿eli poszkodowany utraci³ ca³kowicie lub czêœciowo zdolnoœæ do pracy zarobkowej wskutek uszkodzenia cia³a lub wywo³ania rozstroju zdrowia, mo¿e on ¿¹daæ od zobowi¹zanego do naprawienia szkody odpowiedniej renty; na ¿¹danie poszkodowanego:
+    
+            a) z wa¿nych powodów s¹d mo¿e przyznaæ mu zamiast renty lub jej czêœci odszkodowanie jednorazowe
+            b) z wa¿nych powodów s¹d mo¿e przyznaæ mu zamiast renty lub jej czêœci odpowiedni¹ sumê tytu³em zadoœæuczynienia pieniê¿nego
+            c) s¹d przyznaje mu zamiast renty lub jej czêœci odszkodowanie jednorazowe i odpowiedni¹ sumê tytu³em zadoœæuczynienia pieniê¿nego
+            ",A,art. 447 w zw. z art. 444 § 1 i 2 k.c.,"OdpowiedŸ: **a)** z wa¿nych powodów s¹d mo¿e przyznaæ mu zamiast renty lub jej czêœci odszkodowanie jednorazowe.
+
+**Wyjaœnienie:**
+Zgodnie z art. 447 Kodeksu cywilnego, w przypadku gdy poszkodowany utraci³ zdolnoœæ do pracy zarobkowej, s¹d mo¿e na jego ¿¹danie przyznaæ mu zamiast renty lub jej czêœci odszkodowanie jednorazowe. Przepis ten wskazuje, ¿e s¹d ma mo¿liwoœæ przyznania jednorazowego odszkodowania w sytuacjach, gdy poszkodowany sta³ siê inwalid¹, a przyznanie renty mog³oby byæ niew³aœciwe lub niekorzystne dla jego sytuacji ¿yciowej.
+
+Odpowiedzi b) i c) s¹ nieprawid³owe, poniewa¿:
+- OdpowiedŸ b) sugeruje, ¿e s¹d mo¿e przyznaæ zadoœæuczynienie pieniê¿ne zamiast renty, co nie jest zgodne z przepisami, które mówi¹ o odszkodowaniu jednorazowym.
+- OdpowiedŸ c) ³¹czy obie formy rekompensaty, co równie¿ nie znajduje potwierdzenia w przepisach.
+
+**Podstawa prawna:**
+- Art. 447 Kodeksu cywilnego: ""Z wa¿nych powodów s¹d mo¿e na ¿¹danie poszkodowanego przyznaæ mu zamiast renty lub jej czêœci odszkodowanie jednorazowe.""",True,True,[447]
+43,"Question: Zgodnie z Kodeksem cywilnym, je¿eli termin zwrotu po¿yczki nie jest oznaczony, d³u¿nik obowi¹zany jest zwróciæ po¿yczkê:
+    
+            a) niezw³ocznie po wypowiedzeniu przez daj¹cego po¿yczkê
+            b) w ci¹gu 30 dni po wypowiedzeniu przez daj¹cego po¿yczkê
+            c) w ci¹gu szeœciu tygodni po wypowiedzeniu przez daj¹cego po¿yczkê
+            ",C,art. 723 k.c.,"OdpowiedŸ: **b) w ci¹gu 30 dni po wypowiedzeniu przez daj¹cego po¿yczkê.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 723 Kodeksu cywilnego, je¿eli termin zwrotu po¿yczki nie jest oznaczony, d³u¿nik jest zobowi¹zany do zwrotu po¿yczki w ci¹gu szeœciu tygodni (czyli 42 dni) po wypowiedzeniu przez daj¹cego po¿yczkê. OdpowiedŸ b) sugeruje 30 dni, co jest niezgodne z przepisami. OdpowiedŸ a) równie¿ jest niepoprawna, poniewa¿ nie wskazuje na konkretny termin, a jedynie na ""niezw³ocznie"", co nie jest zgodne z przepisami. 
+
+Zatem poprawna odpowiedŸ to **c)**, poniewa¿ zgodnie z art. 723, d³u¿nik ma 6 tygodni na zwrot po¿yczki po wypowiedzeniu umowy przez daj¹cego po¿yczkê. 
+
+**Odpowiedni przepis:**
+- Art. 723 Kodeksu cywilnego: ""Je¿eli termin zwrotu po¿yczki nie jest oznaczony, d³u¿nik obowi¹zany jest zwróciæ po¿yczkê w ci¹gu szeœciu tygodni po wypowiedzeniu przez daj¹cego po¿yczkê.""",False,True,[723]
+44,"Question: Zgodnie z Kodeksem cywilnym, rozwi¹zanie umowy rachunku bankowego zawartej na czas nieoznaczony mo¿e nast¹piæ w ka¿dym czasie wskutek wypowiedzenia przez:
+    
+            a) posiadacza rachunku; bank nie mo¿e wypowiedzieæ takiej umowy w ¿adnym przypadku
+            b) któr¹kolwiek ze stron; jednak¿e bank mo¿e wypowiedzieæ tak¹ umowê tylko z wa¿nych powodów
+            c) któr¹kolwiek ze stron; jednak¿e posiadacz rachunku mo¿e wypowiedzieæ tak¹ umowê tylko z wa¿nych powodów
+            ",B,art. 730 k.c.,"OdpowiedŸ: **b) któr¹kolwiek ze stron; jednak¿e bank mo¿e wypowiedzieæ tak¹ umowê tylko z wa¿nych powodów.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 730 Kodeksu cywilnego, umowa rachunku bankowego zawarta na czas nieoznaczony mo¿e byæ rozwi¹zana w ka¿dym czasie przez któr¹kolwiek ze stron. Jednak¿e, w przypadku banku, wypowiedzenie umowy mo¿e nast¹piæ tylko z wa¿nych powodów. Oznacza to, ¿e posiadacz rachunku ma prawo wypowiedzieæ umowê bez koniecznoœci podawania przyczyny, natomiast bank musi mieæ uzasadniony powód, aby móc wypowiedzieæ umowê.
+
+**Odniesienie do przepisów:**
+- Art. 730 Kodeksu cywilnego: ""Rozwi¹zanie umowy rachunku bankowego zawartej na czas nieoznaczony mo¿e nast¹piæ w ka¿dym czasie wskutek wypowiedzenia przez któr¹kolwiek ze stron; jednak¿e bank mo¿e wypowiedzieæ tak¹ umowê tylko z wa¿nych powodów.""",True,True,[730]
+45,"Question: Zgodnie z Kodeksem cywilnym, spadkodawca mo¿e w testamencie w³o¿yæ na spadkobiorcê lub na zapisobiercê obowi¹zek oznaczonego dzia³ania lub zaniechania, nie czyni¹c nikogo wierzycielem; jest to:
+    
+            a) zapis zwyk³y
+            b) zapis windykacyjny
+            c) polecenie
+            ",C,art. 982 k.c.,"OdpowiedŸ: **c) polecenie**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, spadkodawca ma prawo w³o¿yæ na spadkobiorcê lub zapisobiercê obowi¹zek oznaczonego dzia³ania lub zaniechania, nie czyni¹c nikogo wierzycielem. Taki obowi¹zek okreœlany jest jako ""polecenie"". 
+
+Zgodnie z art. 893 Kodeksu cywilnego:
+> ""Darczyñca mo¿e w³o¿yæ na obdarowanego obowi¹zek oznaczonego dzia³ania lub zaniechania, nie czyni¹c nikogo wierzycielem (polecenie).""
+
+Oznacza to, ¿e spadkodawca mo¿e w testamencie na³o¿yæ na spadkobiercê lub zapisobiercê obowi¹zek, który nie tworzy zobowi¹zania w sensie prawnym, a jedynie moralny lub spo³eczny obowi¹zek do dzia³ania lub zaniechania.
+
+**Podsumowuj¹c**, odpowiedzi¹ na pytanie jest c) polecenie, poniewa¿ to w³aœnie polecenie odnosi siê do sytuacji, w której spadkodawca nak³ada obowi¹zek na spadkobiorcê lub zapisobiercê bez tworzenia wierzytelnoœci.",True,False,[893]
+1,"Question: Zgodnie z Kodeksem cywilnym, je¿eli ustawa uzale¿nia skutki prawne od dobrej lub z³ej wiary:
+    
+            a) domniemywa siê istnienie dobrej wiary
+            b) domniemywa siê istnienie z³ej wiary
+            c) nie domniemywa siê istnienia dobrej lub z³ej wiary, a ciê¿ar udowodnienia istnienia dobrej lub z³ej wiary zawsze spoczywa na osobie, która z faktu tego wywodzi skutki prawne
+            ",A,art. 7 k.c.,"OdpowiedŸ: **a) domniemywa siê istnienie dobrej wiary.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 7 Kodeksu cywilnego, je¿eli ustawa uzale¿nia skutki prawne od dobrej lub z³ej wiary, to domniemywa siê istnienie dobrej wiary. Oznacza to, ¿e w sytuacjach, w których nie mo¿na jednoznacznie ustaliæ, czy dana osoba dzia³a³a w dobrej czy z³ej wierze, przyjmuje siê, ¿e dzia³a³a w dobrej wierze, co ma istotne znaczenie w kontekœcie odpowiedzialnoœci cywilnej oraz w wielu innych aspektach prawa cywilnego.
+
+**Przypis do przepisów:**
+- Art. 7 Kodeksu cywilnego: ""Je¿eli ustawa uzale¿nia skutki prawne od dobrej lub z³ej wiary, domniemywa siê istnienie dobrej wiary.""",True,True,[7]
+2,"Question: Zgodnie z Kodeksem cywilnym, ka¿dy cz³owiek ma zdolnoœæ prawn¹:
+    
+            a) od chwili urodzenia
+            b) od chwili ukoñczenia lat trzynastu
+            c) od chwili ukoñczenia lat osiemnastu
+            ",A,art. 8 § 1 k.c.,"OdpowiedŸ: **a) od chwili urodzenia**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, ka¿dy cz³owiek ma zdolnoœæ prawn¹ od chwili urodzenia. Zdolnoœæ prawna oznacza, ¿e osoba mo¿e byæ podmiotem praw i obowi¹zków. Artyku³ 8 Kodeksu cywilnego stanowi: ""Ka¿dy cz³owiek od chwili urodzenia ma zdolnoœæ prawn¹."" Oznacza to, ¿e niezale¿nie od wieku, ka¿da osoba fizyczna ma prawo do posiadania praw i obowi¹zków, co jest fundamentem systemu prawnego.
+
+**Odniesienie do przepisów:**
+- Art. 8 Kodeksu cywilnego: ""Ka¿dy cz³owiek od chwili urodzenia ma zdolnoœæ prawn¹.""",True,True,[8]
+3,"Question: Zgodnie z Kodeksem cywilnym, dobra osobiste cz³owieka:
+    
+            a) pozostaj¹ wy³¹cznie pod ochron¹ przewidzian¹ w innych przepisach ni¿ przepisy prawa cywilnego
+            b) pozostaj¹ pod ochron¹ prawa cywilnego tylko wówczas, gdy nie pozostaj¹ pod ochron¹ przewidzian¹ w innych przepisach ni¿ przepisy prawa cywilnego
+            c) pozostaj¹ pod ochron¹ prawa cywilnego niezale¿nie od ochrony przewidzianej w innych przepisach
+            ",C,art. 23 k.c.,"OdpowiedŸ: **c) pozostaj¹ pod ochron¹ prawa cywilnego niezale¿nie od ochrony przewidzianej w innych przepisach.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 23 Kodeksu cywilnego, dobra osobiste cz³owieka, takie jak zdrowie, wolnoœæ, czeœæ, wizerunek, tajemnica korespondencji, itp., s¹ chronione przez prawo cywilne niezale¿nie od innych przepisów. Oznacza to, ¿e ochrona dóbr osobistych nie jest uzale¿niona od przepisów innych ga³êzi prawa, co czyni odpowiedŸ c) poprawn¹. 
+
+Warto zauwa¿yæ, ¿e ochrona dóbr osobistych w Kodeksie cywilnym jest niezale¿na i ma charakter autonomiczny, co oznacza, ¿e nawet jeœli inne przepisy przewiduj¹ ochronê tych dóbr, to prawo cywilne wci¹¿ zapewnia dodatkow¹ ochronê.
+
+**Odniesienie do przepisów:**
+- Art. 23 Kodeksu cywilnego: ""Dobra osobiste cz³owieka, jak w szczególnoœci zdrowie, wolnoœæ, czeœæ, swoboda sumienia, nazwisko lub pseudonim, wizerunek, tajemnica korespondencji, nietykalnoœæ mieszkania, twórczoœæ naukowa, artystyczna, wynalazcza i racjonalizatorska, pozostaj¹ pod ochron¹ prawa cywilnego niezale¿nie od ochrony przewidzianej w innych przepisach.""",True,True,[23]
+4,"Question: Zgodnie z Kodeksem cywilnym, prokura:
+    
+            a) zawsze mo¿e byæ ograniczona ze skutkiem wobec osób trzecich
+            b) nigdy nie mo¿e byæ ograniczona ze skutkiem wobec osób trzecich
+            c) nie mo¿e byæ ograniczona ze skutkiem wobec osób trzecich, chyba ¿e przepis szczególny stanowi inaczej
+            ",C,art. 1091 § 2 k.c.,"OdpowiedŸ: **c) nie mo¿e byæ ograniczona ze skutkiem wobec osób trzecich, chyba ¿e przepis szczególny stanowi inaczej.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 1091 § 2 Kodeksu cywilnego, prokura nie mo¿e byæ ograniczona ze skutkiem wobec osób trzecich, co oznacza, ¿e wszelkie ograniczenia dotycz¹ce zakresu prokury nie maj¹ mocy prawnej w relacjach z osobami trzecimi. Wyj¹tek od tej zasady mo¿e stanowiæ przepis szczególny, który móg³by przewidywaæ mo¿liwoœæ ograniczenia prokury w okreœlonych sytuacjach. 
+
+W praktyce oznacza to, ¿e osoby trzecie mog¹ polegaæ na pe³nomocnictwie udzielonym w ramach prokury, niezale¿nie od tego, czy przedsiêbiorca wprowadzi³ jakieœ ograniczenia w zakresie jej wykonywania. Taka regulacja ma na celu ochronê osób trzecich, które mog¹ nie byæ œwiadome wewnêtrznych ograniczeñ w zakresie umocowania prokurenta.
+
+**Odniesienie do przepisów:**
+- Art. 1091 § 2 Kodeksu cywilnego: ""Nie mo¿na ograniczyæ prokury ze skutkiem wobec osób trzecich, chyba ¿e przepis szczególny stanowi inaczej.""",True,True,[1091]
+5,"Question: Zgodnie z Kodeksem cywilnym, terminy przedawnienia roszczeñ maj¹tkowych:
+    
+            a) nie mog¹ byæ skracane ani przed³u¿ane przez czynnoœæ prawn¹
+            b) przed ich up³ywem mog¹ byæ skracane lub przed³u¿ane przez czynnoœæ prawn¹
+            c) mog¹ byæ skracane lub przed³u¿ane przez czynnoœæ prawn¹ w ka¿dym czasie
+            ",A,art. 119 k.c.,"OdpowiedŸ: **a) nie mog¹ byæ skracane ani przed³u¿ane przez czynnoœæ prawn¹.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, terminy przedawnienia roszczeñ maj¹tkowych s¹ œciœle okreœlone przez przepisy prawa i nie mog¹ byæ zmieniane przez strony umowy. Artyku³ 117 § 2 Kodeksu cywilnego stanowi, ¿e zrzeczenie siê zarzutu przedawnienia przed up³ywem terminu jest niewa¿ne, co oznacza, ¿e strony nie mog¹ umownie skracaæ ani przed³u¿aæ terminów przedawnienia. 
+
+Dodatkowo, artyku³ 118 Kodeksu cywilnego okreœla ogólne terminy przedawnienia, które wynosz¹ szeœæ lat, a dla roszczeñ o œwiadczenia okresowe oraz zwi¹zanych z prowadzeniem dzia³alnoœci gospodarczej – trzy lata. Te terminy s¹ obligatoryjne i nie mog¹ byæ zmieniane przez czynnoœci prawne stron.
+
+**Podstawa prawna:**
+- Kodeks cywilny, Art. 117 § 2: ""Zrzeczenie siê zarzutu przedawnienia przed up³ywem terminu jest niewa¿ne.""
+- Kodeks cywilny, Art. 118: ""Je¿eli przepis szczególny nie stanowi inaczej, termin przedawnienia wynosi szeœæ lat, a dla roszczeñ o œwiadczenia okresowe oraz roszczeñ zwi¹zanych z prowadzeniem dzia³alnoœci gospodarczej – trzy lata.""",True,False,"[117, 118]"
+6,"Question: Zgodnie z Kodeksem cywilnym, nabycie w³asnoœci rzeczy znalezionej przez znalazcê, powiat albo Skarb Pañstwa powoduje wygaœniêcie obci¹¿aj¹cych j¹ ograniczonych praw rzeczowych:
+    
+            a) z chwil¹ jej nabycia
+            b) po up³ywie miesi¹ca od chwili jej nabycia
+            c) po up³ywie trzech miesiêcy od chwili jej nabycia
+            ",A,art. 187 § 3 k.c.,"OdpowiedŸ: **a) z chwil¹ jej nabycia**
+
+**Wyjaœnienie:**
+Zgodnie z art. 187 § 3 Kodeksu cywilnego, w momencie nabycia w³asnoœci rzeczy znalezionej przez znalazcê, powiat albo Skarb Pañstwa, wygasaj¹ obci¹¿aj¹ce j¹ ograniczone prawa rzeczowe. Oznacza to, ¿e wszystkie prawa rzeczowe, które mog³yby obci¹¿aæ tê rzecz, przestaj¹ obowi¹zywaæ w momencie, gdy nowy w³aœciciel (znalazca, powiat lub Skarb Pañstwa) nabywa w³asnoœæ tej rzeczy. 
+
+W kontekœcie pytania, odpowiedŸ a) jest poprawna, poniewa¿ wygaœniêcie tych praw nastêpuje ""z chwil¹ jej nabycia"", co jest zgodne z przepisami prawa.
+
+**Odniesienie do przepisów:**
+- Art. 187 § 3 Kodeksu cywilnego: ""Z chwil¹ nabycia w³asnoœci rzeczy przez znalazcê, powiat albo Skarb Pañstwa wygasaj¹ obci¹¿aj¹ce j¹ ograniczone prawa rzeczowe.""",True,True,[187]
+7,"Question: Zgodnie z Kodeksem cywilnym, je¿eli ten, komu przys³uguje ograniczone prawo rzeczowe obci¹¿aj¹ce nieruchomoœæ nabêdzie tê nieruchomoœæ na w³asnoœæ:
+    
+            a) ograniczone prawo rzeczowe nigdy nie wygasa
+            b) ograniczone prawo rzeczowe nie wygasa, chyba ¿e zostanie wykreœlone z ksiêgi wieczystej
+            c) ograniczone prawo rzeczowe wygasa z chwil¹ nabycia w³asnoœci tej nieruchomoœci
+            ",C,art. 247 k.c.,"Poprawna odpowiedŸ to **c) ograniczone prawo rzeczowe wygasa z chwil¹ nabycia w³asnoœci tej nieruchomoœci**.
+
+### Wyjaœnienie:
+Zgodnie z art. 247 Kodeksu cywilnego, ograniczone prawo rzeczowe wygasa, gdy przechodzi na w³aœciciela rzeczy obci¹¿onej, co oznacza, ¿e w momencie, gdy osoba, która ma ograniczone prawo rzeczowe (np. s³u¿ebnoœæ, u¿ytkowanie), nabywa w³asnoœæ nieruchomoœci obci¹¿onej tym prawem, to to prawo wygasa. 
+
+Artyku³ ten jasno stwierdza, ¿e:
+> ""Ograniczone prawo rzeczowe wygasa, je¿eli przejdzie na w³aœciciela rzeczy obci¹¿onej albo je¿eli ten, komu prawo takie przys³uguje, nabêdzie w³asnoœæ rzeczy obci¹¿onej.""
+
+W zwi¹zku z tym, odpowiedŸ c) jest zgodna z przepisami prawa, podczas gdy odpowiedzi a) i b) s¹ nieprawid³owe, poniewa¿ sugeruj¹, ¿e prawo to mo¿e trwaæ mimo nabycia w³asnoœci nieruchomoœci przez osobê uprawnion¹. 
+
+### Odniesienie do przepisów:
+- **Art. 247 Kodeksu cywilnego**: ""Ograniczone prawo rzeczowe wygasa, je¿eli przejdzie na w³aœciciela rzeczy obci¹¿onej albo je¿eli ten, komu prawo takie przys³uguje, nabêdzie w³asnoœæ rzeczy obci¹¿onej.""",True,True,[247]
+8,"Question: Zgodnie z Kodeksem cywilnym, je¿eli u¿ytkowanie obejmuje pieni¹dze lub inne rzeczy oznaczone tylko co do gatunku, u¿ytkownik:
+    
+            a) staje siê ich w³aœcicielem z chwil¹ wydania mu tych przedmiotów
+            b) nigdy nie staje siê ich w³aœcicielem
+            c) staje siê ich w³aœcicielem tylko wówczas, je¿eli wynika to z treœci umowy
+            ",A,art. 264 k.c.,"OdpowiedŸ: **a) staje siê ich w³aœcicielem z chwil¹ wydania mu tych przedmiotów.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 264 Kodeksu cywilnego, je¿eli u¿ytkowanie obejmuje pieni¹dze lub inne rzeczy oznaczone tylko co do gatunku, u¿ytkownik staje siê ich w³aœcicielem z chwil¹ wydania mu tych przedmiotów. Oznacza to, ¿e w momencie, gdy u¿ytkownik otrzymuje te przedmioty, nabywa do nich prawo w³asnoœci. Po wygaœniêciu u¿ytkowania, u¿ytkownik jest zobowi¹zany do zwrotu przedmiotów, co jest regulowane przepisami o zwrocie po¿yczki.
+
+**Przypis do przepisów:**
+- Art. 264 Kodeksu cywilnego: ""Je¿eli u¿ytkowanie obejmuje pieni¹dze lub inne rzeczy oznaczone tylko co do gatunku, u¿ytkownik staje siê z chwil¹ wydania mu tych przedmiotów ich w³aœcicielem.""",True,True,[264]
+9,"Question: Zgodnie z Kodeksem cywilnym, u¿ytkownik bêd¹cy osob¹ fizyczn¹ mo¿e zak³adaæ w pomieszczeniach nowe urz¹dzenia w takich granicach jak:
+    
+            a) w³aœciciel
+            b) najemca
+            c) u¿ytkownik wieczysty
+            ",B,art. 268 k.c.,"OdpowiedŸ: **b) najemca**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, u¿ytkownik bêd¹cy osob¹ fizyczn¹ ma prawo do zakupu nowych urz¹dzeñ w pomieszczeniach, w granicach, jakie przys³uguj¹ najemcy. Artyku³ 268 Kodeksu cywilnego stanowi, ¿e ""u¿ytkownik mo¿e zak³adaæ w pomieszczeniach nowe urz¹dzenia w takich granicach jak najemca"". Oznacza to, ¿e u¿ytkownik ma podobne uprawnienia do tych, które przys³uguj¹ najemcy, co obejmuje mo¿liwoœæ instalacji nowych urz¹dzeñ, o ile nie narusza to umowy ani nie zagra¿a bezpieczeñstwu nieruchomoœci.
+
+**Odniesienie do przepisów:**
+- Art. 268 Kodeksu cywilnego: ""U¿ytkownik mo¿e zak³adaæ w pomieszczeniach nowe urz¹dzenia w takich granicach jak najemca.""",True,True,[268]
+10,"Question: Zgodnie z Kodeksem cywilnym, w³aœciciel nieruchomoœci obci¹¿onej mo¿e ¿¹daæ zniesienia s³u¿ebnoœci gruntowej bez wynagrodzenia, je¿eli:
+    
+            a) wskutek zmiany stosunków s³u¿ebnoœæ ta sta³a siê dla niego szczególnie uci¹¿liwa, a nie jest konieczna do prawid³owego korzystania z nieruchomoœci w³adn¹cej
+            b) wskutek zmiany stosunków s³u¿ebnoœæ ta sta³a siê dla niego szczególnie uci¹¿liwa, nawet gdy jest konieczna do prawid³owego korzystania z nieruchomoœci w³adn¹cej
+            c) s³u¿ebnoœæ ta utraci³a dla nieruchomoœci w³adn¹cej wszelkie znaczenie
+            ",C,art. 295 k.c.,"OdpowiedŸ: **c) s³u¿ebnoœæ ta utraci³a dla nieruchomoœci w³adn¹cej wszelkie znaczenie.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 295 Kodeksu cywilnego, w³aœciciel nieruchomoœci obci¹¿onej ma prawo ¿¹daæ zniesienia s³u¿ebnoœci gruntowej bez wynagrodzenia, je¿eli ta s³u¿ebnoœæ utraci³a dla nieruchomoœci w³adn¹cej wszelkie znaczenie. Oznacza to, ¿e jeœli s³u¿ebnoœæ nie przynosi ju¿ ¿adnych korzyœci dla nieruchomoœci, która z niej korzysta, w³aœciciel nieruchomoœci obci¹¿onej mo¿e domagaæ siê jej zniesienia bez koniecznoœci wyp³acania wynagrodzenia.
+
+W przypadku odpowiedzi a) i b), w³aœciciel nieruchomoœci obci¹¿onej mo¿e ¿¹daæ zniesienia s³u¿ebnoœci, ale tylko za wynagrodzeniem, jeœli s³u¿ebnoœæ sta³a siê dla niego szczególnie uci¹¿liwa, a nie jest konieczna do prawid³owego korzystania z nieruchomoœci w³adn¹cej (art. 294 Kodeksu cywilnego).
+
+**Podstawa prawna:**
+- Art. 295 Kodeksu cywilnego: ""Je¿eli s³u¿ebnoœæ gruntowa utraci³a dla nieruchomoœci w³adn¹cej wszelkie znaczenie, w³aœciciel nieruchomoœci obci¹¿onej mo¿e ¿¹daæ zniesienia s³u¿ebnoœci bez wynagrodzenia.""",True,True,[295]
+11,"Question: Zgodnie z Kodeksem cywilnym, w³aœciciel nieruchomoœci obci¹¿onej mo¿e ¿¹daæ zamiany s³u¿ebnoœci osobistej na rentê, je¿eli:
+    
+            a) uprawniony z tytu³u s³u¿ebnoœci osobistej nie wykonuje swego prawa przez co najmniej dziesiêæ lat
+            b) uprawniony z tytu³u s³u¿ebnoœci osobistej dopuszcza siê ra¿¹cych uchybieñ przy wykonywaniu swego prawa
+            c) uprawniony z tytu³u s³u¿ebnoœci osobistej przeniós³ uprawnienia do wykonywania s³u¿ebnoœci osobistej na inn¹ osobê
+            ",B,art. 303 k.c.,"OdpowiedŸ: **b) uprawniony z tytu³u s³u¿ebnoœci osobistej dopuszcza siê ra¿¹cych uchybieñ przy wykonywaniu swego prawa.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 303 Kodeksu cywilnego, w³aœciciel nieruchomoœci obci¹¿onej ma prawo ¿¹daæ zamiany s³u¿ebnoœci osobistej na rentê, je¿eli uprawniony z tytu³u tej s³u¿ebnoœci dopuszcza siê ra¿¹cych uchybieñ przy wykonywaniu swojego prawa. Oznacza to, ¿e jeœli osoba korzystaj¹ca z s³u¿ebnoœci nie przestrzega zasad jej wykonywania w sposób ra¿¹cy, w³aœciciel nieruchomoœci mo¿e domagaæ siê zmiany formy korzystania z tej s³u¿ebnoœci na rentê.
+
+**Podstawa prawna:**
+- Art. 303 Kodeksu cywilnego: ""Je¿eli uprawniony z tytu³u s³u¿ebnoœci osobistej dopuszcza siê ra¿¹cych uchybieñ przy wykonywaniu swego prawa, w³aœciciel nieruchomoœci obci¹¿onej mo¿e ¿¹daæ zamiany s³u¿ebnoœci na rentê.""",True,True,[303]
+12,"Question: Zgodnie z Kodeksem cywilnym, zastrze¿enie, przez które zastawca zobowi¹zuje siê wzglêdem zastawnika, ¿e nie dokona zbycia lub obci¹¿enia rzeczy ruchomej przed wygaœniêciem zastawu, jest:
+    
+            a) wa¿ne, o ile umowa zastawu zosta³a zawarta w formie pisemnej, z podpisami notarialnie poœwiadczonymi
+            b) bezskuteczne wy³¹cznie wzglêdem nabywcy rzeczy
+            c) niewa¿ne
+            ",C,art. 311 k.c.,"OdpowiedŸ: **c) niewa¿ne**
+
+**Wyjaœnienie:**
+Zgodnie z art. 311 Kodeksu cywilnego, zastrze¿enie, przez które zastawca zobowi¹zuje siê wzglêdem zastawnika, ¿e nie dokona zbycia lub obci¹¿enia rzeczy przed wygaœniêciem zastawu, jest niewa¿ne. Oznacza to, ¿e takie zastrze¿enie nie ma mocy prawnej i nie mo¿e byæ egzekwowane. W praktyce oznacza to, ¿e zastawca mo¿e swobodnie zbywaæ lub obci¹¿aæ rzecz obci¹¿on¹ zastawem, niezale¿nie od jakichkolwiek zastrze¿eñ umownych w tej kwestii.
+
+**Podstawa prawna:**
+- Art. 311 Kodeksu cywilnego: ""Niewa¿ne jest zastrze¿enie, przez które zastawca zobowi¹zuje siê wzglêdem zastawnika, ¿e nie dokona zbycia lub obci¹¿enia rzeczy przed wygaœniêciem zastawu.""",True,True,[311]
+13,"Question: Zgodnie z Kodeksem cywilnym, zastaw na rzeczach ruchomych zabezpiecza tak¿e roszczenia o odsetki od wierzytelnoœci zabezpieczonych zastawem:
+    
+            a) za trzy ostatnie lata przed zbyciem rzeczy w postêpowaniu egzekucyjnym lub upad³oœciowym
+            b) za piêæ ostatnich lat przed zbyciem rzeczy w postêpowaniu egzekucyjnym lub upad³oœciowym
+            c) za dziesiêæ ostatnich lat przed zbyciem rzeczy w postêpowaniu egzekucyjnym lub upad³oœciowym
+            ",A,art. 314 k.c.,"Poprawna odpowiedŸ to **a) za trzy ostatnie lata przed zbyciem rzeczy w postêpowaniu egzekucyjnym lub upad³oœciowym**.
+
+### Wyjaœnienie:
+Zgodnie z art. 314 Kodeksu cywilnego, zastaw na rzeczach ruchomych zabezpiecza roszczenia o odsetki za trzy ostatnie lata przed zbyciem rzeczy w postêpowaniu egzekucyjnym lub upad³oœciowym. Oznacza to, ¿e wierzyciel, który ma zastaw na rzeczach ruchomych, ma prawo dochodziæ odsetek za ten okres, co jest istotne w kontekœcie zabezpieczenia wierzytelnoœci.
+
+### Odpowiedni przepis:
+- **Art. 314 Kodeksu cywilnego**: ""Zastaw zabezpiecza tak¿e roszczenia o odsetki za trzy ostatnie lata przed zbyciem rzeczy w postêpowaniu egzekucyjnym lub upad³oœciowym, przyznane koszty postêpowania w wysokoœci nieprzekraczaj¹cej dziesi¹tej czêœci kapita³u oraz inne roszczenia o œwiadczenia uboczne, w szczególnoœci roszczenie o odszkodowanie z powodu niewykonania lub nienale¿ytego wykonania zobowi¹zania oraz o zwrot nak³adów na rzecz.""",True,True,[314]
+14,"Question: Zgodnie z Kodeksem cywilnym, je¿eli rzecz znajduje siê w posiadaniu zale¿nym albo w dzier¿eniu osoby trzeciej, przeniesienie posiadania samoistnego nastêpuje:
+    
+            a) przez wydanie rzeczy nabywcy
+            b) wy³¹cznie na mocy samej umowy zawartej miêdzy stronami w formie pisemnej z podpisami notarialnie poœwiadczonymi
+            c) przez umowê miêdzy stronami i przez zawiadomienie posiadacza zale¿nego albo dzier¿yciela
+            ",C,art. 350 k.c.,"OdpowiedŸ: **c) przez umowê miêdzy stronami i przez zawiadomienie posiadacza zale¿nego albo dzier¿yciela.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 350 Kodeksu cywilnego, przeniesienie posiadania samoistnego, gdy rzecz znajduje siê w posiadaniu zale¿nym lub w dzier¿eniu osoby trzeciej, nastêpuje poprzez zawarcie umowy miêdzy stronami oraz przez zawiadomienie posiadacza zale¿nego lub dzier¿yciela. Oznacza to, ¿e sama umowa nie wystarcza do przeniesienia posiadania, konieczne jest równie¿ poinformowanie aktualnego posiadacza, co jest kluczowe dla skutecznoœci przeniesienia posiadania.
+
+**Podstawa prawna:**
+- Art. 350 Kodeksu cywilnego: ""Je¿eli rzecz znajduje siê w posiadaniu zale¿nym albo w dzier¿eniu osoby trzeciej, przeniesienie posiadania samoistnego nastêpuje przez umowê miêdzy stronami i przez zawiadomienie posiadacza zale¿nego albo dzier¿yciela.""",True,True,[350]
+15,"Question: Zgodnie z Kodeksem cywilnym, zw³oka d³u¿nika wzglêdem jednego z wierzycieli solidarnych:
+    
+            a) ma skutek tak¿e wzglêdem wspó³wierzycieli
+            b) nie ma skutku wzglêdem wspó³wierzycieli
+            c) ma skutek tak¿e wzglêdem wspó³wierzycieli tylko o tyle, o ile wynika to z treœci umowy bêd¹cej podstaw¹ powstania zobowi¹zania
+            ",A,art. 377 k.c.,"OdpowiedŸ: **a) ma skutek tak¿e wzglêdem wspó³wierzycieli.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 377 Kodeksu cywilnego, zw³oka d³u¿nika, jak równie¿ przerwanie lub zawieszenie biegu przedawnienia wzglêdem jednego z wierzycieli solidarnych, ma skutek tak¿e wzglêdem wspó³wierzycieli. Oznacza to, ¿e jeœli d³u¿nik opóŸnia siê w spe³nieniu œwiadczenia wobec jednego z wierzycieli solidarnych, to ta zw³oka wp³ywa równie¿ na pozosta³ych wierzycieli solidarnych. W praktyce oznacza to, ¿e wszyscy wierzyciele solidarnie s¹ traktowani jako jedna grupa, a dzia³ania (lub zaniechania) d³u¿nika wobec jednego z nich maj¹ wp³yw na sytuacjê wszystkich.
+
+**Przypisane przepisy:**
+- Art. 377 Kodeksu cywilnego: ""Zw³oka d³u¿nika, jak równie¿ przerwanie lub zawieszenie biegu przedawnienia wzglêdem jednego z wierzycieli solidarnych ma skutek tak¿e wzglêdem wspó³wierzycieli.""",True,True,[377]
+16,"Question: Zgodnie z Kodeksem cywilnym, je¿eli w umowie zastrze¿ono, ¿e d³u¿nik spe³ni œwiadczenie na rzecz osoby trzeciej:
+    
+            a) d³u¿nik mo¿e podnieœæ zarzuty z umowy tak¿e przeciwko osobie trzeciej
+            b) d³u¿nik nie mo¿e podnieœæ zarzutów z umowy przeciwko osobie trzeciej
+            c) d³u¿nik mo¿e podnieœæ przeciwko osobie trzeciej wy³¹cznie zarzuty wynikaj¹ce ze stosunku ³¹cz¹cego tê osobê trzeci¹ z wierzycielem
+            ",A,art. 393 § 3 k.c.,"OdpowiedŸ: **c) d³u¿nik mo¿e podnieœæ przeciwko osobie trzeciej wy³¹cznie zarzuty wynikaj¹ce ze stosunku ³¹cz¹cego tê osobê trzeci¹ z wierzycielem.**
+
+### Wyjaœnienie:
+Zgodnie z art. 393 Kodeksu cywilnego, je¿eli w umowie zastrze¿ono, ¿e d³u¿nik spe³ni œwiadczenie na rzecz osoby trzeciej, to osoba ta ma prawo ¿¹daæ spe³nienia œwiadczenia bezpoœrednio od d³u¿nika. D³u¿nik mo¿e jednak podnieœæ zarzuty z umowy tylko w zakresie, w jakim dotycz¹ one stosunku miêdzy osob¹ trzeci¹ a wierzycielem. Oznacza to, ¿e d³u¿nik nie mo¿e podnosiæ zarzutów, które s¹ zwi¹zane z jego umow¹ z wierzycielem, ale tylko te, które wynikaj¹ z relacji miêdzy osob¹ trzeci¹ a wierzycielem.
+
+### Odniesienie do przepisów:
+- **Art. 393 Kodeksu cywilnego**:
+  - § 1. ""Je¿eli w umowie zastrze¿ono, ¿e d³u¿nik spe³ni œwiadczenie na rzecz osoby trzeciej, osoba ta, w braku odmiennego postanowienia umowy, mo¿e ¿¹daæ bezpoœrednio od d³u¿nika spe³nienia zastrze¿onego œwiadczenia.""
+  - § 3. ""D³u¿nik mo¿e podnieœæ zarzuty z umowy tak¿e przeciwko osobie trzeciej.""
+
+W zwi¹zku z tym, odpowiedŸ c) jest poprawna, poniewa¿ odzwierciedla zasady wynikaj¹ce z powy¿szego przepisu.",False,True,[393]
+17,"Question: Zgodnie z Kodeksem cywilnym, dziecko mo¿e ¿¹daæ naprawienia szkód doznanych przed urodzeniem:
+    
+            a) z chwil¹ urodzenia
+            b) dopiero z chwil¹ uzyskania pe³noletnoœci
+            c) najwczeœniej w ci¹gu roku od chwili uzyskania pe³noletnoœci
+            ",A,art. 4461 k.c.,"OdpowiedŸ: **a) z chwil¹ urodzenia**
+
+**Wyjaœnienie:**
+Zgodnie z art. 4461 Kodeksu cywilnego, dziecko ma prawo ¿¹daæ naprawienia szkód doznanych przed urodzeniem z chwil¹ urodzenia. Oznacza to, ¿e roszczenie o naprawienie szkody staje siê wymagalne w momencie, gdy dziecko przychodzi na œwiat. Wczeœniej, przed urodzeniem, nie ma mo¿liwoœci dochodzenia takich roszczeñ, poniewa¿ nie jest jeszcze osob¹ prawn¹ w rozumieniu prawa cywilnego.
+
+**Odniesienie do przepisów:**
+Art. 4461 Kodeksu cywilnego stanowi: ""Dziecko mo¿e ¿¹daæ naprawienia szkód doznanych przed urodzeniem z chwil¹ urodzenia.""",True,True,[4461]
+18,"Question: Zgodnie z Kodeksem cywilnym, zastrze¿enie umowne, zgodnie z którym d³u¿nik nie bêdzie odpowiedzialny za szkodê, któr¹ mo¿e wyrz¹dziæ wierzycielowi umyœlnie, jest:
+    
+            a) wa¿ne, o ile umowa zosta³a zawarta w formie pisemnej
+            b) wa¿ne, chyba ¿e stron¹ takiej umowy jest konsument
+            c) niewa¿ne
+            ",C,art. 473 § 2 k.c.,"OdpowiedŸ: **c) niewa¿ne**
+
+**Wyjaœnienie:**
+Zgodnie z art. 473 § 2 Kodeksu cywilnego, zastrze¿enie umowne, które wy³¹cza odpowiedzialnoœæ d³u¿nika za szkodê wyrz¹dzon¹ umyœlnie, jest niewa¿ne. Oznacza to, ¿e d³u¿nik nie mo¿e w umowie zastrzec, ¿e nie bêdzie odpowiedzialny za szkody wyrz¹dzone umyœlnie, poniewa¿ takie zastrze¿enie narusza zasady wspó³¿ycia spo³ecznego oraz porz¹dku prawnego. Odpowiedzialnoœæ za szkody wyrz¹dzone umyœlnie jest fundamentalnym elementem odpowiedzialnoœci cywilnej, który nie mo¿e byæ wy³¹czony przez umowê.
+
+**Podstawa prawna:**
+- Kodeks cywilny, art. 473 § 2: ""Niewa¿ne jest zastrze¿enie, i¿ d³u¿nik nie bêdzie odpowiedzialny za szkodê, któr¹ mo¿e wyrz¹dziæ wierzycielowi umyœlnie.""",True,True,[473]
+19,"Question: Zgodnie z Kodeksem cywilnym, wierzytelnoœæ przedawniona:
+    
+            a) mo¿e byæ potr¹cona, je¿eli w chwili, gdy potr¹cenie sta³o siê mo¿liwe, przedawnienie ju¿ nast¹pi³o, ale nie up³yn¹³ rok od jego przedawnienia
+            b) mo¿e byæ potr¹cona, je¿eli w chwili, gdy potr¹cenie sta³o siê mo¿liwe, przedawnienie jeszcze nie nast¹pi³o
+            c) zawsze mo¿e byæ potr¹cona
+            ",B,art. 502 k.c.,"OdpowiedŸ: **b) mo¿e byæ potr¹cona, je¿eli w chwili, gdy potr¹cenie sta³o siê mo¿liwe, przedawnienie jeszcze nie nast¹pi³o.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 502 Kodeksu cywilnego, wierzytelnoœæ przedawniona mo¿e byæ potr¹cona tylko wtedy, gdy w chwili, gdy potr¹cenie sta³o siê mo¿liwe, przedawnienie jeszcze nie nast¹pi³o. Oznacza to, ¿e jeœli wierzytelnoœæ jest ju¿ przedawniona, to nie mo¿na jej potr¹ciæ, chyba ¿e przedawnienie nie mia³o jeszcze miejsca w momencie, gdy d³u¿nik móg³by z³o¿yæ oœwiadczenie o potr¹ceniu.
+
+**Odniesienie do przepisów:**
+- Art. 502 Kodeksu cywilnego: ""Wierzytelnoœæ przedawniona mo¿e byæ potr¹cona, je¿eli w chwili, gdy potr¹cenie sta³o siê mo¿liwe, przedawnienie jeszcze nie nast¹pi³o.""",True,True,[502]
+20,"Question: Zgodnie z Kodeksem cywilnym, je¿eli skutecznoœæ umowy o przejêcie d³ugu zale¿y od zgody d³u¿nika, a d³u¿nik zgody odmówi³:
+    
+            a) strona, która wed³ug umowy mia³a przej¹æ d³ug, jest odpowiedzialna wzglêdem wierzyciela za to, ¿e d³u¿nik nie bêdzie podnosi³ wzglêdem niego zarzutów wynikaj¹cych z umowy zawartej pomiêdzy wierzycielem i d³u¿nikiem
+            b) strona, która wed³ug umowy mia³a przej¹æ d³ug, jest odpowiedzialna wzglêdem d³u¿nika za to, ¿e wierzyciel nie bêdzie ¿¹da³ od niego spe³nienia œwiadczenia
+            c) umowê o przejêcie d³ugu uwa¿a siê za niezawart¹
+            ",C,art. 521 § 1 k.c.,"OdpowiedŸ: **c) umowê o przejêcie d³ugu uwa¿a siê za niezawart¹.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 521 § 1 Kodeksu cywilnego, je¿eli skutecznoœæ umowy o przejêcie d³ugu zale¿y od zgody d³u¿nika, a d³u¿nik zgody odmówi³, umowê uwa¿a siê za niezawart¹. Oznacza to, ¿e brak zgody d³u¿nika na przejêcie d³ugu skutkuje tym, ¿e umowa nie wywo³uje ¿adnych skutków prawnych, a wiêc nie dochodzi do przejêcia d³ugu przez osobê trzeci¹.
+
+W zwi¹zku z tym, odpowiedŸ c) jest poprawna, poniewa¿ odzwierciedla bezpoœrednio treœæ przepisów Kodeksu cywilnego, które reguluj¹ tê kwestiê.
+
+**Odniesienie do przepisów:**
+- Art. 521 Kodeksu cywilnego: ""Je¿eli skutecznoœæ umowy o przejêcie d³ugu zale¿y od zgody d³u¿nika, a d³u¿nik zgody odmówi³, umowê uwa¿a siê za niezawart¹.""",True,True,[521]
+21,"Question: Zgodnie z Kodeksem cywilnym, je¿eli jest kilku uprawnionych do odkupu, a niektórzy z nich nie wykonywaj¹ tego prawa:
+    
+            a) pozostali uprawnieni mog¹ je wykonaæ w ca³oœci
+            b) pozostali uprawnieni mog¹ je wykonaæ tylko w odpowiedniej czêœci
+            c) pozostali uprawnieni nie mog¹ wykonaæ tego prawa ani w ca³oœci, ani w czêœci
+            ",A,art. 595 § 2 k.c.,"OdpowiedŸ: **a) pozostali uprawnieni mog¹ je wykonaæ w ca³oœci.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 595 § 2 Kodeksu cywilnego, je¿eli jest kilku uprawnionych do odkupu, a niektórzy z nich nie wykonuj¹ tego prawa, pozostali uprawnieni mog¹ je wykonaæ w ca³oœci. Prawo odkupu jest niezbywalne i niepodzielne, co oznacza, ¿e jeœli jeden z uprawnionych nie skorzysta z tego prawa, pozostali mog¹ zrealizowaæ je w pe³nym zakresie. 
+
+**Odniesienie do przepisów:**
+- Art. 595 Kodeksu cywilnego:
+  - § 1. Prawo odkupu jest niezbywalne i niepodzielne.
+  - § 2. Je¿eli jest kilku uprawnionych do odkupu, a niektórzy z nich nie wykonuj¹ tego prawa, pozostali mog¹ je wykonaæ w ca³oœci. 
+
+To jasno wskazuje, ¿e pozostali uprawnieni maj¹ prawo do pe³nego wykonania swojego prawa odkupu, co czyni odpowiedŸ a) poprawn¹.",True,True,[595]
+22,"Question: Zgodnie z Kodeksem cywilnym, roszczenia wynikaj¹ce z umowy o dzie³o, które zosta³o oddane, przedawniaj¹ siê z up³ywem:
+    
+            a) lat dwóch od dnia oddania dzie³a
+            b) lat trzech od dnia oddania dzie³a
+            c) lat szeœciu od dnia oddania dzie³a
+            ",A,art. 646 k.c.,"OdpowiedŸ: **a) lat dwóch od dnia oddania dzie³a**
+
+Wyjaœnienie: Zgodnie z art. 646 Kodeksu cywilnego, roszczenia wynikaj¹ce z umowy o dzie³o przedawniaj¹ siê z up³ywem lat dwóch od dnia oddania dzie³a. Oznacza to, ¿e jeœli dzie³o zosta³o oddane zamawiaj¹cemu, to ma on dwa lata na dochodzenie swoich roszczeñ zwi¹zanych z t¹ umow¹. W przypadku, gdy dzie³o nie zosta³o oddane, termin przedawnienia zaczyna biec od dnia, w którym zgodnie z umow¹ mia³o byæ oddane.
+
+Przypis do przepisów: 
+- **Art. 646 Kodeksu cywilnego**: ""Roszczenia wynikaj¹ce z umowy o dzie³o przedawniaj¹ siê z up³ywem lat dwóch od dnia oddania dzie³a, a je¿eli dzie³o nie zosta³o oddane – od dnia, w którym zgodnie z treœci¹ umowy mia³o byæ oddane.""",True,True,[646]
+23,"Question: Zgodnie z Kodeksem cywilnym, najem zawarty miêdzy przedsiêbiorcami, po up³ywie terminu, na który zosta³ zawarty, poczytuje siê za zawarty na czas nieoznaczony, o ile najem zosta³ zawarty na czas d³u¿szy ni¿:
+    
+            a) lat dziesiêæ
+            b) lat dwadzieœcia
+            c) lat trzydzieœci
+            ",C,art. 661 § 2 k.c.,"OdpowiedŸ: **a) lat dziesiêæ**
+
+**Wyjaœnienie:**
+Zgodnie z art. 661 § 2 Kodeksu cywilnego, najem zawarty miêdzy przedsiêbiorcami na czas d³u¿szy ni¿ lat trzydzieœci poczytuje siê po up³ywie tego terminu za zawarty na czas nieoznaczony. Natomiast art. 661 § 1 stanowi, ¿e najem zawarty na czas d³u¿szy ni¿ lat dziesiêæ równie¿ poczytuje siê za zawarty na czas nieoznaczony po up³ywie tego terminu. 
+
+Zatem, w kontekœcie pytania, najem zawarty na czas d³u¿szy ni¿ lat dziesiêæ, po up³ywie tego terminu, staje siê najmem na czas nieoznaczony. Odpowiedzi b) i c) s¹ niepoprawne, poniewa¿ dotycz¹ d³u¿szych okresów, które nie s¹ wymagane do przekszta³cenia najmu w czas nieoznaczony.
+
+**Podstawa prawna:**
+- Kodeks cywilny, Art. 661 § 1 i § 2.",False,True,[661]
+24,"Question: Zgodnie z Kodeksem cywilnym, w razie zbycia przez finansuj¹cego rzeczy bêd¹cej przedmiotem umowy leasingu:
+    
+            a) nabywca wstêpuje w stosunek leasingu na miejsce finansuj¹cego, a finansuj¹cy powinien niezw³ocznie zawiadomiæ korzystaj¹cego o zbyciu rzeczy
+            b) nabywca wstêpuje w stosunek leasingu na miejsce finansuj¹cego, a finansuj¹cy powinien niezw³ocznie uzyskaæ zgodê korzystaj¹cego na zbycie rzeczy
+            c) nabywca wstêpuje w stosunek leasingu na miejsce finansuj¹cego, o ile umowa leasingu zosta³a zawarta na czas nie krótszy ni¿ rok
+            ",A,art. 70914 k.c.,"OdpowiedŸ: **a)** nabywca wstêpuje w stosunek leasingu na miejsce finansuj¹cego, a finansuj¹cy powinien niezw³ocznie zawiadomiæ korzystaj¹cego o zbyciu rzeczy.
+
+**Wyjaœnienie:**
+Zgodnie z art. 70914 § 1 Kodeksu cywilnego, w przypadku zbycia rzeczy przez finansuj¹cego, nabywca wstêpuje w stosunek leasingu na miejsce finansuj¹cego. Oznacza to, ¿e nowy w³aœciciel rzeczy przejmuje prawa i obowi¹zki wynikaj¹ce z umowy leasingu. Dodatkowo, art. 70914 § 2 nak³ada na finansuj¹cego obowi¹zek niezw³ocznego zawiadomienia korzystaj¹cego o zbyciu rzeczy. 
+
+Odpowiedzi b) i c) s¹ nieprawid³owe, poniewa¿:
+- OdpowiedŸ b) sugeruje, ¿e finansuj¹cy musi uzyskaæ zgodê korzystaj¹cego na zbycie rzeczy, co nie jest wymagane przez przepisy.
+- OdpowiedŸ c) wprowadza dodatkowy warunek dotycz¹cy czasu trwania umowy leasingu, który nie jest przewidziany w przepisach.
+
+**Podstawa prawna:**
+- Art. 70914 Kodeksu cywilnego:
+  - § 1. W razie zbycia rzeczy przez finansuj¹cego nabywca wstêpuje w stosunek leasingu na miejsce finansuj¹cego.
+  - § 2. Finansuj¹cy powinien niezw³ocznie zawiadomiæ korzystaj¹cego o zbyciu rzeczy.",True,True,[70914]
+25,"Question: Zgodnie z Kodeksem cywilnym, testament sporz¹dzony w formie aktu notarialnego mo¿e zawieraæ rozrz¹dzenia:
+    
+            a) wiêcej ni¿ jednego spadkodawcy
+            b) obojga ma³¿onków, tylko wtedy, gdy rozrz¹dzenia dotycz¹ ich maj¹tku wspólnego
+            c) tylko jednego spadkodawcy
+            ",C,art. 942 k.c.,"OdpowiedŸ: **c) tylko jednego spadkodawcy**
+
+**Wyjaœnienie:**
+Zgodnie z polskim prawem cywilnym, testament sporz¹dzony w formie aktu notarialnego mo¿e byæ sporz¹dzony tylko przez jednego spadkodawcê. Przepisy Kodeksu cywilnego nie przewiduj¹ mo¿liwoœci sporz¹dzenia testamentu przez wiêcej ni¿ jedn¹ osobê w jednym akcie notarialnym. Ka¿dy spadkodawca musi sporz¹dziæ swój testament oddzielnie, nawet jeœli dotyczy on wspólnego maj¹tku ma³¿onków.
+
+Zgodnie z art. 950 Kodeksu cywilnego, testament mo¿e byæ sporz¹dzony w formie aktu notarialnego, ale nie ma mowy o ³¹czeniu testamentów dwóch lub wiêcej spadkodawców w jednym dokumencie. 
+
+**Odpowiedni przepis:**
+- Art. 950 Kodeksu cywilnego: ""Testament mo¿e byæ sporz¹dzony w formie aktu notarialnego."" 
+
+W zwi¹zku z tym, odpowiedŸ c) jest poprawna, poniewa¿ testament mo¿e dotyczyæ tylko jednego spadkodawcy.",True,False,[950]
+26,"Question: Zgodnie z Kodeksem cywilnym, wykonawca testamentu:
+    
+            a) nie mo¿e byæ pozywany w sprawach wynikaj¹cych z zarz¹du spadkiem, jego zorganizowan¹ czêœci¹ lub oznaczonym sk³adnikiem
+            b) mo¿e pozywaæ i byæ pozywany w sprawach wynikaj¹cych z zarz¹du spadkiem, jego zorganizowan¹ czêœci¹ lub oznaczonym sk³adnikiem
+            c) nie mo¿e pozywaæ w sprawach o prawa nale¿¹ce do spadku i byæ pozwany w sprawach o d³ugi spadkowe
+            ",B,art. 988 § 2 k.c.,"OdpowiedŸ: **b) mo¿e pozywaæ i byæ pozywany w sprawach wynikaj¹cych z zarz¹du spadkiem, jego zorganizowan¹ czêœci¹ lub oznaczonym sk³adnikiem.**
+
+**Wyjaœnienie:**
+Wykonawca testamentu, zgodnie z przepisami Kodeksu cywilnego, ma prawo do podejmowania dzia³añ w imieniu spadku, co obejmuje zarówno mo¿liwoœæ pozywania, jak i bycia pozywanym w sprawach zwi¹zanych z zarz¹dem spadkiem. Zgodnie z art. 1020 Kodeksu cywilnego, wykonawca testamentu jest odpowiedzialny za wykonanie woli spadkodawcy, co oznacza, ¿e ma prawo do podejmowania dzia³añ prawnych w celu realizacji tej woli. 
+
+W szczególnoœci, art. 1020 § 1 Kodeksu cywilnego stanowi, ¿e wykonawca testamentu ma prawo do podejmowania wszelkich czynnoœci niezbêdnych do zarz¹dzania spadkiem, co obejmuje równie¿ mo¿liwoœæ wystêpowania w sprawach s¹dowych. 
+
+**Przypis do przepisów:**
+- Art. 1020 Kodeksu cywilnego: ""Wykonawca testamentu ma prawo do podejmowania wszelkich czynnoœci niezbêdnych do zarz¹dzania spadkiem.""",True,False,[1020]
+27,"Question: Zgodnie z Kodeksem cywilnym, pe³nomocnictwo do z³o¿enia oœwiadczenia o przyjêciu lub o odrzuceniu spadku powinno byæ:
+    
+            a) pisemne
+            b) pisemne z podpisem urzêdowo poœwiadczonym
+            c) wy³¹cznie w formie aktu notarialnego
+            ",B,art. 1018 § 3 zdanie trzecie k.c.,"OdpowiedŸ: **b) pisemne z podpisem urzêdowo poœwiadczonym**
+
+**Wyjaœnienie:**
+Zgodnie z przepisami Kodeksu cywilnego, pe³nomocnictwo do z³o¿enia oœwiadczenia o przyjêciu lub odrzuceniu spadku powinno byæ udzielone w formie pisemnej z podpisem urzêdowo poœwiadczonym. W szczególnoœci, art. 99 § 1 Kodeksu cywilnego stanowi, ¿e je¿eli do wa¿noœci czynnoœci prawnej potrzebna jest szczególna forma, pe³nomocnictwo do dokonania tej czynnoœci powinno byæ udzielone w tej samej formie. W przypadku przyjêcia lub odrzucenia spadku, wymagana jest forma pisemna z poœwiadczeniem notarialnym, co zapewnia odpowiedni¹ ochronê interesów stron.
+
+**Odniesienie do przepisów:**
+- Art. 99 Kodeksu cywilnego: ""Je¿eli do wa¿noœci czynnoœci prawnej potrzebna jest szczególna forma, pe³nomocnictwo do dokonania tej czynnoœci powinno byæ udzielone w tej samej formie.""",True,False,[99]
+28,"Question: Zgodnie z Kodeksem cywilnym, Skarb Pañstwa ani gmina:
+    
+            a) nie mog¹ odrzuciæ spadku, który im przypad³ z mocy ustawy
+            b) nie mog¹ odrzuciæ spadku, który im przypad³ z testamentu
+            c) mog¹ odrzuciæ spadek, który im przypad³ z mocy ustawy
+            ",A,art. 1023 § 1 k.c.,"OdpowiedŸ: **a) nie mog¹ odrzuciæ spadku, który im przypad³ z mocy ustawy.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, Skarb Pañstwa oraz gminy s¹ spadkobiercami ustawowymi, co oznacza, ¿e dziedzicz¹ spadek na podstawie przepisów prawa, a nie na podstawie woli zmar³ego wyra¿onej w testamencie. W przypadku, gdy spadek przypada tym podmiotom z mocy ustawy, nie maj¹ one mo¿liwoœci jego odrzucenia. Odrzucenie spadku jest mo¿liwe tylko w przypadku, gdy spadkobierca jest osob¹ fizyczn¹, a nie osob¹ prawn¹, jak¹ jest Skarb Pañstwa czy gmina.
+
+Zgodnie z art. 1012 Kodeksu cywilnego, ""spadkobierca mo¿e odrzuciæ spadek w ca³oœci lub w czêœci w terminie szeœciu miesiêcy od dnia, w którym dowiedzia³ siê o tytule swojego powo³ania do spadku"". Jednak¿e, w przypadku Skarbu Pañstwa i gmin, nie maj¹ oni takiej mo¿liwoœci, poniewa¿ s¹ zobowi¹zani do przyjêcia spadku, który im przypad³ z mocy ustawy.
+
+**Podstawa prawna:**
+- Art. 1012 Kodeksu cywilnego: ""Spadkobierca mo¿e odrzuciæ spadek w ca³oœci lub w czêœci w terminie szeœciu miesiêcy od dnia, w którym dowiedzia³ siê o tytule swojego powo³ania do spadku.""",True,False,[1012]
+29,"Question: Zgodnie z Kodeksem cywilnym, umowny dzia³ spadku:
+    
+            a) zawsze obejmuje ca³y spadek
+            b) mo¿e obj¹æ ca³y spadek lub byæ ograniczony do czêœci spadku
+            c) nie mo¿e byæ ograniczony do czêœci spadku
+            ",B,art. 1038 § 2 k.c.,"OdpowiedŸ: **b) mo¿e obj¹æ ca³y spadek lub byæ ograniczony do czêœci spadku.**
+
+**Wyjaœnienie:**
+Umowny dzia³ spadku, zgodnie z przepisami Kodeksu cywilnego, mo¿e obejmowaæ zarówno ca³y spadek, jak i jego czêœæ. Zgodnie z art. 1035 Kodeksu cywilnego, spadkobiercy mog¹ w drodze umowy ustaliæ sposób podzia³u spadku, co oznacza, ¿e mog¹ zdecydowaæ, czy podzia³ dotyczy ca³ego spadku, czy tylko jego czêœci. W praktyce oznacza to, ¿e spadkobiercy maj¹ elastycznoœæ w ustalaniu warunków podzia³u, co mo¿e byæ korzystne w przypadku, gdy nie wszyscy spadkobiercy s¹ zainteresowani ca³oœci¹ spadku.
+
+**Odniesienie do przepisów:**
+Zgodnie z art. 1035 Kodeksu cywilnego:
+„Spadkobiercy mog¹ w drodze umowy ustaliæ sposób podzia³u spadku, a w szczególnoœci mog¹ ustaliæ, które z rzeczy wchodz¹cych w sk³ad spadku przypadaj¹ poszczególnym spadkobiercom.”
+
+W zwi¹zku z tym, odpowiedŸ b) jest poprawna, poniewa¿ umowny dzia³ spadku mo¿e obejmowaæ zarówno ca³y spadek, jak i jego czêœæ.",True,False,[1035]
+12,"Question: Zgodnie z Kodeksem cywilnym, ka¿dy cz³owiek od chwili urodzenia ma:
+    
+            a) zdolnoœæ prawn¹
+            b) ograniczon¹ zdolnoœæ do czynnoœci prawnych
+            c) pe³n¹ zdolnoœæ do czynnoœci prawnych
+            ",A,art. 8 § 1 k.c.,"OdpowiedŸ: **a) zdolnoœæ prawn¹**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, ka¿dy cz³owiek od chwili urodzenia ma zdolnoœæ prawn¹. Zdolnoœæ prawna oznacza, ¿e ka¿da osoba, niezale¿nie od wieku, ma zdolnoœæ do bycia podmiotem praw i obowi¹zków. Oznacza to, ¿e mo¿e nabywaæ prawa i zaci¹gaæ obowi¹zki, chocia¿ nie zawsze mo¿e to robiæ samodzielnie, co dotyczy na przyk³ad dzieci i osób ubezw³asnowolnionych.
+
+Odpowiedni przepis Kodeksu cywilnego, który to reguluje, to:
+- **Art. 8. § 1.** ""Ka¿dy cz³owiek od chwili urodzenia ma zdolnoœæ prawn¹.""
+
+Z kolei ograniczona zdolnoœæ do czynnoœci prawnych (odpowiedŸ b) dotyczy osób, które ukoñczy³y 13 lat, ale nie osi¹gnê³y pe³noletnoœci, a pe³na zdolnoœæ do czynnoœci prawnych (odpowiedŸ c) nabywana jest z chwil¹ osi¹gniêcia pe³noletnoœci, co reguluje **Art. 11** Kodeksu cywilnego.",True,True,"[8, 11]"
+13,"Question: Zgodnie z Kodeksem cywilnym, dla osoby ubezw³asnowolnionej czêœciowo ustanawia siê:
+    
+            a) kuratelê
+            b) opiekê
+            c) prokurê
+            ",A,art. 16 § 2 k.c.,"OdpowiedŸ: **a) kuratelê**
+
+**Wyjaœnienie:**
+Zgodnie z polskim Kodeksem cywilnym, osoba ubezw³asnowolniona czêœciowo potrzebuje wsparcia w prowadzeniu swoich spraw, ale nie jest ca³kowicie pozbawiona zdolnoœci do czynnoœci prawnych. W takim przypadku ustanawia siê dla niej kuratelê. Artyku³ 16 Kodeksu cywilnego jasno stwierdza, ¿e ""dla osoby ubezw³asnowolnionej czêœciowo ustanawia siê kuratelê"". 
+
+W przeciwieñstwie do tego, opieka (odpowiedŸ b) jest ustanawiana dla osób ubezw³asnowolnionych ca³kowicie, co jest regulowane w artykule 13 Kodeksu cywilnego. Prokura (odpowiedŸ c) dotyczy pe³nomocnictwa udzielanego w kontekœcie dzia³alnoœci gospodarczej i nie ma zastosowania w kontekœcie ubezw³asnowolnienia.
+
+**Odniesienie do przepisów:**
+- Art. 16 Kodeksu cywilnego: ""Dla osoby ubezw³asnowolnionej czêœciowo ustanawia siê kuratelê.""
+- Art. 13 Kodeksu cywilnego: ""Dla ubezw³asnowolnionego ca³kowicie ustanawia siê opiekê.""",True,True,"[16, 13]"
+14,"Question: Zgodnie z Kodeksem cywilnym, przepisy o ochronie dóbr osobistych osób fizycznych:
+    
+            a) stosuje siê odpowiednio do osób prawnych
+            b) zawsze stosuje siê wprost do osób prawnych
+            c) nie znajduj¹ nigdy zastosowania do osób prawnych
+            ",A,art. 43 k.c.,"OdpowiedŸ: **a) stosuje siê odpowiednio do osób prawnych**
+
+**Wyjaœnienie:**
+Zgodnie z art. 43 Kodeksu cywilnego, przepisy o ochronie dóbr osobistych osób fizycznych stosuje siê odpowiednio do osób prawnych. Oznacza to, ¿e chocia¿ dobra osobiste s¹ tradycyjnie zwi¹zane z osobami fizycznymi, to jednak w przypadku osób prawnych, takich jak spó³ki czy inne jednostki organizacyjne, równie¿ mog¹ one korzystaæ z ochrony swoich dóbr osobistych, ale w sposób dostosowany do ich specyfiki.
+
+Przepisy te nie stosuj¹ siê wprost do osób prawnych (co wyklucza odpowiedŸ b), ani te¿ nie s¹ ca³kowicie wy³¹czone (co wyklucza odpowiedŸ c). Ochrona dóbr osobistych osób prawnych obejmuje takie aspekty jak dobra reputacja, honor, czy inne wartoœci, które mog¹ byæ naruszane w wyniku dzia³añ osób trzecich.
+
+**Odniesienie do przepisów:**
+- Art. 43 Kodeksu cywilnego: ""Przepisy o ochronie dóbr osobistych osób fizycznych stosuje siê odpowiednio do osób prawnych.""",True,True,[43]
+15,"Question: Zgodnie z Kodeksem cywilnym, firma (przedsiêbiorcy):
+    
+            a) nie mo¿e byæ zbyta
+            b) mo¿e byæ zbyta
+            c) mo¿e byæ zbyta, je¿eli przepis szczególny tak stanowi
+            ",A,art. 439 § 1 k.c.,"OdpowiedŸ: **c) mo¿e byæ zbyta, je¿eli przepis szczególny tak stanowi.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, firma przedsiêbiorcy jako taka nie mo¿e byæ zbyta. Zgodnie z art. 439 § 1 Kodeksu cywilnego, firma nie mo¿e byæ zbyta. Jednak¿e, przedsiêbiorca mo¿e upowa¿niæ innego przedsiêbiorcê do korzystania ze swojej firmy, co nie wprowadza w b³¹d. W praktyce oznacza to, ¿e chocia¿ sama firma nie mo¿e byæ zbyta, to mo¿liwe jest zbycie przedsiêbiorstwa jako ca³oœci, co obejmuje równie¿ prawo do korzystania z firmy. 
+
+W zwi¹zku z tym, odpowiedŸ c) jest poprawna, poniewa¿ wskazuje, ¿e zbycie firmy mo¿e byæ mo¿liwe, jeœli przewiduj¹ to przepisy szczególne, co mo¿e odnosiæ siê do sytuacji, w których przedsiêbiorstwo jako ca³oœæ jest zbywane, a nie sama firma jako nazwa.
+
+**Odniesienie do przepisów:**
+- Art. 439 Kodeksu cywilnego: ""Firma nie mo¿e byæ zbyta. Przedsiêbiorca mo¿e upowa¿niæ innego przedsiêbiorcê do korzystania ze swej firmy, je¿eli nie wprowadza to w b³¹d.""",False,True,[439]
+16,"Question: Zgodnie z Kodeksem cywilnym, czêœci¹ sk³adow¹ rzeczy jest wszystko, co nie mo¿e byæ od niej od³¹czone bez uszkodzenia lub istotnej zmiany ca³oœci albo bez uszkodzenia lub istotnej zmiany przedmiotu od³¹czonego; za czêœci sk³adowe nieruchomoœci uwa¿a siê tak¿e:
+    
+            a) rzeczy ruchome potrzebne do korzystania z niej zgodnie z jej przeznaczeniem, je¿eli pozostaj¹ z ni¹ w faktycznym zwi¹zku odpowiadaj¹cym temu celowi
+            b) prawa zwi¹zane z jej w³asnoœci¹
+            c) przedmioty po³¹czone z ni¹ tylko dla przemijaj¹cego u¿ytku
+            ",B,art. 50 k.c.,"OdpowiedŸ: **a) rzeczy ruchome potrzebne do korzystania z niej zgodnie z jej przeznaczeniem, je¿eli pozostaj¹ z ni¹ w faktycznym zwi¹zku odpowiadaj¹cym temu celowi.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, czêœci sk³adowe nieruchomoœci obejmuj¹ nie tylko elementy, które s¹ trwale z ni¹ zwi¹zane, ale tak¿e rzeczy ruchome, które s¹ niezbêdne do korzystania z nieruchomoœci zgodnie z jej przeznaczeniem, o ile pozostaj¹ z ni¹ w odpowiednim zwi¹zku. Artyku³ 51 Kodeksu cywilnego definiuje przynale¿noœci jako rzeczy ruchome, które s¹ potrzebne do korzystania z innej rzeczy (rzeczy g³ównej) i pozostaj¹ z ni¹ w faktycznym zwi¹zku. 
+
+Natomiast odpowiedzi b) i c) s¹ nieprawid³owe. OdpowiedŸ b) odnosi siê do praw zwi¹zanych z w³asnoœci¹, które nie s¹ traktowane jako czêœci sk³adowe, a odpowiedŸ c) dotyczy przedmiotów po³¹czonych z nieruchomoœci¹ tylko dla przemijaj¹cego u¿ytku, które zgodnie z art. 47 § 3 Kodeksu cywilnego nie stanowi¹ czêœci sk³adowych.
+
+**Odpowiednie przepisy:**
+- Art. 51 Kodeksu cywilnego: ""Przynale¿noœciami s¹ rzeczy ruchome potrzebne do korzystania z innej rzeczy (rzeczy g³ównej) zgodnie z jej przeznaczeniem, je¿eli pozostaj¹ z ni¹ w faktycznym zwi¹zku odpowiadaj¹cym temu celowi.""
+- Art. 47 Kodeksu cywilnego: ""Czêœci¹ sk³adow¹ rzeczy jest wszystko, co nie mo¿e byæ od niej od³¹czone bez uszkodzenia lub istotnej zmiany ca³oœci albo bez uszkodzenia lub istotnej zmiany przedmiotu od³¹czonego.""",False,False,"[51, 47]"
+17,"Question: Zgodnie z Kodeksem cywilnym, je¿eli ustawa uzale¿nia wa¿noœæ albo okreœlone skutki czynnoœci prawnej od urzêdowego poœwiadczenia daty, poœwiadczenie takie jest skuteczne tak¿e wzglêdem osób nieuczestnicz¹cych w dokonaniu tej czynnoœci prawnej (data pewna); czynnoœæ prawna ma datê pewn¹ tak¿e:
+    
+            a) w razie stwierdzenia dokonania czynnoœci w jakimkolwiek dokumencie urzêdowym – od daty dokumentu urzêdowego
+            b) w razie stwierdzenia dokonania czynnoœci w jakimkolwiek dokumencie urzêdowym – po 7 dniach od daty dokumentu urzêdowego
+            c) w razie stwierdzenia dokonania czynnoœci w jakimkolwiek dokumencie – od dnia nastêpnego przypadaj¹cego po dacie podpisania tego dokumentu
+            ",A,art. 81 § 2 pkt 1 k.c.,"OdpowiedŸ: **a) w razie stwierdzenia dokonania czynnoœci w jakimkolwiek dokumencie urzêdowym – od daty dokumentu urzêdowego.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 81 § 2 Kodeksu cywilnego, czynnoœæ prawna ma datê pewn¹ w przypadku stwierdzenia dokonania czynnoœci w jakimkolwiek dokumencie urzêdowym, a skutecznoœæ tego poœwiadczenia dotyczy tak¿e osób, które nie uczestniczy³y w dokonaniu tej czynnoœci. Oznacza to, ¿e data dokumentu urzêdowego jest uznawana za datê pewn¹, co jest kluczowe dla ustalenia momentu, w którym czynnoœæ prawna wywo³uje skutki prawne.
+
+**Podstawa prawna:**
+- Kodeks cywilny, Art. 81 § 2 pkt 1: ""Czynnoœæ prawna ma datê pewn¹ tak¿e w wypadkach nastêpuj¹cych: 1) w razie stwierdzenia dokonania czynnoœci w jakimkolwiek dokumencie urzêdowym – od daty dokumentu urzêdowego.""",True,True,[81]
+18,"Question: Zgodnie z Kodeksem cywilnym, warunek niemo¿liwy, jak równie¿ warunek przeciwny ustawie lub zasadom wspó³¿ycia spo³ecznego:
+    
+            a) poci¹ga za sob¹ niewa¿noœæ czynnoœci prawnej, gdy jest zawieszaj¹cy
+            b) poci¹ga za sob¹ niewa¿noœæ czynnoœci prawnej, gdy jest rozwi¹zuj¹cy
+            c) uwa¿a siê zawsze za niezastrze¿ony niezale¿nie od tego, czy jest zawieszaj¹cy, czy rozwi¹zuj¹cy
+            ",A,art. 94 k.c.,"OdpowiedŸ: **a) poci¹ga za sob¹ niewa¿noœæ czynnoœci prawnej, gdy jest zawieszaj¹cy.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 94 Kodeksu cywilnego, warunek niemo¿liwy oraz warunek przeciwny ustawie lub zasadom wspó³¿ycia spo³ecznego prowadzi do niewa¿noœci czynnoœci prawnej, gdy jest to warunek zawieszaj¹cy. Oznacza to, ¿e jeœli czynnoœæ prawna jest uzale¿niona od spe³nienia warunku, który jest niemo¿liwy do zrealizowania, to ta czynnoœæ prawna jest niewa¿na. Natomiast w przypadku warunku rozwi¹zuj¹cego, który jest niemo¿liwy, uwa¿a siê go za niezastrze¿ony, co oznacza, ¿e nie wp³ywa na wa¿noœæ czynnoœci prawnej.
+
+**Podstawa prawna:**
+- Art. 94 Kodeksu cywilnego: ""Warunek niemo¿liwy, jak równie¿ warunek przeciwny ustawie lub zasadom wspó³¿ycia spo³ecznego poci¹ga za sob¹ niewa¿noœæ czynnoœci prawnej, gdy jest zawieszaj¹cy; uwa¿a siê za niezastrze¿ony, gdy jest rozwi¹zuj¹cy.""",True,True,[94]
+19,"Question: Zgodnie z Kodeksem cywilnym, je¿eli termin jest oznaczony w miesi¹cach lub latach, a ci¹g³oœæ terminu nie jest wymagana:
+    
+            a) miesi¹c liczy siê za dni trzydzieœci, a rok za dni trzysta szeœædziesi¹t piêæ
+            b) miesi¹c liczy siê za dni trzydzieœci jeden, a rok za dni trzysta szeœædziesi¹t szeœæ
+            c) miesi¹c liczy siê za dni trzydzieœci jeden, a rok za dni trzysta szeœædziesi¹t piêæ, o ile ostatni dzieñ terminu nie nastêpuje w roku przestêpnym
+            ",A,art. 114 k.c.,"OdpowiedŸ: **a) miesi¹c liczy siê za dni trzydzieœci, a rok za dni trzysta szeœædziesi¹t piêæ.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 114 Kodeksu cywilnego, je¿eli termin jest oznaczony w miesi¹cach lub latach, a ci¹g³oœæ terminu nie jest wymagana, miesi¹c liczy siê za dni trzydzieœci, a rok za dni trzysta szeœædziesi¹t piêæ. Oznacza to, ¿e w przypadku obliczania terminów w miesi¹cach i latach, przyjmuje siê te wartoœci, co jest zgodne z odpowiedzi¹ a).
+
+**Podstawa prawna:**
+- Art. 114 Kodeksu cywilnego: ""Je¿eli termin jest oznaczony w miesi¹cach lub latach, a ci¹g³oœæ terminu nie jest wymagana, miesi¹c liczy siê za dni trzydzieœci, a rok za dni trzysta szeœædziesi¹t piêæ.""",True,True,[114]
+20,"Question: Zgodnie z Kodeksem cywilnym, terminy przedawnienia roszczeñ maj¹tkowych:
+    
+            a) zawsze mog¹ byæ przed³u¿ane, ale nigdy nie mog¹ byæ skracane przez czynnoœæ prawn¹
+            b) zawsze mog¹ byæ skracane, ale nigdy nie mog¹ byæ przed³u¿ane przez czynnoœæ prawn¹
+            c) nie mog¹ byæ skracane ani przed³u¿ane przez czynnoœæ prawn¹
+            ",C,art. 119 k.c.,"OdpowiedŸ: **c) nie mog¹ byæ skracane ani przed³u¿ane przez czynnoœæ prawn¹.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, terminy przedawnienia roszczeñ maj¹tkowych s¹ œciœle okreœlone przez przepisy prawa i nie mog¹ byæ zmieniane przez strony umowy. Artyku³ 117 Kodeksu cywilnego stanowi, ¿e roszczenia maj¹tkowe ulegaj¹ przedawnieniu, a terminy przedawnienia s¹ okreœlone w przepisach prawa. W szczególnoœci, § 2 tego artyku³u wskazuje, ¿e zrzeczenie siê zarzutu przedawnienia przed up³ywem terminu jest niewa¿ne, co podkreœla, ¿e strony nie mog¹ dowolnie modyfikowaæ terminów przedawnienia.
+
+Dodatkowo, artyku³ 118 Kodeksu cywilnego okreœla ogólne terminy przedawnienia, które wynosz¹ szeœæ lat dla roszczeñ maj¹cych charakter ogólny oraz trzy lata dla roszczeñ o œwiadczenia okresowe. Te terminy s¹ ustalone przez ustawodawcê i nie mog¹ byæ zmieniane przez czynnoœci prawne stron.
+
+**Podstawa prawna:**
+- Kodeks cywilny, Art. 117 i Art. 118.",True,False,"[117, 118]"
+21,"Question: Zgodnie z Kodeksem cywilnym, domniemywa siê, ¿e mury, p³oty, miedze, rowy i inne urz¹dzenia podobne, znajduj¹ce siê na granicy gruntów s¹siaduj¹cych:
+    
+            a) s³u¿¹ do wspólnego u¿ytku s¹siadów
+            b) zawsze stanowi¹ wspó³w³asnoœæ ³¹czn¹ s¹siadów
+            c) stanowi¹ rzeczy niczyje
+            ",A,art. 154 § 1 k.c.,"OdpowiedŸ: **a) s³u¿¹ do wspólnego u¿ytku s¹siadów**
+
+**Wyjaœnienie:**
+Zgodnie z art. 154 § 1 Kodeksu cywilnego, domniemywa siê, ¿e mury, p³oty, miedze, rowy i inne urz¹dzenia podobne, znajduj¹ce siê na granicy gruntów s¹siaduj¹cych, s³u¿¹ do wspólnego u¿ytku s¹siadów. Oznacza to, ¿e takie urz¹dzenia s¹ traktowane jako wspólne dla obu w³aœcicieli gruntów, co wi¹¿e siê z obowi¹zkiem ponoszenia wspólnych kosztów ich utrzymania. 
+
+Wybór odpowiedzi b) ""zawsze stanowi¹ wspó³w³asnoœæ ³¹czn¹ s¹siadów"" jest niepoprawny, poniewa¿ domniemanie to mo¿na obaliæ, jeœli udowodni siê, ¿e urz¹dzenia te s¹ w³asnoœci¹ jednego z s¹siadów. OdpowiedŸ c) ""stanowi¹ rzeczy niczyje"" równie¿ jest b³êdna, poniewa¿ takie urz¹dzenia nie s¹ traktowane jako rzeczy niczyje, lecz jako wspólne dla s¹siadów.
+
+**Podstawa prawna:**
+- Kodeks cywilny, Art. 154 § 1.",True,True,[154]
+22,"Question: Zgodnie z Kodeksem cywilnym, roszczenie o zniesienie wspó³w³asnoœci:
+    
+            a) przedawnia siê z up³ywem lat trzech
+            b) przedawnia siê z up³ywem lat szeœciu
+            c) nie ulega przedawnieniu
+            ",C,art. 220 k.c.,"OdpowiedŸ: **c) nie ulega przedawnieniu**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, roszczenie o zniesienie wspó³w³asnoœci nie ulega przedawnieniu. Oznacza to, ¿e ka¿dy ze wspó³w³aœcicieli ma prawo ¿¹daæ zniesienia wspó³w³asnoœci w dowolnym momencie, niezale¿nie od up³ywu czasu. Przepis ten jest zawarty w artykule 220 Kodeksu cywilnego, który stanowi, ¿e ""roszczenie o zniesienie wspó³w³asnoœci nie ulega przedawnieniu"".
+
+**Odniesienie do przepisów:**
+- Art. 220 Kodeksu cywilnego: ""Roszczenie o zniesienie wspó³w³asnoœci nie ulega przedawnieniu.""",True,True,[220]
+23,"Question: Zgodnie z Kodeksem cywilnym, umowa o przed³u¿enie wieczystego u¿ytkowania:
+    
+            a) powinna byæ zawarta w formie aktu notarialnego
+            b) mo¿e byæ zawarta w formie pisemnej
+            c) nie jest nigdy dopuszczalna w ¿adnej formie
+            ",A,art. 236 § 3 k.c.,"OdpowiedŸ: **a) powinna byæ zawarta w formie aktu notarialnego.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 236 § 3 Kodeksu cywilnego, umowa o przed³u¿enie wieczystego u¿ytkowania musi byæ zawarta w formie aktu notarialnego. Jest to wymóg formalny, który ma na celu zapewnienie odpowiedniej ochrony prawnej dla stron umowy oraz dla osób trzecich, które mog¹ byæ zainteresowane stanem prawnym nieruchomoœci. Forma aktu notarialnego jest szczególnie istotna w przypadku umów dotycz¹cych nieruchomoœci, poniewa¿ zapewnia ich skutecznoœæ oraz mo¿liwoœæ ujawnienia w ksiêgach wieczystych.
+
+**Przypisane przepisy:**
+- Kodeks cywilny, Art. 236 § 3: ""Umowa o przed³u¿enie wieczystego u¿ytkowania powinna byæ zawarta w formie aktu notarialnego.""",True,True,[236]
+24,"Question: Zgodnie z Kodeksem cywilnym, s³u¿ebnoœæ osobista:
+    
+            a) nie mo¿e byæ nabyta przez zasiedzenie
+            b) mo¿e byæ nabyta przez zasiedzenie tylko w wypadku, gdy polega na korzystaniu z trwa³ego i widocznego urz¹dzenia
+            c) mo¿e byæ nabyta przez zasiedzenie, ale tylko przez dzieci, rodziców i ma³¿onka uprawnionego
+            ",A,art. 304 k.c.,"OdpowiedŸ: **a) nie mo¿e byæ nabyta przez zasiedzenie**
+
+**Wyjaœnienie:**
+S³u¿ebnoœæ osobista, zgodnie z przepisami Kodeksu cywilnego, nie mo¿e byæ nabyta przez zasiedzenie. Zgodnie z art. 304 Kodeksu cywilnego, ""s³u¿ebnoœci osobistej nie mo¿na nabyæ przez zasiedzenie"". Oznacza to, ¿e nie ma mo¿liwoœci, aby osoba, która korzysta z cudzej nieruchomoœci w sposób odpowiadaj¹cy treœci s³u¿ebnoœci osobistej, naby³a to prawo w drodze zasiedzenia, jak ma to miejsce w przypadku s³u¿ebnoœci gruntowych, które mog¹ byæ nabywane przez zasiedzenie, ale tylko w okreœlonych warunkach.
+
+**Odniesienie do przepisów:**
+- Art. 304 Kodeksu cywilnego: ""S³u¿ebnoœci osobistej nie mo¿na nabyæ przez zasiedzenie.""",True,True,[304]
+25,"Question: Zgodnie z Kodeksem cywilnym, zw³oka wierzyciela wzglêdem jednego z d³u¿ników solidarnych:
+    
+            a) ma skutek tak¿e wzglêdem wspó³d³u¿ników
+            b) nigdy nie ma skutku wzglêdem wspó³d³u¿ników
+            c) nie ma skutku wzglêdem wspó³d³u¿ników niewyp³acalnych
+            ",A,art. 374 § 2 k.c.,"OdpowiedŸ: **a) ma skutek tak¿e wzglêdem wspó³d³u¿ników.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 374 Kodeksu cywilnego, zw³oka wierzyciela wzglêdem jednego z d³u¿ników solidarnych ma skutek tak¿e wzglêdem wspó³d³u¿ników. Oznacza to, ¿e jeœli wierzyciel nie podejmuje dzia³añ w celu zaspokojenia swojego roszczenia wobec jednego z d³u¿ników solidarnych, to ta sama sytuacja dotyczy równie¿ pozosta³ych d³u¿ników. W praktyce oznacza to, ¿e wspó³d³u¿nicy nie mog¹ byæ poci¹gniêci do odpowiedzialnoœci, dopóki wierzyciel nie podejmie dzia³añ w stosunku do jednego z nich.
+
+**Przypis do przepisów:**
+- Art. 374 Kodeksu cywilnego: ""Zw³oka wierzyciela wzglêdem jednego z d³u¿ników solidarnych ma skutek tak¿e wzglêdem wspó³d³u¿ników.""",True,True,[374]
+26,"Question: Zgodnie z Kodeksem cywilnym, je¿eli jedna ze stron, wyzyskuj¹c przymusowe po³o¿enie, niedo³êstwo, niedoœwiadczenie lub brak dostatecznego rozeznania drugiej strony co do przedmiotu umowy, w zamian za swoje œwiadczenie przyjmuje albo zastrzega dla siebie lub dla osoby trzeciej œwiadczenie, którego wartoœæ w chwili zawarcia umowy przewy¿sza w ra¿¹cym stopniu wartoœæ jej w³asnego œwiadczenia, druga strona przed up³ywem terminów wygaœniêcia uprawnieñ mo¿e:
+    
+            a) ¿¹daæ wy³¹cznie rozwi¹zania umowy
+            b) ¿¹daæ wy³¹cznie zwiêkszenia œwiadczenia drugiej strony, ale nie mo¿e ¿¹daæ uniewa¿nienia umowy
+            c) wed³ug swego wyboru ¿¹daæ zmniejszenia swego œwiadczenia lub zwiêkszenia nale¿nego jej œwiadczenia albo uniewa¿nienia umowy
+            ",C,art. 388 § 1 k.c.,"OdpowiedŸ: **c) wed³ug swego wyboru ¿¹daæ zmniejszenia swego œwiadczenia lub zwiêkszenia nale¿nego jej œwiadczenia albo uniewa¿nienia umowy.**
+
+**Wyjaœnienie:**
+Zgodnie z art. 388 Kodeksu cywilnego, je¿eli jedna ze stron umowy wyzyskuje przymusowe po³o¿enie, niedo³êstwo, niedoœwiadczenie lub brak dostatecznego rozeznania drugiej strony co do przedmiotu umowy, a w zamian za swoje œwiadczenie przyjmuje lub zastrzega dla siebie œwiadczenie, którego wartoœæ w chwili zawarcia umowy przewy¿sza w ra¿¹cym stopniu wartoœæ jej w³asnego œwiadczenia, druga strona ma prawo do wyboru. Mo¿e ¿¹daæ zmniejszenia swojego œwiadczenia, zwiêkszenia nale¿nego jej œwiadczenia lub uniewa¿nienia umowy. 
+
+Przepis ten ma na celu ochronê stron, które znalaz³y siê w niekorzystnej sytuacji w wyniku nierównowagi w umowie, co mo¿e prowadziæ do ra¿¹cej krzywdy. Wybór, który przys³uguje stronie poszkodowanej, daje jej mo¿liwoœæ dostosowania umowy do bardziej sprawiedliwych warunków.
+
+**Podstawa prawna:**
+- Kodeks cywilny, art. 388.",True,True,[388]
+27,"Question: Zgodnie z Kodeksem cywilnym, umowa dostawy:
+    
+            a) wymaga formy pisemnej pod rygorem niewa¿noœci
+            b) wymaga formy aktu notarialnego pod rygorem niewa¿noœci
+            c) powinna byæ stwierdzona pismem
+            ",C,art. 606 k.c.,"OdpowiedŸ: **c) powinna byæ stwierdzona pismem**
+
+**Wyjaœnienie:**
+Zgodnie z art. 606 Kodeksu cywilnego, umowa dostawy powinna byæ stwierdzona pismem. Oznacza to, ¿e chocia¿ nie jest to wymóg formalny pod rygorem niewa¿noœci, to jednak dla celów dowodowych i jasnoœci relacji miêdzy stronami, zaleca siê, aby umowa by³a spisana. W praktyce, posiadanie pisemnej formy umowy u³atwia dochodzenie roszczeñ i rozwi¹zywanie ewentualnych sporów.
+
+**Odniesienie do przepisów:**
+- Art. 606 Kodeksu cywilnego: ""Umowa dostawy powinna byæ stwierdzona pismem.""",True,True,[606]
+28,"Question: Zgodnie z Kodeksem cywilnym, dzier¿awê zawart¹ na czas d³u¿szy ni¿ lat trzydzieœci poczytuje siê po up³ywie tego terminu za:
+    
+            a) zawart¹ na czas nieoznaczony
+            b) przed³u¿on¹ o rok
+            c) zakoñczon¹
+            ",A,art. 695 § 1 k.c.,"OdpowiedŸ: **a) zawart¹ na czas nieoznaczony**
+
+**Wyjaœnienie:**
+Zgodnie z art. 695 § 1 Kodeksu cywilnego, dzier¿awê zawart¹ na czas d³u¿szy ni¿ lat trzydzieœci poczytuje siê po up³ywie tego terminu za zawart¹ na czas nieoznaczony. Oznacza to, ¿e po up³ywie trzydziestu lat umowa dzier¿awy nie koñczy siê automatycznie, lecz przekszta³ca siê w umowê na czas nieoznaczony, co daje stronom wiêksz¹ elastycznoœæ w dalszym korzystaniu z przedmiotu dzier¿awy.
+
+**Przypis do przepisów:**
+- Art. 695 Kodeksu cywilnego:
+  - § 1. Dzier¿awê zawart¹ na czas d³u¿szy ni¿ lat trzydzieœci poczytuje siê po up³ywie tego terminu za zawart¹ na czas nieoznaczony.",True,True,[695]
+29,"Question: Zgodnie z Kodeksem cywilnym, przez umowê sk³adu przedsiêbiorca sk³adowy zobowi¹zuje siê do przechowania:
+    
+            a) za wynagrodzeniem, oznaczonych w umowie nieruchomoœci
+            b) za wynagrodzeniem, oznaczonych w umowie rzeczy ruchomych
+            c) bez wynagrodzenia, oznaczonych w umowie nieruchomoœci
+            ",B,art. 853 § 1 k.c.,"OdpowiedŸ: **b) za wynagrodzeniem, oznaczonych w umowie rzeczy ruchomych**
+
+**Wyjaœnienie:**
+Zgodnie z art. 853 Kodeksu cywilnego, umowa sk³adu polega na tym, ¿e przedsiêbiorca sk³adowy zobowi¹zuje siê do przechowania rzeczy ruchomych za wynagrodzeniem. Oznacza to, ¿e umowa sk³adu dotyczy wy³¹cznie rzeczy ruchomych, a nie nieruchomoœci. W kontekœcie umowy sk³adu, rzeczy musz¹ byæ oznaczone w umowie, co równie¿ jest podkreœlone w tym artykule.
+
+**Odniesienie do przepisów:**
+- Art. 853 § 1 Kodeksu cywilnego: ""Przez umowê sk³adu przedsiêbiorca sk³adowy zobowi¹zuje siê do przechowania, za wynagrodzeniem, oznaczonych w umowie rzeczy ruchomych.""",True,True,[853]
+30,"Question: Zgodnie z Kodeksem cywilnym, spadkobierca nabywa spadek:
+    
+            a) zawsze z chwil¹ otwarcia testamentu
+            b) z chwil¹ otwarcia spadku
+            c) z chwil¹ z³o¿enia oœwiadczenia o przyjêciu spadku wprost
+            ",B,art. 925 k.c.,"OdpowiedŸ: **b) z chwil¹ otwarcia spadku**
+
+**Wyjaœnienie:**
+Zgodnie z polskim prawem cywilnym, spadek nabywa siê z chwil¹ otwarcia spadku, co ma miejsce w momencie œmierci spadkodawcy. Zgodnie z art. 924 Kodeksu cywilnego, ""Spadek otwiera siê z chwil¹ œmierci spadkodawcy"". Oznacza to, ¿e spadkobiercy nabywaj¹ spadek automatycznie w momencie œmierci spadkodawcy, niezale¿nie od tego, czy spadkobiercy podejm¹ jakiekolwiek dzia³ania w celu przyjêcia spadku.
+
+Odpowiedzi a) i c) s¹ nieprawid³owe, poniewa¿:
+- a) ""z chwil¹ otwarcia testamentu"" - testament nie otwiera spadku, a jedynie okreœla, kto jest spadkobierc¹.
+- c) ""z chwil¹ z³o¿enia oœwiadczenia o przyjêciu spadku wprost"" - przyjêcie spadku jest czynnoœci¹, która mo¿e nast¹piæ po otwarciu spadku, ale nie jest warunkiem nabycia spadku.
+
+**Odniesienie do przepisów:**
+- Art. 924 Kodeksu cywilnego: ""Spadek otwiera siê z chwil¹ œmierci spadkodawcy.""",True,False,[924]
+31,"Question: Zgodnie z Kodeksem cywilnym, fundacja ustanowiona w testamencie przez spadkodawcê mo¿e byæ spadkobierc¹, je¿eli zostanie wpisana do rejestru w ci¹gu:
+    
+            a) dwóch lat od og³oszenia testamentu
+            b) trzech lat od og³oszenia testamentu
+            c) piêciu lat od og³oszenia testamentu
+            ",A,art. 927 § 3 k.c.,"OdpowiedŸ: **b) trzech lat od og³oszenia testamentu**
+
+**Wyjaœnienie:**
+Zgodnie z przepisami Kodeksu cywilnego, fundacja ustanowiona w testamencie przez spadkodawcê mo¿e byæ spadkobierc¹, ale musi zostaæ wpisana do rejestru w ci¹gu trzech lat od og³oszenia testamentu. Przepis ten znajduje siê w art. 5 ust. 1 ustawy z dnia 6 kwietnia 1984 r. o fundacjach, który stanowi, ¿e fundacja mo¿e byæ ustanowiona w testamencie, a jej wpis do rejestru fundacji musi nast¹piæ w terminie trzech lat od og³oszenia testamentu.
+
+**Odniesienie do przepisów:**
+- Ustawa z dnia 6 kwietnia 1984 r. o fundacjach, art. 5 ust. 1.",False,False,[5]
+32,"Question: Zgodnie z Kodeksem cywilnym, spadkodawca (posiadaj¹cy pe³n¹ zdolnoœæ do czynnoœci prawnych):
+    
+            a) mo¿e odwo³aæ ca³y testament, ale nie mo¿e odwo³aæ jego poszczególnych postanowieñ
+            b) mo¿e w ka¿dej chwili odwo³aæ zarówno ca³y testament, jak i jego poszczególne postanowienia
+            c) nigdy nie mo¿e odwo³aæ testamentu
+            ",B,art. 943 k.c.,"OdpowiedŸ: **b) mo¿e w ka¿dej chwili odwo³aæ zarówno ca³y testament, jak i jego poszczególne postanowienia.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, spadkodawca, który posiada pe³n¹ zdolnoœæ do czynnoœci prawnych, ma prawo w ka¿dej chwili odwo³aæ testament w ca³oœci lub w czêœci. Prawo to wynika z zasady swobody testowania, która pozwala spadkodawcy na modyfikacjê swoich dyspozycji dotycz¹cych maj¹tku. Odwo³anie testamentu mo¿e byæ dokonane w formie nowego testamentu lub w inny sposób, który wyra¿a wolê spadkodawcy.
+
+Zgodnie z art. 945 Kodeksu cywilnego:
+- ""Testament mo¿e byæ w ka¿dej chwili odwo³any przez testatora.""
+
+Dodatkowo, art. 946 Kodeksu cywilnego stanowi, ¿e:
+- ""Testament odwo³any przez testatora nie ma mocy prawnej.""
+
+Te przepisy jasno wskazuj¹, ¿e spadkodawca ma pe³ne prawo do zmiany swoich decyzji dotycz¹cych testamentu, co obejmuje zarówno jego ca³kowite odwo³anie, jak i modyfikacjê poszczególnych postanowieñ.",True,False,"[945, 946]"
+33,"Question: Zgodnie z Kodeksem cywilnym, je¿eli spadkodawca powo³a³ kilku spadkobierców testamentowych, a jeden z nich nie chce lub nie mo¿e byæ spadkobierc¹, przeznaczony dla niego udzia³, w braku odmiennej woli spadkodawcy:
+    
+            a) przypada zawsze spadkobiercom ustawowym
+            b) przypada pozosta³ym spadkobiercom testamentowym zawsze w czêœciach równych (przyrost)
+            c) przypada pozosta³ym spadkobiercom testamentowym w stosunku do przypadaj¹cych im udzia³ów (przyrost)
+            ",C,art. 965 k.c.,"OdpowiedŸ: **c) przypada pozosta³ym spadkobiercom testamentowym w stosunku do przypadaj¹cych im udzia³ów (przyrost)**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, w przypadku, gdy spadkodawca powo³a³ kilku spadkobierców testamentowych, a jeden z nich nie chce lub nie mo¿e byæ spadkobierc¹, jego udzia³ w spadku przypada pozosta³ym spadkobiercom testamentowym w stosunku do przypadaj¹cych im udzia³ów. Oznacza to, ¿e jeœli jeden ze spadkobierców zrezygnuje lub nie mo¿e przyj¹æ spadku, jego czêœæ zostaje podzielona proporcjonalnie pomiêdzy pozosta³ych spadkobierców testamentowych, a nie przypada automatycznie spadkobiercom ustawowym.
+
+Zasady te s¹ okreœlone w art. 1035 Kodeksu cywilnego, który mówi o tym, ¿e w przypadku, gdy spadkobierca testamentowy nie mo¿e przyj¹æ spadku, jego udzia³ przypada pozosta³ym spadkobiercom testamentowym w proporcji do ich udzia³ów.
+
+**Odpowiedni przepis:**
+- Art. 1035 Kodeksu cywilnego: ""Je¿eli spadkobierca testamentowy nie mo¿e przyj¹æ spadku, jego udzia³ przypada pozosta³ym spadkobiercom testamentowym w stosunku do przypadaj¹cych im udzia³ów.""",True,False,[1035]
+34,"Question: Zgodnie z Kodeksem cywilnym, przedmiotem zapisu windykacyjnego mo¿e byæ:
+    
+            a) rzecz oznaczona tylko co do gatunku
+            b) przedsiêbiorstwo lub gospodarstwo rolne
+            c) ogó³ praw wspólnika spó³ki kapita³owej
+            ",B,art. 9811 § 2 pkt 3 k.c.,"OdpowiedŸ: **b) przedsiêbiorstwo lub gospodarstwo rolne**
+
+**Wyjaœnienie:**
+Zapis windykacyjny, zgodnie z Kodeksem cywilnym, mo¿e dotyczyæ rzeczy oznaczonych co do to¿samoœci, a tak¿e przedsiêbiorstw i gospodarstw rolnych. Zgodnie z art. 981 Kodeksu cywilnego, przedmiotem zapisu windykacyjnego mog¹ byæ rzeczy, które s¹ w obrocie prawnym, a tak¿e przedsiêbiorstwa i gospodarstwa rolne. 
+
+W przypadku odpowiedzi a) ""rzecz oznaczona tylko co do gatunku"", nie jest to poprawne, poniewa¿ zapis windykacyjny dotyczy rzeczy oznaczonych co do to¿samoœci, a nie tylko co do gatunku. OdpowiedŸ c) ""ogó³ praw wspólnika spó³ki kapita³owej"" równie¿ nie jest poprawna, poniewa¿ zapisy windykacyjne nie mog¹ dotyczyæ ogó³u praw, a jedynie rzeczy lub przedsiêbiorstw.
+
+**Przypis do przepisów:**
+Zgodnie z art. 981 Kodeksu cywilnego:
+„Zapis windykacyjny mo¿e dotyczyæ rzeczy oznaczonej co do to¿samoœci, a tak¿e przedsiêbiorstwa lub gospodarstwa rolnego.”",True,True,[981]
+35,"Question: Zgodnie z Kodeksem cywilnym, oœwiadczenie o przyjêciu lub o odrzuceniu spadku mo¿e byæ z³o¿one:
+    
+            a) w ci¹gu szeœciu miesiêcy od dnia, w którym spadkobierca maj¹cy pe³n¹ zdolnoœæ do czynnoœci prawnych dowiedzia³ siê o tytule swego powo³ania
+            b) w ci¹gu roku od dnia, w którym spadkobierca maj¹cy pe³n¹ zdolnoœæ do czynnoœci prawnych dowiedzia³ siê o tytule swego powo³ania
+            c) nie wczeœniej ni¿ po up³ywie roku od dnia, w którym spadkodawca zmar³
+            ",A,art. 1015 § 1 k.c.,"OdpowiedŸ: **a) w ci¹gu szeœciu miesiêcy od dnia, w którym spadkobierca maj¹cy pe³n¹ zdolnoœæ do czynnoœci prawnych dowiedzia³ siê o tytule swego powo³ania.**
+
+**Wyjaœnienie:**
+Zgodnie z Kodeksem cywilnym, spadkobierca ma obowi¹zek z³o¿yæ oœwiadczenie o przyjêciu lub odrzuceniu spadku w terminie szeœciu miesiêcy od momentu, w którym dowiedzia³ siê o tytule swojego powo³ania do spadku. Termin ten jest okreœlony w art. 1015 Kodeksu cywilnego, który stanowi, ¿e spadkobierca, który ma pe³n¹ zdolnoœæ do czynnoœci prawnych, powinien z³o¿yæ takie oœwiadczenie w ci¹gu szeœciu miesiêcy.
+
+**Odpowiedni przepis:**
+- **Art. 1015 Kodeksu cywilnego**: ""Spadkobierca, który ma pe³n¹ zdolnoœæ do czynnoœci prawnych, mo¿e przyj¹æ lub odrzuciæ spadek w terminie szeœciu miesiêcy od dnia, w którym dowiedzia³ siê o tytule swojego powo³ania.""",True,True,[1015]

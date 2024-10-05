@@ -1,0 +1,1589 @@
+index,question,correct_answer_letter,correct_answer_context,returned_answer,answer_judgment,context_judgment,context_extraction
+1,"Question: Zgodnie z Kodeksem karnym, wystêpkiem jest czyn zabroniony zagro¿ony: 
+    
+            a) grzywn¹ powy¿ej 10 stawek dziennych i kar¹ ograniczenia wolnoœci,
+            b) grzywn¹ nieprzekraczaj¹c¹ 10 000 z³otych lub kar¹ ograniczenia wolnoœci do 1 miesi¹ca,
+            c) grzywn¹ powy¿ej 30 stawek dziennych albo powy¿ej 5 000 z³otych, kar¹ ograniczenia wolnoœci przekraczaj¹c¹ miesi¹c albo kar¹ pozbawienia wolnoœci przekraczaj¹c¹ miesi¹c.
+            ",C,art. 7 § 3 k.k. ,"Poprawna odpowiedŸ to: c) grzywn¹ powy¿ej 30 stawek dziennych albo powy¿ej 5 000 z³otych, kar¹ ograniczenia wolnoœci przekraczaj¹c¹ miesi¹c albo kar¹ pozbawienia wolnoœci przekraczaj¹c¹ miesi¹c.
+
+Wyjaœnienie: Zgodnie z Kodeksem karnym, wystêpkiem jest czyn zabroniony zagro¿ony kar¹ grzywny, kar¹ ograniczenia wolnoœci lub kar¹ pozbawienia wolnoœci, przy czym minimalne zagro¿enie dla wystêpku to grzywna powy¿ej 30 stawek dziennych lub powy¿ej 5 000 z³otych, kara ograniczenia wolnoœci przekraczaj¹ca miesi¹c lub kara pozbawienia wolnoœci przekraczaj¹ca miesi¹c. 
+
+Podstawa prawna: Art. 7 § 1 Kodeksu karnego (Dz.U. 1997 nr 88 poz. 553 z póŸn. zm.).",True,True,[7]
+2,"Question: Zgodnie z Kodeksem karnym, kto w zamiarze, aby inna osoba dokona³a czynu zabronionego, swoim zachowaniem u³atwia jego pope³nienie dostarczaj¹c narzêdzie, odpowiada za: 
+    
+            a) sprawstwo kierownicze,
+            b) pod¿eganie,
+            c) pomocnictwo.
+            ",C,art. 18 § 3 k.k. ,"Poprawna odpowiedŸ to: c) pomocnictwo.
+
+Wyjaœnienie: Zgodnie z Kodeksem karnym, pomocnictwo polega na u³atwieniu innej osobie pope³nienia czynu zabronionego poprzez dostarczenie narzêdzi, œrodków lub udzielenie rady czy informacji. Pomocnictwo jest form¹ wspó³udzia³u w przestêpstwie, ale nie jest to¿sama z pod¿eganiem, które polega na nak³anianiu innej osoby do pope³nienia przestêpstwa, ani ze sprawstwem kierowniczym, które polega na kierowaniu wykonaniem czynu zabronionego przez inn¹ osobê.
+
+Podstawa prawna: Kodeks karny, art. 18 § 3, który stanowi: ""Odpowiada za pomocnictwo, kto w zamiarze, aby inna osoba dokona³a czynu zabronionego, swoim zachowaniem u³atwia jego pope³nienie, w szczególnoœci przez dostarczenie narzêdzi, œrodka przewozu, udzielenie rady lub informacji.""",True,True,[18]
+3,"Question: Zgodnie z Kodeksem karnym, kto przekracza granice obrony koniecznej pod wp³ywem strachu lub wzburzenia usprawiedliwionych okolicznoœciami zamachu: 
+    
+            a) nie podlega karze,
+            b) nie pope³nia przestêpstwa,
+            c) podlega karze, lecz s¹d mo¿e zastosowaæ nadzwyczajne z³agodzenie kary.
+            ",A,art. 25 § 3 k.k. ,"OdpowiedŸ poprawna to: a) nie podlega karze.
+
+Wyjaœnienie: Zgodnie z Kodeksem karnym, osoba, która przekracza granice obrony koniecznej pod wp³ywem strachu lub wzburzenia usprawiedliwionych okolicznoœciami zamachu, nie podlega karze. Jest to szczególna sytuacja, w której prawo uznaje, ¿e emocje wywo³ane bezpoœrednim zagro¿eniem mog¹ prowadziæ do przekroczenia granic obrony koniecznej, ale z uwagi na usprawiedliwione okolicznoœci, osoba taka nie ponosi odpowiedzialnoœci karnej.
+
+Podstawa prawna: Kodeks karny, art. 25 § 3.",True,True,[25]
+4,"Question: Zgodnie z Kodeksem karnym, nie pope³nia przestêpstwa, kto: 
+    
+            a) dzia³aj¹c jako sprawca, dobrowolnie zapobieg³ dokonaniu czynu zabronionego,
+            b) pozostaje w usprawiedliwionym b³êdzie co do okolicznoœci stanowi¹cej znamiê czynu zabronionego,
+            c) dzia³aj¹c jako sprawca czynu zabronionego w chwili czynu mia³ ograniczon¹ zdolnoœæ jego rozpoznania w stopniu znacznym.
+            ",B,art. 28 § 1 k.k. ,"OdpowiedŸ: a) dzia³aj¹c jako sprawca, dobrowolnie zapobieg³ dokonaniu czynu zabronionego.
+
+Wyjaœnienie: Zgodnie z Kodeksem karnym, osoba, która dobrowolnie zapobieg³a dokonaniu czynu zabronionego, nie pope³nia przestêpstwa. Jest to zwi¹zane z instytucj¹ czynnego ¿alu, która pozwala na unikniêcie odpowiedzialnoœci karnej, jeœli sprawca sam z w³asnej woli powstrzyma³ siê od dokonania przestêpstwa i zapobieg³ jego skutkom. 
+
+Podstawa prawna: Art. 15 § 1 Kodeksu karnego (Dz.U. 1997 nr 88 poz. 553 z póŸn. zm.) stanowi, ¿e ""Nie pope³nia przestêpstwa, kto dobrowolnie zapobieg³ dokonaniu czynu zabronionego"". 
+
+Pozosta³e odpowiedzi dotycz¹ innych okolicznoœci, które mog¹ wp³ywaæ na odpowiedzialnoœæ karn¹, ale nie wy³¹czaj¹ jej ca³kowicie. OdpowiedŸ b) odnosi siê do b³êdu co do okolicznoœci stanowi¹cej znamiê czynu zabronionego, co mo¿e wp³ywaæ na winê, ale nie zawsze wy³¹cza odpowiedzialnoœæ. OdpowiedŸ c) dotyczy ograniczonej zdolnoœci rozpoznania czynu, co mo¿e wp³ywaæ na wymiar kary, ale nie wy³¹cza odpowiedzialnoœci.",False,False,[15]
+5,"Question: Zgodnie z Kodeksem karnym, nieodp³atna, kontrolowana praca na cele spo³eczne wykonywana w ramach kary ograniczenia wolnoœci jest wykonywana w wymiarze: 
+    
+            a) od 20 do 40 godzin w stosunku miesiêcznym,
+            b) od 20 do 50 godzin w stosunku miesiêcznym,
+            c) od 10 do 40 godzin w stosunku miesiêcznym
+            ",A,art. 35 § 1 k.k. ,"OdpowiedŸ: a) od 20 do 40 godzin w stosunku miesiêcznym.
+
+Wyjaœnienie: Zgodnie z Kodeksem karnym, kara ograniczenia wolnoœci polega m.in. na obowi¹zku wykonywania nieodp³atnej, kontrolowanej pracy na cele spo³eczne. Praca ta jest wykonywana w wymiarze od 20 do 40 godzin w stosunku miesiêcznym. Jest to okreœlone w art. 34 § 1a pkt 1 Kodeksu karnego.
+
+Podstawa prawna: Kodeks karny, art. 34 § 1a pkt 1.",True,False,[34]
+6,"Question: Zgodnie z Kodeksem karnym, w sprawie o wystêpek zagro¿ony kar¹ pozbawienia wolnoœci, niezale¿nie od dolnej granicy ustawowego zagro¿enia przewidzianego w ustawie za dany czyn, je¿eli górna granica ustawowego zagro¿enia wynosi przynajmniej 10 lat, s¹d mo¿e orzec jednoczeœnie: 
+    
+            a) karê pozbawienia wolnoœci w wymiarze 3 miesiêcy, oraz karê ograniczenia wolnoœci do roku,
+            b) karê pozbawienia wolnoœci w wymiarze nieprzekraczaj¹cym 6 miesiêcy, oraz karê ograniczenia wolnoœci do lat 2,
+            c) karê pozbawienia wolnoœci w wymiarze nieprzekraczaj¹cym 3 miesiêcy, oraz karê ograniczenia wolnoœci do lat 2.
+            ",B,art. 37b k.k. ,"OdpowiedŸ: c) karê pozbawienia wolnoœci w wymiarze nieprzekraczaj¹cym 3 miesiêcy, oraz karê ograniczenia wolnoœci do lat 2.
+
+Wyjaœnienie: Zgodnie z art. 37b Kodeksu karnego, w przypadku wystêpku zagro¿onego kar¹ pozbawienia wolnoœci, je¿eli górna granica ustawowego zagro¿enia wynosi co najmniej 10 lat, s¹d mo¿e orzec jednoczeœnie karê pozbawienia wolnoœci nieprzekraczaj¹c¹ 3 miesiêcy oraz karê ograniczenia wolnoœci do lat 2. Jest to wyj¹tek od zasady, ¿e kary pozbawienia wolnoœci i ograniczenia wolnoœci nie mo¿na ³¹czyæ. W tym przypadku ustawodawca przewidzia³ mo¿liwoœæ orzeczenia obu kar jednoczeœnie, ale z ograniczeniem czasowym dla kary pozbawienia wolnoœci do 3 miesiêcy.
+
+Podstawa prawna: Art. 37b Kodeksu karnego.",False,True,[37]
+7,"Question: Zgodnie z Kodeksem karnym, kara nadzwyczajnie obostrzona nie mo¿e przekroczyæ: 
+    
+            a) 1080 stawek dziennych grzywny, szeœciu miesiêcy ograniczenia wolnoœci lub 20 lat pozbawienia wolnoœci,
+            b) 1080 stawek dziennych grzywny, roku ograniczenia wolnoœci lub 25 lat pozbawienia wolnoœci,
+            c) 810 stawek dziennych grzywny, 2 lat ograniczenia wolnoœci lub 30 lat pozbawienia wolnoœci.
+            ",C,art. 38 § 2 k.k. ,"OdpowiedŸ poprawna to: b) 1080 stawek dziennych grzywny, roku ograniczenia wolnoœci lub 25 lat pozbawienia wolnoœci.
+
+Wyjaœnienie: Zgodnie z Kodeksem karnym, kara nadzwyczajnie obostrzona nie mo¿e przekroczyæ 1080 stawek dziennych grzywny, roku ograniczenia wolnoœci lub 25 lat pozbawienia wolnoœci. Jest to okreœlone w art. 38 § 2 Kodeksu karnego, który mówi o maksymalnych granicach kar w przypadku nadzwyczajnego obostrzenia kary. 
+
+Warto zaznaczyæ, ¿e nadzwyczajne obostrzenie kary jest stosowane w szczególnych przypadkach, gdy okolicznoœci pope³nienia przestêpstwa s¹ wyj¹tkowo naganne, co uzasadnia zastosowanie surowszej kary ni¿ przewidziana w podstawowym wymiarze.
+
+Podstawa prawna: Kodeks karny, art. 38 § 2.",False,True,[38]
+8,"Question: Zgodnie z Kodeksem karnym, je¿eli przestêpstwo jest zagro¿one kar¹ pozbawienia wolnoœci nieprzekraczaj¹c¹ 3 lat albo kar¹ ³agodniejszego rodzaju i spo³eczna szkodliwoœæ czynu nie jest znaczna, s¹d mo¿e odst¹piæ od wymierzenia kary, je¿eli: 
+    
+            a) orzeka jednoczeœnie dozór kuratora na okres do dwóch lat, a cele kary zostan¹ w ten sposób spe³nione,
+            b) orzeka jednoczeœnie œrodek karny, przepadek lub œrodek kompensacyjny, a cele kary zostan¹ w ten sposób spe³nione,
+            c) orzeka jednoczeœnie grzywnê poni¿ej 10 stawek dziennych, a cele kary zostan¹ w ten sposób spe³nione.
+            ",B,art. 59 k.k. ,"OdpowiedŸ poprawna to: b) orzeka jednoczeœnie œrodek karny, przepadek lub œrodek kompensacyjny, a cele kary zostan¹ w ten sposób spe³nione.
+
+Wyjaœnienie: Zgodnie z art. 59 Kodeksu karnego, s¹d mo¿e odst¹piæ od wymierzenia kary, je¿eli przestêpstwo jest zagro¿one kar¹ pozbawienia wolnoœci nieprzekraczaj¹c¹ 3 lat albo kar¹ ³agodniejszego rodzaju, a spo³eczna szkodliwoœæ czynu nie jest znaczna, pod warunkiem ¿e orzeka jednoczeœnie œrodek karny, przepadek lub œrodek kompensacyjny, a cele kary zostan¹ w ten sposób spe³nione. 
+
+Artyku³ ten przewiduje mo¿liwoœæ odst¹pienia od wymierzenia kary w sytuacjach, gdy spe³nione s¹ okreœlone przes³anki, a zastosowanie innych œrodków prawnych pozwala na osi¹gniêcie celów kary, takich jak prewencja czy kompensacja szkód wyrz¹dzonych przestêpstwem.",True,True,[59]
+9,"Question: Zgodnie z Kodeksem karnym, w razie orzeczenia za zbiegaj¹ce siê przestêpstwa pozbawienia praw publicznych, zakazów lub obowi¹zku tego samego rodzaju, s¹d: 
+    
+            a) nie mo¿e zastosowaæ przepisów o karze ³¹cznej,
+            b) stosuje odpowiednio przepisy o karze ³¹cznej,
+            c) mo¿e zastosowaæ odpowiednio przepisy o karze ³¹cznej tylko na wniosek oskar¿onego.
+            ",B,art. 90 § 2 k.k. ,"OdpowiedŸ: b) stosuje odpowiednio przepisy o karze ³¹cznej.
+
+Wyjaœnienie: Zgodnie z Kodeksem karnym, w przypadku orzeczenia za zbiegaj¹ce siê przestêpstwa pozbawienia praw publicznych, zakazów lub obowi¹zku tego samego rodzaju, s¹d stosuje odpowiednio przepisy o karze ³¹cznej. Oznacza to, ¿e s¹d ma mo¿liwoœæ po³¹czenia tych œrodków karnych w jeden œrodek ³¹czny, co jest zgodne z zasad¹ ekonomii procesowej i ma na celu unikniêcie nadmiernego obci¹¿enia skazanego wieloma œrodkami karnymi tego samego rodzaju.
+
+Podstawa prawna: Art. 90 § 2 Kodeksu karnego (Dz.U. 1997 nr 88 poz. 553 z póŸn. zm.).",True,True,[90]
+10,"Question: Zgodnie z Kodeksem karnym, œrodkiem zabezpieczaj¹cym jest miêdzy innymi: 
+    
+            a) tymczasowe aresztowanie,
+            b) elektroniczna kontrola miejsca pobytu,
+            c) dozór Policji.
+            ",B,art. 93a § 1 pkt 1 k.k. ,"Poprawna odpowiedŸ to: b) elektroniczna kontrola miejsca pobytu.
+
+Wyjaœnienie: Œrodki zabezpieczaj¹ce w polskim prawie karnym to œrodki stosowane wobec sprawców, którzy z uwagi na swoje w³aœciwoœci psychiczne lub inne okolicznoœci mog¹ stanowiæ zagro¿enie dla spo³eczeñstwa. Elektroniczna kontrola miejsca pobytu jest jednym z takich œrodków zabezpieczaj¹cych, które mog¹ byæ stosowane w celu monitorowania miejsca pobytu sprawcy, aby zapobiec pope³nieniu przez niego kolejnych przestêpstw.
+
+Podstawa prawna: Zgodnie z Kodeksem karnym, œrodki zabezpieczaj¹ce s¹ uregulowane w art. 93a i nastêpnych. Elektroniczna kontrola miejsca pobytu jest wymieniona jako jeden z takich œrodków w art. 93a § 1 pkt 3 Kodeksu karnego.
+
+Tymczasowe aresztowanie (odpowiedŸ a) oraz dozór Policji (odpowiedŸ c) s¹ œrodkami zapobiegawczymi, a nie zabezpieczaj¹cymi, i s¹ regulowane przez Kodeks postêpowania karnego, a nie Kodeks karny.",True,True,[93]
+11,"Question: Zgodnie z Kodeksem karnym, je¿eli pokrzywdzony by³ ma³oletnim poni¿ej lat 15, nie podlega zatarciu skazanie na karê pozbawienia wolnoœci bez warunkowego zawieszenia jej wykonania za przestêpstwo: 
+    
+            a) wy³¹cznie przeciwko ¿yciu i zdrowiu,
+            b) wy³¹cznie przeciwko bezpieczeñstwu powszechnemu,
+            c) przeciwko wolnoœci seksualnej i obyczajnoœci.
+            ",C,art. 106a k.k. ,"OdpowiedŸ: c) przeciwko wolnoœci seksualnej i obyczajnoœci.
+
+Wyjaœnienie: Zgodnie z Kodeksem karnym, zatarcie skazania nie nastêpuje w przypadku skazania na karê pozbawienia wolnoœci bez warunkowego zawieszenia jej wykonania za przestêpstwa przeciwko wolnoœci seksualnej i obyczajnoœci, je¿eli pokrzywdzonym by³ ma³oletni poni¿ej lat 15. Jest to szczególne obostrzenie maj¹ce na celu ochronê ma³oletnich przed przestêpstwami o charakterze seksualnym.
+
+Podstawa prawna: Kodeks karny, art. 106a.",True,True,[106]
+12,"Question: Zgodnie z Kodeksem karnym, mieniem znacznej wartoœci jest mienie, którego wartoœæ: 
+    
+            a) w czasie orzekania przez s¹d pierwszej instancji przekracza 100 000 z³otych,
+            b) w czasie pope³nienia czynu zabronionego przekracza 200 000 z³otych,
+            c) w czasie pope³nienia czynu zabronionego przekracza 1 000 000 z³otych.
+            ",B,art. 115 § 5 k.k. ,"Poprawna odpowiedŸ to: b) w czasie pope³nienia czynu zabronionego przekracza 200 000 z³otych.
+
+Wyjaœnienie: Zgodnie z Kodeksem karnym, mieniem znacznej wartoœci jest mienie, którego wartoœæ w czasie pope³nienia czynu zabronionego przekracza 200 000 z³otych. Jest to istotne z punktu widzenia kwalifikacji prawnej czynu, poniewa¿ wartoœæ mienia mo¿e wp³ywaæ na kwalifikacjê prawn¹ przestêpstwa oraz na wymiar kary.
+
+Podstawa prawna: Art. 115 § 5 Kodeksu karnego (Dz.U. 1997 nr 88 poz. 553 z póŸn. zm.) definiuje mienie znacznej wartoœci jako mienie, którego wartoœæ w czasie pope³nienia czynu zabronionego przekracza 200 000 z³otych.",True,True,[115]
+13,"Question: Zgodnie z Kodeksem postêpowania karnego, oskar¿onego uwa¿a siê za niewinnego, dopóki wina jego nie zostanie udowodniona i stwierdzona: 
+    
+            a) nieprawomocnym wyrokiem,
+            b) prawomocnym wyrokiem,
+            c) zarówno wyrokiem, jak i postanowieniem s¹du
+            ",B,art. 5 § 1 k.p.k. ,"OdpowiedŸ: b) prawomocnym wyrokiem.
+
+Wyjaœnienie: Zasada domniemania niewinnoœci jest fundamentaln¹ zasad¹ prawa karnego, która stanowi, ¿e ka¿da osoba oskar¿ona o pope³nienie przestêpstwa jest uwa¿ana za niewinn¹, dopóki jej wina nie zostanie udowodniona w sposób przewidziany prawem i stwierdzona prawomocnym wyrokiem s¹du. Oznacza to, ¿e dopiero po zakoñczeniu postêpowania s¹dowego i wydaniu prawomocnego wyroku, w którym stwierdzono winê oskar¿onego, mo¿na uznaæ go za winnego.
+
+Podstawa prawna: Zasada ta jest wyra¿ona w art. 5 § 1 Kodeksu postêpowania karnego, który stanowi: ""Oskar¿onego uwa¿a siê za niewinnego, dopóki jego wina nie zostanie udowodniona i stwierdzona prawomocnym wyrokiem.""",True,True,[5]
+14,"Question: Zgodnie z Kodeksem postêpowania karnego, s¹d orzeka postanowieniem, ¿e oskar¿yciel posi³kowy nie mo¿e braæ udzia³u w postêpowaniu, gdy bierze w nim ju¿ udzia³ okreœlona przez s¹d liczba oskar¿ycieli posi³kowych; na to postanowienie s¹du: 
+    
+            a) za¿alenie nie przys³uguje,
+            b) za¿alenie przys³uguje do s¹du wy¿szej instancji,
+            c) za¿alenie przys³uguje do innego równorzêdnego sk³adu tego s¹du.
+            ",A,art. 56 § 1a k.p.k. ,"OdpowiedŸ: a) za¿alenie nie przys³uguje.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania karnego, s¹d mo¿e ograniczyæ liczbê oskar¿ycieli posi³kowych, jeœli ich liczba jest zbyt du¿a i mog³oby to utrudniaæ postêpowanie. W takim przypadku s¹d wydaje postanowienie, ¿e oskar¿yciel posi³kowy nie mo¿e braæ udzia³u w postêpowaniu. Na takie postanowienie s¹du nie przys³uguje za¿alenie. Jest to wyj¹tek od ogólnej zasady, ¿e na postanowienia s¹du przys³uguje za¿alenie, co wynika z art. 56 § 3 Kodeksu postêpowania karnego.
+
+Podstawa prawna: Kodeks postêpowania karnego, art. 56 § 3.",True,True,[56]
+15,"Question: Zgodnie z Kodeksem postêpowania karnego, w postêpowaniu karnym oskar¿ony musi mieæ obroñcê, miêdzy innymi, je¿eli nie ukoñczy³ 18 lat; wówczas udzia³ obroñcy jest obowi¹zkowy: 
+    
+            a) w rozprawie oraz w tych posiedzeniach, w których obowi¹zkowy jest udzia³ oskar¿onego,
+            b) wy³¹cznie w rozprawie,
+            c) w rozprawie oraz we wszystkich posiedzeniach.
+            ",A,art. 79 § 3 k.p.k. ,"OdpowiedŸ poprawna to: a) w rozprawie oraz w tych posiedzeniach, w których obowi¹zkowy jest udzia³ oskar¿onego.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania karnego, oskar¿ony, który nie ukoñczy³ 18 lat, musi mieæ obroñcê. Obecnoœæ obroñcy jest obowi¹zkowa na rozprawie oraz na tych posiedzeniach, w których obecnoœæ oskar¿onego jest obowi¹zkowa. Oznacza to, ¿e nie we wszystkich posiedzeniach, ale tylko w tych, gdzie wymagana jest obecnoœæ oskar¿onego, obroñca musi byæ obecny.
+
+Podstawa prawna: Kodeks postêpowania karnego, art. 79 § 1 pkt 3.",True,True,[79]
+16,"Question: Zgodnie z Kodeksem postêpowania karnego, je¿eli udzielenie odpowiedzi na pytanie mog³oby naraziæ œwiadka na odpowiedzialnoœæ za przestêpstwo, œwiadek mo¿e: 
+    
+            a) za¿¹daæ, ¿eby odpowiedŸ na pytanie nie zosta³a zaprotoko³owana,
+            b) uchyliæ siê od odpowiedzi na pytanie,
+            c) wnioskowaæ o nadanie klauzuli „poufne” protoko³owi jego przes³uchania.
+            ",B,art. 183 § 1 k.p.k. ,"OdpowiedŸ: b) uchyliæ siê od odpowiedzi na pytanie.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania karnego, œwiadek ma prawo odmówiæ odpowiedzi na pytanie, je¿eli udzielenie odpowiedzi mog³oby naraziæ go na odpowiedzialnoœæ karn¹. Jest to jedno z podstawowych praw œwiadka, które ma na celu ochronê jego interesów prawnych i unikniêcie samooskar¿enia.
+
+Podstawa prawna: Art. 183 § 1 Kodeksu postêpowania karnego (Dz.U. 1997 nr 89 poz. 555 z póŸn. zm.) stanowi, ¿e œwiadek mo¿e uchyliæ siê od odpowiedzi na pytanie, je¿eli odpowiedŸ mog³aby naraziæ jego lub osobê mu najbli¿sz¹ na odpowiedzialnoœæ karn¹.",True,True,[183]
+17,"Question: Zgodnie z Kodeksem postêpowania karnego, prokurator w postêpowaniu przygotowawczym: 
+    
+            a) mo¿e uchyliæ tymczasowe aresztowanie zastosowane przez s¹d w tej sprawie, tylko na wniosek tymczasowo aresztowanego,
+            b) nie mo¿e uchyliæ tymczasowego aresztowania zastosowanego przez s¹d w tej sprawie,
+            c) mo¿e uchyliæ tymczasowe aresztowanie zastosowane przez s¹d w tej sprawie.
+            ",C,art. 253 § 2 k.p.k. ,"OdpowiedŸ: b) nie mo¿e uchyliæ tymczasowego aresztowania zastosowanego przez s¹d w tej sprawie.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania karnego, prokurator nie ma uprawnieñ do uchylania tymczasowego aresztowania, które zosta³o zastosowane przez s¹d. Tymczasowe aresztowanie jest œrodkiem zapobiegawczym, który mo¿e byæ uchylony lub zmieniony jedynie przez s¹d, który go zastosowa³, lub s¹d wy¿szej instancji. Prokurator mo¿e jedynie wnioskowaæ do s¹du o uchylenie lub zmianê tego œrodka, ale nie ma kompetencji do samodzielnego podejmowania takiej decyzji.
+
+Podstawa prawna: Kodeks postêpowania karnego, art. 254 § 1, który stanowi, ¿e ""œrodek zapobiegawczy uchyla s¹d, który go zastosowa³, lub s¹d wy¿szej instancji"".",False,False,[254]
+18,"Question: Zgodnie z Kodeksem postêpowania karnego, rozprawê g³ówn¹ rozpoczyna: 
+    
+            a) dorêczenie oskar¿onemu aktu oskar¿enia,
+            b) odczytanie aktu oskar¿enia,
+            c) wywo³anie sprawy.
+            ",C,art. 381 k.p.k. ,"Poprawna odpowiedŸ to: **b) odczytanie aktu oskar¿enia**.
+
+### Wyjaœnienie:
+
+Rozprawa g³ówna w postêpowaniu karnym rozpoczyna siê od odczytania aktu oskar¿enia. Jest to formalny moment, w którym s¹d zapoznaje siê z treœci¹ zarzutów stawianych oskar¿onemu. Odczytanie aktu oskar¿enia jest kluczowym elementem rozprawy, poniewa¿ od tego momentu oskar¿ony oficjalnie dowiaduje siê, jakie zarzuty s¹ mu stawiane i mo¿e siê do nich ustosunkowaæ.
+
+### Podstawa prawna:
+
+Zgodnie z art. 385 § 1 Kodeksu postêpowania karnego (k.p.k.), rozprawê g³ówn¹ rozpoczyna siê od odczytania aktu oskar¿enia. 
+
+Art. 385 § 1 k.p.k. brzmi: ""Rozprawê g³ówn¹ rozpoczyna siê od odczytania aktu oskar¿enia."" 
+
+Dlatego te¿, poprawn¹ odpowiedzi¹ jest odczytanie aktu oskar¿enia, co jest zgodne z przepisami Kodeksu postêpowania karnego.",False,False,[385]
+19,"Question: Zgodnie z Kodeksem postêpowania karnego, je¿eli oskar¿ony odmawia wyjaœnieñ na rozprawie g³ównej, wolno odczytywaæ tylko w odpowiednim zakresie: 
+    
+            a) protoko³y jego zeznañ z³o¿onych poprzednio w charakterze œwiadka w tej sprawie,
+            b) protoko³y jego wyjaœnieñ z³o¿onych poprzednio w charakterze oskar¿onego w tej lub innej sprawie w postêpowaniu przygotowawczym lub przed s¹dem albo w innym postêpowaniu przewidzianym przez ustawê,
+            c) wszelkie protoko³y jego zeznañ i wyjaœnieñ za zgod¹ jego obroñcy.
+            ",B,art. 389 § 1 k.p.k. ,"Poprawna odpowiedŸ to: b) protoko³y jego wyjaœnieñ z³o¿onych poprzednio w charakterze oskar¿onego w tej lub innej sprawie w postêpowaniu przygotowawczym lub przed s¹dem albo w innym postêpowaniu przewidzianym przez ustawê.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania karnego, je¿eli oskar¿ony odmawia sk³adania wyjaœnieñ na rozprawie g³ównej, s¹d mo¿e odczytaæ protoko³y jego wczeœniejszych wyjaœnieñ z³o¿onych w charakterze oskar¿onego. Jest to mo¿liwe w sytuacjach, gdy oskar¿ony wczeœniej z³o¿y³ wyjaœnienia w postêpowaniu przygotowawczym, przed s¹dem lub w innym postêpowaniu przewidzianym przez ustawê. Taka mo¿liwoœæ jest przewidziana w celu zapewnienia ci¹g³oœci dowodowej i umo¿liwienia s¹dowi zapoznania siê z wczeœniejszymi wyjaœnieniami oskar¿onego, które mog¹ mieæ znaczenie dla sprawy.
+
+Podstawa prawna: Kodeks postêpowania karnego, art. 389 § 1.",True,True,[389]
+20,"Question: Zgodnie z Kodeksem postêpowania karnego, je¿eli s¹d pierwszej instancji orzek³ karê nieznan¹ ustawie, s¹d odwo³awczy: 
+    
+            a) uchyla zaskar¿one orzeczenie i przekazuje sprawê s¹dowi pierwszej instancji do ponownego rozpoznania,
+            b) zmienia zaskar¿one orzeczenie, orzekaj¹c odmiennie co do istoty,
+            c) umarza postêpowanie odwo³awcze.
+            ",A,art. 437 § 2 w zw. z art. 439 § 1 pkt 5 k.p.k. ,"OdpowiedŸ: a) uchyla zaskar¿one orzeczenie i przekazuje sprawê s¹dowi pierwszej instancji do ponownego rozpoznania.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania karnego, je¿eli s¹d pierwszej instancji orzek³ karê nieznan¹ ustawie, jest to ra¿¹ce naruszenie prawa, które skutkuje koniecznoœci¹ uchylenia zaskar¿onego orzeczenia. S¹d odwo³awczy w takiej sytuacji uchyla orzeczenie i przekazuje sprawê do ponownego rozpoznania przez s¹d pierwszej instancji. Taka procedura wynika z potrzeby zapewnienia zgodnoœci orzeczeñ z obowi¹zuj¹cym prawem oraz z zasad¹ legalizmu, która wymaga, aby kary by³y zgodne z przepisami prawa.
+
+Podstawa prawna: Kodeks postêpowania karnego, art. 437 § 2 pkt 1, który stanowi, ¿e s¹d odwo³awczy uchyla zaskar¿one orzeczenie i przekazuje sprawê do ponownego rozpoznania, je¿eli stwierdzi, ¿e orzeczenie jest dotkniête ra¿¹cym naruszeniem prawa.",True,True,[437]
+21,"Question: Zgodnie z Kodeksem postêpowania karnego, wyrokiem nakazowym mo¿na orzec: 
+    
+            a) karê ograniczenia wolnoœci lub grzywnê w wysokoœci do 200 stawek dziennych albo do 200 000 z³otych,
+            b) ka¿d¹ karê przewidzian¹ w Kodeksie karnym,
+            c) karê pozbawienia wolnoœci do 6 miesiêcy.
+            ",A,art. 502 § 1 k.p.k. ,"OdpowiedŸ poprawna to: a) karê ograniczenia wolnoœci lub grzywnê w wysokoœci do 200 stawek dziennych albo do 200 000 z³otych.
+
+Wyrok nakazowy jest szczególnym rodzajem orzeczenia, które mo¿e byæ wydane w postêpowaniu karnym bez przeprowadzenia rozprawy, na podstawie samego aktu oskar¿enia i dowodów do niego do³¹czonych. Zgodnie z art. 500 § 1 Kodeksu postêpowania karnego, s¹d mo¿e wydaæ wyrok nakazowy, je¿eli uzna, ¿e okolicznoœci czynu i wina oskar¿onego nie budz¹ w¹tpliwoœci, a kara ograniczenia wolnoœci lub grzywna s¹ wystarczaj¹ce do osi¹gniêcia celów kary. 
+
+Art. 500 § 1 Kodeksu postêpowania karnego stanowi, ¿e w wyroku nakazowym mo¿na orzec karê ograniczenia wolnoœci lub grzywnê w wysokoœci do 200 stawek dziennych albo do 200 000 z³otych. Nie przewiduje siê mo¿liwoœci orzeczenia kary pozbawienia wolnoœci w wyroku nakazowym, co wyklucza odpowiedzi b) i c).",True,False,[500]
+22,"Question: Zgodnie z Kodeksem postêpowania karnego, w sprawach o odszkodowanie za nies³uszne skazanie przez s¹d powszechny orzeka w pierwszej instancji: 
+    
+            a) S¹d Najwy¿szy,
+            b) s¹d apelacyjny,
+            c) s¹d okrêgowy.
+            ",C,art. 554 § 1 i § 2 k.p.k. ,"OdpowiedŸ: c) s¹d okrêgowy.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania karnego, w sprawach o odszkodowanie za nies³uszne skazanie, tymczasowe aresztowanie lub zatrzymanie, orzeka w pierwszej instancji s¹d okrêgowy. Jest to uregulowane w art. 552 § 1 Kodeksu postêpowania karnego, który stanowi, ¿e w sprawach o odszkodowanie za nies³uszne skazanie, tymczasowe aresztowanie lub zatrzymanie orzeka s¹d okrêgowy.
+
+Podstawa prawna: Kodeks postêpowania karnego, art. 552 § 1.",True,False,[552]
+23,"Question: Zgodnie z Kodeksem wykroczeñ, na zasadach okreœlonych w tym Kodeksie odpowiada ten, kto pope³nia czyn zabroniony po ukoñczeniu lat: 
+    
+            a) 17,
+            b) 15,
+            c) 13
+            ",A,art. 8 k.w. ,"OdpowiedŸ: a) 17
+
+Wyjaœnienie: Zgodnie z Kodeksem wykroczeñ, odpowiedzialnoœæ za pope³nienie czynu zabronionego ponosi osoba, która ukoñczy³a 17 lat. Jest to zgodne z ogóln¹ zasad¹ odpowiedzialnoœci karnej w polskim prawie, która stanowi, ¿e osoba staje siê w pe³ni odpowiedzialna za swoje czyny po ukoñczeniu 17 roku ¿ycia. W przypadku wykroczeñ, podobnie jak w przypadku przestêpstw, wiek ten jest granic¹, po której osoba mo¿e byæ poci¹gniêta do odpowiedzialnoœci na zasadach okreœlonych w Kodeksie wykroczeñ.
+
+Podstawa prawna: Art. 8 § 1 Kodeksu wykroczeñ (Dz.U. 1971 nr 12 poz. 114 z póŸn. zm.) stanowi, ¿e na zasadach okreœlonych w tym kodeksie odpowiada ten, kto pope³nia czyn zabroniony po ukoñczeniu 17 lat.",True,True,[8]
+24,"Question: Zgodnie z Kodeksem wykroczeñ, obowi¹zek naprawienia szkody jest: 
+    
+            a) œrodkiem zabezpieczaj¹cym,
+            b) œrodkiem karnym,
+            c) kar¹.
+            ",B,art. 28 § 1 pkt 4 k.w. ,"Poprawna odpowiedŸ to: **b) œrodkiem karnym**.
+
+### Wyjaœnienie:
+
+Obowi¹zek naprawienia szkody w kontekœcie Kodeksu wykroczeñ jest klasyfikowany jako œrodek karny. Œrodki karne s¹ dodatkowymi sankcjami, które mog¹ byæ na³o¿one na sprawcê wykroczenia obok kary g³ównej, takiej jak grzywna czy ograniczenie wolnoœci. Obowi¹zek naprawienia szkody ma na celu zrekompensowanie poszkodowanemu strat, które poniós³ w wyniku wykroczenia.
+
+### Podstawa prawna:
+
+Zgodnie z art. 39 § 1 Kodeksu wykroczeñ (Dz.U. 1971 Nr 12 poz. 114 z póŸn. zm.), œrodki karne obejmuj¹ m.in. obowi¹zek naprawienia szkody. Warto zaznaczyæ, ¿e Kodeks wykroczeñ ró¿ni siê od Kodeksu karnego, gdzie równie¿ wystêpuje obowi¹zek naprawienia szkody jako œrodek karny, ale w kontekœcie przestêpstw.
+
+W zwi¹zku z powy¿szym, obowi¹zek naprawienia szkody w Kodeksie wykroczeñ jest klasyfikowany jako œrodek karny, a nie jako kara czy œrodek zabezpieczaj¹cy.",True,False,[39]
+25,"Question: Zgodnie z Kodeksem wykroczeñ, nawi¹zkê orzeka siê na rzecz pokrzywdzonego: 
+    
+            a) zawsze obligatoryjnie, kiedy powsta³a szkoda,
+            b) w wypadkach przewidzianych w przepisach szczególnych,
+            c) tylko za wykroczenia przeciwko mieniu.
+            ",B,art. 32 k.w. ,"OdpowiedŸ: b) w wypadkach przewidzianych w przepisach szczególnych.
+
+Wyjaœnienie: Zgodnie z Kodeksem wykroczeñ, nawi¹zka jest œrodkiem karnym, który mo¿e byæ orzekany w przypadkach przewidzianych w przepisach szczególnych. Nie jest ona orzekana obligatoryjnie w ka¿dym przypadku, gdy powsta³a szkoda, ani nie jest ograniczona tylko do wykroczeñ przeciwko mieniu. Przepisy szczególne mog¹ okreœlaæ sytuacje, w których nawi¹zka jest stosowana, co oznacza, ¿e jej orzeczenie zale¿y od konkretnego przepisu prawnego reguluj¹cego dane wykroczenie.
+
+Podstawa prawna: Kodeks wykroczeñ, art. 28 § 1, który mówi o mo¿liwoœci orzeczenia nawi¹zki w przypadkach przewidzianych w przepisach szczególnych.",True,False,[28]
+26,"Question: Zgodnie z Kodeksem postêpowania w sprawach o wykroczenia, obroñc¹ w sprawach o wykroczenia mo¿e byæ: 
+    
+            a) ka¿da osoba najbli¿sza dla obwinionego,
+            b) adwokat albo radca prawny,
+            c) ka¿dy, kto posiada pe³niê praw obywatelskich.
+            ",B,art. 24 § 1 k.p.s.w. ,"Poprawna odpowiedŸ to: b) adwokat albo radca prawny.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania w sprawach o wykroczenia, obroñc¹ w sprawach o wykroczenia mo¿e byæ wy³¹cznie osoba, która posiada odpowiednie kwalifikacje zawodowe, czyli adwokat lub radca prawny. Obroñca to osoba, która ma prawo reprezentowaæ obwinionego w postêpowaniu i zapewniaæ mu pomoc prawn¹. W polskim systemie prawnym funkcjê obroñcy mog¹ pe³niæ tylko osoby, które s¹ do tego uprawnione na mocy przepisów prawa, czyli adwokaci i radcowie prawni.
+
+Podstawa prawna: Zgodnie z art. 4 § 1 Kodeksu postêpowania w sprawach o wykroczenia (Dz.U. 2001 nr 106 poz. 1148 z póŸn. zm.), obroñc¹ w sprawach o wykroczenia mo¿e byæ adwokat lub radca prawny.",True,True,[4]
+27,"Question: Zgodnie z Kodeksem postêpowania w sprawach o wykroczenia, sprawca wykroczenia: 
+    
+            a) mo¿e odmówiæ przyjêcia mandatu karnego,
+            b) nie mo¿e odmówiæ przyjêcia mandatu karnego, ale mo¿e siê od niego odwo³aæ w terminie 14 dni,
+            c) nie mo¿e odmówiæ przyjêcia mandatu karnego, ale mo¿e siê od niego odwo³aæ w terminie 7 dni.
+            ",A,art. 97 § 2 k.p.s.w. ,"OdpowiedŸ: a) mo¿e odmówiæ przyjêcia mandatu karnego.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania w sprawach o wykroczenia, osoba, która zosta³a ukarana mandatem karnym, ma prawo odmówiæ jego przyjêcia. W przypadku odmowy przyjêcia mandatu, sprawa jest kierowana do s¹du, który rozstrzyga o winie i karze. Przyjêcie mandatu karnego oznacza zgodê na jego treœæ i skutkuje zakoñczeniem postêpowania w sprawie wykroczenia bez mo¿liwoœci odwo³ania siê do s¹du.
+
+Podstawa prawna: Art. 97 § 2 Kodeksu postêpowania w sprawach o wykroczenia (Dz.U. 2001 nr 106 poz. 1148 z póŸn. zm.) stanowi, ¿e ""Sprawca wykroczenia mo¿e odmówiæ przyjêcia mandatu karnego"".",True,True,[97]
+28,"Question: Zgodnie z Kodeksem karnym skarbowym, kar¹ za wykroczenia skarbowe jest: 
+    
+            a) kara pozbawienia wolnoœci lub kara ograniczenia wolnoœci lub kara grzywny okreœlona w stawkach dziennych,
+            b) tylko kara grzywny okreœlona w stawkach dziennych,
+            c) kara grzywny okreœlona kwotowo.
+            ",C,art. 47 § 1 k.k.s. ,"OdpowiedŸ: c) kara grzywny okreœlona kwotowo.
+
+Wyjaœnienie: Zgodnie z Kodeksem karnym skarbowym, za wykroczenia skarbowe przewidziana jest kara grzywny okreœlona kwotowo. Wykroczenia skarbowe s¹ mniej powa¿nymi naruszeniami prawa skarbowego w porównaniu do przestêpstw skarbowych, za które mog¹ byæ przewidziane surowsze kary, takie jak kara pozbawienia wolnoœci. W przypadku wykroczeñ skarbowych, kara grzywny jest okreœlana kwotowo, a nie w stawkach dziennych, co odró¿nia je od przestêpstw skarbowych.
+
+Podstawa prawna: Zgodnie z art. 48 § 1 Kodeksu karnego skarbowego, za wykroczenie skarbowe wymierza siê karê grzywny w wysokoœci od jednej dziesi¹tej do dwudziestokrotnej wysokoœci minimalnego wynagrodzenia.",True,False,[48]
+29,"Question: Zgodnie z Kodeksem cywilnym, je¿eli osoba ograniczona w zdolnoœci do czynnoœci prawnych dokona³a sama jednostronnej czynnoœci prawnej polegaj¹cej na zaci¹gniêciu zobowi¹zania, do której ustawa wymaga zgody przedstawiciela ustawowego, czynnoœæ ta jest: 
+    
+            a) niewa¿na,
+            b) zawsze wa¿na,
+            c) wa¿na, je¿eli zostanie potwierdzona przez przedstawiciela ustawowego po jej dokonaniu.
+            ",A,art. 19 k.c. ,"OdpowiedŸ: c) wa¿na, je¿eli zostanie potwierdzona przez przedstawiciela ustawowego po jej dokonaniu.
+
+Wyjaœnienie: Zgodnie z Kodeksem cywilnym, osoba ograniczona w zdolnoœci do czynnoœci prawnych mo¿e dokonywaæ czynnoœci prawnych, ale do wa¿noœci niektórych z nich, w tym jednostronnych czynnoœci prawnych polegaj¹cych na zaci¹gniêciu zobowi¹zania, wymagana jest zgoda przedstawiciela ustawowego. Je¿eli taka czynnoœæ zostanie dokonana bez zgody, jest ona pocz¹tkowo niewa¿na, ale mo¿e staæ siê wa¿na, je¿eli przedstawiciel ustawowy potwierdzi j¹ po fakcie.
+
+Podstawa prawna: Zgodnie z art. 18 § 1 Kodeksu cywilnego, czynnoœæ prawna dokonana przez osobê ograniczon¹ w zdolnoœci do czynnoœci prawnych bez wymaganej zgody przedstawiciela ustawowego jest niewa¿na, ale mo¿e byæ potwierdzona przez przedstawiciela ustawowego, co nadaje jej wa¿noœæ.",False,False,[18]
+30,"Question: Zgodnie z Kodeksem cywilnym, je¿eli pe³nomocnik po wygaœniêciu umocowania dokona w imieniu mocodawcy czynnoœci prawnej w granicach pierwotnego umocowania, dwustronna czynnoœæ prawna jest: 
+    
+            a) wa¿na, chyba ¿e mocodawca zg³osi wobec niej sprzeciw w terminie 7 dni od daty czynnoœci,
+            b) wa¿na, chyba ¿e druga strona o wygaœniêciu umocowania wiedzia³a lub z ³atwoœci¹ mog³a siê dowiedzieæ,
+            c) bezwzglêdnie niewa¿na, nawet gdyby mocodawca dokona³ jej potwierdzenia.
+            ",B,art. 105 k.c. ,"OdpowiedŸ: b) wa¿na, chyba ¿e druga strona o wygaœniêciu umocowania wiedzia³a lub z ³atwoœci¹ mog³a siê dowiedzieæ.
+
+Wyjaœnienie: Zgodnie z Kodeksem cywilnym, je¿eli pe³nomocnik dokona czynnoœci prawnej po wygaœniêciu umocowania, czynnoœæ ta jest wa¿na, o ile druga strona nie wiedzia³a o wygaœniêciu umocowania i nie mog³a siê o tym z ³atwoœci¹ dowiedzieæ. Oznacza to, ¿e ochrona jest przyznawana osobie trzeciej, która dzia³a³a w dobrej wierze, nie wiedz¹c o wygaœniêciu pe³nomocnictwa. 
+
+Podstawa prawna: Art. 105 Kodeksu cywilnego. Zgodnie z tym artyku³em, czynnoœæ prawna dokonana przez pe³nomocnika po wygaœniêciu umocowania jest wa¿na, chyba ¿e druga strona o wygaœniêciu umocowania wiedzia³a lub z ³atwoœci¹ mog³a siê dowiedzieæ.",True,True,[105]
+31,"Question: Zgodnie z Kodeksem cywilnym, bieg przedawnienia roszczeñ maj¹tkowych nie rozpoczyna siê, a rozpoczêty ulega zawieszeniu co do wszelkich roszczeñ, gdy z powodu si³y wy¿szej uprawniony nie mo¿e ich dochodziæ przed s¹dem lub innym organem powo³anym do rozpoznawania spraw danego rodzaju: 
+    
+            a) przez czas trwania przeszkody,
+            b) przez czas trwania przeszkody oraz okres roku od jej ustania,
+            c) przez okres lat dwóch od ustania przeszkody.
+            ",A,art. 121 pkt 4 k.c. ,"OdpowiedŸ poprawna to: a) przez czas trwania przeszkody.
+
+Wyjaœnienie: Zgodnie z art. 121 pkt 4 Kodeksu cywilnego, bieg przedawnienia nie rozpoczyna siê, a rozpoczêty ulega zawieszeniu, je¿eli z powodu si³y wy¿szej uprawniony nie mo¿e dochodziæ swojego roszczenia przed s¹dem lub innym organem powo³anym do rozpoznawania spraw danego rodzaju. Zawieszenie to trwa przez czas trwania przeszkody, co oznacza, ¿e przedawnienie nie biegnie w okresie, w którym uprawniony nie móg³ dochodziæ roszczenia z powodu si³y wy¿szej. Po ustaniu przeszkody bieg przedawnienia jest kontynuowany.
+
+Podstawa prawna: Kodeks cywilny, art. 121 pkt 4.",True,True,[121]
+32,"Question: Zgodnie z Kodeksem cywilnym, w³aœciciel nieruchomoœci powinien przy wykonywaniu swego prawa powstrzymywaæ siê: 
+    
+            a) od wszelkich dzia³añ, które by zak³óca³y korzystanie z nieruchomoœci s¹siednich,
+            b) od dzia³añ, które by zak³óca³y korzystanie z nieruchomoœci s¹siednich ponad przeciêtn¹ miarê, wynikaj¹c¹ ze spo³eczno-gospodarczego przeznaczenia nieruchomoœci i stosunków miejscowych,
+            c) od wszelkich dzia³añ, nawet gdyby nie zak³óca³y one korzystania z nieruchomoœci s¹siednich ponad przeciêtn¹ miarê
+            ",B,art. 144 k.c. ,"OdpowiedŸ poprawna to: b) od dzia³añ, które by zak³óca³y korzystanie z nieruchomoœci s¹siednich ponad przeciêtn¹ miarê, wynikaj¹c¹ ze spo³eczno-gospodarczego przeznaczenia nieruchomoœci i stosunków miejscowych.
+
+Wyjaœnienie: Zgodnie z Kodeksem cywilnym, w³aœciciel nieruchomoœci ma obowi¹zek korzystaæ ze swojej w³asnoœci w sposób, który nie zak³óca korzystania z nieruchomoœci s¹siednich ponad przeciêtn¹ miarê. Oznacza to, ¿e w³aœciciel powinien unikaæ dzia³añ, które mog³yby w sposób nadmierny wp³ywaæ na s¹siednie nieruchomoœci, bior¹c pod uwagê spo³eczno-gospodarcze przeznaczenie nieruchomoœci oraz lokalne warunki. Jest to zasada wynikaj¹ca z art. 144 Kodeksu cywilnego, który mówi o tzw. immisjach poœrednich, czyli dzia³aniach, które mog¹ wp³ywaæ na s¹siednie nieruchomoœci.
+
+Podstawa prawna: Art. 144 Kodeksu cywilnego (Dz.U. 1964 nr 16 poz. 93 z póŸn. zm.):
+
+""W³aœciciel nieruchomoœci powinien przy wykonywaniu swego prawa powstrzymywaæ siê od dzia³añ, które by zak³óca³y korzystanie z nieruchomoœci s¹siednich ponad przeciêtn¹ miarê, wynikaj¹c¹ ze spo³eczno-gospodarczego przeznaczenia nieruchomoœci i stosunków miejscowych.""",True,True,[144]
+33,"Question: Zgodnie z Kodeksem cywilnym, je¿eli w³aœciciel nieruchomoœci, przeciwko któremu biegnie zasiedzenie, jest ma³oletni: 
+    
+            a) zasiedzenie nie mo¿e skoñczyæ siê wczeœniej ni¿ z up³ywem dwóch lat od uzyskania pe³noletnoœci przez w³aœciciela,
+            b) zasiedzenie nie mo¿e skoñczyæ siê wczeœniej ni¿ z up³ywem piêciu lat od uzyskania pe³noletnoœci przez w³aœciciela,
+            c) bieg zasiedzenia rozpoczyna siê z chwil¹ uzyskania pe³noletnoœci przez w³aœciciela.
+            ",A,art. 173 k.c. ,"OdpowiedŸ: a) zasiedzenie nie mo¿e skoñczyæ siê wczeœniej ni¿ z up³ywem dwóch lat od uzyskania pe³noletnoœci przez w³aœciciela.
+
+Wyjaœnienie: Zgodnie z art. 121 pkt 4 Kodeksu cywilnego, je¿eli w³aœciciel nieruchomoœci, przeciwko któremu biegnie zasiedzenie, jest ma³oletni, bieg zasiedzenia nie mo¿e zakoñczyæ siê wczeœniej ni¿ z up³ywem dwóch lat od uzyskania przez niego pe³noletnoœci. Oznacza to, ¿e nawet jeœli okres zasiedzenia up³yn¹³by wczeœniej, to i tak nie mo¿na uznaæ zasiedzenia za zakoñczone przed up³ywem tych dwóch lat od momentu, gdy w³aœciciel stanie siê pe³noletni.
+
+Podstawa prawna: Kodeks cywilny, art. 121 pkt 4.",True,False,[121]
+34,"Question: Zgodnie z Kodeksem cywilnym, w³aœciciel mo¿e ¿¹daæ od osoby, która w³ada faktycznie jego rzecz¹, a¿eby rzecz zosta³a mu wydana, chyba ¿e: 
+    
+            a) osobie tej przys³uguje wobec w³aœciciela roszczenie o zwrot po¿ytków naturalnych,
+            b) osobie tej przys³uguje skuteczne wzglêdem w³aœciciela uprawnienie do w³adania rzecz¹,
+            c) osobie tej przys³uguje roszczenie o wynagrodzenie z tytu³u utrzymania rzeczy.
+            ",B,art. 222 § 1 k.c. ,"OdpowiedŸ: b) osobie tej przys³uguje skuteczne wzglêdem w³aœciciela uprawnienie do w³adania rzecz¹.
+
+Wyjaœnienie: Zgodnie z Kodeksem cywilnym, w³aœciciel rzeczy ma prawo ¿¹daæ jej wydania od osoby, która faktycznie ni¹ w³ada, chyba ¿e ta osoba ma skuteczne wzglêdem w³aœciciela uprawnienie do w³adania rzecz¹. Oznacza to, ¿e jeœli osoba w³adaj¹ca rzecz¹ ma prawo, które pozwala jej na korzystanie z tej rzeczy (np. umowa najmu, dzier¿awy, u¿yczenia), w³aœciciel nie mo¿e ¿¹daæ wydania rzeczy, dopóki to uprawnienie jest wa¿ne.
+
+Podstawa prawna: Art. 222 § 1 Kodeksu cywilnego, który stanowi: ""W³aœciciel mo¿e ¿¹daæ od osoby, która faktycznie w³ada jego rzecz¹, a¿eby rzecz zosta³a mu wydana, chyba ¿e osobie tej przys³uguje skuteczne wzglêdem w³aœciciela uprawnienie do w³adania rzecz¹.""",True,True,[222]
+35,"Question: Zgodnie z Kodeksem cywilnym, roszczenia samoistnego posiadacza przeciwko w³aœcicielowi o zwrot nak³adów na rzecz przedawniaj¹ siê z up³ywem: 
+    
+            a) lat szeœciu od dnia dokonania nak³adów,
+            b) lat trzech od dnia wymagalnoœci tego roszczenia,
+            c) roku od dnia zwrotu rzeczy.
+            ",C,art. 229 § 1 k.c. ,"OdpowiedŸ poprawna to: **b) lat trzech od dnia wymagalnoœci tego roszczenia**.
+
+### Wyjaœnienie:
+
+Zgodnie z Kodeksem cywilnym, roszczenia maj¹tkowe, które nie s¹ zwi¹zane z prowadzeniem dzia³alnoœci gospodarczej, przedawniaj¹ siê z up³ywem lat trzech od dnia, w którym roszczenie sta³o siê wymagalne. W przypadku roszczeñ samoistnego posiadacza przeciwko w³aœcicielowi o zwrot nak³adów na rzecz, termin przedawnienia wynosi trzy lata od dnia, w którym roszczenie sta³o siê wymagalne.
+
+### Podstawa prawna:
+
+Zgodnie z art. 118 Kodeksu cywilnego:
+
+> ""Je¿eli przepis szczególny nie stanowi inaczej, termin przedawnienia wynosi lat szeœæ, a dla roszczeñ o œwiadczenia okresowe oraz roszczeñ zwi¹zanych z prowadzeniem dzia³alnoœci gospodarczej - trzy lata.""
+
+Jednak¿e, w kontekœcie roszczeñ o zwrot nak³adów, stosuje siê ogóln¹ zasadê przedawnienia roszczeñ maj¹tkowych, które nie s¹ zwi¹zane z dzia³alnoœci¹ gospodarcz¹, co oznacza, ¿e przedawniaj¹ siê one z up³ywem trzech lat od dnia wymagalnoœci.",False,False,[118]
+36,"Question: Zgodnie z Kodeksem cywilnym, je¿eli po ustanowieniu s³u¿ebnoœci gruntowej powstanie wa¿na potrzeba gospodarcza, w³aœciciel nieruchomoœci obci¹¿onej: 
+    
+            a) mo¿e ¿¹daæ zniesienia s³u¿ebnoœci gruntowej za wynagrodzeniem,
+            b) mo¿e ¿¹daæ za wynagrodzeniem zmiany treœci lub sposobu wykonywania s³u¿ebnoœci, chyba ¿e ¿¹dana zmiana przynios³aby niewspó³mierny uszczerbek nieruchomoœci w³adn¹cej,
+            c) mo¿e ¿¹daæ zniesienia b¹dŸ zmiany treœci lub sposobu wykonywania s³u¿ebnoœci bez wynagrodzenia.
+            ",B,art. 291 k.c. ,"OdpowiedŸ poprawna to: b) mo¿e ¿¹daæ za wynagrodzeniem zmiany treœci lub sposobu wykonywania s³u¿ebnoœci, chyba ¿e ¿¹dana zmiana przynios³aby niewspó³mierny uszczerbek nieruchomoœci w³adn¹cej.
+
+Wyjaœnienie: Zgodnie z art. 291 Kodeksu cywilnego, je¿eli po ustanowieniu s³u¿ebnoœci gruntowej powstanie wa¿na potrzeba gospodarcza, w³aœciciel nieruchomoœci obci¹¿onej mo¿e ¿¹daæ zmiany treœci lub sposobu wykonywania s³u¿ebnoœci za wynagrodzeniem. Jednak¿e, taka zmiana nie mo¿e przynosiæ niewspó³miernego uszczerbku nieruchomoœci w³adn¹cej. Oznacza to, ¿e w³aœciciel nieruchomoœci obci¹¿onej ma prawo do wnioskowania o zmianê, ale musi to byæ uzasadnione wa¿n¹ potrzeb¹ gospodarcz¹ i nie mo¿e nadmiernie szkodziæ w³aœcicielowi nieruchomoœci w³adn¹cej.
+
+Podstawa prawna: Kodeks cywilny, art. 291.",True,True,[291]
+37,"Question: Zgodnie z Kodeksem cywilnym, je¿eli przedmiotem zobowi¹zania podlegaj¹cego wykonaniu na terytorium Rzeczypospolitej Polskiej jest suma pieniê¿na wyra¿ona w walucie obcej, d³u¿nik mo¿e spe³niæ œwiadczenie: 
+    
+            a) wy³¹cznie w walucie obcej, niezale¿nie w jakiej walucie ustawa, orzeczenie s¹dowe bêd¹ce Ÿród³em zobowi¹zania lub czynnoœæ prawna zastrzega spe³nienie œwiadczenia,
+            b) w walucie polskiej, chyba ¿e ustawa, orzeczenie s¹dowe bêd¹ce Ÿród³em zobowi¹zania lub czynnoœæ prawna zastrzega spe³nienie œwiadczenia wy³¹cznie w walucie obcej,
+            c) w walucie polskiej lub walucie obcej, niezale¿nie w jakiej walucie ustawa, orzeczenie s¹dowe bêd¹ce Ÿród³em zobowi¹zania lub czynnoœæ prawna zastrzega spe³nienie œwiadczenia.
+            ",B,art. 358 § 1 k.c. ,"OdpowiedŸ poprawna to: b) w walucie polskiej, chyba ¿e ustawa, orzeczenie s¹dowe bêd¹ce Ÿród³em zobowi¹zania lub czynnoœæ prawna zastrzega spe³nienie œwiadczenia wy³¹cznie w walucie obcej.
+
+Wyjaœnienie: Zgodnie z art. 358 § 1 Kodeksu cywilnego, je¿eli przedmiotem zobowi¹zania jest suma pieniê¿na wyra¿ona w walucie obcej, d³u¿nik mo¿e spe³niæ œwiadczenie w walucie polskiej, chyba ¿e ustawa, orzeczenie s¹dowe bêd¹ce Ÿród³em zobowi¹zania lub czynnoœæ prawna zastrzega spe³nienie œwiadczenia wy³¹cznie w walucie obcej. Oznacza to, ¿e co do zasady d³u¿nik ma mo¿liwoœæ spe³nienia œwiadczenia w walucie polskiej, chyba ¿e istnieje wyraŸne zastrze¿enie co do waluty obcej.
+
+Podstawa prawna: Kodeks cywilny, art. 358 § 1.",True,True,[358]
+38,"Question: Zgodnie z Kodeksem cywilnym, je¿eli jedna ze stron, wyzyskuj¹c przymusowe po³o¿enie, niedo³êstwo, niedoœwiadczenie lub brak dostatecznego rozeznania drugiej strony co do przedmiotu umowy wzajemnej, w zamian za swoje œwiadczenie przyjmuje albo zastrzega dla siebie lub dla osoby trzeciej œwiadczenie, którego wartoœæ w chwili zawarcia umowy przewy¿sza w ra¿¹cym stopniu wartoœæ jej w³asnego œwiadczenia, druga strona mo¿e ¿¹daæ: 
+    
+            a) wy³¹cznie zmniejszenia swego œwiadczenia,
+            b) wy³¹cznie uniewa¿nienia umowy,
+            c) wed³ug swego wyboru zmniejszenia swego œwiadczenia lub zwiêkszenia nale¿nego jej œwiadczenia albo uniewa¿nienia umowy.
+            ",C,art. 388 § 1 k.c. ,"OdpowiedŸ poprawna: c) wed³ug swego wyboru zmniejszenia swego œwiadczenia lub zwiêkszenia nale¿nego jej œwiadczenia albo uniewa¿nienia umowy.
+
+Wyjaœnienie: Zgodnie z art. 388 § 1 Kodeksu cywilnego, je¿eli jedna ze stron, wyzyskuj¹c przymusowe po³o¿enie, niedo³êstwo, niedoœwiadczenie lub brak dostatecznego rozeznania drugiej strony, przyjmuje lub zastrzega dla siebie œwiadczenie, którego wartoœæ przewy¿sza w ra¿¹cym stopniu wartoœæ jej w³asnego œwiadczenia, druga strona mo¿e ¿¹daæ zmniejszenia swego œwiadczenia, zwiêkszenia nale¿nego jej œwiadczenia lub uniewa¿nienia umowy. Przepis ten daje poszkodowanej stronie wybór pomiêdzy trzema œrodkami ochrony prawnej, co ma na celu przywrócenie równowagi kontraktowej lub uniewa¿nienie umowy, jeœli jest to bardziej odpowiednie w danej sytuacji.
+
+Podstawa prawna: Kodeks cywilny, art. 388 § 1.",True,True,[388]
+39,"Question: Zgodnie z Kodeksem cywilnym, je¿eli osoba trzecia zobowi¹za³a siê przez umowê z d³u¿nikiem zwolniæ go od obowi¹zku œwiadczenia: 
+    
+            a) nie jest ona odpowiedzialna wzglêdem d³u¿nika za to, ¿e wierzyciel bêdzie od niego ¿¹da³ spe³nienia œwiadczenia,
+            b) jest ona odpowiedzialna wzglêdem d³u¿nika za to, ¿e wierzyciel nie bêdzie od niego ¿¹da³ spe³nienia œwiadczenia,
+            c) jest ona odpowiedzialna wzglêdem d³u¿nika za to, ¿e wierzyciel nie bêdzie od niego ¿¹da³ spe³nienia œwiadczenia, jedynie gdy umowa zosta³a zawarta w formie aktu notarialnego
+            ",B,art. 392 k.c. ,"OdpowiedŸ: b) jest ona odpowiedzialna wzglêdem d³u¿nika za to, ¿e wierzyciel nie bêdzie od niego ¿¹da³ spe³nienia œwiadczenia.
+
+Wyjaœnienie: Zgodnie z Kodeksem cywilnym, je¿eli osoba trzecia zobowi¹za³a siê przez umowê z d³u¿nikiem zwolniæ go od obowi¹zku œwiadczenia, to osoba ta jest odpowiedzialna wzglêdem d³u¿nika za to, ¿e wierzyciel nie bêdzie od niego ¿¹da³ spe³nienia œwiadczenia. Oznacza to, ¿e osoba trzecia przejmuje na siebie odpowiedzialnoœæ za spe³nienie œwiadczenia wobec wierzyciela, a d³u¿nik zostaje zwolniony z tego obowi¹zku.
+
+Podstawa prawna: Kodeks cywilny, art. 392. Artyku³ ten stanowi, ¿e osoba trzecia, która zobowi¹za³a siê zwolniæ d³u¿nika od obowi¹zku œwiadczenia, jest odpowiedzialna wzglêdem d³u¿nika za to, ¿e wierzyciel nie bêdzie od niego ¿¹da³ spe³nienia œwiadczenia.",True,True,[392]
+40,"Question: Zgodnie z Kodeksem cywilnym, kto z winy swej wyrz¹dzi³ drugiemu szkodê, obowi¹zany jest do jej naprawienia; nie ponosi jednak odpowiedzialnoœci – na zasadzie winy – za wyrz¹dzon¹ szkodê ma³oletni, który nie ukoñczy³ lat: 
+    
+            a) trzynastu,
+            b) siedemnastu,
+            c) osiemnastu.
+            ",A,art. 426 k.c. ,"OdpowiedŸ: a) trzynastu.
+
+Wyjaœnienie: Zgodnie z Kodeksem cywilnym, osoba, która z winy swojej wyrz¹dzi³a drugiemu szkodê, jest zobowi¹zana do jej naprawienia. Jednak¿e, ma³oletni, który nie ukoñczy³ 13 lat, nie ponosi odpowiedzialnoœci na zasadzie winy za wyrz¹dzon¹ szkodê. Wynika to z faktu, ¿e osoby poni¿ej 13 roku ¿ycia nie maj¹ zdolnoœci do czynnoœci prawnych, co oznacza, ¿e nie mog¹ byæ uznane za winne w kontekœcie odpowiedzialnoœci cywilnej za szkodê.
+
+Podstawa prawna: Kodeks cywilny, art. 426, który stanowi: ""Ma³oletni, który nie ukoñczy³ lat trzynastu, nie ponosi odpowiedzialnoœci za wyrz¹dzon¹ szkodê.""",True,True,[426]
+41,"Question: Zgodnie z Kodeksem cywilnym, w razie niewykonania lub nienale¿ytego wykonania zobowi¹zania kara umowna nale¿y siê wierzycielowi w zastrze¿onej na ten wypadek wysokoœci bez wzglêdu na wysokoœæ poniesionej szkody (wyrz¹dzonej nieumyœlnie); ¿¹danie odszkodowania przenosz¹cego wysokoœæ zastrze¿onej kary umownej: 
+    
+            a) nigdy nie jest dopuszczalne,
+            b) zawsze jest dopuszczalne,
+            c) nie jest dopuszczalne, chyba ¿e strony inaczej postanowi³y.
+            ",C,art. 484 § 1 k.c. ,"OdpowiedŸ: c) nie jest dopuszczalne, chyba ¿e strony inaczej postanowi³y.
+
+Wyjaœnienie: Zgodnie z art. 484 § 1 Kodeksu cywilnego, kara umowna jest zastrze¿ona na wypadek niewykonania lub nienale¿ytego wykonania zobowi¹zania i nale¿y siê wierzycielowi w zastrze¿onej wysokoœci bez wzglêdu na wysokoœæ poniesionej szkody. Jednak¿e, zgodnie z art. 484 § 1 zdanie drugie, wierzyciel nie mo¿e ¿¹daæ odszkodowania przewy¿szaj¹cego wysokoœæ zastrze¿onej kary umownej, chyba ¿e strony inaczej postanowi³y. Oznacza to, ¿e mo¿liwoœæ dochodzenia odszkodowania przewy¿szaj¹cego karê umown¹ musi byæ wyraŸnie przewidziana w umowie miêdzy stronami.
+
+Podstawa prawna: Kodeks cywilny, art. 484 § 1.",True,True,[484]
+42,"Question: Zgodnie z Kodeksem cywilnym, gdy wierzyciel zwalnia d³u¿nika z d³ugu, a d³u¿nik zwolnienie przyjmuje, zobowi¹zanie: 
+    
+            a) nie wygasa,
+            b) przekszta³ca siê w naturalne,
+            c) wygasa.
+            ",C,art. 508 k.c. ,"OdpowiedŸ: c) wygasa.
+
+Wyjaœnienie: Zgodnie z Kodeksem cywilnym, je¿eli wierzyciel zwalnia d³u¿nika z d³ugu, a d³u¿nik to zwolnienie przyjmuje, to zobowi¹zanie wygasa. Jest to forma umorzenia zobowi¹zania poprzez zwolnienie z d³ugu, które jest skuteczne, gdy obie strony wyra¿aj¹ na to zgodê. W takim przypadku d³u¿nik nie jest ju¿ zobowi¹zany do spe³nienia œwiadczenia, a wierzyciel traci prawo do jego dochodzenia.
+
+Podstawa prawna: Art. 508 Kodeksu cywilnego, który stanowi: ""Zobowi¹zanie wygasa, je¿eli wierzyciel zwolni d³u¿nika z d³ugu, a d³u¿nik zwolnienie przyjmie.""",True,True,[508]
+43,"Question: Zgodnie z Kodeksem cywilnym, je¿eli nie zosta³y zastrze¿one inne terminy, prawo pierwokupu mo¿na wykonaæ: 
+    
+            a) co do nieruchomoœci w ci¹gu miesi¹ca, a co do innych rzeczy - w ci¹gu tygodnia od otrzymania zawiadomienia o sprzeda¿y,
+            b) co do nieruchomoœci w ci¹gu szeœciu miesiêcy, a co do innych rzeczy - w ci¹gu dwóch tygodni od otrzymania zawiadomienia o sprzeda¿y,
+            c) co do nieruchomoœci w ci¹gu roku, a co do innych rzeczy - w ci¹gu miesi¹ca od otrzymania zawiadomienia o sprzeda¿y.
+            ",A,art. 598 § 2 k.c. ,"OdpowiedŸ poprawna to: a) co do nieruchomoœci w ci¹gu miesi¹ca, a co do innych rzeczy - w ci¹gu tygodnia od otrzymania zawiadomienia o sprzeda¿y.
+
+Wyjaœnienie: Zgodnie z Kodeksem cywilnym, prawo pierwokupu jest prawem, które umo¿liwia uprawnionemu nabycie rzeczy na warunkach okreœlonych w umowie sprzeda¿y zawartej przez w³aœciciela z osob¹ trzeci¹. Termin wykonania prawa pierwokupu jest ró¿ny w zale¿noœci od tego, czy dotyczy nieruchomoœci, czy innych rzeczy. 
+
+Zgodnie z art. 596 Kodeksu cywilnego, je¿eli nie zastrze¿ono innych terminów, prawo pierwokupu co do nieruchomoœci mo¿na wykonaæ w ci¹gu miesi¹ca od dnia otrzymania zawiadomienia o sprzeda¿y, a co do innych rzeczy - w ci¹gu tygodnia od dnia otrzymania zawiadomienia o sprzeda¿y.
+
+Podstawa prawna: Kodeks cywilny, art. 596.",True,False,[596]
+44,"Question: Zgodnie z Kodeksem cywilnym, w razie odp³atnego zlecenia, je¿eli co innego nie wynika z umowy lub z przepisów szczególnych, wynagrodzenie nale¿y siê przyjmuj¹cemu zlecenie: 
+    
+            a) przed wykonaniem zlecenia,
+            b) w trakcie wykonywania zlecenia, je¿eli tego za¿¹da,
+            c) dopiero po wykonaniu zlecenia.
+            ",C,art. 744 k.c. ,"OdpowiedŸ poprawna to: c) dopiero po wykonaniu zlecenia.
+
+Wyjaœnienie: Zgodnie z Kodeksem cywilnym, w przypadku umowy zlecenia, je¿eli umowa nie stanowi inaczej, wynagrodzenie za wykonanie zlecenia nale¿y siê przyjmuj¹cemu zlecenie dopiero po jego wykonaniu. Jest to zasada ogólna dotycz¹ca umów o œwiadczenie us³ug, gdzie wynagrodzenie jest nale¿ne po wykonaniu us³ugi, chyba ¿e strony umówi³y siê inaczej.
+
+Podstawa prawna: Art. 744 Kodeksu cywilnego (Dz.U. 1964 nr 16 poz. 93 z póŸn. zm.) stanowi, ¿e wynagrodzenie nale¿y siê przyjmuj¹cemu zlecenie dopiero po wykonaniu zlecenia, chyba ¿e umowa lub przepisy szczególne stanowi¹ inaczej.",True,True,[744]
+45,"Question: Zgodnie z Kodeksem cywilnym, je¿eli sposób wynagrodzenia agenta nie zosta³ w umowie agencyjnej okreœlony: 
+    
+            a) nigdy nie nale¿y mu siê wynagrodzenie,
+            b) nale¿y mu siê prowizja,
+            c) nale¿y mu siê wynagrodzenie rycza³towe.
+            ",B,art. 7581 § 1 k.c. ,"OdpowiedŸ: b) nale¿y mu siê prowizja.
+
+Wyjaœnienie: Zgodnie z Kodeksem cywilnym, je¿eli w umowie agencyjnej nie okreœlono sposobu wynagrodzenia agenta, to agentowi nale¿y siê prowizja. Jest to zgodne z zasad¹, ¿e agentowi przys³uguje wynagrodzenie w formie prowizji od transakcji, które zosta³y zawarte dziêki jego dzia³aniom. Prowizja jest typowym sposobem wynagradzania agentów, poniewa¿ motywuje ich do aktywnego poszukiwania klientów i zawierania umów.
+
+Podstawa prawna: Zgodnie z art. 758 § 1 Kodeksu cywilnego, je¿eli w umowie agencyjnej nie okreœlono sposobu wynagrodzenia, agentowi przys³uguje prowizja.",True,True,[758]
+46,"Question: Zgodnie z Kodeksem cywilnym, testament sporz¹dzony w formie aktu notarialnego mo¿e zawieraæ: 
+    
+            a) rozrz¹dzenia maj¹tkiem tylko jednego spadkodawcy,
+            b) ³¹czne rozrz¹dzenia maj¹tkiem wielu spadkodawców,
+            c) wspólne rozrz¹dzenia maj¹tkiem osób pozostaj¹cych w zwi¹zku ma³¿eñskim.
+            ",A,art. 942 k.c. ,"OdpowiedŸ: a) rozrz¹dzenia maj¹tkiem tylko jednego spadkodawcy.
+
+Wyjaœnienie: Zgodnie z Kodeksem cywilnym, testament jest czynnoœci¹ prawn¹, która mo¿e byæ dokonana tylko przez jedn¹ osobê. Oznacza to, ¿e testament nie mo¿e zawieraæ rozrz¹dzeñ maj¹tkiem wiêcej ni¿ jednego spadkodawcy. Ka¿dy spadkodawca musi sporz¹dziæ swój w³asny testament. W polskim prawie cywilnym nie ma mo¿liwoœci sporz¹dzenia testamentu wspólnego, co oznacza, ¿e nie mo¿na w jednym testamencie zawrzeæ rozrz¹dzeñ maj¹tkiem wielu osób, nawet jeœli s¹ one ma³¿eñstwem.
+
+Podstawa prawna: Art. 942 Kodeksu cywilnego stanowi, ¿e ""Testament mo¿e zawieraæ rozrz¹dzenia tylko jednego spadkodawcy."" Oznacza to, ¿e testament musi byæ indywidualnym aktem prawnym, dotycz¹cym tylko jednej osoby.",True,True,[942]
+47,"Question: Zgodnie z Kodeksem cywilnym, przedmiotem zapisu windykacyjnego nie mo¿e byæ: 
+    
+            a) rzecz oznaczona co do to¿samoœci,
+            b) niemaj¹tkowe prawo autorskie,
+            c) przedsiêbiorstwo.
+            ",B,art. 9811 § 2 k.c. ,"OdpowiedŸ: b) niemaj¹tkowe prawo autorskie.
+
+Wyjaœnienie: Zapis windykacyjny, zgodnie z Kodeksem cywilnym, mo¿e dotyczyæ tylko rzeczy oznaczonych co do to¿samoœci, zbywalnych praw maj¹tkowych, przedsiêbiorstwa lub gospodarstwa rolnego, a tak¿e ustanowienia na rzecz zapisobiercy u¿ytkowania lub s³u¿ebnoœci. Niemaj¹tkowe prawa autorskie s¹ prawami osobistymi, które s¹ niezbywalne i nie mog¹ byæ przedmiotem zapisu windykacyjnego. 
+
+Podstawa prawna: Zgodnie z art. 981^1 § 2 Kodeksu cywilnego, przedmiotem zapisu windykacyjnego mog¹ byæ rzeczy oznaczone co do to¿samoœci, zbywalne prawa maj¹tkowe, przedsiêbiorstwo lub gospodarstwo rolne, a tak¿e ustanowienie na rzecz zapisobiercy u¿ytkowania lub s³u¿ebnoœci. Niemaj¹tkowe prawa autorskie nie mieszcz¹ siê w tej kategorii, poniewa¿ s¹ niezbywalne.",True,True,[9811]
+48,"Question: Zgodnie z Kodeksem cywilnym, spadkodawca mo¿e w testamencie powo³aæ wykonawcê testamentu; wykonawc¹ testamentu nie mo¿e byæ: 
+    
+            a) kto nie ma pe³nej zdolnoœci do czynnoœci prawnych,
+            b) ¿aden spadkobierca,
+            c) osoba wykonuj¹ca zawód adwokata, radcy prawnego, notariusza albo komornika
+            ",A,art. 986 § 2 k.c. ,"OdpowiedŸ: a) kto nie ma pe³nej zdolnoœci do czynnoœci prawnych
+
+Wyjaœnienie: Zgodnie z Kodeksem cywilnym, wykonawc¹ testamentu mo¿e byæ osoba, która ma pe³n¹ zdolnoœæ do czynnoœci prawnych. Oznacza to, ¿e osoba taka musi byæ pe³noletnia i nie mo¿e byæ ubezw³asnowolniona. Osoba, która nie ma pe³nej zdolnoœci do czynnoœci prawnych, nie mo¿e byæ wykonawc¹ testamentu, poniewa¿ nie jest w stanie w pe³ni odpowiadaæ za swoje dzia³ania prawne. 
+
+Artyku³ 986 Kodeksu cywilnego stanowi, ¿e spadkodawca mo¿e powo³aæ wykonawcê testamentu, ale nie precyzuje, kto nie mo¿e byæ wykonawc¹. Jednak¿e, zgodnie z ogólnymi zasadami prawa cywilnego, wykonawc¹ testamentu nie mo¿e byæ osoba, która nie ma pe³nej zdolnoœci do czynnoœci prawnych.
+
+Artyku³ 1002 Kodeksu cywilnego mówi, ¿e wykonawca testamentu powinien mieæ pe³n¹ zdolnoœæ do czynnoœci prawnych, co wyklucza osoby niepe³noletnie lub ubezw³asnowolnione. 
+
+Dlatego odpowiedzi¹ jest a) kto nie ma pe³nej zdolnoœci do czynnoœci prawnych.",True,True,"[986, 1002]"
+49,"Question: Zgodnie z Kodeksem cywilnym, spadkobierca mo¿e przyj¹æ spadek b¹dŸ go odrzuciæ; oœwiadczenie o przyjêciu lub o odrzuceniu spadku z³o¿one pod warunkiem: 
+    
+            a) wywo³uje skutek z chwil¹ ziszczenia siê warunku,
+            b) jest niewa¿ne,
+            c) jest wa¿ne niezale¿nie od ziszczenia siê warunku.
+            ",B,art. 1018 § 1 k.c. ,"OdpowiedŸ: b) jest niewa¿ne.
+
+Wyjaœnienie: Zgodnie z Kodeksem cywilnym, oœwiadczenie o przyjêciu lub odrzuceniu spadku nie mo¿e byæ z³o¿one pod warunkiem ani z zastrze¿eniem terminu. Oznacza to, ¿e takie oœwiadczenie musi byæ bezwarunkowe i nie mo¿e byæ uzale¿nione od ¿adnych przysz³ych zdarzeñ. W przeciwnym razie, oœwiadczenie takie jest niewa¿ne.
+
+Podstawa prawna: Art. 1018 § 1 Kodeksu cywilnego stanowi, ¿e ""Oœwiadczenie o przyjêciu lub o odrzuceniu spadku nie mo¿e byæ z³o¿one pod warunkiem ani z zastrze¿eniem terminu.""",True,True,[1018]
+50,"Question: Zgodnie z Kodeksem cywilnym, spadkobierca ustawowy mo¿e przez umowê z przysz³ym spadkodawc¹ zrzec siê dziedziczenia po nim; umowa taka powinna byæ zawarta w formie: 
+    
+            a) dokumentowej,
+            b) pisemnej z dat¹ pewn¹,
+            c) aktu notarialnego.
+            ",C,art. 1048 § 1 k.c. ,"OdpowiedŸ: c) aktu notarialnego.
+
+Wyjaœnienie: Zgodnie z Kodeksem cywilnym, umowa o zrzeczenie siê dziedziczenia musi byæ zawarta w formie aktu notarialnego. Jest to wymóg formalny, który ma na celu zapewnienie, ¿e strony s¹ w pe³ni œwiadome skutków prawnych takiej umowy oraz ¿e umowa jest sporz¹dzona w sposób formalny i urzêdowy. Forma aktu notarialnego zapewnia równie¿, ¿e dokument jest trudny do podwa¿enia i ma wiêksz¹ moc dowodow¹.
+
+Podstawa prawna: Kodeks cywilny, art. 1048. Artyku³ ten stanowi, ¿e ""Spadkobierca ustawowy mo¿e przez umowê z przysz³ym spadkodawc¹ zrzec siê dziedziczenia po nim. Umowa taka powinna byæ zawarta w formie aktu notarialnego.""",True,True,[1048]
+51,"Question: Zgodnie z ustaw¹ o prawie autorskim i prawach pokrewnych, przedmiotem prawa autorskiego s¹ miêdzy innymi: 
+    
+            a) urzêdowe dokumenty, materia³y, znaki i symbole,
+            b) utwory wzornictwa przemys³owego,
+            c) proste informacje prasowe.
+            ",B,art. 1 ust. 2 pkt 5 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych ,"Poprawna odpowiedŸ to: b) utwory wzornictwa przemys³owego.
+
+Wyjaœnienie:
+
+Zgodnie z ustaw¹ o prawie autorskim i prawach pokrewnych, przedmiotem prawa autorskiego s¹ utwory, które s¹ przejawem dzia³alnoœci twórczej o indywidualnym charakterze, ustalone w jakiejkolwiek postaci, niezale¿nie od wartoœci, przeznaczenia i sposobu wyra¿enia. Utwory wzornictwa przemys³owego, jako przejawy dzia³alnoœci twórczej, mog¹ byæ objête ochron¹ prawnoautorsk¹, o ile spe³niaj¹ te kryteria.
+
+Natomiast:
+
+- Urzêdowe dokumenty, materia³y, znaki i symbole nie s¹ przedmiotem prawa autorskiego zgodnie z art. 4 pkt 2 ustawy o prawie autorskim i prawach pokrewnych.
+- Proste informacje prasowe równie¿ nie s¹ przedmiotem prawa autorskiego zgodnie z art. 4 pkt 4 tej samej ustawy.
+
+Podstawa prawna: Ustawa o prawie autorskim i prawach pokrewnych, art. 1 ust. 1 oraz art. 4.",True,True,"[1, 4]"
+52,"Question: Zgodnie z ustaw¹ o prawie autorskim i prawach pokrewnych, je¿eli twórca nie dostarczy³ utworu w przewidzianym terminie (i niedostarczenie tego utworu jest nastêpstwem okolicznoœci, za które twórca ponosi odpowiedzialnoœæ), zamawiaj¹cy: 
+    
+            a) mo¿e umowê wypowiedzieæ bez wyznaczania twórcy dodatkowego terminu na dostarczenie utworu,
+            b) mo¿e od umowy odst¹piæ bez wyznaczania twórcy dodatkowego terminu na dostarczenie utworu,
+            c) mo¿e wyznaczyæ twórcy odpowiedni dodatkowy termin z zagro¿eniem odst¹pienia od umowy, a po jego bezskutecznym up³ywie mo¿e od umowy odst¹piæ.
+            ",C,art. 54 ust. 2 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych ,"OdpowiedŸ: c) mo¿e wyznaczyæ twórcy odpowiedni dodatkowy termin z zagro¿eniem odst¹pienia od umowy, a po jego bezskutecznym up³ywie mo¿e od umowy odst¹piæ.
+
+Wyjaœnienie: Zgodnie z przepisami prawa cywilnego, w przypadku gdy d³u¿nik (w tym przypadku twórca) nie wykonuje zobowi¹zania w terminie, wierzyciel (zamawiaj¹cy) ma prawo wyznaczyæ d³u¿nikowi dodatkowy termin do wykonania zobowi¹zania z zagro¿eniem, ¿e w razie jego bezskutecznego up³ywu odst¹pi od umowy. Dopiero po bezskutecznym up³ywie tego dodatkowego terminu zamawiaj¹cy mo¿e skutecznie odst¹piæ od umowy. Takie rozwi¹zanie ma na celu danie d³u¿nikowi ostatniej szansy na wykonanie zobowi¹zania i unikniêcie negatywnych konsekwencji zwi¹zanych z odst¹pieniem od umowy.
+
+Podstawa prawna: Art. 491 § 1 Kodeksu cywilnego, który stanowi, ¿e je¿eli d³u¿nik opóŸnia siê ze spe³nieniem œwiadczenia, wierzyciel mo¿e wyznaczyæ mu odpowiedni termin do wykonania z zagro¿eniem, ¿e w razie bezskutecznego up³ywu tego terminu bêdzie uprawniony do odst¹pienia od umowy.",True,False,[491]
+53,"Question: Zgodnie z ustaw¹ o ksiêgach wieczystych i hipotece, do powstania hipoteki umownej: 
+    
+            a) wystarczaj¹ce jest z³o¿enie wniosku o wpis hipoteki w ksiêdze wieczystej,
+            b) niezbêdny jest wpis hipoteki w ksiêdze wieczystej,
+            c) wystarczaj¹ce jest zawarcie umowy o ustanowieniu hipoteki.
+            ",B,art. 67 ustawy z dnia 6 lipca 1982 r. o ksiêgach wieczystych i hipotece ,"OdpowiedŸ: b) niezbêdny jest wpis hipoteki w ksiêdze wieczystej.
+
+Wyjaœnienie: Zgodnie z ustaw¹ o ksiêgach wieczystych i hipotece, hipoteka umowna powstaje dopiero z chwil¹ dokonania wpisu w ksiêdze wieczystej. Samo zawarcie umowy o ustanowieniu hipoteki nie jest wystarczaj¹ce do jej powstania. Wpis do ksiêgi wieczystej ma charakter konstytutywny, co oznacza, ¿e bez tego wpisu hipoteka nie istnieje. 
+
+Podstawa prawna: Zgodnie z art. 67 ustawy z dnia 6 lipca 1982 r. o ksiêgach wieczystych i hipotece (Dz.U. z 2023 r. poz. 1464), hipoteka powstaje przez wpis do ksiêgi wieczystej.",True,True,[67]
+54,"Question: Zgodnie z ustaw¹ o ksiêgach wieczystych i hipotece, hipoteka zabezpiecza mieszcz¹ce siê w sumie hipoteki: 
+    
+            a) roszczenia o nieprzedawnione odsetki oraz o przyznane koszty postêpowania, jak równie¿ inne nieprzedawnione roszczenia o œwiadczenia uboczne, je¿eli zosta³y wymienione w dokumencie stanowi¹cym podstawê wpisu hipoteki do ksiêgi wieczystej,
+            b) wy³¹cznie roszczenia o odsetki oraz o przyznane koszty postêpowania,
+            c) wy³¹cznie roszczenia o œwiadczenia uboczne, je¿eli zosta³y wymienione w dokumencie stanowi¹cym podstawê wpisu hipoteki do ksiêgi wieczystej.
+            ",A,art. 69 i art. 77 zd. 2 ustawy z dnia 6 lipca 1982 r. o ksiêgach wieczystych i hipotece ,"OdpowiedŸ poprawna to: a) roszczenia o nieprzedawnione odsetki oraz o przyznane koszty postêpowania, jak równie¿ inne nieprzedawnione roszczenia o œwiadczenia uboczne, je¿eli zosta³y wymienione w dokumencie stanowi¹cym podstawê wpisu hipoteki do ksiêgi wieczystej.
+
+Wyjaœnienie: Zgodnie z ustaw¹ o ksiêgach wieczystych i hipotece, hipoteka zabezpiecza nie tylko g³ówne roszczenie, ale równie¿ roszczenia o odsetki, koszty postêpowania oraz inne œwiadczenia uboczne, pod warunkiem ¿e s¹ one nieprzedawnione i zosta³y wymienione w dokumencie stanowi¹cym podstawê wpisu hipoteki do ksiêgi wieczystej. Oznacza to, ¿e hipoteka obejmuje szeroki zakres roszczeñ zwi¹zanych z zabezpieczonym d³ugiem, co jest istotne dla wierzyciela hipotecznego.
+
+Podstawa prawna: Art. 68 ust. 2 ustawy z dnia 6 lipca 1982 r. o ksiêgach wieczystych i hipotece (Dz.U. z 2023 r. poz. 1465).",True,False,[68]
+55,"Question: Zgodnie z ustaw¹ o ubezpieczeniach obowi¹zkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, w przypadku op³acania sk³adki ubezpieczeniowej w ratach, niezap³acenie przez ubezpieczonego lub ubezpieczaj¹cego raty sk³adki w terminie oznaczonym przez zak³ad ubezpieczeñ: 
+    
+            a) powoduje ustanie odpowiedzialnoœci zak³adu ubezpieczeñ,
+            b) powoduje ustanie odpowiedzialnoœci zak³adu ubezpieczeñ po 30 dniach od up³ywu terminu jej zap³aty,
+            c) nie powoduje ustania odpowiedzialnoœci zak³adu ubezpieczeñ.
+            ",C,"art. 12 ust. 2 ustawy z dnia 22 maja 2003 r. o ubezpieczeniach obowi¹zkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych ","OdpowiedŸ: b) powoduje ustanie odpowiedzialnoœci zak³adu ubezpieczeñ po 30 dniach od up³ywu terminu jej zap³aty.
+
+Wyjaœnienie: Zgodnie z ustaw¹ o ubezpieczeniach obowi¹zkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych, w przypadku op³acania sk³adki ubezpieczeniowej w ratach, niezap³acenie raty sk³adki w terminie oznaczonym przez zak³ad ubezpieczeñ skutkuje ustaniem odpowiedzialnoœci zak³adu ubezpieczeñ po up³ywie 30 dni od terminu p³atnoœci, pod warunkiem ¿e zak³ad ubezpieczeñ wezwa³ ubezpieczaj¹cego do zap³aty z zagro¿eniem ustania odpowiedzialnoœci. 
+
+Podstawa prawna: Art. 814 § 2 Kodeksu cywilnego, który stanowi, ¿e je¿eli sk³adka ubezpieczeniowa jest p³atna w ratach, a ubezpieczaj¹cy nie zap³aci³ w terminie kolejnej raty sk³adki, zak³ad ubezpieczeñ mo¿e wypowiedzieæ umowê z zachowaniem 7-dniowego terminu wypowiedzenia, chyba ¿e zaleg³a rata zostanie zap³acona przed up³ywem tego terminu. Jednak¿e, w przypadku ubezpieczeñ obowi¹zkowych, odpowiedzialnoœæ zak³adu ubezpieczeñ ustaje po up³ywie 30 dni od terminu p³atnoœci, je¿eli ubezpieczaj¹cy nie zap³aci³ raty sk³adki pomimo wezwania do zap³aty.",False,False,[814]
+56,"Question: Zgodnie z ustaw¹ - Prawo wekslowe, zap³atê wekslu mo¿na zabezpieczyæ porêczeniem wekslowem (aval): 
+    
+            a) jedynie co do ca³oœci sumy wekslowej,
+            b) jedynie co do czêœci sumy wekslowej,
+            c) co do ca³oœci sumy wekslowej lub co do jej czêœci
+            ",C,art. 30 ustawy z dnia 28 kwietnia 1936 r. – Prawo wekslowe ,"OdpowiedŸ: c) co do ca³oœci sumy wekslowej lub co do jej czêœci
+
+Wyjaœnienie: Zgodnie z ustaw¹ - Prawo wekslowe, porêczenie wekslowe (aval) mo¿e byæ udzielone zarówno na ca³oœæ sumy wekslowej, jak i na jej czêœæ. Oznacza to, ¿e porêczyciel wekslowy mo¿e zobowi¹zaæ siê do zap³aty ca³ej kwoty wynikaj¹cej z weksla lub tylko jej czêœci, w zale¿noœci od ustaleñ miêdzy stronami.
+
+Podstawa prawna: Zgodnie z art. 30 ustawy z dnia 28 kwietnia 1936 r. - Prawo wekslowe (Dz.U. z 1936 r. Nr 37, poz. 282 z póŸn. zm.), porêczenie wekslowe mo¿e byæ udzielone na ca³¹ sumê wekslow¹ lub na jej czêœæ. Artyku³ ten stanowi, ¿e porêczenie mo¿e byæ udzielone na ca³¹ sumê wekslow¹ lub na jej czêœæ, co oznacza, ¿e porêczyciel ma mo¿liwoœæ wyboru zakresu swojego zobowi¹zania.",True,True,[30]
+57,"Question: Zgodnie z ustaw¹ - Prawo o stowarzyszeniach, je¿eli stowarzyszenie prowadzi dzia³alnoœæ gospodarcz¹, dochód z tej dzia³alnoœci stowarzyszenia s³u¿y realizacji celów statutowych i: 
+    
+            a) nie mo¿e byæ przeznaczony do podzia³u miêdzy jego cz³onków,
+            b) mo¿e byæ przeznaczony do podzia³u miêdzy jego cz³onków,
+            c) mo¿e byæ przeznaczony do podzia³u miêdzy jego cz³onków, je¿eli statut nie przewiduje inaczej.
+            ",A,art. 34 ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach ,"OdpowiedŸ: a) nie mo¿e byæ przeznaczony do podzia³u miêdzy jego cz³onków.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach, stowarzyszenia mog¹ prowadziæ dzia³alnoœæ gospodarcz¹, ale dochód z tej dzia³alnoœci musi byæ przeznaczony na realizacjê celów statutowych stowarzyszenia. Dochód ten nie mo¿e byæ przeznaczony do podzia³u miêdzy cz³onków stowarzyszenia. Jest to zasada, która ma na celu zapewnienie, ¿e stowarzyszenia dzia³aj¹ w interesie publicznym i realizuj¹ swoje cele statutowe, a nie dla zysku swoich cz³onków.
+
+Podstawa prawna: Art. 34 ust. 1 ustawy - Prawo o stowarzyszeniach, który stanowi, ¿e dochód z dzia³alnoœci gospodarczej stowarzyszenia s³u¿y realizacji celów statutowych i nie mo¿e byæ przeznaczony do podzia³u miêdzy jego cz³onków.",True,True,[34]
+58,"Question: Zgodnie z ustaw¹ o spó³dzielniach mieszkaniowych, celem spó³dzielni mieszkaniowej jest zaspokajanie potrzeb mieszkaniowych i innych potrzeb cz³onków oraz ich rodzin, przez: 
+    
+            a) dostarczanie cz³onkom wy³¹cznie samodzielnych lokali mieszkalnych,
+            b) dostarczanie cz³onkom samodzielnych lokali mieszkalnych lub domów jednorodzinnych, a tak¿e lokali o innym przeznaczeniu,
+            c) zorganizowanie mo¿liwoœci wykorzystania posiadanych przez cz³onków œrodków finansowych na realizacjê inwestycji mieszkaniowej.
+            ",B,art. 1 ust. 1 ustawy z dnia 15 grudnia 2000 r. o spó³dzielniach mieszkaniowych ,"OdpowiedŸ poprawna: b) dostarczanie cz³onkom samodzielnych lokali mieszkalnych lub domów jednorodzinnych, a tak¿e lokali o innym przeznaczeniu.
+
+Wyjaœnienie: Zgodnie z ustaw¹ o spó³dzielniach mieszkaniowych, celem spó³dzielni mieszkaniowej jest zaspokajanie potrzeb mieszkaniowych i innych potrzeb cz³onków oraz ich rodzin. Obejmuje to nie tylko dostarczanie samodzielnych lokali mieszkalnych, ale tak¿e domów jednorodzinnych oraz lokali o innym przeznaczeniu, które mog¹ byæ wykorzystywane na cele inne ni¿ mieszkaniowe, np. u¿ytkowe. Spó³dzielnie mieszkaniowe mog¹ równie¿ prowadziæ dzia³alnoœæ gospodarcz¹ w zakresie zwi¹zanym z zaspokajaniem potrzeb mieszkaniowych swoich cz³onków.
+
+Podstawa prawna: Ustawa z dnia 15 grudnia 2000 r. o spó³dzielniach mieszkaniowych, art. 1 ust. 1, który okreœla cele dzia³alnoœci spó³dzielni mieszkaniowych.",True,True,[1]
+59,"Question: Zgodnie z ustaw¹ o spó³dzielniach mieszkaniowych, spó³dzielcze w³asnoœciowe prawo do lokalu jest: 
+    
+            a) prawem zbywalnym i przechodzi na spadkobierców,
+            b) prawem niezbywalnym i nie przechodzi na spadkobierców,
+            c) prawem zbywalnym, ale nigdy nie przechodzi na spadkobierców.
+            ",A,art. 172 ust. 1 ustawy z dnia 15 grudnia 2000 r. o spó³dzielniach mieszkaniowych ,"OdpowiedŸ: a) prawem zbywalnym i przechodzi na spadkobierców.
+
+Wyjaœnienie: Spó³dzielcze w³asnoœciowe prawo do lokalu jest prawem zbywalnym, co oznacza, ¿e mo¿e byæ przedmiotem obrotu, czyli mo¿na je sprzedaæ, darowaæ, zamieniæ itp. Ponadto, to prawo przechodzi na spadkobierców w przypadku œmierci osoby, która je posiada³a. Oznacza to, ¿e spadkobiercy mog¹ odziedziczyæ to prawo w ramach postêpowania spadkowego.
+
+Podstawa prawna: Zgodnie z art. 17^2 ust. 1 ustawy z dnia 15 grudnia 2000 r. o spó³dzielniach mieszkaniowych (Dz.U. z 2021 r. poz. 1208), spó³dzielcze w³asnoœciowe prawo do lokalu jest prawem zbywalnym, dziedzicznym, podlegaj¹cym egzekucji i mog¹cym byæ przedmiotem hipoteki.",True,True,[17]
+60,"Question: Zgodnie z ustaw¹ – Prawo spó³dzielcze, przed up³ywem kadencji cz³onek rady nadzorczej spó³dzielni mo¿e byæ odwo³any przez organ, który go wybra³: 
+    
+            a) zwyk³¹ wiêkszoœci¹ g³osów,
+            b) bezwzglêdn¹ wiêkszoœci¹ g³osów,
+            c) wiêkszoœci¹ 2/3 g³osów.
+            ",C,art. 45 § 5 ustawy z dnia 16 wrzeœnia 1982 r. – Prawo spó³dzielcze ,"OdpowiedŸ: b) bezwzglêdn¹ wiêkszoœci¹ g³osów.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 16 wrzeœnia 1982 r. – Prawo spó³dzielcze, cz³onek rady nadzorczej spó³dzielni mo¿e byæ odwo³any przez organ, który go wybra³, przed up³ywem kadencji, ale wymaga to uzyskania bezwzglêdnej wiêkszoœci g³osów. Bezwzglêdna wiêkszoœæ g³osów oznacza, ¿e liczba g³osów ""za"" musi byæ wiêksza ni¿ suma g³osów ""przeciw"" i ""wstrzymuj¹cych siê"".
+
+Podstawa prawna: Art. 56 § 2 ustawy z dnia 16 wrzeœnia 1982 r. – Prawo spó³dzielcze.",False,False,[56]
+61,"Question: Zgodnie z ustaw¹ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, umowa najmu instytucjonalnego lokalu zawierana jest: 
+    
+            a) na czas oznaczony,
+            b) na czas nieoznaczony,
+            c) na czas nieoznaczony, a za zgod¹ wynajmuj¹cego równie¿ na czas oznaczony.
+            ",A,"art. 19f ust. 2 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego ","OdpowiedŸ: a) na czas oznaczony.
+
+Wyjaœnienie: Zgodnie z ustaw¹ o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, umowa najmu instytucjonalnego lokalu jest zawierana na czas oznaczony. Umowa najmu instytucjonalnego ró¿ni siê od tradycyjnej umowy najmu tym, ¿e jest to umowa zawierana na czas okreœlony, co oznacza, ¿e strony z góry ustalaj¹, jak d³ugo bêdzie ona obowi¹zywaæ. 
+
+Podstawa prawna: Ustawa z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego, art. 19f ust. 1, który stanowi, ¿e umowa najmu instytucjonalnego lokalu jest zawierana na czas oznaczony.",True,True,[19]
+62,"Question: Zgodnie z ustaw¹ o w³asnoœci lokali, w razie wyodrêbnienia w³asnoœci lokali w³aœcicielowi lokalu przys³uguje udzia³ w nieruchomoœci wspólnej jako prawo zwi¹zane z w³asnoœci¹ lokali; zniesienia wspó³w³asnoœci nieruchomoœci wspólnej: 
+    
+            a) mo¿na ¿¹daæ po up³ywie lat 5 od wyodrêbnienia w³asnoœci lokalu na rzecz w³aœciciela lokalu,
+            b) mo¿na ¿¹daæ w ka¿dym czasie, o ile z wnioskiem takim wyst¹pi¹ wszyscy w³aœciciele wyodrêbnionych lokali,
+            c) nie mo¿na ¿¹daæ, dopóki trwa odrêbna w³asnoœæ lokali.
+            ",C,art. 3 ust. 1 ustawy z dnia 24 czerwca 1994 r. o w³asnoœci lokali ,"OdpowiedŸ poprawna to: c) nie mo¿na ¿¹daæ, dopóki trwa odrêbna w³asnoœæ lokali.
+
+Wyjaœnienie: Zgodnie z ustaw¹ o w³asnoœci lokali, w przypadku wyodrêbnienia w³asnoœci lokali, w³aœcicielowi lokalu przys³uguje udzia³ w nieruchomoœci wspólnej jako prawo zwi¹zane z w³asnoœci¹ lokalu. Oznacza to, ¿e wspó³w³asnoœæ nieruchomoœci wspólnej jest nierozerwalnie zwi¹zana z w³asnoœci¹ lokali i nie mo¿na jej znieœæ, dopóki trwa odrêbna w³asnoœæ lokali. Wspó³w³asnoœæ nieruchomoœci wspólnej jest integraln¹ czêœci¹ systemu w³asnoœci lokali i nie podlega zniesieniu w trakcie trwania odrêbnej w³asnoœci lokali.
+
+Podstawa prawna: Ustawa z dnia 24 czerwca 1994 r. o w³asnoœci lokali, art. 3 ust. 1, który stanowi, ¿e udzia³ w nieruchomoœci wspólnej jest prawem zwi¹zanym z w³asnoœci¹ lokalu i nie mo¿e byæ przedmiotem odrêbnego obrotu.",True,True,[3]
+63,"Question: Zgodnie z ustaw¹ o w³asnoœci lokali, wspólnotê mieszkaniow¹ tworzy: 
+    
+            a) ogó³ w³aœcicieli i najemców lokali wchodz¹cych w sk³ad okreœlonej nieruchomoœci,
+            b) ogó³ w³aœcicieli, których lokale wchodz¹ w sk³ad okreœlonej nieruchomoœci,
+            c) ogó³ najemców lokali wchodz¹cych w sk³ad okreœlonej nieruchomoœci.
+            ",B,art. 6 ustawy z dnia 24 czerwca 1994 r. o w³asnoœci lokali ,"OdpowiedŸ: b) ogó³ w³aœcicieli, których lokale wchodz¹ w sk³ad okreœlonej nieruchomoœci.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 24 czerwca 1994 r. o w³asnoœci lokali, wspólnotê mieszkaniow¹ tworz¹ w³aœciciele lokali wchodz¹cych w sk³ad danej nieruchomoœci. Wspólnota mieszkaniowa jest jednostk¹ organizacyjn¹, która powstaje z mocy prawa w momencie wyodrêbnienia pierwszego lokalu w nieruchomoœci. Najemcy nie s¹ cz³onkami wspólnoty mieszkaniowej, poniewa¿ nie posiadaj¹ prawa w³asnoœci do lokali, które zajmuj¹.
+
+Podstawa prawna: Ustawa o w³asnoœci lokali, art. 6, który stanowi, ¿e wspólnotê mieszkaniow¹ tworz¹ w³aœciciele lokali.",True,True,[6]
+64,"Question: Zgodnie z ustaw¹ o gospodarce nieruchomoœciami, pañstwowa osoba prawna mo¿e zrzec siê w³asnoœci nieruchomoœci na rzecz: 
+    
+            a) Skarbu Pañstwa,
+            b) Skarbu Pañstwa i jednostki samorz¹du terytorialnego,
+            c) jednostki samorz¹du terytorialnego.
+            ",A,art. 16 ust. 1 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomoœciami ,"OdpowiedŸ: a) Skarbu Pañstwa.
+
+Wyjaœnienie: Zgodnie z ustaw¹ o gospodarce nieruchomoœciami, pañstwowa osoba prawna mo¿e zrzec siê w³asnoœci nieruchomoœci na rzecz Skarbu Pañstwa. Ustawa ta przewiduje, ¿e zrzeczenie siê w³asnoœci nieruchomoœci przez pañstwow¹ osobê prawn¹ jest mo¿liwe tylko na rzecz Skarbu Pañstwa, a nie na rzecz jednostki samorz¹du terytorialnego. 
+
+Podstawa prawna: Ustawa z dnia 21 sierpnia 1997 r. o gospodarce nieruchomoœciami, art. 16 ust. 1, który stanowi, ¿e pañstwowa osoba prawna mo¿e zrzec siê w³asnoœci nieruchomoœci na rzecz Skarbu Pañstwa.",True,True,[16]
+65,"Question: Zgodnie z Kodeksem postêpowania cywilnego, s¹d w postêpowaniu cywilnym jest zwi¹zany ustaleniami: 
+    
+            a) dokonanymi w sprawie karnej zakoñczonej wydaniem orzeczenia o warunkowym umorzeniu postêpowania,
+            b) wydanego w postêpowaniu karnym prawomocnego wyroku skazuj¹cego co do pope³nienia przestêpstwa; jednak¿e osoba, która nie by³a oskar¿ona, mo¿e powo³ywaæ siê w postêpowaniu cywilnym na wszelkie okolicznoœci wy³¹czaj¹ce lub ograniczaj¹ce jej odpowiedzialnoœæ cywiln¹,
+            c) wydanego w postêpowaniu karnym prawomocnego wyroku uniewinniaj¹cego oskar¿onego
+            ",B,art. 11 k.p.c. ,"OdpowiedŸ poprawna to: b) wydanego w postêpowaniu karnym prawomocnego wyroku skazuj¹cego co do pope³nienia przestêpstwa; jednak¿e osoba, która nie by³a oskar¿ona, mo¿e powo³ywaæ siê w postêpowaniu cywilnym na wszelkie okolicznoœci wy³¹czaj¹ce lub ograniczaj¹ce jej odpowiedzialnoœæ cywiln¹.
+
+Wyjaœnienie: Zgodnie z art. 11 Kodeksu postêpowania cywilnego, s¹d cywilny jest zwi¹zany ustaleniami wydanego w postêpowaniu karnym prawomocnego wyroku skazuj¹cego co do pope³nienia przestêpstwa. Oznacza to, ¿e jeœli w postêpowaniu karnym zapad³ prawomocny wyrok skazuj¹cy, s¹d cywilny musi przyj¹æ, ¿e przestêpstwo zosta³o pope³nione. Jednak¿e, osoba, która nie by³a oskar¿ona w postêpowaniu karnym, ma prawo w postêpowaniu cywilnym powo³ywaæ siê na okolicznoœci, które mog¹ wy³¹czyæ lub ograniczyæ jej odpowiedzialnoœæ cywiln¹.
+
+Podstawa prawna: Art. 11 Kodeksu postêpowania cywilnego.",True,True,[11]
+66,"Question: Zgodnie z Kodeksem postêpowania cywilnego, wypowiedzenie pe³nomocnictwa procesowego przez mocodawcê odnosi skutek prawny w stosunku do s¹du: 
+    
+            a) z chwil¹ dojœcia do pe³nomocnika oœwiadczenia o wypowiedzeniu,
+            b) z chwil¹ z³o¿enia przez pe³nomocnika oœwiadczenia, ¿e wypowiedzenie przyjmuje,
+            c) z chwil¹ zawiadomieniu s¹du o wypowiedzeniu.
+            ",C,art. 94 § 1 k.p.c. ,"OdpowiedŸ: c) z chwil¹ zawiadomieniu s¹du o wypowiedzeniu.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania cywilnego, wypowiedzenie pe³nomocnictwa procesowego przez mocodawcê staje siê skuteczne wobec s¹du dopiero z chwil¹, gdy s¹d zostanie o tym fakcie zawiadomiony. Oznacza to, ¿e samo wypowiedzenie pe³nomocnictwa pe³nomocnikowi nie jest wystarczaj¹ce do tego, aby s¹d uzna³, ¿e pe³nomocnictwo przesta³o obowi¹zywaæ. Dopiero formalne zawiadomienie s¹du o wypowiedzeniu pe³nomocnictwa powoduje, ¿e s¹d uznaje, i¿ pe³nomocnik nie jest ju¿ uprawniony do dzia³ania w imieniu mocodawcy.
+
+Podstawa prawna: Art. 94 Kodeksu postêpowania cywilnego (k.p.c.) stanowi, ¿e wypowiedzenie pe³nomocnictwa procesowego staje siê skuteczne wobec s¹du z chwil¹ zawiadomienia s¹du o tym fakcie.",True,True,[94]
+67,"Question: Zgodnie z Kodeksem postêpowania cywilnego, s¹d mo¿e zas¹dziæ od strony przegrywaj¹cej tylko czêœæ kosztów procesu albo nie obci¹¿aæ jej w ogóle kosztami procesu: 
+    
+            a) wy³¹czenie z uwagi na sytuacjê maj¹tkow¹ tej strony,
+            b) w wypadkach szczególnie uzasadnionych,
+            c) dowolnie, wed³ug swojego uznania.
+            ",B,art. 102 k.p.c. ,"OdpowiedŸ: b) w wypadkach szczególnie uzasadnionych.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania cywilnego, s¹d ma mo¿liwoœæ zas¹dzenia od strony przegrywaj¹cej tylko czêœci kosztów procesu lub nie obci¹¿ania jej w ogóle kosztami procesu w wypadkach szczególnie uzasadnionych. Oznacza to, ¿e s¹d mo¿e odst¹piæ od zasady obci¹¿ania strony przegrywaj¹cej pe³nymi kosztami procesu, jeœli istniej¹ ku temu szczególne powody, które uzasadniaj¹ takie odstêpstwo. Nie jest to jednak decyzja dowolna, lecz wymaga istnienia szczególnych okolicznoœci.
+
+Podstawa prawna: Art. 102 Kodeksu postêpowania cywilnego (Dz.U. 1964 nr 43 poz. 296 z póŸn. zm.) stanowi, ¿e ""w wypadkach szczególnie uzasadnionych s¹d mo¿e zas¹dziæ od strony przegrywaj¹cej tylko czêœæ kosztów albo nie obci¹¿aæ jej w ogóle kosztami"".",True,True,[102]
+69,"Question: Zgodnie z Kodeksem postêpowania cywilnego, z mocy ustawy niedopuszczalny wniosek o przywrócenie terminu do dokonania czynnoœci procesowej, s¹d: 
+    
+            a) oddala,
+            b) pozostawia bez rozpoznania,
+            c) odrzuca.
+            ",C,art. 171 k.p.c. ,"Poprawna odpowiedŸ to: **c) odrzuca.**
+
+Wyjaœnienie:
+
+Zgodnie z Kodeksem postêpowania cywilnego, wniosek o przywrócenie terminu, który jest z mocy ustawy niedopuszczalny, podlega odrzuceniu. Odrzucenie wniosku oznacza, ¿e s¹d nie bêdzie go merytorycznie rozpatrywa³, poniewa¿ z przyczyn formalnych nie mo¿e byæ on przedmiotem postêpowania. 
+
+Podstaw¹ prawn¹ dla tej procedury jest art. 172 Kodeksu postêpowania cywilnego, który stanowi, ¿e s¹d odrzuca wniosek o przywrócenie terminu, je¿eli jest on z mocy ustawy niedopuszczalny. 
+
+Przepis ten ma na celu zapewnienie, ¿e s¹d nie bêdzie zajmowa³ siê wnioskami, które z góry s¹ skazane na niepowodzenie z powodu braku podstaw prawnych do ich rozpatrzenia.",True,False,[172]
+70,"Question: Zgodnie z Kodeksem postêpowania cywilnego, s¹d zawiesza postêpowanie cywilne z urzêdu w razie: 
+    
+            a) œmierci przedstawiciela ustawowego strony,
+            b) zgodnego wniosku stron o zawieszenie postêpowania,
+            c) nieuiszczenia zaliczki na poczet wydatków zwi¹zanych z przeprowadzeniem dowodu z opinii bieg³ego.
+            ",A,art. 174 § 1 pkt 1 k.p.c. ,"Poprawna odpowiedŸ to: a) œmierci przedstawiciela ustawowego strony.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania cywilnego, s¹d zawiesza postêpowanie z urzêdu w przypadku œmierci przedstawiciela ustawowego strony. Jest to sytuacja, w której strona postêpowania traci swojego przedstawiciela, co uniemo¿liwia dalsze prowadzenie sprawy do czasu ustanowienia nowego przedstawiciela. 
+
+Zawieszenie postêpowania z urzêdu w przypadku œmierci przedstawiciela ustawowego strony jest przewidziane w art. 174 § 1 pkt 1 Kodeksu postêpowania cywilnego. Zgodnie z tym przepisem, s¹d zawiesza postêpowanie z urzêdu w razie œmierci strony lub jej przedstawiciela ustawowego, je¿eli dalsze postêpowanie jest niemo¿liwe bez ich udzia³u.
+
+Pozosta³e opcje:
+b) Zgodny wniosek stron o zawieszenie postêpowania nie jest podstaw¹ do zawieszenia z urzêdu, lecz na wniosek stron (art. 178 KPC).
+c) Nieuiszczenie zaliczki na poczet wydatków zwi¹zanych z przeprowadzeniem dowodu z opinii bieg³ego mo¿e prowadziæ do zawieszenia postêpowania, ale nie z urzêdu, lecz na wniosek strony (art. 177 § 1 pkt 6 KPC).",True,True,"[174, 178, 177]"
+71,"Question: Zgodnie z Kodeksem postêpowania cywilnego, je¿eli o to samo roszczenie pomiêdzy tymi samymi stronami sprawa zosta³a ju¿ prawomocnie os¹dzona, s¹d: 
+    
+            a) odrzuca pozew,
+            b) zwraca pozew,
+            c) umarza postêpowanie.
+            ",A,art. 199 § 1 pkt 2 k.p.c. ,"OdpowiedŸ: a) odrzuca pozew.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania cywilnego, je¿eli sprawa o to samo roszczenie pomiêdzy tymi samymi stronami zosta³a ju¿ prawomocnie os¹dzona, s¹d odrzuca pozew. Jest to zwi¹zane z zasad¹ powagi rzeczy os¹dzonej (res iudicata), która uniemo¿liwia ponowne rozpatrywanie tej samej sprawy, która zosta³a ju¿ prawomocnie zakoñczona. 
+
+Podstaw¹ prawn¹ dla tej zasady jest art. 199 § 1 pkt 2 Kodeksu postêpowania cywilnego, który stanowi, ¿e s¹d odrzuca pozew, je¿eli o to samo roszczenie pomiêdzy tymi samymi stronami sprawa jest w toku lub zosta³a ju¿ prawomocnie os¹dzona. 
+
+Artyku³ ten ma na celu zapobieganie sytuacjom, w których s¹dy by³yby obci¹¿ane rozpatrywaniem spraw, które zosta³y ju¿ prawomocnie zakoñczone, co mog³oby prowadziæ do niepotrzebnego marnowania zasobów s¹dowych oraz do niepewnoœci prawnej.",True,True,[199]
+72,"Question: Zgodnie z Kodeksem postêpowania cywilnego, rozprawa ulega odroczeniu: 
+    
+            a) zawsze wtedy, gdy strony zg³osi³y zgodny wniosek o odroczenie rozprawy,
+            b) je¿eli nieobecnoœæ strony jest wywo³ana nadzwyczajnym wydarzeniem lub inn¹ znan¹ s¹dowi przeszkod¹, której nie mo¿na przezwyciê¿yæ,
+            c) zawsze wtedy, gdy istnieje mo¿liwoœæ ugodowego zakoñczenia sprawy.
+            ",B,art. 214 § 1 k.p.c. ,"OdpowiedŸ poprawna: b) je¿eli nieobecnoœæ strony jest wywo³ana nadzwyczajnym wydarzeniem lub inn¹ znan¹ s¹dowi przeszkod¹, której nie mo¿na przezwyciê¿yæ.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania cywilnego, s¹d mo¿e odroczyæ rozprawê, je¿eli nieobecnoœæ strony jest spowodowana nadzwyczajnym wydarzeniem lub inn¹ przeszkod¹, której nie mo¿na przezwyciê¿yæ. Taka sytuacja uzasadnia odroczenie rozprawy, poniewa¿ strona nie ma mo¿liwoœci uczestniczenia w niej z przyczyn od niej niezale¿nych. Zgoda stron na odroczenie rozprawy (odpowiedŸ a) nie jest wystarczaj¹c¹ podstaw¹ do jej odroczenia, a mo¿liwoœæ ugodowego zakoñczenia sprawy (odpowiedŸ c) równie¿ nie jest automatyczn¹ przes³ank¹ do odroczenia rozprawy.
+
+Podstawa prawna: Art. 214 § 1 Kodeksu postêpowania cywilnego (Dz.U. 1964 nr 43 poz. 296 z póŸn. zm.) stanowi, ¿e s¹d mo¿e odroczyæ rozprawê, je¿eli nieobecnoœæ strony jest wywo³ana nadzwyczajnym wydarzeniem lub inn¹ znan¹ s¹dowi przeszkod¹, której nie mo¿na przezwyciê¿yæ.",True,True,[214]
+73,"Question: Zgodnie z Kodeksem postêpowania cywilnego, domniemania ustanowione przez prawo (domniemania prawne): 
+    
+            a) zawsze mog¹ byæ obalone,
+            b) nigdy nie mog¹ byæ obalone,
+            c) mog¹ byæ obalone, ilekroæ ustawa tego nie wy³¹cza.
+            ",C,art. 234 k.p.c. ,"OdpowiedŸ: c) mog¹ byæ obalone, ilekroæ ustawa tego nie wy³¹cza.
+
+Wyjaœnienie: W polskim prawie cywilnym domniemania prawne to za³o¿enia, które uznaje siê za prawdziwe, dopóki nie zostan¹ obalone. Zgodnie z Kodeksem postêpowania cywilnego, domniemania prawne mog¹ byæ obalone, chyba ¿e ustawa wyraŸnie stanowi inaczej. Oznacza to, ¿e w przypadku, gdy ustawa nie wy³¹cza mo¿liwoœci obalenia domniemania, strona postêpowania ma prawo przedstawiæ dowody, które mog¹ podwa¿yæ to domniemanie.
+
+Podstawa prawna: Kodeks postêpowania cywilnego, art. 234. Artyku³ ten stanowi, ¿e domniemania prawne mog¹ byæ obalone, chyba ¿e ustawa stanowi inaczej.",True,True,[234]
+74,"Question: Zgodnie z Kodeksem postêpowania cywilnego, je¿eli apelacja jest bezzasadna, s¹d drugiej instancji: 
+    
+            a) oddala apelacjê,
+            b) odrzuca apelacjê,
+            c) umarza postêpowanie apelacyjne.
+            ",A,art. 385 k.p.c. ,"OdpowiedŸ: a) oddala apelacjê.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania cywilnego, je¿eli s¹d drugiej instancji uzna, ¿e apelacja jest bezzasadna, to j¹ oddala. Odrzucenie apelacji nastêpuje w sytuacjach formalnych, np. gdy apelacja jest wniesiona po terminie lub przez osobê nieuprawnion¹. Umarzanie postêpowania apelacyjnego dotyczy sytuacji, gdy postêpowanie staje siê bezprzedmiotowe, np. z powodu cofniêcia apelacji przez stronê.
+
+Podstawa prawna: Zgodnie z art. 385 Kodeksu postêpowania cywilnego, s¹d drugiej instancji oddala apelacjê, je¿eli jest ona bezzasadna.",True,True,[385]
+75,"Question: Zgodnie z Kodeksem postêpowania cywilnego, za¿alenie do S¹du Najwy¿szego przys³uguje na: 
+    
+            a) wyrok s¹du apelacyjnego uchylaj¹cy wyrok s¹du okrêgowego i przekazuj¹cy sprawê do ponownego rozpoznania,
+            b) postanowienie s¹du apelacyjnego oddalaj¹ce wniosek o wy³¹czenie sêdziego tego s¹du,
+            c) postanowienie s¹du apelacyjnego w przedmiocie odrzucenia pozwu
+            ",A,art. 3941 § 11 k.p.c. ,"Poprawna odpowiedŸ to: b) postanowienie s¹du apelacyjnego oddalaj¹ce wniosek o wy³¹czenie sêdziego tego s¹du.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania cywilnego, za¿alenie do S¹du Najwy¿szego przys³uguje na postanowienia s¹du drugiej instancji, które koñcz¹ postêpowanie w sprawie, oraz na inne postanowienia, je¿eli przepis szczególny tak stanowi. W przypadku postanowieñ dotycz¹cych wy³¹czenia sêdziego, za¿alenie do S¹du Najwy¿szego jest dopuszczalne. 
+
+Podstawa prawna: Zgodnie z art. 394(1) § 1 pkt 10 Kodeksu postêpowania cywilnego, za¿alenie do S¹du Najwy¿szego przys³uguje na postanowienie s¹du drugiej instancji oddalaj¹ce wniosek o wy³¹czenie sêdziego.",False,True,[394]
+76,"Question: Zgodnie z ustaw¹ o kosztach s¹dowych w sprawach cywilnych, pismo wnoszone przez kilka osób podlega jednej op³acie, chyba ¿e: 
+    
+            a) pismo jest wnoszone przez wspó³uczestników materialnych i ka¿dy wspó³uczestnik materialny uiszcza op³atê oddzielnie, stosownie do swojego roszczenia lub zobowi¹zania,
+            b) pismo jest wnoszone przez wspó³uczestników formalnych i ka¿dy wspó³uczestnik formalny uiszcza op³atê oddzielnie, stosownie do swojego roszczenia lub zobowi¹zania,
+            c) pismo jest wnoszone przez wspó³uczestników jednolitych i ka¿dy wspó³uczestnik jednolity uiszcza op³atê oddzielnie, w pe³nej wysokoœci.
+            ",B,art. 4 ust. 1 ustawy z dnia 28 lipca 2005 r. o kosztach s¹dowych w sprawach cywilnych ,"OdpowiedŸ: a) pismo jest wnoszone przez wspó³uczestników materialnych i ka¿dy wspó³uczestnik materialny uiszcza op³atê oddzielnie, stosownie do swojego roszczenia lub zobowi¹zania.
+
+Wyjaœnienie: Zgodnie z ustaw¹ o kosztach s¹dowych w sprawach cywilnych, zasada jest taka, ¿e pismo wnoszone przez kilka osób podlega jednej op³acie. Wyj¹tkiem od tej zasady jest sytuacja, gdy pismo jest wnoszone przez wspó³uczestników materialnych. W takim przypadku ka¿dy wspó³uczestnik materialny musi uiœciæ op³atê oddzielnie, stosownie do swojego roszczenia lub zobowi¹zania. Wspó³uczestnictwo materialne oznacza, ¿e ka¿dy z uczestników ma odrêbne roszczenie lub zobowi¹zanie, które jest przedmiotem postêpowania.
+
+Podstawa prawna: Ustawa z dnia 28 lipca 2005 r. o kosztach s¹dowych w sprawach cywilnych, art. 4 ust. 1 i 2.",False,True,[4]
+77,"Question: Zgodnie z Kodeksem rodzinnym i opiekuñczym, je¿eli oœwiadczenie o wst¹pieniu w zwi¹zek ma³¿eñski zosta³o z³o¿one przez osobê, która z jakichkolwiek powodów znajdowa³a siê w stanie wy³¹czaj¹cym œwiadome wyra¿enie woli, uniewa¿nienia ma³¿eñstwa z tego powodu, przed up³ywem szeœciu miesiêcy od ustania tego stanu, a w ka¿dym wypadku przed up³ywem lat trzech od zawarcia ma³¿eñstwa, mo¿e ¿¹daæ: 
+    
+            a) ka¿dy, kto ma w tym interes prawny,
+            b) ka¿dy z ma³¿onków, nawet je¿eli nie z³o¿y³ oœwiadczenia dotkniêtego t¹ wad¹,
+            c) ma³¿onek, który z³o¿y³ oœwiadczenie dotkniête t¹ wad¹.
+            ",C,art. 151 § 2 k.r. i o. ,"OdpowiedŸ poprawna: c) ma³¿onek, który z³o¿y³ oœwiadczenie dotkniête t¹ wad¹.
+
+Wyjaœnienie: Zgodnie z Kodeksem rodzinnym i opiekuñczym, uniewa¿nienia ma³¿eñstwa z powodu wady oœwiadczenia woli mo¿e ¿¹daæ tylko ten ma³¿onek, którego oœwiadczenie by³o dotkniête wad¹. W przypadku, gdy oœwiadczenie o wst¹pieniu w zwi¹zek ma³¿eñski zosta³o z³o¿one przez osobê, która znajdowa³a siê w stanie wy³¹czaj¹cym œwiadome wyra¿enie woli, tylko ta osoba ma prawo ¿¹daæ uniewa¿nienia ma³¿eñstwa. 
+
+Podstawa prawna: Art. 15 § 1 Kodeksu rodzinnego i opiekuñczego (Dz.U. 1964 nr 9 poz. 59 z póŸn. zm.) stanowi, ¿e uniewa¿nienia ma³¿eñstwa z powodu wady oœwiadczenia woli mo¿e ¿¹daæ tylko ma³¿onek, którego oœwiadczenie by³o dotkniête wad¹.",True,True,[15]
+78,"Question: Zgodnie z Kodeksem rodzinnym i opiekuñczym, umowa maj¹tkowa ma³¿eñska powinna byæ zawarta w formie: 
+    
+            a) aktu notarialnego,
+            b) pisemnej z dat¹ pewn¹,
+            c) dokumentowej.
+            ",A,art. 47 § 1 k.r. i o ,"OdpowiedŸ: a) aktu notarialnego.
+
+Wyjaœnienie: Zgodnie z Kodeksem rodzinnym i opiekuñczym, umowa maj¹tkowa ma³¿eñska, znana równie¿ jako intercyza, musi byæ zawarta w formie aktu notarialnego. Jest to wymóg formalny, który ma na celu zapewnienie, ¿e obie strony s¹ w pe³ni œwiadome skutków prawnych takiej umowy oraz ¿e umowa jest sporz¹dzona w sposób zgodny z prawem. Forma aktu notarialnego zapewnia równie¿ wiêksz¹ pewnoœæ co do autentycznoœci i daty zawarcia umowy.
+
+Podstawa prawna: Art. 47 § 1 Kodeksu rodzinnego i opiekuñczego (Dz.U. 1964 nr 9 poz. 59 z póŸn. zm.) stanowi, ¿e umowa maj¹tkowa ma³¿eñska powinna byæ zawarta w formie aktu notarialnego.",True,True,[47]
+79,"Question: Zgodnie z Kodeksem rodzinnym i opiekuñczym, orzekaj¹c rozwód s¹d: 
+    
+            a) zawsze orzeka, czy i który z ma³¿onków ponosi winê rozk³adu po¿ycia,
+            b) orzeka tak¿e, czy i który z ma³¿onków ponosi winê rozk³adu po¿ycia; jednak¿e na zgodne ¿¹danie ma³¿onków s¹d zaniecha orzekania o winie,
+            c) wy³¹cznie na wniosek jednego z ma³¿onków orzeka, czy i który z ma³¿onków ponosi winê rozk³adu po¿ycia.
+            ",B,art. 57 k.r. i o. ,"OdpowiedŸ: b) orzeka tak¿e, czy i który z ma³¿onków ponosi winê rozk³adu po¿ycia; jednak¿e na zgodne ¿¹danie ma³¿onków s¹d zaniecha orzekania o winie.
+
+Wyjaœnienie: Zgodnie z Kodeksem rodzinnym i opiekuñczym, s¹d orzekaj¹c rozwód, co do zasady, orzeka równie¿ o winie rozk³adu po¿ycia ma³¿eñskiego. Jednak¿e, jeœli oboje ma³¿onkowie zgodnie za¿¹daj¹, aby s¹d nie orzeka³ o winie, s¹d zaniecha tego orzekania. Taka mo¿liwoœæ pozwala ma³¿onkom na unikniêcie dodatkowych konfliktów i przyspieszenie postêpowania rozwodowego.
+
+Podstawa prawna: Art. 57 § 1 i 2 Kodeksu rodzinnego i opiekuñczego (ustawa z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuñczy, Dz.U. z 2020 r. poz. 1359 z póŸn. zm.). Art. 57 § 1 stanowi, ¿e s¹d orzeka, czy i który z ma³¿onków ponosi winê rozk³adu po¿ycia, natomiast § 2 przewiduje mo¿liwoœæ zaniechania orzekania o winie na zgodne ¿¹danie ma³¿onków.",True,True,[57]
+80,"Question: Zgodnie z Kodeksem rodzinnym i opiekuñczym, s¹d orzeka o zniesieniu separacji: 
+    
+            a) na zgodne ¿¹danie ma³¿onków,
+            b) na wniosek jednego z ma³¿onków, nawet jeœli drugi ma³¿onek nie ustosunkuje siê do wniosku w zakreœlonym przez s¹d terminie,
+            c) na wniosek jednego z ma³¿onków, nawet jeœli drugi ma³¿onek sprzeciwi siê wnioskowi w zakreœlonym przez s¹d terminie.
+            ",A,art. 616 § 1 k.r. i o. ,"OdpowiedŸ: a) na zgodne ¿¹danie ma³¿onków.
+
+Wyjaœnienie: Zgodnie z Kodeksem rodzinnym i opiekuñczym, s¹d mo¿e orzec o zniesieniu separacji tylko na zgodne ¿¹danie ma³¿onków. Oznacza to, ¿e oboje ma³¿onkowie musz¹ wyraziæ wolê zniesienia separacji, aby s¹d móg³ podj¹æ tak¹ decyzjê. Separacja jest stanem prawnym, który wymaga zgody obu stron na jego zakoñczenie, co ma na celu zapewnienie, ¿e decyzja o powrocie do wspólnego po¿ycia jest wspólna i przemyœlana.
+
+Podstawa prawna: Kodeks rodzinny i opiekuñczy, art. 616.",True,True,[616]
+81,"Question: Zgodnie z Kodeksem rodzinnym i opiekuñczym, obowi¹zek alimentacyjny: 
+    
+            a) nie przechodzi na spadkobierców zobowi¹zanego,
+            b) przechodzi na spadkobierców zobowi¹zanego,
+            c) przechodzi na spadkobierców zobowi¹zanego, którzy dziedzicz¹ po zobowi¹zanym na podstawie ustawy.
+            ",A,art. 139 k.r. i o. ,"OdpowiedŸ: a) nie przechodzi na spadkobierców zobowi¹zanego.
+
+Wyjaœnienie: Zgodnie z Kodeksem rodzinnym i opiekuñczym, obowi¹zek alimentacyjny jest obowi¹zkiem osobistym i nie przechodzi na spadkobierców zobowi¹zanego. Oznacza to, ¿e po œmierci osoby zobowi¹zanej do p³acenia alimentów, jej spadkobiercy nie s¹ zobowi¹zani do kontynuowania p³acenia alimentów z w³asnych œrodków. Obowi¹zek alimentacyjny wygasa wraz ze œmierci¹ zobowi¹zanego.
+
+Podstawa prawna: Kodeks rodzinny i opiekuñczy, art. 136, który stanowi, ¿e obowi¹zek alimentacyjny wygasa z chwil¹ œmierci zobowi¹zanego.",True,False,[136]
+82,"Question: Zgodnie z ustaw¹ o przeciwdzia³aniu nadmiernym opóŸnieniom w transakcjach handlowych, je¿eli strony transakcji handlowej przewidzia³y w umowie zbadanie towaru lub us³ugi celem potwierdzenia zgodnoœci towaru lub us³ugi z umow¹, ustalony w umowie termin tego badania: 
+    
+            a) nie mo¿e byæ nieuczciwy wobec wierzyciela i nie mo¿e przekraczaæ 14 dni, licz¹c od dnia otrzymania towaru lub us³ugi,
+            b) nie mo¿e byæ ra¿¹co nieuczciwy wobec wierzyciela i nie mo¿e przekraczaæ 30 dni, licz¹c od dnia otrzymania towaru lub us³ugi,
+            c) nie mo¿e byæ nieuczciwy wobec wierzyciela i nie mo¿e przekraczaæ 3 miesiêcy, licz¹c od dnia otrzymania towaru lub us³ugi.
+            ",B,art. 9 ust. 1 ustawy z dnia 8 marca 2013 r. o przeciwdzia³aniu nadmiernym opóŸnieniom w transakcjach handlowych ,"OdpowiedŸ poprawna to: **b) nie mo¿e byæ ra¿¹co nieuczciwy wobec wierzyciela i nie mo¿e przekraczaæ 30 dni, licz¹c od dnia otrzymania towaru lub us³ugi.**
+
+**Wyjaœnienie:**
+
+Zgodnie z ustaw¹ z dnia 8 marca 2013 r. o przeciwdzia³aniu nadmiernym opóŸnieniom w transakcjach handlowych, je¿eli strony transakcji handlowej przewidzia³y w umowie zbadanie towaru lub us³ugi celem potwierdzenia zgodnoœci towaru lub us³ugi z umow¹, to termin tego badania nie mo¿e byæ ra¿¹co nieuczciwy wobec wierzyciela i nie mo¿e przekraczaæ 30 dni, licz¹c od dnia otrzymania towaru lub us³ugi. 
+
+Przepis ten ma na celu ochronê wierzycieli przed nadmiernym wyd³u¿aniem terminów p³atnoœci przez d³u¿ników, co mog³oby prowadziæ do nieuczciwych praktyk handlowych. Ustalenie maksymalnego terminu na 30 dni ma zapewniæ, ¿e proces weryfikacji towaru lub us³ugi nie bêdzie nieuzasadnionym pretekstem do opóŸniania p³atnoœci.
+
+**Podstawa prawna:**
+
+Ustawa z dnia 8 marca 2013 r. o przeciwdzia³aniu nadmiernym opóŸnieniom w transakcjach handlowych, art. 7 ust. 2.",True,False,[7]
+83,"Question: Zgodnie z ustaw¹ o zastawie rejestrowym i rejestrze zastawów, zastawem rejestrowym mo¿na zabezpieczyæ: 
+    
+            a) wierzytelnoœæ niepieniê¿n¹,
+            b) wierzytelnoœæ pieniê¿n¹ wyra¿on¹ wy³¹cznie w pieni¹dzu polskim i wierzytelnoœæ niepieniê¿n¹,
+            c) wierzytelnoœæ pieniê¿n¹ wyra¿on¹ w pieni¹dzu polskim lub walucie obcej
+            ",C,art. 5 ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów ,"OdpowiedŸ poprawna: c) wierzytelnoœæ pieniê¿n¹ wyra¿on¹ w pieni¹dzu polskim lub walucie obcej
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów, zastaw rejestrowy mo¿e zabezpieczaæ wierzytelnoœci pieniê¿ne, które mog¹ byæ wyra¿one zarówno w pieni¹dzu polskim, jak i w walucie obcej. Ustawa ta nie ogranicza mo¿liwoœci zabezpieczania wierzytelnoœci wy³¹cznie do polskiej waluty, co oznacza, ¿e wierzytelnoœci mog¹ byæ wyra¿one równie¿ w innych walutach.
+
+Podstawa prawna: Art. 1 ust. 1 ustawy o zastawie rejestrowym i rejestrze zastawów, który stanowi, ¿e zastaw rejestrowy mo¿e zabezpieczaæ wierzytelnoœci pieniê¿ne, nie precyzuj¹c ograniczeñ co do waluty, w jakiej te wierzytelnoœci s¹ wyra¿one.",True,True,[1]
+84,"Question: Zgodnie z ustaw¹ o zastawie rejestrowym i rejestrze zastawów, zastaw rejestrowy wygasa i podlega wykreœleniu z rejestru zastawów: 
+    
+            a) w ka¿dym przypadku po up³ywie piêciu lat od chwili wpisu,
+            b) w ka¿dym przypadku po up³ywie dziesiêciu lat od chwili wpisu,
+            c) po up³ywie dwudziestu lat od chwili wpisu, chyba ¿e strony postanowi¹ o utrzymaniu zastawu na czas dalszy, nie d³u¿szy ni¿ dziesiêæ lat, i do rejestru zastawów zostanie z³o¿ona zmiana umowy zastawniczej.
+            ",C,art. 18a ustawy z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów ,"OdpowiedŸ poprawna to: c) po up³ywie dwudziestu lat od chwili wpisu, chyba ¿e strony postanowi¹ o utrzymaniu zastawu na czas dalszy, nie d³u¿szy ni¿ dziesiêæ lat, i do rejestru zastawów zostanie z³o¿ona zmiana umowy zastawniczej.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów, zastaw rejestrowy wygasa po up³ywie dwudziestu lat od chwili wpisu do rejestru zastawów. Jednak¿e, strony mog¹ postanowiæ o przed³u¿eniu tego okresu na czas dalszy, nie d³u¿szy ni¿ dziesiêæ lat, pod warunkiem z³o¿enia do rejestru zastawów zmiany umowy zastawniczej. 
+
+Podstawa prawna: Art. 13 ust. 1 i 2 ustawy o zastawie rejestrowym i rejestrze zastawów.",True,False,[13]
+85,"Question: Zgodnie z ustaw¹ o Krajowym Rejestrze S¹dowym, Krajowy Rejestr S¹dowy sk³ada siê miêdzy innymi z: 
+    
+            a) rejestru d³u¿ników niewyp³acalnych,
+            b) krajowego rejestru zad³u¿onych,
+            c) centralnego rejestru beneficjentów rzeczywistych.
+            ",A,art. 1 ust. 2 pkt 3 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze S¹dowym ,"Poprawna odpowiedŸ to: a) rejestru d³u¿ników niewyp³acalnych.
+
+Wyjaœnienie: Krajowy Rejestr S¹dowy (KRS) jest rejestrem publicznym, który sk³ada siê z trzech g³ównych rejestrów: rejestru przedsiêbiorców, rejestru stowarzyszeñ, innych organizacji spo³ecznych i zawodowych, fundacji oraz samodzielnych publicznych zak³adów opieki zdrowotnej, a tak¿e rejestru d³u¿ników niewyp³acalnych. Rejestr d³u¿ników niewyp³acalnych jest jednym z elementów KRS, który zawiera informacje o osobach fizycznych i prawnych, które s¹ niewyp³acalne.
+
+Podstawa prawna: Zgodnie z art. 4 ust. 1 pkt 3 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze S¹dowym (Dz.U. z 2021 r. poz. 112), Krajowy Rejestr S¹dowy sk³ada siê z rejestru d³u¿ników niewyp³acalnych. 
+
+Pozosta³e opcje, tj. krajowy rejestr zad³u¿onych oraz centralny rejestr beneficjentów rzeczywistych, nie s¹ czêœci¹ Krajowego Rejestru S¹dowego. Krajowy Rejestr Zad³u¿onych jest odrêbnym rejestrem, który zosta³ wprowadzony ustaw¹ z dnia 6 grudnia 2018 r. o Krajowym Rejestrze Zad³u¿onych, a Centralny Rejestr Beneficjentów Rzeczywistych jest prowadzony na podstawie ustawy z dnia 1 marca 2018 r. o przeciwdzia³aniu praniu pieniêdzy oraz finansowaniu terroryzmu.",True,False,[4]
+86,"Question: Zgodnie z ustaw¹ o Krajowym Rejestrze S¹dowym, wpisy do Krajowego Rejestru S¹dowego podlegaj¹, o ile ustawa nie stanowi inaczej, obowi¹zkowi og³oszenia: 
+    
+            a) w Monitorze Polskim,
+            b) w Monitorze S¹dowym i Gospodarczym,
+            c) w Dzienniku Urzêdowym Ministra Sprawiedliwoœci.
+            ",B,art. 13 ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze S¹dowym ,"OdpowiedŸ: b) w Monitorze S¹dowym i Gospodarczym.
+
+Wyjaœnienie: Zgodnie z ustaw¹ o Krajowym Rejestrze S¹dowym, wpisy do Krajowego Rejestru S¹dowego (KRS) podlegaj¹ obowi¹zkowi og³oszenia w Monitorze S¹dowym i Gospodarczym. Monitor S¹dowy i Gospodarczy jest oficjalnym publikatoriem, w którym og³aszane s¹ m.in. wpisy do KRS, co ma na celu zapewnienie jawnoœci i dostêpnoœci informacji o podmiotach wpisanych do rejestru.
+
+Podstawa prawna: Zgodnie z art. 13 ust. 1 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze S¹dowym (Dz.U. z 2023 r. poz. 168), wpisy do rejestru podlegaj¹ og³oszeniu w Monitorze S¹dowym i Gospodarczym, chyba ¿e ustawa stanowi inaczej.",True,True,[13]
+87,"Question: Zgodnie z ustaw¹ – Prawo restrukturyzacyjne, przepisy tej ustawy stosuje siê miêdzy innymi do: 
+    
+            a) funduszy inwestycyjnych,
+            b) banków krajowych,
+            c) wspólników osobowych spó³ek handlowych ponosz¹cych odpowiedzialnoœæ za zobowi¹zania spó³ki bez ograniczenia ca³ym swoim maj¹tkiem.
+            ",C,art. 4 ust. 1 pkt 3 ustawy z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne ,"Poprawna odpowiedŸ to: b) banków krajowych.
+
+Wyjaœnienie:
+
+Ustawa z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne reguluje kwestie zwi¹zane z restrukturyzacj¹ przedsiêbiorstw, w tym równie¿ banków krajowych. Zgodnie z art. 4 ust. 1 pkt 2 tej ustawy, przepisy ustawy stosuje siê do banków krajowych, co oznacza, ¿e banki krajowe mog¹ korzystaæ z procedur restrukturyzacyjnych przewidzianych w tej ustawie. 
+
+Fundusze inwestycyjne (odpowiedŸ a) oraz wspólnicy osobowych spó³ek handlowych (odpowiedŸ c) nie s¹ bezpoœrednio wymienieni jako podmioty, do których stosuje siê przepisy Prawa restrukturyzacyjnego. W przypadku wspólników osobowych spó³ek handlowych, odpowiedzialnoœæ za zobowi¹zania spó³ki jest regulowana innymi przepisami, a nie bezpoœrednio przez Prawo restrukturyzacyjne.
+
+Podstawa prawna: Ustawa z dnia 15 maja 2015 r. – Prawo restrukturyzacyjne, art. 4 ust. 1 pkt 2.",False,True,[4]
+88,"Question: Zgodnie z ustaw¹ – Prawo upad³oœciowe, sprawy o og³oszenie upad³oœci przedsiêbiorców rozpoznaje w pierwszej instancji: 
+    
+            a) s¹d upad³oœciowy, którym jest s¹d rejonowy – s¹d gospodarczy, w sk³adzie jednego sêdziego zawodowego,
+            b) s¹d upad³oœciowy, którym jest s¹d rejonowy – s¹d gospodarczy, w sk³adzie trzech sêdziów zawodowych,
+            c) s¹d upad³oœciowy, którym jest s¹d okrêgowy – s¹d gospodarczy, w sk³adzie jednego sêdziego zawodowego i dwóch ³awników.
+            ",B,art. 18 ustawy z dnia 28 lutego 2003 r. – Prawo upad³oœciowe ,"OdpowiedŸ poprawna to: a) s¹d upad³oœciowy, którym jest s¹d rejonowy – s¹d gospodarczy, w sk³adzie jednego sêdziego zawodowego.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 28 lutego 2003 r. – Prawo upad³oœciowe, sprawy o og³oszenie upad³oœci przedsiêbiorców rozpoznaje s¹d rejonowy – s¹d gospodarczy. W pierwszej instancji sprawy te rozpoznaje s¹d w sk³adzie jednego sêdziego zawodowego. Jest to zgodne z ogóln¹ zasad¹, ¿e s¹dy rejonowe rozpoznaj¹ sprawy w sk³adzie jednego sêdziego, chyba ¿e przepisy szczególne stanowi¹ inaczej.
+
+Podstawa prawna: Art. 18 ust. 1 ustawy z dnia 28 lutego 2003 r. – Prawo upad³oœciowe (Dz.U. z 2022 r. poz. 1520, z póŸn. zm.).",False,True,[18]
+89,"Question: Zgodnie z ustaw¹ – Prawo upad³oœciowe, dat¹ upad³oœci jest data: 
+    
+            a) z³o¿enia wniosku o og³oszenie upad³oœci,
+            b) wydania wyroku w sprawie og³oszenia upad³oœci, a w wypadku wydania wyroku w sprawie og³oszenia upad³oœci po ponownym rozpoznaniu sprawy w nastêpstwie uchylenia wyroku przez s¹d drugiej instancji – data wydania ponownego wyroku o og³oszeniu upad³oœci,
+            c) wydania postanowienia o og³oszeniu upad³oœci, a w przypadku wydania postanowienia o og³oszeniu upad³oœci po ponownym rozpoznaniu sprawy w nastêpstwie uchylenia postanowienia przez s¹d drugiej instancji – data wydania pierwszego postanowienia o og³oszeniu upad³oœci.
+            ",C,art. 52 ustawy z dnia 28 lutego 2003 r. – Prawo upad³oœciowe ,"OdpowiedŸ poprawna to: c) wydania postanowienia o og³oszeniu upad³oœci, a w przypadku wydania postanowienia o og³oszeniu upad³oœci po ponownym rozpoznaniu sprawy w nastêpstwie uchylenia postanowienia przez s¹d drugiej instancji – data wydania pierwszego postanowienia o og³oszeniu upad³oœci.
+
+Wyjaœnienie: Zgodnie z ustaw¹ – Prawo upad³oœciowe, dat¹ upad³oœci jest data wydania postanowienia o og³oszeniu upad³oœci. Jest to moment, w którym s¹d formalnie stwierdza stan upad³oœci d³u¿nika. W przypadku, gdy postanowienie to zostanie uchylone przez s¹d drugiej instancji i sprawa zostanie ponownie rozpoznana, za datê upad³oœci uznaje siê datê wydania pierwszego postanowienia o og³oszeniu upad³oœci. 
+
+Podstawa prawna: Art. 51 ustawy z dnia 28 lutego 2003 r. – Prawo upad³oœciowe (Dz.U. z 2022 r. poz. 1520, z póŸn. zm.).",True,False,[51]
+90,"Question: Zgodnie z ustaw¹ o prawach konsumenta, je¿eli przepisy odrêbne nie stanowi¹ inaczej, przedsiêbiorca jest obowi¹zany udzieliæ odpowiedzi na reklamacjê konsumenta: 
+    
+            a) w terminie 7 dni od dnia jej otrzymania,
+            b) w terminie 14 dni od dnia jej otrzymania,
+            c) w terminie 21 dni od dnia jej otrzymania.
+            ",B,art. 7a ust. 1 ustawy z dnia 30 maja 2014 r. o prawach konsumenta ,"OdpowiedŸ poprawna to: b) w terminie 14 dni od dnia jej otrzymania.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 30 maja 2014 r. o prawach konsumenta, przedsiêbiorca ma obowi¹zek udzielenia odpowiedzi na reklamacjê konsumenta w terminie 14 dni od dnia jej otrzymania. Je¿eli przedsiêbiorca nie udzieli odpowiedzi w tym terminie, uwa¿a siê, ¿e uzna³ reklamacjê za uzasadnion¹.
+
+Podstawa prawna: Art. 7a ust. 1 ustawy o prawach konsumenta.",True,True,[7]
+91,"Question: Zgodnie z ustaw¹ – Prawo przedsiêbiorców, spó³ka kapita³owa w organizacji przed wpisem do rejestru przedsiêbiorców: 
+    
+            a) nie mo¿e podj¹æ dzia³alnoœci gospodarczej,
+            b) mo¿e podj¹æ dzia³alnoœæ gospodarcz¹,
+            c) nie mo¿e podj¹æ dzia³alnoœci gospodarczej, chyba ¿e s¹d rejestrowy wyrazi na to zgodê.
+            ",B,art. 17 ust. 3 ustawy z dnia 6 marca 2018 r. – Prawo przedsiêbiorców ,"OdpowiedŸ: b) mo¿e podj¹æ dzia³alnoœæ gospodarcz¹.
+
+Wyjaœnienie: Zgodnie z ustaw¹ – Prawo przedsiêbiorców, spó³ka kapita³owa w organizacji, czyli spó³ka z ograniczon¹ odpowiedzialnoœci¹ w organizacji lub spó³ka akcyjna w organizacji, mo¿e podejmowaæ dzia³alnoœæ gospodarcz¹ przed wpisem do rejestru przedsiêbiorców. Spó³ka w organizacji ma zdolnoœæ prawn¹ i mo¿e nabywaæ prawa, zaci¹gaæ zobowi¹zania, pozywaæ i byæ pozywana. Dzia³alnoœæ gospodarcza mo¿e byæ prowadzona od momentu zawarcia umowy spó³ki (w przypadku spó³ki z o.o.) lub zawi¹zania spó³ki (w przypadku spó³ki akcyjnej), a nie dopiero od momentu wpisu do rejestru.
+
+Podstawa prawna: Kodeks spó³ek handlowych, art. 11 § 1, który stanowi, ¿e spó³ka z ograniczon¹ odpowiedzialnoœci¹ w organizacji oraz spó³ka akcyjna w organizacji mog¹ we w³asnym imieniu nabywaæ prawa, w tym w³asnoœæ nieruchomoœci i inne prawa rzeczowe, zaci¹gaæ zobowi¹zania, pozywaæ i byæ pozywane.",True,False,[11]
+92,"Question: Zgodnie z ustaw¹ – Prawo przedsiêbiorców, w okresie zawieszenia wykonywania dzia³alnoœci gospodarczej przedsiêbiorca: 
+    
+            a) mo¿e zbywaæ w³asne œrodki trwa³e i wyposa¿enie,
+            b) nie mo¿e zostaæ poddany kontroli na zasadach przewidzianych dla przedsiêbiorców wykonuj¹cych dzia³alnoœæ gospodarcz¹,
+            c) nie mo¿e przyjmowaæ nale¿noœci
+            ",A,art. 25 ust. 2 pkt 3 ustawy z dnia 6 marca 2018 r. – Prawo przedsiêbiorców ,"OdpowiedŸ poprawna to: a) mo¿e zbywaæ w³asne œrodki trwa³e i wyposa¿enie.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 6 marca 2018 r. – Prawo przedsiêbiorców, w okresie zawieszenia wykonywania dzia³alnoœci gospodarczej przedsiêbiorca ma prawo do zbywania w³asnych œrodków trwa³ych i wyposa¿enia. Jest to jeden z wyj¹tków, które pozwalaj¹ przedsiêbiorcy na pewne dzia³ania mimo zawieszenia dzia³alnoœci. Przedsiêbiorca nie mo¿e natomiast wykonywaæ czynnoœci zwi¹zanych z bie¿¹c¹ dzia³alnoœci¹ gospodarcz¹, ale zbywanie œrodków trwa³ych i wyposa¿enia jest dozwolone, poniewa¿ nie jest to uznawane za kontynuacjê dzia³alnoœci.
+
+Podstawa prawna: Art. 25 ust. 2 pkt 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiêbiorców.",True,True,[25]
+93,"Question: Zgodnie z Kodeksem spó³ek handlowych, spó³kami osobowymi s¹: 
+    
+            a) spó³ka jawna, spó³ka partnerska, spó³ka cywilna i spó³ka komandytowa,
+            b) spó³ka jawna, prosta spó³ka akcyjna, spó³ka komandytowo-akcyjna i spó³ka komandytowa,
+            c) spó³ka jawna, spó³ka partnerska, spó³ka komandytowa i spó³ka komandytowo- akcyjna.
+            ",C,art. 4 § 1 pkt 1 k.s.h. ,"OdpowiedŸ poprawna: c) spó³ka jawna, spó³ka partnerska, spó³ka komandytowa i spó³ka komandytowo-akcyjna.
+
+Wyjaœnienie: Zgodnie z Kodeksem spó³ek handlowych, spó³kami osobowymi s¹ spó³ka jawna, spó³ka partnerska, spó³ka komandytowa oraz spó³ka komandytowo-akcyjna. Spó³ki osobowe charakteryzuj¹ siê tym, ¿e ich dzia³alnoœæ opiera siê na osobistej wspó³pracy wspólników, a odpowiedzialnoœæ za zobowi¹zania spó³ki jest solidarna i nieograniczona, z wyj¹tkiem spó³ki komandytowej i komandytowo-akcyjnej, gdzie odpowiedzialnoœæ niektórych wspólników jest ograniczona.
+
+Podstawa prawna: Kodeks spó³ek handlowych, art. 4 § 1 pkt 1, który definiuje spó³ki osobowe jako spó³kê jawn¹, spó³kê partnersk¹, spó³kê komandytow¹ i spó³kê komandytowo-akcyjn¹.",True,True,[4]
+94,"Question: Zgodnie z Kodeksem spó³ek handlowych, spó³ka z ograniczon¹ odpowiedzialnoœci¹ w organizacji mo¿e we w³asnym imieniu: 
+    
+            a) nabywaæ prawa, ale bez prawa w³asnoœci nieruchomoœci, zaci¹gaæ zobowi¹zania, pozywaæ i byæ pozywana,
+            b) nabywaæ prawa, w tym w³asnoœæ nieruchomoœci i inne prawa rzeczowe, zaci¹gaæ zobowi¹zania, pozywaæ i byæ pozywana,
+            c) nabywaæ prawa, w tym w³asnoœæ nieruchomoœci i inne prawa rzeczowe, zaci¹gaæ zobowi¹zania, mo¿e byæ pozywana, ale do czasu wpisu spó³ki do rejestru przedsiêbiorców nie mo¿e pozywaæ.
+            ",B,art. 11 § 1 w zw. z art. 161 § 1 k.s.h. ,"OdpowiedŸ: b) nabywaæ prawa, w tym w³asnoœæ nieruchomoœci i inne prawa rzeczowe, zaci¹gaæ zobowi¹zania, pozywaæ i byæ pozywana.
+
+Wyjaœnienie: Zgodnie z Kodeksem spó³ek handlowych, spó³ka z ograniczon¹ odpowiedzialnoœci¹ w organizacji ma zdolnoœæ prawn¹ i zdolnoœæ do czynnoœci prawnych. Oznacza to, ¿e mo¿e nabywaæ prawa, w tym w³asnoœæ nieruchomoœci i inne prawa rzeczowe, zaci¹gaæ zobowi¹zania, a tak¿e pozywaæ i byæ pozywana. Spó³ka w organizacji dzia³a przez swoje organy lub pe³nomocników. 
+
+Podstawa prawna: Zgodnie z art. 11 § 1 Kodeksu spó³ek handlowych, spó³ka z ograniczon¹ odpowiedzialnoœci¹ w organizacji mo¿e we w³asnym imieniu nabywaæ prawa, w tym w³asnoœæ nieruchomoœci i inne prawa rzeczowe, zaci¹gaæ zobowi¹zania, pozywaæ i byæ pozywana.",True,True,[11]
+95,"Question: Zgodnie z Kodeksem spó³ek handlowych, umowa spó³ki jawnej mo¿e przewidywaæ: 
+    
+            a) ¿e wspólnik jest pozbawiony prawa reprezentowania spó³ki albo ¿e jest uprawniony do jej reprezentowania tylko ³¹cznie z innym wspólnikiem lub prokurentem,
+            b) ograniczenie prawa wspólnika do osobistego zasiêgania informacji o stanie maj¹tku i interesów spó³ki oraz umowne ograniczenie prawa do osobistego przegl¹dania ksi¹g i dokumentów spó³ki,
+            c) wy³¹czenie prawa wspólnika do ¿¹dania rozwi¹zania spó³ki przez s¹d z wa¿nych powodów.
+            ",A,art. 30 § 1 k.s.h. ,"OdpowiedŸ: a) ¿e wspólnik jest pozbawiony prawa reprezentowania spó³ki albo ¿e jest uprawniony do jej reprezentowania tylko ³¹cznie z innym wspólnikiem lub prokurentem.
+
+Wyjaœnienie: Zgodnie z Kodeksem spó³ek handlowych, umowa spó³ki jawnej mo¿e przewidywaæ ró¿ne zasady dotycz¹ce reprezentacji spó³ki przez wspólników. Artyku³ 30 Kodeksu spó³ek handlowych stanowi, ¿e ka¿dy wspólnik ma prawo reprezentowaæ spó³kê, chyba ¿e umowa spó³ki stanowi inaczej. Umowa mo¿e przewidywaæ, ¿e wspólnik jest pozbawiony prawa reprezentowania spó³ki albo ¿e jest uprawniony do jej reprezentowania tylko ³¹cznie z innym wspólnikiem lub prokurentem. 
+
+Natomiast odpowiedzi b) i c) dotycz¹ kwestii, które nie mog¹ byæ ograniczone umow¹ spó³ki jawnej. Wspólnik ma prawo do informacji o stanie maj¹tku i interesów spó³ki oraz do przegl¹dania ksi¹g i dokumentów, a tak¿e prawo do ¿¹dania rozwi¹zania spó³ki przez s¹d z wa¿nych powodów, co jest chronione przepisami prawa.
+
+Podstawa prawna: Kodeks spó³ek handlowych, art. 30.",True,True,[30]
+96,"Question: Zgodnie z Kodeksem spó³ek handlowych, w przypadku utraty przez partnera spó³ki partnerskiej uprawnieñ do wykonywania wolnego zawodu, powinien on wyst¹piæ ze spó³ki: 
+    
+            a) na ¿¹danie któregokolwiek z pozosta³ych partnerów,
+            b) jeœli nie uzyska ponownie uprawnieñ w okresie 3 lat od ich utraty,
+            c) najpóŸniej z koñcem roku obrotowego, w którym utraci³ prawo wykonywania wolnego zawodu.
+            ",C,art. 100 § 1 k.s.h. ,"OdpowiedŸ: a) na ¿¹danie któregokolwiek z pozosta³ych partnerów.
+
+Wyjaœnienie: Zgodnie z Kodeksem spó³ek handlowych, w przypadku utraty przez partnera spó³ki partnerskiej uprawnieñ do wykonywania wolnego zawodu, partner ten powinien wyst¹piæ ze spó³ki na ¿¹danie któregokolwiek z pozosta³ych partnerów. Jest to zwi¹zane z faktem, ¿e spó³ka partnerska jest form¹ prawn¹ przeznaczon¹ dla osób wykonuj¹cych wolne zawody, a utrata uprawnieñ do wykonywania takiego zawodu uniemo¿liwia dalsze pe³nienie roli partnera w spó³ce.
+
+Podstawa prawna: Art. 98 pkt 2 Kodeksu spó³ek handlowych (Dz.U. 2000 nr 94 poz. 1037 z póŸn. zm.). Zgodnie z tym przepisem, w przypadku utraty przez partnera uprawnieñ do wykonywania wolnego zawodu, ka¿dy z pozosta³ych partnerów mo¿e ¿¹daæ jego wyst¹pienia ze spó³ki.",False,False,[98]
+97,"Question: Zgodnie z Kodeksem spó³ek handlowych, spó³ka komandytowo-akcyjna powstaje z chwil¹: 
+    
+            a) zawarcia umowy,
+            b) wpisu do rejestru przedsiêbiorców,
+            c) z³o¿enia wszystkich wymaganych prawem dokumentów do s¹du rejestrowego.
+            ",B,art. 134 § 1 k.s.h. ,"OdpowiedŸ: b) wpisu do rejestru przedsiêbiorców.
+
+Wyjaœnienie: Zgodnie z Kodeksem spó³ek handlowych, spó³ka komandytowo-akcyjna powstaje z chwil¹ wpisu do rejestru przedsiêbiorców. Jest to zasada ogólna dotycz¹ca powstawania spó³ek handlowych, które uzyskuj¹ osobowoœæ prawn¹ z chwil¹ wpisu do rejestru. Wpis do rejestru przedsiêbiorców jest momentem, w którym spó³ka zaczyna istnieæ jako podmiot prawny.
+
+Podstawa prawna: Zgodnie z art. 126 § 1 Kodeksu spó³ek handlowych, do spó³ki komandytowo-akcyjnej stosuje siê odpowiednio przepisy dotycz¹ce spó³ki komandytowej, a w zakresie nieuregulowanym przepisy dotycz¹ce spó³ki akcyjnej. Z kolei art. 12 Kodeksu spó³ek handlowych stanowi, ¿e spó³ka handlowa powstaje z chwil¹ wpisu do rejestru.",True,False,"[126, 12]"
+98,"Question: Zgodnie z Kodeksem spó³ek handlowych, kapita³ zak³adowy spó³ki z ograniczon¹ odpowiedzialnoœci¹ powinien wynosiæ co najmniej 5 000 z³otych, a wartoœæ nominalna udzia³u nie mo¿e byæ ni¿sza ni¿: 
+    
+            a) 50 z³otych,
+            b) 100 z³otych,
+            c) 500 z³otych.
+            ",A,art. 154 § 2 k.s.h. ,"OdpowiedŸ: a) 50 z³otych.
+
+Wyjaœnienie: Zgodnie z Kodeksem spó³ek handlowych, kapita³ zak³adowy spó³ki z ograniczon¹ odpowiedzialnoœci¹ powinien wynosiæ co najmniej 5 000 z³otych. Wartoœæ nominalna jednego udzia³u w spó³ce z ograniczon¹ odpowiedzialnoœci¹ nie mo¿e byæ ni¿sza ni¿ 50 z³otych. 
+
+Podstawa prawna: Art. 154 § 2 Kodeksu spó³ek handlowych (Dz.U. 2000 nr 94 poz. 1037 z póŸn. zm.) stanowi, ¿e ""Wartoœæ nominalna udzia³u nie mo¿e byæ ni¿sza ni¿ 50 z³otych.""",True,True,[154]
+99,"Question: Zgodnie z Kodeksem spó³ek handlowych, je¿eli zarz¹d spó³ki z ograniczon¹ odpowiedzialnoœci¹ jest wieloosobowy, sposób reprezentowania spó³ki okreœla umowa spó³ki; je¿eli umowa spó³ki nie zawiera ¿adnych postanowieñ w tym przedmiocie, do sk³adania oœwiadczeñ w imieniu spó³ki wymagane jest: 
+    
+            a) wspó³dzia³anie wszystkich cz³onków zarz¹du albo przynajmniej dwóch cz³onków zarz¹du ³¹cznie z prokurentem,
+            b) przyjêcie uchwa³y przez zarz¹d, która uprawnia ka¿dego cz³onka zarz¹du do sk³adania oœwiadczeñ w imieniu spó³ki w zakresie ustalonym t¹ uchwa³¹,
+            c) wspó³dzia³anie dwóch cz³onków zarz¹du albo jednego cz³onka zarz¹du ³¹cznie z prokurentem.
+            ",C,art. 205 § 1 k.s.h. ,"OdpowiedŸ poprawna to: c) wspó³dzia³anie dwóch cz³onków zarz¹du albo jednego cz³onka zarz¹du ³¹cznie z prokurentem.
+
+Wyjaœnienie: Zgodnie z Kodeksem spó³ek handlowych, w przypadku gdy umowa spó³ki z ograniczon¹ odpowiedzialnoœci¹ nie okreœla sposobu reprezentacji spó³ki, do sk³adania oœwiadczeñ w imieniu spó³ki wymagane jest wspó³dzia³anie dwóch cz³onków zarz¹du albo jednego cz³onka zarz¹du ³¹cznie z prokurentem. Jest to standardowy sposób reprezentacji w sytuacji, gdy umowa spó³ki nie zawiera szczególnych postanowieñ dotycz¹cych reprezentacji.
+
+Podstawa prawna: Art. 205 § 1 Kodeksu spó³ek handlowych (Dz.U. 2000 nr 94 poz. 1037 z póŸn. zm.) stanowi, ¿e je¿eli zarz¹d jest wieloosobowy, sposób reprezentowania spó³ki okreœla umowa spó³ki, a w braku takich postanowieñ do sk³adania oœwiadczeñ w imieniu spó³ki wymagane jest wspó³dzia³anie dwóch cz³onków zarz¹du albo jednego cz³onka zarz¹du ³¹cznie z prokurentem.",True,True,[205]
+100,"Question: Zgodnie z Kodeksem spó³ek handlowych, w przypadku gdy wszystkie akcje spó³ki akcyjnej przys³uguj¹ jedynemu akcjonariuszowi albo jedynemu akcjonariuszowi i spó³ce, oœwiadczenie woli takiego akcjonariusza sk³adane spó³ce wymaga: 
+    
+            a) formy dokumentowej,
+            b) formy pisemnej pod rygorem niewa¿noœci, chyba ¿e ustawa stanowi inaczej,
+            c) zawsze formy aktu notarialnego
+            ",B,art. 303 § 2 k.s.h. ,"Poprawna odpowiedŸ to: **b) formy pisemnej pod rygorem niewa¿noœci, chyba ¿e ustawa stanowi inaczej**.
+
+### Wyjaœnienie:
+
+Zgodnie z Kodeksem spó³ek handlowych, w sytuacji, gdy wszystkie akcje spó³ki akcyjnej nale¿¹ do jednego akcjonariusza, oœwiadczenia woli sk³adane przez tego akcjonariusza spó³ce musz¹ byæ z³o¿one w formie pisemnej pod rygorem niewa¿noœci. Jest to szczególna regulacja maj¹ca na celu zapewnienie przejrzystoœci i formalnoœci w sytuacjach, gdy jedyny akcjonariusz podejmuje decyzje dotycz¹ce spó³ki, w której jest jedynym w³aœcicielem. 
+
+### Podstawa prawna:
+
+Zgodnie z art. 303 § 3 Kodeksu spó³ek handlowych (Dz.U. 2000 nr 94 poz. 1037 z póŸn. zm.):
+
+„Je¿eli wszystkie akcje spó³ki przys³uguj¹ jedynemu akcjonariuszowi, oœwiadczenia woli tego akcjonariusza sk³adane spó³ce wymagaj¹ formy pisemnej pod rygorem niewa¿noœci, chyba ¿e ustawa stanowi inaczej.”
+
+Ta regulacja ma na celu ochronê interesów spó³ki oraz zapewnienie, ¿e wszelkie decyzje podejmowane przez jedynego akcjonariusza s¹ odpowiednio udokumentowane.",True,True,[303]
+101,"Question: Zgodnie z Kodeksem pracy, pracownikiem jest osoba zatrudniona: 
+    
+            a) wy³¹cznie na podstawie umowy o pracê, powo³ania i mianowania,
+            b) na podstawie umowy zlecenia, umowy o dzie³o, umowy o pracê, powo³ania i mianowania,
+            c) na podstawie umowy o pracê, powo³ania, wyboru, mianowania lub spó³dzielczej umowy o pracê.
+            ",C,art. 2 k.p. ,"OdpowiedŸ poprawna to: c) na podstawie umowy o pracê, powo³ania, wyboru, mianowania lub spó³dzielczej umowy o pracê.
+
+Wyjaœnienie: Zgodnie z Kodeksem pracy, pracownikiem jest osoba zatrudniona na podstawie stosunku pracy. Stosunek pracy mo¿e byæ nawi¹zany na podstawie umowy o pracê, powo³ania, wyboru, mianowania lub spó³dzielczej umowy o pracê. Umowy cywilnoprawne, takie jak umowa zlecenia czy umowa o dzie³o, nie tworz¹ stosunku pracy i osoby zatrudnione na ich podstawie nie s¹ uznawane za pracowników w rozumieniu Kodeksu pracy.
+
+Podstawa prawna: Kodeks pracy, art. 2, który definiuje pracownika jako osobê zatrudnion¹ na podstawie umowy o pracê, powo³ania, wyboru, mianowania lub spó³dzielczej umowy o pracê.",True,True,[2]
+103,"Question: Zgodnie z Kodeksem pracy, uzgodnienie miêdzy stronami umowy o pracê dotycz¹ce wykonywania pracy zdalnej przez pracownika mo¿e nast¹piæ: 
+    
+            a) wy³¹cznie przy zawieraniu umowy o pracê,
+            b) przy zawieraniu umowy o pracê albo w trakcie zatrudnienia,
+            c) wy³¹cznie w trakcie zatrudnienia.
+            ",B,art. 6719 § 1 pkt 1 i 2 k.p. ,"OdpowiedŸ: b) przy zawieraniu umowy o pracê albo w trakcie zatrudnienia.
+
+Wyjaœnienie: Zgodnie z Kodeksem pracy, uzgodnienie dotycz¹ce wykonywania pracy zdalnej mo¿e nast¹piæ zarówno przy zawieraniu umowy o pracê, jak i w trakcie trwania zatrudnienia. Przepisy te zosta³y wprowadzone w celu elastycznego dostosowania formy wykonywania pracy do potrzeb pracownika i pracodawcy. Praca zdalna mo¿e byæ uzgodniona na etapie zawierania umowy o pracê, ale równie¿ w trakcie trwania stosunku pracy, co pozwala na dostosowanie warunków pracy do zmieniaj¹cych siê okolicznoœci.
+
+Podstawa prawna: Kodeks pracy, art. 67^18 § 1, który stanowi, ¿e praca zdalna mo¿e byæ uzgodniona przy zawieraniu umowy o pracê albo w trakcie zatrudnienia.",True,True,[67]
+104,"Question: Zgodnie z ustaw¹ o szczególnych zasadach rozwi¹zywania z pracownikami stosunków pracy z przyczyn niedotycz¹cych pracowników, je¿eli u danego pracodawcy nie dzia³aj¹ zak³adowe organizacje zwi¹zkowe, zasady postêpowania w sprawach dotycz¹cych pracowników objêtych zamiarem grupowego zwolnienia ustala pracodawca: 
+    
+            a) w porozumieniu z w³aœciwym powiatowym urzêdem pracy,
+            b) w regulaminie, po konsultacji z w³aœciwym powiatowym urzêdem pracy,
+            c) w regulaminie, po konsultacji z przedstawicielami pracowników wy³onionymi w trybie przyjêtym u danego pracodawcy.
+            ",C,art. 3 ust. 5 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwi¹zywania z pracownikami stosunków pracy z przyczyn niedotycz¹cych pracowników ,"OdpowiedŸ: c) w regulaminie, po konsultacji z przedstawicielami pracowników wy³onionymi w trybie przyjêtym u danego pracodawcy.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 13 marca 2003 r. o szczególnych zasadach rozwi¹zywania z pracownikami stosunków pracy z przyczyn niedotycz¹cych pracowników, je¿eli u pracodawcy nie dzia³aj¹ zak³adowe organizacje zwi¹zkowe, pracodawca ma obowi¹zek ustaliæ zasady postêpowania w sprawach dotycz¹cych pracowników objêtych zamiarem grupowego zwolnienia w regulaminie, po konsultacji z przedstawicielami pracowników wy³onionymi w trybie przyjêtym u danego pracodawcy. 
+
+Podstawa prawna: Art. 3 ust. 4 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwi¹zywania z pracownikami stosunków pracy z przyczyn niedotycz¹cych pracowników.",True,True,[3]
+105,"Question: Zgodnie z ustaw¹ o systemie ubezpieczeñ spo³ecznych, Fundusz Rezerwy Demograficznej: 
+    
+            a) posiada osobowoœæ prawn¹,
+            b) jest jednostk¹ organizacyjn¹ nieposiadaj¹c¹ osobowoœci prawnej,
+            c) jest zak³adem bud¿etowym Funduszu Ubezpieczeñ Spo³ecznych.
+            ",A,art. 60 ust. 1 ustawy z dnia 13 paŸdziernika 1998 r. o systemie ubezpieczeñ spo³ecznych ,"Poprawna odpowiedŸ to: b) jest jednostk¹ organizacyjn¹ nieposiadaj¹c¹ osobowoœci prawnej.
+
+Wyjaœnienie: Fundusz Rezerwy Demograficznej (FRD) jest specjalnym funduszem, który zosta³ utworzony w ramach systemu ubezpieczeñ spo³ecznych w Polsce. Jego celem jest zabezpieczenie stabilnoœci finansowej systemu emerytalnego w obliczu zmian demograficznych, takich jak starzenie siê spo³eczeñstwa. FRD nie posiada osobowoœci prawnej, co oznacza, ¿e nie jest samodzielnym podmiotem prawnym, ale dzia³a w ramach struktury organizacyjnej Zak³adu Ubezpieczeñ Spo³ecznych (ZUS).
+
+Podstawa prawna: Zgodnie z art. 58 ustawy z dnia 13 paŸdziernika 1998 r. o systemie ubezpieczeñ spo³ecznych (Dz.U. z 2023 r. poz. 1234 z póŸn. zm.), Fundusz Rezerwy Demograficznej jest jednostk¹ organizacyjn¹ nieposiadaj¹c¹ osobowoœci prawnej.",False,False,[58]
+106,"Question: Zgodnie z ustaw¹ o œwiadczeniach pieniê¿nych z ubezpieczenia spo³ecznego w razie choroby i macierzyñstwa, miesiêczny zasi³ek opiekuñczy wynosi: 
+    
+            a) 100% podstawy wymiaru zasi³ku,
+            b) 80% podstawy wymiaru zasi³ku,
+            c) 60% podstawy wymiaru zasi³ku.
+            ",B,art. 35 ust. 1 ustawy z dnia 25 czerwca 1999 r. o œwiadczeniach pieniê¿nych z ubezpieczenia spo³ecznego w razie choroby i macierzyñstwa ,"OdpowiedŸ: b) 80% podstawy wymiaru zasi³ku.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 25 czerwca 1999 r. o œwiadczeniach pieniê¿nych z ubezpieczenia spo³ecznego w razie choroby i macierzyñstwa, zasi³ek opiekuñczy przys³uguje w wysokoœci 80% podstawy wymiaru zasi³ku. Podstawa wymiaru zasi³ku to przeciêtne miesiêczne wynagrodzenie, które ubezpieczony otrzyma³ w okresie 12 miesiêcy kalendarzowych poprzedzaj¹cych miesi¹c, w którym powsta³a niezdolnoœæ do pracy.
+
+Podstawa prawna: Art. 32 ust. 1 ustawy o œwiadczeniach pieniê¿nych z ubezpieczenia spo³ecznego w razie choroby i macierzyñstwa.",True,False,[32]
+107,"Question: Zgodnie z ustaw¹ o samorz¹dzie gminnym, w przypadku utworzenia w gminie bud¿etu obywatelskiego, corocznie o czêœci wydatków bud¿etu gminy w ramach bud¿etu obywatelskiego decyduj¹: 
+    
+            a) mieszkañcy gminy w bezpoœrednim g³osowaniu,
+            b) przedstawiciele mieszkañców wytypowani przez poszczególne jednostki pomocnicze gminy,
+            c) wy³¹cznie cz³onkowie m³odzie¿owej rady gminy.
+            ",A,art. 5a ust. 4 ustawy z dnia 8 marca 1990 r. o samorz¹dzie gminnym ,"OdpowiedŸ: a) mieszkañcy gminy w bezpoœrednim g³osowaniu.
+
+Wyjaœnienie: Zgodnie z ustaw¹ o samorz¹dzie gminnym, bud¿et obywatelski jest form¹ konsultacji spo³ecznych, w ramach której mieszkañcy gminy maj¹ mo¿liwoœæ bezpoœredniego decydowania o czêœci wydatków bud¿etu gminy. Proces ten odbywa siê poprzez g³osowanie, w którym mieszkañcy wybieraj¹ projekty do realizacji. Jest to mechanizm maj¹cy na celu zwiêkszenie partycypacji obywatelskiej i zaanga¿owania mieszkañców w procesy decyzyjne dotycz¹ce lokalnych inwestycji i wydatków.
+
+Podstawa prawna: Ustawa z dnia 8 marca 1990 r. o samorz¹dzie gminnym, art. 5a ust. 2, który stanowi, ¿e w przypadku utworzenia bud¿etu obywatelskiego, mieszkañcy gminy decyduj¹ o czêœci wydatków bud¿etu gminy w drodze g³osowania.",True,True,[5]
+108,"Question: Zgodnie z ustaw¹ o samorz¹dzie powiatowym, organem wykonawczym powiatu jest: 
+    
+            a) zarz¹d powiatu,
+            b) sekretarz powiatu,
+            c) skarbnik powiatu.
+            ",A,art. 26 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorz¹dzie powiatowym ,"Poprawna odpowiedŸ to: a) zarz¹d powiatu.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 5 czerwca 1998 r. o samorz¹dzie powiatowym, organem wykonawczym powiatu jest zarz¹d powiatu. Zarz¹d powiatu jest odpowiedzialny za realizacjê uchwa³ rady powiatu oraz za wykonywanie zadañ powiatu okreœlonych przepisami prawa. Zarz¹d powiatu sk³ada siê z starosty jako przewodnicz¹cego oraz wicestarosty i pozosta³ych cz³onków zarz¹du.
+
+Podstawa prawna: Art. 26 ust. 1 ustawy o samorz¹dzie powiatowym stanowi, ¿e ""Organem wykonawczym powiatu jest zarz¹d powiatu"".",True,True,[26]
+109,"Question: Zgodnie z ustaw¹ o samorz¹dzie województwa, nadzór nad dzia³alnoœci¹ samorz¹du województwa w zakresie spraw finansowych sprawuje: 
+    
+            a) dyrektor izby administracji skarbowej,
+            b) minister w³aœciwy do spraw administracji publicznej,
+            c) regionalna izba obrachunkowa.
+            ",C,art. 78 ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorz¹dzie województwa ,"OdpowiedŸ: c) regionalna izba obrachunkowa.
+
+Wyjaœnienie: Zgodnie z ustaw¹ o samorz¹dzie województwa, nadzór nad dzia³alnoœci¹ samorz¹du województwa w zakresie spraw finansowych sprawuje regionalna izba obrachunkowa. Regionalne izby obrachunkowe s¹ organami nadzoru i kontroli nad dzia³alnoœci¹ jednostek samorz¹du terytorialnego w zakresie gospodarki finansowej i zamówieñ publicznych. Ich zadaniem jest m.in. kontrola legalnoœci, gospodarnoœci i rzetelnoœci dzia³añ finansowych samorz¹dów.
+
+Podstawa prawna: Art. 1 ust. 2 pkt 1 ustawy z dnia 7 paŸdziernika 1992 r. o regionalnych izbach obrachunkowych (Dz.U. z 2022 r. poz. 1668).",True,True,[1]
+110,"Question: Zgodnie z ustaw¹ o wojewodzie i administracji rz¹dowej w województwie, spory miêdzy wojewodami oraz miêdzy wojewod¹ a cz³onkiem Rady Ministrów lub centralnym organem administracji rz¹dowej rozstrzyga: 
+    
+            a) Naczelny S¹d Administracyjny,
+            b) Rada Ministrów,
+            c) Prezes Rady Ministrów
+            ",C,art. 10 ustawy z dnia 23 stycznia 2009 r. o wojewodzie i administracji rz¹dowej w województwie ,"Zgodnie z ustaw¹ o wojewodzie i administracji rz¹dowej w województwie, spory miêdzy wojewodami oraz miêdzy wojewod¹ a cz³onkiem Rady Ministrów lub centralnym organem administracji rz¹dowej rozstrzyga:
+
+c) Prezes Rady Ministrów
+
+Wyjaœnienie: Zgodnie z art. 14 ust. 2 ustawy z dnia 23 stycznia 2009 r. o wojewodzie i administracji rz¹dowej w województwie, spory miêdzy wojewodami oraz miêdzy wojewod¹ a cz³onkiem Rady Ministrów lub centralnym organem administracji rz¹dowej rozstrzyga Prezes Rady Ministrów. Prezes Rady Ministrów pe³ni rolê koordynacyjn¹ i nadzorcz¹ nad administracj¹ rz¹dow¹, co uzasadnia jego kompetencje do rozstrzygania takich sporów.
+
+Podstawa prawna: Ustawa z dnia 23 stycznia 2009 r. o wojewodzie i administracji rz¹dowej w województwie, art. 14 ust. 2.",True,False,[14]
+111,"Question: Zgodnie z ustaw¹ o wojewodzie i administracji rz¹dowej w województwie, w zakresie nieuregulowanym w przepisach powszechnie obowi¹zuj¹cych wojewoda mo¿e wydawaæ rozporz¹dzenia porz¹dkowe, je¿eli jest to niezbêdne: 
+    
+            a) wy³¹cznie dla zapewnienia bezpieczeñstwa publicznego,
+            b) do ochrony ¿ycia, zdrowia lub mienia oraz do zapewnienia porz¹dku, spokoju i bezpieczeñstwa publicznego,
+            c) wy³¹cznie dla zapobiegania rozprzestrzenianiu siê chorób zakaŸnych w przypadku zagro¿enia stanem epidemii.
+            ",B,art. 60 ust. 1 ustawy z dnia 23 stycznia 2009 r. o wojewodzie i administracji rz¹dowej w województwie ,"OdpowiedŸ poprawna to: b) do ochrony ¿ycia, zdrowia lub mienia oraz do zapewnienia porz¹dku, spokoju i bezpieczeñstwa publicznego.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 23 stycznia 2009 r. o wojewodzie i administracji rz¹dowej w województwie, wojewoda ma prawo wydawaæ rozporz¹dzenia porz¹dkowe w zakresie nieuregulowanym w przepisach powszechnie obowi¹zuj¹cych, je¿eli jest to niezbêdne do ochrony ¿ycia, zdrowia lub mienia oraz do zapewnienia porz¹dku, spokoju i bezpieczeñstwa publicznego. Rozporz¹dzenia te maj¹ na celu uzupe³nienie luk w prawie w sytuacjach, które wymagaj¹ szybkiej reakcji dla zapewnienia bezpieczeñstwa i porz¹dku publicznego.
+
+Podstawa prawna: Art. 60 ustawy o wojewodzie i administracji rz¹dowej w województwie.",True,True,[60]
+112,"Question: Zgodnie z Kodeksem postêpowania administracyjnego, pe³nomocnikiem strony w postêpowaniu administracyjnym mo¿e byæ: 
+    
+            a) osoba fizyczna posiadaj¹ca zdolnoœæ do czynnoœci prawnych,
+            b) wy³¹cznie adwokat, radca prawny, rzecznik patentowy lub doradca podatkowy,
+            c) wy³¹cznie ma³¿onek, rodzeñstwo, zstêpni lub wstêpni strony oraz osoby pozostaj¹ce ze stron¹ w stosunku przysposobienia.
+            ",A,art. 33 § 1 k.p.a. ,"OdpowiedŸ: a) osoba fizyczna posiadaj¹ca zdolnoœæ do czynnoœci prawnych.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania administracyjnego (KPA), pe³nomocnikiem strony w postêpowaniu administracyjnym mo¿e byæ ka¿da osoba fizyczna posiadaj¹ca zdolnoœæ do czynnoœci prawnych. Oznacza to, ¿e nie jest wymagane, aby pe³nomocnik by³ adwokatem, radc¹ prawnym, rzecznikiem patentowym czy doradc¹ podatkowym, ani te¿ nie jest ograniczone do cz³onków rodziny strony. Wystarczy, ¿e osoba ta ma pe³n¹ zdolnoœæ do czynnoœci prawnych, co oznacza, ¿e jest pe³noletnia i nieubezw³asnowolniona.
+
+Podstawa prawna: Art. 33 § 1 Kodeksu postêpowania administracyjnego (Dz.U. 1960 nr 30 poz. 168 z póŸn. zm.) stanowi, ¿e pe³nomocnikiem strony mo¿e byæ osoba fizyczna posiadaj¹ca zdolnoœæ do czynnoœci prawnych.",True,True,[33]
+113,"Question: Zgodnie z Kodeksem postêpowania administracyjnego, w razie uchybienia terminu, który podlega przywróceniu, proœbê o jego przywrócenie nale¿y wnieœæ: 
+    
+            a) niezw³ocznie po ustaniu przyczyny uchybienia terminu,
+            b) w ci¹gu trzech dni od dnia ustania przyczyny uchybienia terminu,
+            c) w ci¹gu siedmiu dni od dnia ustania przyczyny uchybienia terminu.
+            ",C,art. 58 § 2 k.p.a. ,"Poprawna odpowiedŸ to: a) niezw³ocznie po ustaniu przyczyny uchybienia terminu.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania administracyjnego, w przypadku uchybienia terminu, który podlega przywróceniu, strona powinna z³o¿yæ proœbê o przywrócenie terminu niezw³ocznie po ustaniu przyczyny uchybienia. Oznacza to, ¿e nie ma okreœlonego sztywnego terminu, jak np. trzy czy siedem dni, ale proœba powinna byæ z³o¿ona bez zbêdnej zw³oki, jak tylko ustanie przyczyna, która uniemo¿liwi³a dotrzymanie terminu.
+
+Podstawa prawna: Art. 58 § 2 Kodeksu postêpowania administracyjnego (Dz.U. 1960 nr 30 poz. 168 z póŸn. zm.) stanowi, ¿e proœbê o przywrócenie terminu wnosi siê niezw³ocznie po ustaniu przyczyny uchybienia terminu.",False,True,[58]
+114,"Question: Zgodnie z Kodeksem postêpowania administracyjnego, dat¹ wszczêcia postêpowania administracyjnego na ¿¹danie strony (z wy³¹czeniem ¿¹dania wniesionego drog¹ elektroniczn¹) jest dzieñ: 
+    
+            a) dorêczenia ¿¹dania strony organowi administracji publicznej,
+            b) wydania przez organ administracji publicznej postanowienia o wszczêciu postêpowania,
+            c) dorêczenia stronie przez organ administracji publicznej postanowienia o wszczêciu postêpowania.
+            ",A,art. 61 § 3 k.p.a. ,"OdpowiedŸ: a) dorêczenia ¿¹dania strony organowi administracji publicznej.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania administracyjnego (KPA), postêpowanie administracyjne na ¿¹danie strony wszczyna siê z dniem dorêczenia ¿¹dania organowi administracji publicznej. Oznacza to, ¿e momentem wszczêcia postêpowania jest chwila, w której organ otrzymuje wniosek lub ¿¹danie od strony. Nie jest wymagane wydanie postanowienia o wszczêciu postêpowania, aby uznaæ, ¿e postêpowanie zosta³o wszczête.
+
+Podstawa prawna: Art. 61 § 3 Kodeksu postêpowania administracyjnego (Dz.U. 1960 nr 30 poz. 168 z póŸn. zm.).",True,True,[61]
+115,"Question: Zgodnie z Kodeksem postêpowania administracyjnego, decyzje administracyjne: 
+    
+            a) rozstrzygaj¹ sprawê wy³¹cznie w sposób, który w ca³oœci uwzglêdnia ¿¹danie strony,
+            b) dotycz¹ poszczególnych kwestii wynikaj¹cych w toku postêpowania, lecz nie rozstrzygaj¹ o istocie sprawy,
+            c) rozstrzygaj¹ sprawê co do jej istoty w ca³oœci lub w czêœci albo w inny sposób koñcz¹ sprawê w danej instancji.
+            ",C,art. 104 § 2 k.p.a. ,"OdpowiedŸ: c) rozstrzygaj¹ sprawê co do jej istoty w ca³oœci lub w czêœci albo w inny sposób koñcz¹ sprawê w danej instancji.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania administracyjnego, decyzja administracyjna jest aktem, który rozstrzyga sprawê co do jej istoty w ca³oœci lub w czêœci albo w inny sposób koñczy sprawê w danej instancji. Decyzja administracyjna jest form¹ rozstrzygniêcia, które ma charakter w³adczy i ostateczny w danej instancji, co oznacza, ¿e koñczy postêpowanie administracyjne w danej instancji. Mo¿e ona uwzglêdniaæ ¿¹danie strony w ca³oœci, w czêœci, lub je oddalaæ, ale zawsze rozstrzyga o istocie sprawy.
+
+Podstawa prawna: Art. 104 § 1 Kodeksu postêpowania administracyjnego (Dz.U. 1960 nr 30 poz. 168 z póŸn. zm.) stanowi, ¿e ""Organ administracji publicznej za³atwia sprawê przez wydanie decyzji, chyba ¿e przepisy kodeksu stanowi¹ inaczej."" Decyzja ta rozstrzyga sprawê co do jej istoty.",True,True,[104]
+116,"Question: Zgodnie z Kodeksem postêpowania administracyjnego, organ administracji publicznej, który wyda³ decyzjê, jest ni¹ zwi¹zany od chwili: 
+    
+            a) jej podpisania, o ile kodeks nie stanowi inaczej,
+            b) jej dorêczenia lub og³oszenia, o ile kodeks nie stanowi inaczej,
+            c) jej uprawomocnienia, o ile kodeks nie stanowi inaczej.
+            ",B,art. 110 § 1 k.p.a. ,"OdpowiedŸ: b) jej dorêczenia lub og³oszenia, o ile kodeks nie stanowi inaczej.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania administracyjnego (KPA), organ administracji publicznej jest zwi¹zany wydan¹ decyzj¹ od momentu jej dorêczenia lub og³oszenia. Oznacza to, ¿e decyzja staje siê wi¹¿¹ca dla organu i stron postêpowania dopiero w momencie, gdy zostanie skutecznie dorêczona adresatowi lub og³oszona w sposób przewidziany prawem. Jest to istotne, poniewa¿ dopiero od tego momentu decyzja wywo³uje skutki prawne i mo¿e byæ egzekwowana.
+
+Podstawa prawna: Art. 110 Kodeksu postêpowania administracyjnego (Dz.U. 1960 nr 30 poz. 168 z póŸn. zm.) stanowi, ¿e decyzja staje siê wi¹¿¹ca dla organu od chwili jej dorêczenia lub og³oszenia, chyba ¿e przepisy szczególne stanowi¹ inaczej.",True,True,[110]
+117,"Question: Zgodnie z Kodeksem postêpowania administracyjnego, sprawa administracyjna mo¿e byæ za³atwiona milcz¹co: 
+    
+            a) zawsze kiedy rozstrzygniêcia wydaj¹ organy jednostek samorz¹du terytorialnego,
+            b) je¿eli przepis szczególny tak stanowi,
+            c) we wszystkich przypadkach dotycz¹cych wydawania zaœwiadczeñ.
+            ",B,art. 122a § 1 k.p.a. ,"Poprawna odpowiedŸ to: b) je¿eli przepis szczególny tak stanowi.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania administracyjnego (KPA), sprawa administracyjna mo¿e byæ za³atwiona milcz¹co tylko wtedy, gdy przepis szczególny tak stanowi. Oznacza to, ¿e milcz¹ce za³atwienie sprawy nie jest regu³¹, lecz wyj¹tkiem, który musi byæ wyraŸnie przewidziany w przepisach prawa. Milcz¹ce za³atwienie sprawy polega na tym, ¿e brak odpowiedzi organu w okreœlonym czasie jest równoznaczny z pozytywnym rozstrzygniêciem sprawy.
+
+Podstawa prawna: Art. 122a Kodeksu postêpowania administracyjnego (Dz.U. 1960 nr 30 poz. 168 z póŸn. zm.) stanowi, ¿e ""Sprawa mo¿e byæ za³atwiona milcz¹co, je¿eli przepis szczególny tak stanowi.""",True,True,[122]
+118,"Question: Zgodnie z Kodeksem postêpowania administracyjnego, przyczyn¹ stwierdzenia niewa¿noœci decyzji administracyjnej jest jej wydanie miêdzy innymi: 
+    
+            a) przez pracownika lub organ administracji publicznej, który podlega³ wy³¹czeniu,
+            b) bez podstawy prawnej lub z ra¿¹cym naruszeniem prawa,
+            c) w wyniku przestêpstwa.
+            ",B,art. 156 § 1 pkt 2 k.p.a. ,"Poprawna odpowiedŸ to: b) bez podstawy prawnej lub z ra¿¹cym naruszeniem prawa.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania administracyjnego (KPA), stwierdzenie niewa¿noœci decyzji administracyjnej mo¿e nast¹piæ, gdy decyzja zosta³a wydana bez podstawy prawnej lub z ra¿¹cym naruszeniem prawa. Jest to jedna z przes³anek wymienionych w art. 156 § 1 KPA, który okreœla przypadki, w których decyzja administracyjna mo¿e byæ uznana za niewa¿n¹. 
+
+Artyku³ 156 § 1 KPA stanowi, ¿e decyzja administracyjna jest niewa¿na, je¿eli:
+1) wydana zosta³a z naruszeniem przepisów o w³aœciwoœci;
+2) bez podstawy prawnej lub z ra¿¹cym naruszeniem prawa;
+3) dotyczy sprawy ju¿ poprzednio rozstrzygniêtej inn¹ decyzj¹ ostateczn¹;
+4) zosta³a skierowana do osoby niebêd¹cej stron¹ w sprawie;
+5) by³a niewykonalna w dniu jej wydania i jej niewykonalnoœæ ma charakter trwa³y;
+6) w razie jej wykonania wywo³a³aby czyn zagro¿ony kar¹;
+7) zawiera wadê powoduj¹c¹ jej niewa¿noœæ z mocy prawa.
+
+W zwi¹zku z powy¿szym, odpowiedŸ b) jest poprawna, poniewa¿ odnosi siê bezpoœrednio do przes³anki wymienionej w art. 156 § 1 pkt 2 KPA.",True,True,[156]
+119,"Question: Zgodnie z Kodeksem postêpowania administracyjnego, administracyjn¹ karê pieniê¿n¹ nak³ada: 
+    
+            a) organ administracji publicznej, w drodze decyzji,
+            b) wojewódzki s¹d administracyjny na wniosek organu administracji publicznej na mocy wyroku,
+            c) s¹d rejonowy na wniosek organu administracji publicznej na mocy postanowienia
+            ",A,art. 189b k.p.a. ,"OdpowiedŸ: a) organ administracji publicznej, w drodze decyzji.
+
+Wyjaœnienie: Zgodnie z Kodeksem postêpowania administracyjnego (KPA), administracyjn¹ karê pieniê¿n¹ nak³ada organ administracji publicznej w drodze decyzji administracyjnej. Jest to zgodne z ogólnymi zasadami postêpowania administracyjnego, gdzie decyzje dotycz¹ce na³o¿enia kar administracyjnych s¹ podejmowane przez odpowiednie organy administracyjne, które maj¹ kompetencje do rozstrzygania w danej sprawie. 
+
+Podstaw¹ prawn¹ jest art. 189f Kodeksu postêpowania administracyjnego, który stanowi, ¿e administracyjn¹ karê pieniê¿n¹ nak³ada siê w drodze decyzji administracyjnej. 
+
+W zwi¹zku z tym, odpowiedzi b) i c) s¹ nieprawid³owe, poniewa¿ wojewódzki s¹d administracyjny oraz s¹d rejonowy nie maj¹ kompetencji do nak³adania administracyjnych kar pieniê¿nych w drodze wyroku czy postanowienia.",True,True,[189]
+120,"Question: Zgodnie z ustaw¹ – Prawo o postêpowaniu przed s¹dami administracyjnymi, je¿eli strona nie dokona³a w terminie czynnoœci w postêpowaniu s¹dowym bez swojej winy, s¹d na jej wniosek postanowi przywrócenie terminu; po up³ywie roku od uchybionego terminu, jego przywrócenie: 
+    
+            a) nie jest w ogóle dopuszczalne,
+            b) jest dopuszczalne tylko w przypadkach wyj¹tkowych,
+            c) jest dopuszczalne tylko wówczas, gdy strona przeciwna wyrazi na to zgodê.
+            ",B,art. 87 § 5 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi ,"OdpowiedŸ: a) nie jest w ogóle dopuszczalne.
+
+Wyjaœnienie: Zgodnie z ustaw¹ – Prawo o postêpowaniu przed s¹dami administracyjnymi, przywrócenie terminu jest mo¿liwe, gdy strona nie dokona³a czynnoœci w terminie bez swojej winy. Jednak¿e, istnieje ograniczenie czasowe dotycz¹ce mo¿liwoœci przywrócenia terminu. Po up³ywie roku od uchybionego terminu, przywrócenie terminu nie jest w ogóle dopuszczalne. Oznacza to, ¿e nawet w przypadkach wyj¹tkowych, s¹d nie mo¿e przywróciæ terminu, jeœli min¹³ rok od jego uchybienia.
+
+Podstawa prawna: Art. 87 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi (Dz.U. z 2023 r. poz. 259).",False,True,[87]
+121,"Question: Zgodnie z ustaw¹ – Prawo o postêpowaniu przed s¹dami administracyjnymi, wojewódzki s¹d administracyjny mo¿e przeprowadziæ dowody uzupe³niaj¹ce: 
+    
+            a) z dokumentów, je¿eli jest to niezbêdne do wyjaœnienia istotnych w¹tpliwoœci i nie spowoduje nadmiernego przed³u¿enia postêpowania w sprawie,
+            b) z oœwiadczenia strony niebêd¹cej organem administracji publicznej, z³o¿onego przed s¹dem pod rygorem odpowiedzialnoœci karnej za fa³szywe oœwiadczenie, je¿eli przepis prawa nie wymaga urzêdowego potwierdzenia okreœlonych faktów,
+            c) z zeznañ œwiadków.
+            ",A,art. 106 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi ,"Poprawna odpowiedŸ to: a) z dokumentów, je¿eli jest to niezbêdne do wyjaœnienia istotnych w¹tpliwoœci i nie spowoduje nadmiernego przed³u¿enia postêpowania w sprawie.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi, wojewódzki s¹d administracyjny ma mo¿liwoœæ przeprowadzenia dowodów uzupe³niaj¹cych z dokumentów, je¿eli jest to konieczne do wyjaœnienia istotnych w¹tpliwoœci i nie spowoduje nadmiernego przed³u¿enia postêpowania. Przepisy te maj¹ na celu zapewnienie, ¿e postêpowanie przed s¹dem administracyjnym jest efektywne i nie przeci¹ga siê niepotrzebnie, jednoczeœnie umo¿liwiaj¹c s¹dowi zebranie niezbêdnych informacji do podjêcia decyzji.
+
+Podstawa prawna: Art. 106 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi (Dz.U. z 2023 r. poz. 259).",True,True,[106]
+122,"Question: Zgodnie z ustaw¹ – Prawo o postêpowaniu przed s¹dami administracyjnymi, od orzeczeñ przewodnicz¹cego wydanych w toku rozprawy strony mog¹ odwo³aæ siê: 
+    
+            a) w terminie siedmiu dni, do przewodnicz¹cego wydzia³u s¹du administracyjnego, w którym toczy³a siê rozprawa,
+            b) w terminie trzech dni, do prezesa s¹du administracyjnego, w którym toczy³a siê rozprawa,
+            c) do czasu zamkniêcia rozprawy, do s¹du orzekaj¹cego.
+            ",C,art. 114 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi ,"Poprawna odpowiedŸ to: c) do czasu zamkniêcia rozprawy, do s¹du orzekaj¹cego.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi, strony mog¹ zg³aszaæ zastrze¿enia do orzeczeñ przewodnicz¹cego wydanych w toku rozprawy do czasu jej zamkniêcia. Jest to procedura, która umo¿liwia stronom natychmiastowe reagowanie na decyzje przewodnicz¹cego, które mog¹ mieæ wp³yw na przebieg rozprawy. Zg³oszenie zastrze¿eñ do s¹du orzekaj¹cego pozwala na ich rozpatrzenie i ewentualne skorygowanie decyzji przewodnicz¹cego jeszcze przed zakoñczeniem rozprawy.
+
+Podstawa prawna: Art. 149 § 1 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi (Dz.U. z 2023 r. poz. 259).",True,False,[149]
+123,"Question: Zgodnie z ustaw¹ – Prawo o postêpowaniu przed s¹dami administracyjnymi, w sprawach, w których skargê oddali³ wojewódzki s¹d administracyjny, uzasadnienie wyroku sporz¹dza siê na wniosek strony zg³oszony w terminie: 
+    
+            a) siedmiu dni od dnia og³oszenia wyroku albo dorêczenia odpisu sentencji wyroku,
+            b) czternastu dni od dnia og³oszenia wyroku albo dorêczenia odpisu sentencji wyroku,
+            c) trzydziestu dni od dnia og³oszenia wyroku albo dorêczenia odpisu sentencji wyroku.
+            ",A,art. 141 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi ,"OdpowiedŸ poprawna to: b) czternastu dni od dnia og³oszenia wyroku albo dorêczenia odpisu sentencji wyroku.
+
+Wyjaœnienie: Zgodnie z art. 141 § 2 ustawy z dnia 30 sierpnia 2002 r. - Prawo o postêpowaniu przed s¹dami administracyjnymi (Dz.U. z 2023 r. poz. 259), w sprawach, w których skargê oddali³ wojewódzki s¹d administracyjny, uzasadnienie wyroku sporz¹dza siê na wniosek strony zg³oszony w terminie czternastu dni od dnia og³oszenia wyroku albo dorêczenia odpisu sentencji wyroku. Wniosek o sporz¹dzenie uzasadnienia jest konieczny, aby strona mog³a zrozumieæ motywy, jakimi kierowa³ siê s¹d przy wydawaniu wyroku, co jest istotne w kontekœcie ewentualnego wniesienia skargi kasacyjnej do Naczelnego S¹du Administracyjnego.",False,True,[141]
+124,"Question: Zgodnie z ustaw¹ – Prawo o postêpowaniu przed s¹dami administracyjnymi, Naczelny S¹d Administracyjny rozpoznaje sprawê w granicach skargi kasacyjnej, bierze jednak z urzêdu pod rozwagê niewa¿noœæ postêpowania, która zachodzi miêdzy innymi je¿eli: 
+    
+            a) sk³ad s¹du orzekaj¹cego by³ sprzeczny z przepisami prawa albo je¿eli w rozpoznaniu sprawy bra³ udzia³ sêdzia wy³¹czony z mocy ustawy,
+            b) wyjd¹ na jaw istotne dla sprawy nowe okolicznoœci faktyczne lub nowe dowody istniej¹ce w dniu wydania wyroku nieznane wojewódzkiemu s¹dowi administracyjnemu, który wyda³ wyrok,
+            c) wykonanie wyroku wojewódzkiego s¹du administracyjnego wywo³a³oby czyn zagro¿ony kar¹.
+            ",A,art. 183 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi ,"Poprawna odpowiedŸ to: a) sk³ad s¹du orzekaj¹cego by³ sprzeczny z przepisami prawa albo je¿eli w rozpoznaniu sprawy bra³ udzia³ sêdzia wy³¹czony z mocy ustawy.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi, Naczelny S¹d Administracyjny rozpoznaje sprawê w granicach skargi kasacyjnej, ale z urzêdu bierze pod uwagê niewa¿noœæ postêpowania. Jedn¹ z przes³anek niewa¿noœci postêpowania jest sytuacja, gdy sk³ad s¹du orzekaj¹cego by³ sprzeczny z przepisami prawa lub gdy w rozpoznaniu sprawy bra³ udzia³ sêdzia wy³¹czony z mocy ustawy. Jest to okreœlone w art. 183 § 2 pkt 2 tej ustawy.
+
+Pozosta³e odpowiedzi dotycz¹ innych kwestii, które nie s¹ zwi¹zane z niewa¿noœci¹ postêpowania w kontekœcie skargi kasacyjnej.",True,True,[183]
+125,"Question: Zgodnie z ustaw¹ – Prawo o postêpowaniu przed s¹dami administracyjnymi, nie ma obowi¹zku uiszczenia kosztów s¹dowych (jako zwolniona z mocy ustawy) strona – bêd¹ca osob¹ fizyczn¹ – skar¿¹ca dzia³anie, bezczynnoœæ organu lub przewlek³e prowadzenie postêpowania w sprawach: 
+    
+            a) nak³adania lub wymierzania administracyjnej kary pieniê¿nej,
+            b) ze stosunków pracy i stosunków s³u¿bowych,
+            c) dotycz¹cych zobowi¹zañ podatkowych.
+            ",B,art. 239 § 1 pkt 1 lit. d ustawy z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi ,"Poprawna odpowiedŸ to: **b) ze stosunków pracy i stosunków s³u¿bowych.**
+
+**Wyjaœnienie:**
+
+Zgodnie z ustaw¹ z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi, w art. 239 ust. 1 pkt 1, osoby fizyczne s¹ zwolnione z obowi¹zku uiszczania kosztów s¹dowych w sprawach dotycz¹cych stosunków pracy i stosunków s³u¿bowych. Oznacza to, ¿e w przypadku skarg na dzia³anie, bezczynnoœæ organu lub przewlek³e prowadzenie postêpowania w tych sprawach, osoby fizyczne nie musz¹ ponosiæ kosztów s¹dowych.
+
+**Podstawa prawna:**
+
+- Ustawa z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi, art. 239 ust. 1 pkt 1.",True,True,[239]
+126,"Question: Zgodnie z ustaw¹ – Prawo o postêpowaniu przed s¹dami administracyjnymi, je¿eli nie wniesiono sprzeciwu od postanowienia referendarza s¹dowego o odmowie przyznania prawa pomocy, ma ono skutki: 
+    
+            a) postanowienia, na które przys³uguje za¿alenie do wojewódzkiego s¹du administracyjnego,
+            b) postanowienia, na które przys³uguje za¿alenie do Naczelnego S¹du Administracyjnego,
+            c) prawomocnego orzeczenia s¹du.
+            ",C,art. 259 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi ,"OdpowiedŸ: c) prawomocnego orzeczenia s¹du.
+
+Wyjaœnienie: Zgodnie z ustaw¹ – Prawo o postêpowaniu przed s¹dami administracyjnymi, je¿eli nie wniesiono sprzeciwu od postanowienia referendarza s¹dowego o odmowie przyznania prawa pomocy, postanowienie to staje siê prawomocne. Oznacza to, ¿e ma ono skutki prawomocnego orzeczenia s¹du. W przypadku braku sprzeciwu, postanowienie referendarza s¹dowego nabiera mocy prawnej i nie podlega dalszemu zaskar¿eniu.
+
+Podstawa prawna: Art. 260 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postêpowaniu przed s¹dami administracyjnymi (Dz.U. z 2023 r. poz. 259).",True,False,[260]
+127,"Question: Zgodnie z Traktatem o Unii Europejskiej, podstaw¹ funkcjonowania Unii Europejskiej jest: 
+    
+            a) demokracja przedstawicielska,
+            b) wy³¹cznie demokracja bezpoœrednia,
+            c) demokracja bezpoœrednia i poœrednia
+            ",A,art. 10 ust. 1 Traktatu z dnia 7 lutego 1992 r. o Unii Europejskiej – tekst uwzglêdniaj¹cy zmiany wprowadzone Traktatem z Lizbony ,"Poprawna odpowiedŸ to: a) demokracja przedstawicielska.
+
+Wyjaœnienie: Traktat o Unii Europejskiej (TUE) w art. 10 ust. 1 stwierdza, ¿e funkcjonowanie Unii opiera siê na zasadzie demokracji przedstawicielskiej. Oznacza to, ¿e obywatele Unii s¹ bezpoœrednio reprezentowani na poziomie Unii w Parlamencie Europejskim, a pañstwa cz³onkowskie s¹ reprezentowane w Radzie Europejskiej i Radzie przez swoje rz¹dy, które s¹ demokratycznie odpowiedzialne przed swoimi parlamentami krajowymi lub przed swoimi obywatelami.
+
+Nale¿y zauwa¿yæ, ¿e choæ istniej¹ mechanizmy demokracji bezpoœredniej, takie jak Europejska Inicjatywa Obywatelska, to jednak podstaw¹ funkcjonowania Unii jest demokracja przedstawicielska.
+
+Odpowiedni artyku³: Traktat o Unii Europejskiej, art. 10 ust. 1.",True,True,[10]
+128,"Question: Zgodnie z Traktatem o Unii Europejskiej, w sk³ad Parlamentu Europejskiego wchodz¹ przedstawiciele obywateli Unii Europejskiej; ich liczba nie przekracza siedmiuset piêædziesiêciu, nie licz¹c przewodnicz¹cego; ¿adnemu Pañstwu Cz³onkowskiemu nie mo¿na przyznaæ wiêcej miejsc ni¿: 
+    
+            a) sto,
+            b) dziewiêædziesi¹t szeœæ,
+            c) osiemdziesi¹t piêæ.
+            ",B,art. 14 ust. 2 Traktatu z dnia 7 lutego 1992 r. o Unii Europejskiej – tekst uwzglêdniaj¹cy zmiany wprowadzone Traktatem z Lizbony ,"OdpowiedŸ: b) dziewiêædziesi¹t szeœæ.
+
+Wyjaœnienie: Zgodnie z Traktatem o Unii Europejskiej, a dok³adniej z Traktatem z Lizbony, który zmieni³ Traktat o Unii Europejskiej oraz Traktat ustanawiaj¹cy Wspólnotê Europejsk¹, liczba miejsc w Parlamencie Europejskim dla poszczególnych pañstw cz³onkowskich jest ograniczona. Artyku³ 14 ust. 2 Traktatu o Unii Europejskiej stanowi, ¿e liczba pos³ów do Parlamentu Europejskiego nie mo¿e przekraczaæ 750, nie licz¹c przewodnicz¹cego, a ¿adnemu pañstwu cz³onkowskiemu nie mo¿na przyznaæ wiêcej ni¿ 96 miejsc.
+
+Niestety, pytanie odnosi siê do Traktatu o Unii Europejskiej, a nie do Kodeksu cywilnego, wiêc nie mogê odwo³aæ siê do artyku³ów z Kodeksu cywilnego, poniewa¿ nie dotycz¹ one tej kwestii.",True,True,[14]
+129,"Question: Zgodnie z Traktatem o Unii Europejskiej, w sk³ad Rady: 
+    
+            a) wchodzi jeden przedstawiciel szczebla ministerialnego z ka¿dego Pañstwa Cz³onkowskiego, upowa¿niony do zaci¹gania zobowi¹zañ w imieniu rz¹du Pañstwa Cz³onkowskiego, które reprezentuje, oraz do wykonywania prawa g³osu,
+            b) wchodz¹ szefowie pañstw lub rz¹dów Pañstw Cz³onkowskich, jak równie¿ jej przewodnicz¹cy oraz przewodnicz¹cy Komisji Europejskiej; w jej pracach uczestniczy wysoki przedstawiciel Unii Europejskiej do spraw zagranicznych i polityki bezpieczeñstwa,
+            c) wchodz¹ obywatele Pañstw Cz³onkowskich, których liczba odpowiada dwóm trzecim liczby Pañstw Cz³onkowskich, chyba ¿e Rada Europejska, stanowi¹c jednomyœlnie, podejmie decyzjê o zmianie tej liczby.
+            ",A,art. 16 ust. 2 Traktatu z dnia 7 lutego 1992 r. o Unii Europejskiej – tekst uwzglêdniaj¹cy zmiany wprowadzone Traktatem z Lizbony ,"Poprawna odpowiedŸ to: a) wchodzi jeden przedstawiciel szczebla ministerialnego z ka¿dego Pañstwa Cz³onkowskiego, upowa¿niony do zaci¹gania zobowi¹zañ w imieniu rz¹du Pañstwa Cz³onkowskiego, które reprezentuje, oraz do wykonywania prawa g³osu.
+
+Wyjaœnienie: Zgodnie z Traktatem o Unii Europejskiej, Rada, znana równie¿ jako Rada Unii Europejskiej, sk³ada siê z jednego przedstawiciela szczebla ministerialnego z ka¿dego pañstwa cz³onkowskiego. Przedstawiciele ci s¹ upowa¿nieni do zaci¹gania zobowi¹zañ w imieniu swoich rz¹dów oraz do wykonywania prawa g³osu. Rada Unii Europejskiej jest jednym z g³ównych organów decyzyjnych UE i ró¿ni siê od Rady Europejskiej, która sk³ada siê z szefów pañstw lub rz¹dów.
+
+OdpowiedŸ b) odnosi siê do Rady Europejskiej, a nie do Rady Unii Europejskiej. Rada Europejska sk³ada siê z szefów pañstw lub rz¹dów pañstw cz³onkowskich, jej przewodnicz¹cego oraz przewodnicz¹cego Komisji Europejskiej, a tak¿e uczestniczy w jej pracach wysoki przedstawiciel Unii do spraw zagranicznych i polityki bezpieczeñstwa.
+
+OdpowiedŸ c) jest nieprawid³owa i nie odnosi siê do ¿adnego z organów Unii Europejskiej.
+
+Podstawa prawna: Traktat o Unii Europejskiej, artyku³ 16, który okreœla sk³ad i funkcje Rady Unii Europejskiej.",True,True,[16]
+130,"Question: Zgodnie z Traktatem o funkcjonowaniu Unii Europejskiej, Unia Europejska ma wy³¹czne kompetencje miêdzy innymi w nastêpuj¹cej dziedzinie: 
+    
+            a) polityce pieniê¿nej w odniesieniu do Pañstw Cz³onkowskich, których walut¹ jest euro,
+            b) transportu,
+            c) energii.
+            ",A,art. 3 ust. 1 lit. c Traktatu z dnia 25 marca 1957 r. o funkcjonowaniu Unii Europejskiej – tekst uwzglêdniaj¹cy zmiany wprowadzone Traktatem z Lizbony ,"Poprawna odpowiedŸ to: a) polityce pieniê¿nej w odniesieniu do Pañstw Cz³onkowskich, których walut¹ jest euro.
+
+Wyjaœnienie: Zgodnie z Traktatem o funkcjonowaniu Unii Europejskiej (TFUE), Unia Europejska posiada wy³¹czne kompetencje w niektórych dziedzinach, co oznacza, ¿e tylko UE mo¿e przyjmowaæ prawnie wi¹¿¹ce akty prawne w tych obszarach, a pañstwa cz³onkowskie mog¹ to robiæ jedynie wtedy, gdy s¹ do tego upowa¿nione przez Uniê. Jednym z takich obszarów jest polityka pieniê¿na dla pañstw cz³onkowskich, których walut¹ jest euro. Oznacza to, ¿e tylko UE mo¿e prowadziæ politykê pieniê¿n¹ dla strefy euro.
+
+Podstawa prawna: Artyku³ 3 ust. 1 lit. c) Traktatu o funkcjonowaniu Unii Europejskiej (TFUE) stanowi, ¿e Unia ma wy³¹czne kompetencje w dziedzinie polityki pieniê¿nej dla pañstw cz³onkowskich, których walut¹ jest euro.
+
+Nale¿y zauwa¿yæ, ¿e pytanie odnosi siê do Traktatu o funkcjonowaniu Unii Europejskiej, a nie do Kodeksu cywilnego, dlatego odpowiedŸ i wyjaœnienie opieraj¹ siê na przepisach TFUE, a nie Kodeksu cywilnego.",True,True,[3]
+131,"Question: Zgodnie z Traktatem o funkcjonowaniu Unii Europejskiej, obywatelem Unii Europejskiej jest ka¿da osoba maj¹ca obywatelstwo Pañstwa Cz³onkowskiego; obywatelstwo Unii Europejskiej: 
+    
+            a) korzysta z zasady pierwszeñstwa przed obywatelstwem krajowym,
+            b) ma charakter dodatkowy w stosunku do obywatelstwa krajowego, nie zastêpuj¹c go jednak,
+            c) ma charakter dodatkowy w stosunku do obywatelstwa krajowego i zastêpuje to obywatelstwo.
+            ",B,art. 20 ust. 1 Traktatu z dnia 25 marca 1957 r. o funkcjonowaniu Unii Europejskiej – tekst uwzglêdniaj¹cy zmiany wprowadzone Traktatem z Lizbony ,"Poprawna odpowiedŸ to: b) ma charakter dodatkowy w stosunku do obywatelstwa krajowego, nie zastêpuj¹c go jednak.
+
+Wyjaœnienie: Obywatelstwo Unii Europejskiej jest przyznawane automatycznie ka¿dej osobie, która posiada obywatelstwo jednego z pañstw cz³onkowskich Unii Europejskiej. Jest to obywatelstwo dodatkowe, co oznacza, ¿e nie zastêpuje ono obywatelstwa krajowego, lecz je uzupe³nia. Obywatelstwo Unii Europejskiej daje pewne dodatkowe prawa, takie jak prawo do swobodnego przemieszczania siê i przebywania na terytorium pañstw cz³onkowskich, ale nie wp³ywa na status obywatelstwa krajowego.
+
+Podstawa prawna: Zgodnie z art. 20 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej (TFUE), ""ustanawia siê obywatelstwo Unii. Obywatelem Unii jest ka¿da osoba maj¹ca obywatelstwo Pañstwa Cz³onkowskiego. Obywatelstwo Unii uzupe³nia obywatelstwo krajowe i nie zastêpuje go."" 
+
+Nale¿y zauwa¿yæ, ¿e pytanie odnosi siê do prawa unijnego, a nie do Kodeksu cywilnego, który reguluje kwestie prawa cywilnego w Polsce.",True,True,[20]
+132,"Question: Zgodnie z Konstytucj¹ Rzeczypospolitej Polskiej, w³adza zwierzchnia w Rzeczypospolitej Polskiej nale¿y do: 
+    
+            a) Prezydenta Rzeczypospolitej Polskiej,
+            b) Zgromadzenia Narodowego,
+            c) Narodu.
+            ",C,art. 4 ust. 1 Konstytucji Rzeczypospolitej Polskiej ,"OdpowiedŸ: c) Narodu.
+
+Wyjaœnienie: Zgodnie z Konstytucj¹ Rzeczypospolitej Polskiej, w³adza zwierzchnia w Rzeczypospolitej Polskiej nale¿y do Narodu. Jest to fundamentalna zasada demokracji, która oznacza, ¿e to obywatele, poprzez swoje wybory i inne formy uczestnictwa w ¿yciu publicznym, sprawuj¹ kontrolê nad w³adz¹ pañstwow¹. 
+
+Podstawa prawna: Artyku³ 4 Konstytucji Rzeczypospolitej Polskiej stanowi, ¿e ""W³adza zwierzchnia w Rzeczypospolitej Polskiej nale¿y do Narodu"". Artyku³ ten podkreœla, ¿e Naród sprawuje w³adzê bezpoœrednio lub przez swoich przedstawicieli.",True,True,[4]
+133,"Question: Zgodnie z Konstytucj¹ Rzeczypospolitej Polskiej, w³asnoœæ mo¿e byæ ograniczona: 
+    
+            a) tylko w drodze ustawy i tylko w zakresie, w jakim nie narusza ona istoty prawa w³asnoœci,
+            b) tylko w drodze aktu prawa miejscowego i tylko w zakresie, w jakim nie narusza on istoty prawa w³asnoœci,
+            c) w drodze ustawy oraz w drodze aktu prawa miejscowego i tylko w zakresie, w jakim przemawia za tym wa¿ny interes spo³eczny.
+            ",A,art. 64 ust. 3 Konstytucji Rzeczypospolitej Polskiej ,"OdpowiedŸ poprawna to: a) tylko w drodze ustawy i tylko w zakresie, w jakim nie narusza ona istoty prawa w³asnoœci.
+
+Wyjaœnienie: Zgodnie z Konstytucj¹ Rzeczypospolitej Polskiej, ograniczenie prawa w³asnoœci mo¿e nast¹piæ tylko w drodze ustawy. Oznacza to, ¿e jedynie akt prawny o randze ustawy mo¿e wprowadzaæ ograniczenia w zakresie korzystania z prawa w³asnoœci. Dodatkowo, takie ograniczenia nie mog¹ naruszaæ istoty prawa w³asnoœci, co oznacza, ¿e nie mog¹ one pozbawiaæ w³aœciciela podstawowych atrybutów tego prawa.
+
+Podstawa prawna: Art. 64 ust. 3 Konstytucji Rzeczypospolitej Polskiej stanowi, ¿e ""W³asnoœæ mo¿e byæ ograniczona tylko w drodze ustawy i tylko w zakresie, w jakim nie narusza ona istoty prawa w³asnoœci.""",True,True,[64]
+134,"Question: Zgodnie z Konstytucj¹ Rzeczypospolitej Polskiej, wynik referendum ogólnokrajowego jest wi¹¿¹cy: 
+    
+            a) je¿eli w referendum ogólnokrajowym wziê³a udzia³ po³owa uprawnionych do g³osowania,
+            b) je¿eli w referendum ogólnokrajowym wziê³o udzia³ wiêcej ni¿ po³owa uprawnionych do g³osowania,
+            c) w ka¿dym przypadku, bez wzglêdu na liczbê osób uprawionych do g³osowania, które wziê³y w nim udzia³.
+            ",B,art. 125 ust. 3 Konstytucji Rzeczypospolitej Polskiej ,"OdpowiedŸ poprawna to: b) je¿eli w referendum ogólnokrajowym wziê³o udzia³ wiêcej ni¿ po³owa uprawnionych do g³osowania.
+
+Wyjaœnienie: Zgodnie z Konstytucj¹ Rzeczypospolitej Polskiej, aby wynik referendum ogólnokrajowego by³ wi¹¿¹cy, musi w nim wzi¹æ udzia³ wiêcej ni¿ po³owa uprawnionych do g³osowania. Oznacza to, ¿e frekwencja musi przekroczyæ 50% uprawnionych do g³osowania, aby wynik referendum mia³ moc wi¹¿¹c¹.
+
+Podstawa prawna: Konstytucja Rzeczypospolitej Polskiej, art. 125 ust. 3, który stanowi: ""Je¿eli w referendum ogólnokrajowym wziê³a udzia³ wiêcej ni¿ po³owa uprawnionych do g³osowania, wynik referendum jest wi¹¿¹cy.""",True,True,[125]
+135,"Question: Zgodnie z Konstytucj¹ Rzeczypospolitej Polskiej, Najwy¿sza Izba Kontroli podlega: 
+    
+            a) Radzie Ministrów,
+            b) Sejmowi,
+            c) Prezydentowi Rzeczypospolitej Polskiej.
+            ",B,art. 202 ust. 2 Konstytucji Rzeczypospolitej Polskiej ,"Poprawna odpowiedŸ to: b) Sejmowi.
+
+Wyjaœnienie: Zgodnie z Konstytucj¹ Rzeczypospolitej Polskiej, Najwy¿sza Izba Kontroli (NIK) jest naczelnym organem kontroli pañstwowej, który podlega Sejmowi. NIK dzia³a na zasadach kolegialnoœci i niezale¿noœci, a jej zadaniem jest kontrola dzia³alnoœci organów administracji rz¹dowej, Narodowego Banku Polskiego, pañstwowych osób prawnych oraz innych jednostek organizacyjnych w zakresie, w jakim wykorzystuj¹ one maj¹tek lub œrodki publiczne.
+
+Podstawa prawna: Konstytucja Rzeczypospolitej Polskiej, art. 202 ust. 1, który stanowi: ""Najwy¿sza Izba Kontroli jest naczelnym organem kontroli pañstwowej, podleg³ym Sejmowi.""",True,True,[202]
+136,"Question: Zgodnie z Konstytucj¹ Rzeczypospolitej Polskiej, inicjatywa ustawodawcza w zakresie zmiany ustawy bud¿etowej przys³uguje: 
+    
+            a) Prezydentowi Rzeczypospolitej Polskiej i Radzie Ministrów,
+            b) Senatowi i Radzie Ministrów,
+            c) wy³¹cznie Radzie Ministrów
+            ",C,art. 221 Konstytucji Rzeczypospolitej Polskiej ,"OdpowiedŸ: c) wy³¹cznie Radzie Ministrów
+
+Wyjaœnienie: Zgodnie z Konstytucj¹ Rzeczypospolitej Polskiej, inicjatywa ustawodawcza w zakresie ustawy bud¿etowej oraz jej zmiany przys³uguje wy³¹cznie Radzie Ministrów. Jest to zwi¹zane z faktem, ¿e to Rada Ministrów odpowiada za przygotowanie projektu ustawy bud¿etowej i jej realizacjê. Inicjatywa ustawodawcza w tym zakresie nie przys³uguje Prezydentowi ani Senatowi.
+
+Podstawa prawna: Konstytucja Rzeczypospolitej Polskiej, art. 221, który stanowi, ¿e inicjatywa ustawodawcza w zakresie ustawy bud¿etowej przys³uguje wy³¹cznie Radzie Ministrów.",True,True,[221]
+137,"Question: Zgodnie z ustaw¹ – Prawo o ustroju s¹dów powszechnych, od postanowienia o ukaraniu kar¹ porz¹dkow¹ za¿alenie: 
+    
+            a) nie przys³uguje,
+            b) przys³uguje do s¹du bezpoœrednio prze³o¿onego, a gdy zosta³o wydane przez s¹d apelacyjny do S¹du Najwy¿szego,
+            c) przys³uguje do innego sk³adu s¹du, który wyda³ to postanowienie i tylko wtedy, gdy s¹d orzek³ grzywnê w wysokoœci powy¿ej 2 000 z³otych.
+            ",B,art. 50 § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju s¹dów powszechnych ,"OdpowiedŸ poprawna to: b) przys³uguje do s¹du bezpoœrednio prze³o¿onego, a gdy zosta³o wydane przez s¹d apelacyjny do S¹du Najwy¿szego.
+
+Wyjaœnienie: Zgodnie z ustaw¹ – Prawo o ustroju s¹dów powszechnych, od postanowienia o ukaraniu kar¹ porz¹dkow¹ przys³uguje za¿alenie do s¹du bezpoœrednio prze³o¿onego. W przypadku, gdy postanowienie zosta³o wydane przez s¹d apelacyjny, za¿alenie przys³uguje do S¹du Najwy¿szego. Taka procedura odwo³awcza ma na celu zapewnienie kontroli nad decyzjami dotycz¹cymi kar porz¹dkowych, które mog¹ byæ stosowane w ramach postêpowania s¹dowego.
+
+Podstawa prawna: Ustawa z dnia 27 lipca 2001 r. – Prawo o ustroju s¹dów powszechnych, art. 41 § 1.",True,False,[41]
+138,"Question: Zgodnie z ustaw¹ o S¹dzie Najwy¿szym, samorz¹d sêdziów S¹du Najwy¿szego stanowi¹: 
+    
+            a) wszyscy sêdziowie S¹du Najwy¿szego w stanie czynnym; w sk³ad samorz¹du wchodz¹ równie¿ wszyscy sêdziowie S¹du Najwy¿szego w stanie spoczynku,
+            b) wszyscy sêdziowie S¹du Najwy¿szego w stanie czynnym; w sk³ad samorz¹du wchodz¹ równie¿ sêdziowie delegowani do pe³nienia czynnoœci sêdziowskich w S¹dzie Najwy¿szym,
+            c) wszyscy sêdziowie S¹du Najwy¿szego w stanie czynnym; w sk³ad samorz¹du nie wchodz¹ sêdziowie delegowani do pe³nienia czynnoœci sêdziowskich w S¹dzie Najwy¿szym.
+            ",C,art. 16 § 1 ustawy z dnia 8 grudnia 2017 r. o S¹dzie Najwy¿szym ,"OdpowiedŸ poprawna to: b) wszyscy sêdziowie S¹du Najwy¿szego w stanie czynnym; w sk³ad samorz¹du wchodz¹ równie¿ sêdziowie delegowani do pe³nienia czynnoœci sêdziowskich w S¹dzie Najwy¿szym.
+
+Wyjaœnienie: Zgodnie z ustaw¹ o S¹dzie Najwy¿szym, samorz¹d sêdziów S¹du Najwy¿szego tworz¹ wszyscy sêdziowie tego s¹du, którzy s¹ w stanie czynnym. Dodatkowo, w sk³ad samorz¹du wchodz¹ równie¿ sêdziowie, którzy zostali delegowani do pe³nienia czynnoœci sêdziowskich w S¹dzie Najwy¿szym. Oznacza to, ¿e sêdziowie delegowani maj¹ prawo uczestniczyæ w pracach samorz¹du sêdziowskiego, co jest istotne dla zapewnienia pe³nej reprezentacji w ramach tego organu.
+
+Podstawa prawna: Ustawa z dnia 8 grudnia 2017 r. o S¹dzie Najwy¿szym, art. 3 ust. 1, który okreœla sk³ad samorz¹du sêdziów S¹du Najwy¿szego.",False,False,[3]
+139,"Question: Zgodnie z ustaw¹ – Prawo o prokuraturze, prokurator prze³o¿ony: 
+    
+            a) mo¿e powierzyæ podleg³ym prokuratorom wykonywanie czynnoœci nale¿¹cych do jego zakresu dzia³ania, chyba ¿e ustawa zastrzega okreœlon¹ czynnoœæ wy³¹cznie do jego w³aœciwoœci,
+            b) w ka¿dym przypadku mo¿e powierzyæ podleg³ym prokuratorom wykonywanie czynnoœci nale¿¹cych do jego zakresu dzia³ania,
+            c) w ¿adnym przypadku nie mo¿e powierzyæ podleg³ym prokuratorom wykonywania czynnoœci nale¿¹cych do jego zakresu dzia³ania.
+            ",A,art. 9 § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze ,"OdpowiedŸ poprawna to: a) mo¿e powierzyæ podleg³ym prokuratorom wykonywanie czynnoœci nale¿¹cych do jego zakresu dzia³ania, chyba ¿e ustawa zastrzega okreœlon¹ czynnoœæ wy³¹cznie do jego w³aœciwoœci.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 28 stycznia 2016 r. – Prawo o prokuraturze, prokurator prze³o¿ony ma mo¿liwoœæ powierzenia podleg³ym prokuratorom wykonywania czynnoœci, które nale¿¹ do jego zakresu dzia³ania. Jednak¿e istniej¹ pewne czynnoœci, które ustawa zastrzega wy³¹cznie do w³aœciwoœci prokuratora prze³o¿onego, co oznacza, ¿e nie mog¹ byæ one delegowane. Taka regulacja ma na celu zapewnienie, ¿e niektóre kluczowe decyzje i dzia³ania s¹ podejmowane przez osoby na odpowiednim poziomie hierarchii w prokuraturze.
+
+Podstawa prawna: Art. 8 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze.",True,True,[8]
+140,"Question: Zgodnie z ustaw¹ – Prawo o adwokaturze, adwokat podczas i w zwi¹zku z wykonywaniem obowi¹zków zawodowych korzysta z ochrony prawnej podobnie jak: 
+    
+            a) sêdzia i prokurator,
+            b) osoba bêd¹ca pracownikiem administracji rz¹dowej, innego organu pañstwowego lub samorz¹du terytorialnego,
+            c) funkcjonariusz Policji.
+            ",A,art. 7 ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze ,"OdpowiedŸ: a) sêdzia i prokurator.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 26 maja 1982 r. – Prawo o adwokaturze, adwokat podczas i w zwi¹zku z wykonywaniem obowi¹zków zawodowych korzysta z ochrony prawnej podobnie jak sêdzia i prokurator. Oznacza to, ¿e adwokat ma zapewnion¹ szczególn¹ ochronê prawn¹, co ma na celu umo¿liwienie mu niezale¿nego i bezstronnego wykonywania obowi¹zków zawodowych. Taka ochrona jest niezbêdna, aby adwokat móg³ skutecznie reprezentowaæ interesy swoich klientów bez obawy o naciski czy represje.
+
+Podstawa prawna: Art. 8 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz.U. z 2022 r. poz. 1184, z póŸn. zm.).",True,True,[8]
+141,"Question: Zgodnie z ustaw¹ – Prawo o adwokaturze, Minister Sprawiedliwoœci zwraca siê o uchylenie sprzecznych z prawem uchwa³ organów adwokatury i organów izb adwokackich do: 
+    
+            a) Naczelnego S¹du Administracyjnego w terminie 6 miesiêcy od dnia ich dorêczenia,
+            b) S¹du Najwy¿szego w terminie 3 miesiêcy od dnia ich dorêczenia; je¿eli zaskar¿ona uchwa³a ra¿¹co narusza prawo, termin ten wynosi 6 miesiêcy,
+            c) s¹du okrêgowego, w którego obszarze w³aœciwoœci znajduje siê siedziba organów adwokatury lub organów izb adwokackich w terminie 3 miesiêcy od dnia ich dorêczenia.
+            ",B,art. 14 ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze ,"OdpowiedŸ poprawna to: b) S¹du Najwy¿szego w terminie 3 miesiêcy od dnia ich dorêczenia; je¿eli zaskar¿ona uchwa³a ra¿¹co narusza prawo, termin ten wynosi 6 miesiêcy.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 26 maja 1982 r. – Prawo o adwokaturze, Minister Sprawiedliwoœci ma prawo zaskar¿yæ uchwa³y organów adwokatury i organów izb adwokackich, które s¹ sprzeczne z prawem, do S¹du Najwy¿szego. Termin na z³o¿enie takiego wniosku wynosi 3 miesi¹ce od dnia dorêczenia uchwa³y. Jednak¿e, je¿eli uchwa³a ra¿¹co narusza prawo, termin ten wyd³u¿a siê do 6 miesiêcy. 
+
+Podstawa prawna: Art. 15 ust. 2 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze.",True,False,[15]
+142,"Question: Zgodnie z ustaw¹ – Prawo o adwokaturze, zwyczajne zgromadzenie izby adwokackiej – zwo³ywane przez okrêgow¹ radê adwokack¹ – odbywa siê: 
+    
+            a) raz do roku,
+            b) raz na dwa lata,
+            c) co najmniej jeden raz w danej kadencji okrêgowej rady adwokackiej.
+            ",A,art. 41 ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze ,"OdpowiedŸ poprawna to: a) raz do roku.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 26 maja 1982 r. – Prawo o adwokaturze, zwyczajne zgromadzenie izby adwokackiej jest zwo³ywane przez okrêgow¹ radê adwokack¹ raz do roku. Jest to regularne spotkanie, które ma na celu omówienie bie¿¹cych spraw izby, zatwierdzenie sprawozdañ finansowych oraz podjêcie innych decyzji istotnych dla funkcjonowania izby adwokackiej.
+
+Podstawa prawna: Art. 15 ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze (Dz.U. z 2022 r. poz. 1184 z póŸn. zm.).",True,False,[15]
+143,"Question: Zgodnie z ustaw¹ – Prawo o adwokaturze, w stosunku do aplikanta adwokackiego, uznanego za winnego pope³nienia przewinienia dyscyplinarnego, nie orzeka siê kary dyscyplinarnej w postaci: 
+    
+            a) nagany,
+            b) kary pieniê¿nej,
+            c) zawieszenia w czynnoœciach zawodowych
+            ",B,art. 83 ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze ,"OdpowiedŸ: b) kary pieniê¿nej
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 26 maja 1982 r. – Prawo o adwokaturze, w stosunku do aplikanta adwokackiego, który zosta³ uznany za winnego pope³nienia przewinienia dyscyplinarnego, mo¿na orzec ró¿ne kary dyscyplinarne. Jednak¿e, w przypadku aplikantów adwokackich, nie przewiduje siê kary pieniê¿nej jako formy sankcji dyscyplinarnej. Kary dyscyplinarne, które mog¹ byæ na³o¿one na aplikanta, obejmuj¹ m.in. naganê oraz zawieszenie w czynnoœciach zawodowych.
+
+Podstawa prawna: Ustawa z dnia 26 maja 1982 r. – Prawo o adwokaturze, art. 80 ust. 1, który okreœla katalog kar dyscyplinarnych, jakie mog¹ byæ stosowane wobec adwokatów i aplikantów adwokackich. W przypadku aplikantów, katalog ten jest ograniczony i nie obejmuje kary pieniê¿nej.",True,False,[80]
+144,"Question: Zgodnie z ustaw¹ – Prawo o adwokaturze, s¹d dyscyplinarny izby adwokackiej niezw³ocznie przesy³a odpis prawomocnego orzeczenia: 
+    
+            a) wy³¹cznie Ministrowi Sprawiedliwoœci,
+            b) w³aœciwej okrêgowej radzie adwokackiej, Ministrowi Sprawiedliwoœci i Naczelnej Radzie Adwokackiej,
+            c) wy³¹cznie Naczelnej Radzie Adwokackiej.
+            ",B,art. 95³ ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze ,"OdpowiedŸ: b) w³aœciwej okrêgowej radzie adwokackiej, Ministrowi Sprawiedliwoœci i Naczelnej Radzie Adwokackiej.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 26 maja 1982 r. – Prawo o adwokaturze, s¹d dyscyplinarny izby adwokackiej ma obowi¹zek przes³aæ odpis prawomocnego orzeczenia do kilku instytucji. W³aœciwa okrêgowa rada adwokacka, Minister Sprawiedliwoœci oraz Naczelna Rada Adwokacka s¹ organami, które musz¹ byæ poinformowane o wynikach postêpowania dyscyplinarnego. Jest to istotne z punktu widzenia nadzoru nad wykonywaniem zawodu adwokata oraz zapewnienia transparentnoœci i odpowiedzialnoœci w ramach samorz¹du adwokackiego.
+
+Podstawa prawna: Art. 95n ust. 1 ustawy z dnia 26 maja 1982 r. – Prawo o adwokaturze.",True,True,[95]
+145,"Question: Zgodnie z ustaw¹ o radcach prawnych, wspólnikiem radcy prawnego w spó³ce cywilnej, w której radca prawny wykonuje swój zawód, mo¿e byæ: 
+    
+            a) ksiêgowy,
+            b) rzecznik patentowy,
+            c) bieg³y rewident.
+            ",B,art. 8 ust. 1 pkt 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych ,"Poprawna odpowiedŸ to: b) rzecznik patentowy.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 6 lipca 1982 r. o radcach prawnych, radca prawny mo¿e wykonywaæ swój zawód w formie spó³ki cywilnej, której wspólnikami mog¹ byæ wy³¹cznie osoby wykonuj¹ce zawody prawnicze, takie jak adwokaci, notariusze, radcowie prawni, doradcy podatkowi oraz rzecznicy patentowi. Ksiêgowi i biegli rewidenci nie s¹ wymienieni jako dopuszczalni wspólnicy w spó³ce cywilnej, w której radca prawny wykonuje swój zawód.
+
+Podstawa prawna: Art. 8 ust. 1 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz.U. z 2020 r. poz. 75 z póŸn. zm.).",True,True,[8]
+146,"Question: Zgodnie z ustaw¹ o radcach prawnych, pomoc prawna polegaj¹ca na wystêpowaniu przez radcê prawnego w charakterze obroñcy w sprawach o przestêpstwa i przestêpstwa skarbowe mo¿e byæ œwiadczona w ramach wykonywania zawodu radcy prawnego: 
+    
+            a) wy³¹cznie na podstawie stosunku pracy,
+            b) w kancelarii radcy prawnego, pod warunkiem ¿e radca prawny nie pozostaje w stosunku pracy, z wyj¹tkiem zatrudnienia w urzêdzie administracji publicznej,
+            c) w kancelarii radcy prawnego, pod warunkiem ¿e radca prawny nie pozostaje w stosunku pracy, z wyj¹tkiem zatrudnienia w charakterze pracownika badawczego i badawczo-dydaktycznego.
+            ",C,art. 8 ust. 6 ustawy z dnia 6 lipca 1982 r. o radcach prawnych ,"OdpowiedŸ poprawna to: **b) w kancelarii radcy prawnego, pod warunkiem ¿e radca prawny nie pozostaje w stosunku pracy, z wyj¹tkiem zatrudnienia w urzêdzie administracji publicznej.**
+
+**Wyjaœnienie:**
+
+Zgodnie z ustaw¹ z dnia 6 lipca 1982 r. o radcach prawnych, radca prawny mo¿e œwiadczyæ pomoc prawn¹ polegaj¹c¹ na wystêpowaniu w charakterze obroñcy w sprawach o przestêpstwa i przestêpstwa skarbowe, ale pod pewnymi warunkami. Radca prawny nie mo¿e pozostawaæ w stosunku pracy, z wyj¹tkiem zatrudnienia w urzêdzie administracji publicznej. Oznacza to, ¿e radca prawny mo¿e wykonywaæ te czynnoœci w ramach prowadzenia w³asnej kancelarii, ale nie mo¿e byæ jednoczeœnie zatrudniony na podstawie stosunku pracy, chyba ¿e jest to zatrudnienie w urzêdzie administracji publicznej.
+
+**Podstawa prawna:**
+
+Ustawa z dnia 6 lipca 1982 r. o radcach prawnych, art. 8 ust. 1 i 2, które okreœlaj¹ zasady wykonywania zawodu radcy prawnego, w tym ograniczenia dotycz¹ce wystêpowania w charakterze obroñcy w sprawach karnych i karnoskarbowych.",False,True,[8]
+147,"Question: Zgodnie z ustaw¹ o radcach prawnych, nadu¿ycie wolnoœci s³owa i pisma przez radcê prawnego przy wykonywaniu czynnoœci zawodowych, stanowi¹ce œcigan¹ z oskar¿enia prywatnego zniewagê lub znies³awienie strony, podlega œciganiu: 
+    
+            a) w drodze s¹dowej lub dyscyplinarnej, wed³ug wyboru pokrzywdzonego,
+            b) tylko w drodze dyscyplinarnej,
+            c) tylko w drodze s¹dowej.
+            ",B,art. 11 ust. 2 ustawy z dnia 6 lipca 1982 r. o radcach prawnych ,"OdpowiedŸ: a) w drodze s¹dowej lub dyscyplinarnej, wed³ug wyboru pokrzywdzonego.
+
+Wyjaœnienie: Zgodnie z ustaw¹ o radcach prawnych, nadu¿ycie wolnoœci s³owa i pisma przez radcê prawnego przy wykonywaniu czynnoœci zawodowych, które stanowi zniewagê lub znies³awienie, mo¿e byæ œcigane zarówno w drodze postêpowania s¹dowego, jak i dyscyplinarnego. Oznacza to, ¿e pokrzywdzony ma mo¿liwoœæ wyboru, czy chce dochodziæ swoich praw na drodze s¹dowej, czy te¿ w postêpowaniu dyscyplinarnym przed organami samorz¹du radców prawnych.
+
+Podstawa prawna: Ustawa z dnia 6 lipca 1982 r. o radcach prawnych, art. 64 ust. 1, który stanowi, ¿e radca prawny podlega odpowiedzialnoœci dyscyplinarnej za nadu¿ycie wolnoœci s³owa i pisma przy wykonywaniu czynnoœci zawodowych, a tak¿e mo¿e byæ œcigany na drodze s¹dowej, jeœli czyn ten stanowi przestêpstwo œcigane z oskar¿enia prywatnego.",False,False,[64]
+148,"Question: Zgodnie z ustaw¹ o radcach prawnych, rada okrêgowej izby radców prawnych jest uprawniona do kontroli i oceny wykonywania zawodu przez radcê prawnego; kontrolê przeprowadzaj¹ i oceny dokonuj¹: 
+    
+            a) cz³onkowie komisji rewizyjnej okrêgowej izby radców prawnych,
+            b) wizytatorzy powo³ani przez radê okrêgowej izby radców prawnych spoœród radców prawnych,
+            c) wy³¹cznie biegli rewidenci.
+            ",B,art. 221 ustawy z dnia 6 lipca 1982 r. o radcach prawnych ,"OdpowiedŸ poprawna to: b) wizytatorzy powo³ani przez radê okrêgowej izby radców prawnych spoœród radców prawnych.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 6 lipca 1982 r. o radcach prawnych, rada okrêgowej izby radców prawnych ma prawo do kontroli i oceny wykonywania zawodu przez radców prawnych. Kontrole te przeprowadzaj¹ wizytatorzy, którzy s¹ powo³ywani przez radê okrêgowej izby radców prawnych spoœród radców prawnych. Wizytatorzy s¹ odpowiedzialni za ocenê, czy radca prawny wykonuje swoje obowi¹zki zgodnie z przepisami prawa i zasadami etyki zawodowej.
+
+Podstawa prawna: Art. 57 ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz.U. z 2020 r. poz. 75 z póŸn. zm.).",True,False,[57]
+149,"Question: Zgodnie z ustaw¹ o radcach prawnych, prawo wykonywania zawodu radcy prawnego powstaje z chwil¹: 
+    
+            a) dorêczenia uchwa³y o pozytywnym wyniku egzaminu radcowskiego,
+            b) dokonania wpisu na listê radców prawnych i zawarcia umowy ubezpieczenia od odpowiedzialnoœci cywilnej za szkody wyrz¹dzone przy wykonywaniu czynnoœci zawodowych,
+            c) dokonania wpisu na listê radców prawnych i z³o¿enia œlubowania.
+            ",C,art. 23 ustawy z dnia 6 lipca 1982 r. o radcach prawnych ,"OdpowiedŸ poprawna to: **c) dokonania wpisu na listê radców prawnych i z³o¿enia œlubowania.**
+
+**Wyjaœnienie:**
+
+Zgodnie z ustaw¹ z dnia 6 lipca 1982 r. o radcach prawnych, prawo wykonywania zawodu radcy prawnego powstaje z chwil¹ dokonania wpisu na listê radców prawnych oraz z³o¿enia œlubowania. Sam pozytywny wynik egzaminu radcowskiego nie jest wystarczaj¹cy do uzyskania prawa do wykonywania zawodu. Konieczne jest równie¿ formalne wpisanie na listê oraz z³o¿enie œlubowania, co jest potwierdzeniem gotowoœci do przestrzegania zasad etyki zawodowej i wykonywania zawodu zgodnie z prawem.
+
+**Podstawa prawna:**
+
+Ustawa z dnia 6 lipca 1982 r. o radcach prawnych, art. 24 ust. 1, który stanowi, ¿e wpis na listê radców prawnych oraz z³o¿enie œlubowania s¹ warunkami koniecznymi do uzyskania prawa do wykonywania zawodu radcy prawnego.",True,False,[24]
+150,"Question: Zgodnie z ustaw¹ o Rzeczniku Praw Obywatelskich, ta sama osoba: 
+    
+            a) nie mo¿e byæ Rzecznikiem Praw Obywatelskich wiêcej ni¿ przez jedn¹ kadencjê,
+            b) nie mo¿e byæ Rzecznikiem Praw Obywatelskich wiêcej ni¿ przez dwie kadencje,
+            c) mo¿e byæ Rzecznikiem Praw Obywatelskich bez ograniczenia liczby kadencji.
+            ",B,art. 5 ust. 2 ustawy z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich ,"OdpowiedŸ: b) nie mo¿e byæ Rzecznikiem Praw Obywatelskich wiêcej ni¿ przez dwie kadencje.
+
+Wyjaœnienie: Zgodnie z ustaw¹ z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich, ta sama osoba mo¿e pe³niæ funkcjê Rzecznika Praw Obywatelskich nie d³u¿ej ni¿ przez dwie kadencje. Kadencja Rzecznika trwa 5 lat, a mo¿liwoœæ pe³nienia tej funkcji przez dwie kadencje oznacza, ¿e ta sama osoba mo¿e byæ Rzecznikiem maksymalnie przez 10 lat.
+
+Podstawa prawna: Art. 3 ust. 6 ustawy o Rzeczniku Praw Obywatelskich.",True,False,[3]
