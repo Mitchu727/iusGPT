@@ -5,7 +5,7 @@ civil_questions = []
 civil_answers = []
 
 def get_civil_questions_and_answers_from_directory(directory, lower_index, upper_index):
-    chosen_dir = get_project_root() / "documents" / "evaluation" / directory
+    chosen_dir = get_project_root() / "documents" / "evaluation" / "original" / directory
     questions_path = chosen_dir / "questions.json"
     answers_path = chosen_dir / "answers.json"
 

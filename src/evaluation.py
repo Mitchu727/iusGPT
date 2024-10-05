@@ -31,16 +31,16 @@ def load_questions_for_codes(code_list):
 # dataset_path = get_project_root() / "documents" / "evaluation" / "penal_code_questions"
 questions, answers = load_questions_for_codes(["civil_code"])
 
-# evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)  # 25, 7
-# evaluated_flow = SimpleFlow("gpt-4", 0)  # 83, 97
-# evaluated_flow = SimpleFlow("gpt-4o", 0)  # 83, 97
-# evaluated_flow = SimpleFlow("gpt-4o-mini", 0)  # 83, 97
+# evaluated_flow = SimpleFlow("gpt-3.5-turbo-0125", 0)  # 77, 26
+# evaluated_flow = SimpleFlow("gpt-4o-mini", 0)  # 101, 58
+# evaluated_flow = SimpleFlow("gpt-4", 0)  # 115, 53
+evaluated_flow = SimpleFlow("gpt-4o", 0)
 
-evaluated_flow = SimpleRagSearchFlow("gpt-3.5-turbo-0125", 0, 50)
-# evaluated_flow = SimpleRagSearchFlow("gpt-4o-mini", 0, 50)
-
-# evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0)  # 46, 38
-# evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0)  # 46, 38
+# evaluated_flow = SimpleRagSearchFlow("gpt-3.5-turbo-0125", 0, 50)  # 112, 126
+# evaluated_flow = SimpleRagSearchFlow("gpt-4o-mini", 0, 50) # 128, 139
+#
+# evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0) #101, 116
+# evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0) # 130 128
 
 judge = Judge("gpt-4o-mini", 0)
 

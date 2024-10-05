@@ -6,7 +6,7 @@ if __name__ == "__main__":
     list_of_directories = [directory for directory in os.listdir() if directory[-3:] != ".py"]
     print(list_of_directories)
     for dir_name in list_of_directories:
-        dir_path = get_project_root() / "documents" / "legal_acts" /"batch" / dir_name
+        dir_path = get_project_root() / "documents" / "legal_acts" / "batch" / dir_name
         pdf_file_path = dir_path / "source.pdf"
         txt_file_path = dir_path / "source.txt"
         doc = fitz.open(pdf_file_path)

@@ -18,6 +18,10 @@ def get_legal_act_json_path(legal_act) -> Path:
     return get_project_root() / "documents" / "legal_acts" / "batch" / legal_act / "source.json"
 
 
+def get_chroma_path():
+    return get_project_root() / "infrastructure" / "chroma"
+
+
 def extract_id_from_article_content(article_text):
     try:
         return re.search(r"Art\. [0-9a-zł]+\.", article_text).group()
