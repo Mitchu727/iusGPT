@@ -13,7 +13,8 @@ from langgraph.graph import StateGraph, START, END, add_messages
 
 from src.tools.retriever.chroma import load_articles_as_documents, create_chroma_retriever
 from src.tools.retriever.prefixed_retriever import PrefixedRetriever
-from src.utils.utils import get_example_question, get_hard_example_question, get_legal_act_json_path
+from src.utils.utils import get_example_question, get_hard_example_question, get_legal_act_json_path, \
+    get_legal_acts_list_from_directories
 import src.secrets
 import functools
 
@@ -25,8 +26,7 @@ class State(TypedDict):
 
 
 class MultiAgentFlow(FlowInterface):
-    supported_codes = ['civil_code', 'civil_procedure_code', 'code_of_administrative_procedure', 'code_of_procedure_in_misdemeanor_cases', 'commercial_companies_code', 'family_code', 'labor_code', 'misdemeanor_code', 'penal_code', 'penal_procedure_code', 'tax_penal_code']
-
+    supported_codes = [legal_act_path.name for legal_act_path in get_legal_acts_list_from_directories()]
     def __init__(self, model="gpt-3.5-turbo-0125", temperature=0, k=10):
         self.model = model
         self.temperature = temperature
@@ -85,10 +85,9 @@ class MultiAgentFlow(FlowInterface):
         def agent_router(state: State) -> Literal["civil_code", "penal_code", "__end__"]:
             messages = state["messages"]
             last_message = messages[-1].content
-            if "civil_code" in last_message:
-                return "civil_code"
-            elif "penal_code" in last_message:
-                return "penal_code"
+            for supported_code in self.supported_codes:
+                if supported_code in last_message:
+                    return code
             return "__end__"
 
         workflow.add_node("router_agent", router_agent_node)

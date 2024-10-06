@@ -14,6 +14,7 @@ from src.flows.flow_interface import FlowInterface
 from langgraph.graph import StateGraph, START, END, add_messages
 
 from src.tools.retriever.chroma import load_articles_as_documents, create_chroma_retriever
+from src.tools.retriever.extended_retriever import ExtendedRetriever
 from src.tools.retriever.prefixed_retriever import PrefixedRetriever
 from src.utils.utils import get_example_question, get_hard_example_question, get_legal_act_json_path, \
     get_hard_retrieval_question, get_project_root
@@ -44,6 +45,8 @@ class MultiAgentFlowAdvancedRag(FlowInterface):
         docs = load_articles_as_documents(get_legal_act_json_path(code))
         base_retriever = create_chroma_retriever(docs, code, k, False)
         retriever = PrefixedRetriever(retriever=base_retriever)
+        # prefixed_retriever = PrefixedRetriever(retriever=base_retriever)
+        # retriever = ExtendedRetriever(retriever=prefixed_retriever, range=2, docs=docs)
         retriever_tool = create_retriever_tool(
             retriever,
             code,
@@ -64,7 +67,7 @@ class MultiAgentFlowAdvancedRag(FlowInterface):
         Line 4: Formulate a simple question about the concepts from the question.
         Line 5: Formulate detailed question that covers all concepts from the question.
         
-        Pay attention to cover each part of the question in the upper lines.
+        Pay attention to cover each part of the question in the upper lines. Do not include Line word in the answer.
         
         Respond in Polish.
         """
@@ -102,8 +105,9 @@ class MultiAgentFlowAdvancedRag(FlowInterface):
             prompts = self.create_retrieval_agent(model, temperature).invoke({"messages": [state["question"]]})
             documents = []
             for prompt in prompts.content.split('\n'):
-                print(prompt)
-                documents.extend(retriever.invoke(prompt))
+                if prompt.strip() != "":
+                    print(prompt)
+                    documents.extend(retriever.invoke(prompt))
             return {
                 "regulations": documents
             }
@@ -155,7 +159,7 @@ class MultiAgentFlowAdvancedRag(FlowInterface):
         return result["messages"][-1].content
 
     def get_flow_name(self):
-        return f"multi_agent_simple_rag{self.model}_{self.temperature}"
+        return f"multi_agent_advanced_rag{self.model}_{self.temperature}"
 
     def get_flow_parameters(self):
         return {

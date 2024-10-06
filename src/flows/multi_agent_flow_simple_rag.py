@@ -12,6 +12,7 @@ from src.flows.flow_interface import FlowInterface
 from langgraph.graph import StateGraph, START, END, add_messages
 
 from src.tools.retriever.chroma import load_articles_as_documents, create_chroma_retriever
+from src.tools.retriever.extended_retriever import ExtendedRetriever
 from src.tools.retriever.prefixed_retriever import PrefixedRetriever
 from src.utils.utils import get_example_question, get_hard_example_question, get_legal_act_json_path, \
     get_hard_retrieval_question
@@ -39,7 +40,9 @@ class MultiAgentFlowSimpleRag(FlowInterface):
         print(f"Creating retriever tool for {code}")
         docs = load_articles_as_documents(get_legal_act_json_path(code))
         base_retriever = create_chroma_retriever(docs, code, k, False)
-        retriever = PrefixedRetriever(retriever=base_retriever)
+        prefixed_retriever = PrefixedRetriever(retriever=base_retriever)
+        # retriever = PrefixedRetriever(retriever=base_retriever)
+        retriever = ExtendedRetriever(retriever=prefixed_retriever, range=2, docs=docs)
         retriever_tool = create_retriever_tool(
             retriever,
             code,
@@ -116,7 +119,8 @@ class MultiAgentFlowSimpleRag(FlowInterface):
             'k': self.k,
             'system_prompt': self.system_prompt,
             'evaluation_prompt_template': self.evaluation_prompt_template,
-            'vectorstore': 'chroma'
+            'vectorstore': 'chroma',
+            'retriever': 'extended'
         }
 
 

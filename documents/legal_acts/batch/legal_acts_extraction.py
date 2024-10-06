@@ -39,7 +39,7 @@ def extract_legal_acts_from_txt_to_json(list_of_directories):
         text = re.sub(r"\n *\n(\S.*\n)*.*(Niniejsza ustawa|Utracił moc|wyroku \n*Trybunału \n*Konstytucyjnego|Zmiany tekstu jednolitego|Zmiany wymienionego rozporządzenia|Zmiana wymienionego rozporządzenia| Zmiany wymienionej ustawy).*\n(.*\n)*?(\S.*\n)*", "", text)
         text = re.sub(r'\nArt. [0-9]*\. \(uchylony\)', '', text)
         text = re.sub(r'\nArt. [0-9|–]*\. \(uchylone\)', '', text)
-        text = re.sub(r'\nArt. [0-9|–]*\. \(pominięte\)', '', text)
+        text = re.sub(r'\nArt. [0-9|–|a]*\. \(pominięte\)', '', text)
         text = re.sub(r'\nArt. [0-9]*–[0-9]*\..*', '', text)
 
         text = text.replace("\n", "")

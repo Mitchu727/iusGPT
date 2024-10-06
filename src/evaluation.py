@@ -54,7 +54,7 @@ questions, answers = load_questions_for_codes(["civil_code"])
 #
 # evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0) #101, 116
 # evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0) # 130 128
-# evaluated_flow = MultiAgentFlowSimpleRag("gpt-4o-mini", 0, 100)
+# evaluated_flow = MultiAgentFlowSimpleRag("gpt-4o-mini", 0, 20)
 evaluated_flow = MultiAgentFlowAdvancedRag("gpt-4o-mini", 0, 20)
 
 judge = Judge("gpt-4o-mini", 0)
@@ -88,7 +88,8 @@ for i in range(len(questions)):
             context_used += cb.total_tokens
         evaluation_result = judge.assess_evaluation_question(question_dict, answer_dict, evaluated_answer)
         result = json.loads(evaluation_result)
-    except:
+    except Exception as e:
+        print(e)
         result = {
             "chosen_answer": "",
             "referred_articles": []
