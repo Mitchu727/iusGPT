@@ -9,7 +9,7 @@ from src.tools.retriever.chroma import load_articles_as_documents, create_chroma
 
 
 class PrefixedRetriever(BaseRetriever):
-    retriever: VectorStoreRetriever = 10
+    retriever: VectorStoreRetriever
 
     def _get_relevant_documents(
             self, query: str, *, run_manager: CallbackManagerForRetrieverRun

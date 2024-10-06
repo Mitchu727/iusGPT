@@ -2,6 +2,20 @@ import os
 import re
 from pathlib import Path
 
+def remove_superscripts(text):
+    text = text.replace("\u00b9", "1")
+    text = text.replace("\u00b2", "2")
+    text = text.replace("\u00b3", "3")
+    text = text.replace("\u2074", "4")
+    text = text.replace("\u2075", "5")
+    text = text.replace("\u2076", "6")
+    text = text.replace("\u2077", "7")
+    text = text.replace("\u2078", "8")
+    text = text.replace("\u2079", "9")
+    return text
+    # print("\u00b2" in "context: art. 68² k.c.")
+    # print("context: art. 68² k.c.".replace("\u00b2", "2"))
+    # # https: // en.wikipedia.org / wiki / Unicode_subscripts_and_superscripts
 
 def get_project_root() -> Path:
     return Path(__file__).parent.parent.parent
@@ -59,6 +73,16 @@ def get_hard_example_question() -> dict:
         "a": "nie może być przeniesiona pod warunkiem ani z zastrzeżeniem terminu",
         "b": "nie może być przeniesiona pod warunkiem, ale może być przeniesiona z  zastrzeżeniem terminu",
         "c": "może być przeniesiona pod warunkiem, ale nie może być przeniesiona z  zastrzeżeniem terminu"
+    }
+
+
+def get_hard_retrieval_question():
+    return {
+        "index": 9,
+        "question": "Zgodnie z Kodeksem cywilnym, przez czynność prawną terminy przedawnienia roszczeń:",
+        "a": "nie mogą być skracane ani przedłużane",
+        "b": "mogą być skracane, ale nie mogą być przedłużane",
+        "c": "mogą być przedłużane, ale nie mogą być skracane"
     }
 
 

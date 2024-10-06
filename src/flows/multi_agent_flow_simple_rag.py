@@ -13,7 +13,8 @@ from langgraph.graph import StateGraph, START, END, add_messages
 
 from src.tools.retriever.chroma import load_articles_as_documents, create_chroma_retriever
 from src.tools.retriever.prefixed_retriever import PrefixedRetriever
-from src.utils.utils import get_example_question, get_hard_example_question, get_legal_act_json_path
+from src.utils.utils import get_example_question, get_hard_example_question, get_legal_act_json_path, \
+    get_hard_retrieval_question
 import src.secrets
 import functools
 
@@ -121,13 +122,14 @@ class MultiAgentFlowSimpleRag(FlowInterface):
 
 if __name__ == '__main__':
     # flow = MultiAgentFlow("gpt-3.5-turbo-0125", 0, 30)
-    flow = MultiAgentFlow("gpt-4o-mini", 0, 30)
+
+    flow = MultiAgentFlowSimpleRag("gpt-4o-mini", 0, 100)
     # question = get_example_question()
-    question = get_hard_example_question()
+    question = get_hard_retrieval_question()
 
     print("============FINAL ANSWER==============")
     print(flow.answer_evaluation_question(question))
     flow.save_graph_image()
 
     print("=============GOOD ANSWER========")
-    print("A")
+    print("119")

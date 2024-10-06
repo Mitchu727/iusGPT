@@ -3,11 +3,12 @@ import json
 from src.evaluation_logger import EvaluationLogger
 from src.flows.concept_flow.concept_flow import ConceptFlow
 from src.flows.multi_agent_flow import MultiAgentFlow
+from src.flows.multi_agent_flow_advanced_rag import MultiAgentFlowAdvancedRag
 from src.flows.multi_agent_flow_simple_rag import MultiAgentFlowSimpleRag
 from src.flows.simple_flow import SimpleFlow
 from src.flows.simple_rag_flow import SimpleRagFlow
 from src.flows.simple_rag_search_flow import SimpleRagSearchFlow
-from src.utils.utils import get_project_root, format_question, format_answer
+from src.utils.utils import get_project_root, format_question, format_answer, remove_superscripts
 from src.flows.judge import Judge
 from langchain_community.callbacks import get_openai_callback
 import random
@@ -53,7 +54,8 @@ questions, answers = load_questions_for_codes(["civil_code"])
 #
 # evaluated_flow = SimpleRagFlow("gpt-3.5-turbo-0125", 0) #101, 116
 # evaluated_flow = SimpleRagFlow("gpt-4o-mini", 0) # 130 128
-evaluated_flow = MultiAgentFlowSimpleRag("gpt-4o-mini", 0, 100)
+# evaluated_flow = MultiAgentFlowSimpleRag("gpt-4o-mini", 0, 100)
+evaluated_flow = MultiAgentFlowAdvancedRag("gpt-4o-mini", 0, 20)
 
 judge = Judge("gpt-4o-mini", 0)
 
@@ -77,7 +79,7 @@ for i in range(len(questions)):
 
     try:
         with get_openai_callback() as cb:
-            evaluated_answer = evaluated_flow.answer_evaluation_question(question_dict)
+            evaluated_answer = remove_superscripts(evaluated_flow.answer_evaluation_question(question_dict))
             print("==========KOSZTY==========")
             print(f"Total Tokens: {cb.total_tokens}")
             print(f"Prompt Tokens: {cb.prompt_tokens}")

@@ -39,8 +39,10 @@ def create_chroma_retriever(docs, name="civil_code", k=5, create_new_instance=Tr
 if __name__ == "__main__":
     docs = load_articles_as_documents(get_legal_act_json_path("civil_code"))
     docs_v2 = load_articles_as_documents(get_legal_act_json_path("penal_code"))
-    retriever = create_chroma_retriever(docs, "civil_code")
-    retriever2 = create_chroma_retriever(docs_v2, "penal_code")
-    print(retriever.invoke("zapytanie: ubezwłasnowolnienie"))
-    print(retriever2.invoke("zapytanie: kradzież"))
+    retriever = create_chroma_retriever(docs, "civil_code", k=100, create_new_instance=False)
+    # retriever2 = create_chroma_retriever(docs_v2, "penal_code")
+    results = retriever.invoke("zapytanie: Wyszukaj artykuły z kodeksu cywilnego, które dotyczą zakazu skracania lub przedłużania terminów przedawnienia ('terminy przedawnienia') przez czynności prawne.")
+    for result in results:
+        print(result.page_content)
+    # print(retriever2.invoke("zapytanie: kradzież"))
     # "Zgodnie z art. 999 Kodeksu cywilnego, fundacja ustanowiona w testamencie przez spadkodawcę może być spadkobiercą, jeżeli zostanie wpisana do rejestru fundacji w ciągu dwóch lat od otwarcia spadku."
